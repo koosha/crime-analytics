@@ -1,0 +1,2251 @@
+WARD,NEIGHBOURHOOD_NUMBER,NEIGHBOURHOOD_NAME,LENGTH_OF_RESIDENCE,OWNED,RENTED,NO_RESPONSE
+Ward 1,4010,ALBERTA PARK INDUSTRIAL,5 years or more,0,0,0
+Ward 1,4010,ALBERTA PARK INDUSTRIAL,No 3 years to less than 5 years,0,0,0
+Ward 1,4010,ALBERTA PARK INDUSTRIAL,1 year to less than 3 years,0,0,0
+Ward 1,4010,ALBERTA PARK INDUSTRIAL,Less than 1 year,0,0,0
+Ward 1,4010,ALBERTA PARK INDUSTRIAL,Child less than 1 year,0,0,0
+Ward 1,4010,ALBERTA PARK INDUSTRIAL,No Response,0,0,0
+Ward 1,4020,ALDERGROVE,5 years or more,2410,243,5
+Ward 1,4020,ALDERGROVE,No 3 years to less than 5 years,332,322,0
+Ward 1,4020,ALDERGROVE,1 year to less than 3 years,318,651,2
+Ward 1,4020,ALDERGROVE,Less than 1 year,159,615,0
+Ward 1,4020,ALDERGROVE,Child less than 1 year,32,39,1
+Ward 1,4020,ALDERGROVE,No Response,117,181,80
+Ward 1,4011,ANTHONY HENDAY,5 years or more,0,0,0
+Ward 1,4011,ANTHONY HENDAY,No 3 years to less than 5 years,0,0,0
+Ward 1,4011,ANTHONY HENDAY,1 year to less than 3 years,0,0,0
+Ward 1,4011,ANTHONY HENDAY,Less than 1 year,0,0,0
+Ward 1,4011,ANTHONY HENDAY,Child less than 1 year,0,0,0
+Ward 1,4011,ANTHONY HENDAY,No Response,0,0,0
+Ward 1,4030,ARMSTRONG INDUSTRIAL,5 years or more,0,0,0
+Ward 1,4030,ARMSTRONG INDUSTRIAL,No 3 years to less than 5 years,0,0,0
+Ward 1,4030,ARMSTRONG INDUSTRIAL,1 year to less than 3 years,0,0,0
+Ward 1,4030,ARMSTRONG INDUSTRIAL,Less than 1 year,0,0,0
+Ward 1,4030,ARMSTRONG INDUSTRIAL,Child less than 1 year,0,0,0
+Ward 1,4030,ARMSTRONG INDUSTRIAL,No Response,0,0,0
+Ward 1,4040,BELMEAD,5 years or more,1956,305,15
+Ward 1,4040,BELMEAD,No 3 years to less than 5 years,356,254,1
+Ward 1,4040,BELMEAD,1 year to less than 3 years,189,430,5
+Ward 1,4040,BELMEAD,Less than 1 year,195,397,0
+Ward 1,4040,BELMEAD,Child less than 1 year,26,21,0
+Ward 1,4040,BELMEAD,No Response,77,90,277
+Ward 1,4700,BRECKENRIDGE GREENS,5 years or more,931,14,20
+Ward 1,4700,BRECKENRIDGE GREENS,No 3 years to less than 5 years,316,28,4
+Ward 1,4700,BRECKENRIDGE GREENS,1 year to less than 3 years,165,63,2
+Ward 1,4700,BRECKENRIDGE GREENS,Less than 1 year,115,67,5
+Ward 1,4700,BRECKENRIDGE GREENS,Child less than 1 year,17,5,0
+Ward 1,4700,BRECKENRIDGE GREENS,No Response,72,19,68
+Ward 1,4060,BRITANNIA YOUNGSTOWN,5 years or more,1188,638,9
+Ward 1,4060,BRITANNIA YOUNGSTOWN,No 3 years to less than 5 years,258,239,6
+Ward 1,4060,BRITANNIA YOUNGSTOWN,1 year to less than 3 years,183,531,1
+Ward 1,4060,BRITANNIA YOUNGSTOWN,Less than 1 year,144,753,5
+Ward 1,4060,BRITANNIA YOUNGSTOWN,Child less than 1 year,12,30,0
+Ward 1,4060,BRITANNIA YOUNGSTOWN,No Response,83,464,182
+Ward 1,4090,CANORA,5 years or more,577,510,27
+Ward 1,4090,CANORA,No 3 years to less than 5 years,110,369,11
+Ward 1,4090,CANORA,1 year to less than 3 years,105,509,11
+Ward 1,4090,CANORA,Less than 1 year,69,512,21
+Ward 1,4090,CANORA,Child less than 1 year,6,31,1
+Ward 1,4090,CANORA,No Response,73,264,104
+Ward 1,4100,CARLETON SQUARE INDUSTRIAL,5 years or more,0,0,0
+Ward 1,4100,CARLETON SQUARE INDUSTRIAL,No 3 years to less than 5 years,0,0,0
+Ward 1,4100,CARLETON SQUARE INDUSTRIAL,1 year to less than 3 years,0,0,0
+Ward 1,4100,CARLETON SQUARE INDUSTRIAL,Less than 1 year,0,0,0
+Ward 1,4100,CARLETON SQUARE INDUSTRIAL,Child less than 1 year,0,0,0
+Ward 1,4100,CARLETON SQUARE INDUSTRIAL,No Response,0,0,0
+Ward 1,3140,CRESTWOOD,5 years or more,1417,27,17
+Ward 1,3140,CRESTWOOD,No 3 years to less than 5 years,223,27,6
+Ward 1,3140,CRESTWOOD,1 year to less than 3 years,118,24,4
+Ward 1,3140,CRESTWOOD,Less than 1 year,79,70,0
+Ward 1,3140,CRESTWOOD,Child less than 1 year,12,2,0
+Ward 1,3140,CRESTWOOD,No Response,194,17,70
+Ward 1,4130,EDMISTON INDUSTRIAL,5 years or more,0,0,0
+Ward 1,4130,EDMISTON INDUSTRIAL,No 3 years to less than 5 years,0,0,0
+Ward 1,4130,EDMISTON INDUSTRIAL,1 year to less than 3 years,0,0,0
+Ward 1,4130,EDMISTON INDUSTRIAL,Less than 1 year,0,0,0
+Ward 1,4130,EDMISTON INDUSTRIAL,Child less than 1 year,0,0,0
+Ward 1,4130,EDMISTON INDUSTRIAL,No Response,0,0,0
+Ward 1,4180,GLENWOOD,5 years or more,1433,476,36
+Ward 1,4180,GLENWOOD,No 3 years to less than 5 years,247,395,7
+Ward 1,4180,GLENWOOD,1 year to less than 3 years,225,533,4
+Ward 1,4180,GLENWOOD,Less than 1 year,159,697,11
+Ward 1,4180,GLENWOOD,Child less than 1 year,15,45,1
+Ward 1,4180,GLENWOOD,No Response,181,291,64
+Ward 1,4190,HAWIN PARK ESTATE INDUSTRIAL,5 years or more,0,0,0
+Ward 1,4190,HAWIN PARK ESTATE INDUSTRIAL,No 3 years to less than 5 years,0,0,0
+Ward 1,4190,HAWIN PARK ESTATE INDUSTRIAL,1 year to less than 3 years,0,0,0
+Ward 1,4190,HAWIN PARK ESTATE INDUSTRIAL,Less than 1 year,0,0,0
+Ward 1,4190,HAWIN PARK ESTATE INDUSTRIAL,Child less than 1 year,0,0,0
+Ward 1,4190,HAWIN PARK ESTATE INDUSTRIAL,No Response,0,0,0
+Ward 1,4473,HAWKS RIDGE,5 years or more,0,0,0
+Ward 1,4473,HAWKS RIDGE,No 3 years to less than 5 years,0,0,0
+Ward 1,4473,HAWKS RIDGE,1 year to less than 3 years,0,0,0
+Ward 1,4473,HAWKS RIDGE,Less than 1 year,0,0,0
+Ward 1,4473,HAWKS RIDGE,Child less than 1 year,0,0,0
+Ward 1,4473,HAWKS RIDGE,No Response,0,0,0
+Ward 1,4200,HIGH PARK,5 years or more,709,59,14
+Ward 1,4200,HIGH PARK,No 3 years to less than 5 years,111,61,7
+Ward 1,4200,HIGH PARK,1 year to less than 3 years,69,53,5
+Ward 1,4200,HIGH PARK,Less than 1 year,32,61,2
+Ward 1,4200,HIGH PARK,Child less than 1 year,6,3,1
+Ward 1,4200,HIGH PARK,No Response,82,26,67
+Ward 1,4230,JASPER PARK,5 years or more,328,60,5
+Ward 1,4230,JASPER PARK,No 3 years to less than 5 years,54,28,0
+Ward 1,4230,JASPER PARK,1 year to less than 3 years,41,61,1
+Ward 1,4230,JASPER PARK,Less than 1 year,21,63,0
+Ward 1,4230,JASPER PARK,Child less than 1 year,8,3,0
+Ward 1,4230,JASPER PARK,No Response,272,383,504
+Ward 1,4475,KINOKAMAU PLAINS AREA,5 years or more,37,0,0
+Ward 1,4475,KINOKAMAU PLAINS AREA,No 3 years to less than 5 years,0,3,5
+Ward 1,4475,KINOKAMAU PLAINS AREA,1 year to less than 3 years,1,2,0
+Ward 1,4475,KINOKAMAU PLAINS AREA,Less than 1 year,0,0,0
+Ward 1,4475,KINOKAMAU PLAINS AREA,Child less than 1 year,0,0,0
+Ward 1,4475,KINOKAMAU PLAINS AREA,No Response,24,10,24
+Ward 1,4240,LA PERLE,5 years or more,1968,359,37
+Ward 1,4240,LA PERLE,No 3 years to less than 5 years,344,284,5
+Ward 1,4240,LA PERLE,1 year to less than 3 years,242,392,10
+Ward 1,4240,LA PERLE,Less than 1 year,198,464,10
+Ward 1,4240,LA PERLE,Child less than 1 year,24,17,0
+Ward 1,4240,LA PERLE,No Response,261,159,332
+Ward 1,4485,LEWIS FARMS INDUSTRIAL,5 years or more,31,8,1
+Ward 1,4485,LEWIS FARMS INDUSTRIAL,No 3 years to less than 5 years,0,1,0
+Ward 1,4485,LEWIS FARMS INDUSTRIAL,1 year to less than 3 years,0,1,0
+Ward 1,4485,LEWIS FARMS INDUSTRIAL,Less than 1 year,4,0,0
+Ward 1,4485,LEWIS FARMS INDUSTRIAL,Child less than 1 year,0,0,0
+Ward 1,4485,LEWIS FARMS INDUSTRIAL,No Response,9,2,18
+Ward 1,4290,MAYFIELD,5 years or more,958,103,15
+Ward 1,4290,MAYFIELD,No 3 years to less than 5 years,211,65,6
+Ward 1,4290,MAYFIELD,1 year to less than 3 years,121,112,10
+Ward 1,4290,MAYFIELD,Less than 1 year,85,99,0
+Ward 1,4290,MAYFIELD,Child less than 1 year,15,6,1
+Ward 1,4290,MAYFIELD,No Response,66,14,79
+Ward 1,4300,MCNAMARA INDUSTRIAL,5 years or more,0,0,0
+Ward 1,4300,MCNAMARA INDUSTRIAL,No 3 years to less than 5 years,0,0,0
+Ward 1,4300,MCNAMARA INDUSTRIAL,1 year to less than 3 years,0,0,0
+Ward 1,4300,MCNAMARA INDUSTRIAL,Less than 1 year,0,0,0
+Ward 1,4300,MCNAMARA INDUSTRIAL,Child less than 1 year,0,0,0
+Ward 1,4300,MCNAMARA INDUSTRIAL,No Response,0,0,0
+Ward 1,4310,MEADOWLARK PARK,5 years or more,1285,71,35
+Ward 1,4310,MEADOWLARK PARK,No 3 years to less than 5 years,178,45,3
+Ward 1,4310,MEADOWLARK PARK,1 year to less than 3 years,150,72,6
+Ward 1,4310,MEADOWLARK PARK,Less than 1 year,91,104,1
+Ward 1,4310,MEADOWLARK PARK,Child less than 1 year,18,1,1
+Ward 1,4310,MEADOWLARK PARK,No Response,384,48,105
+Ward 1,4340,MORIN INDUSTRIAL,5 years or more,0,0,0
+Ward 1,4340,MORIN INDUSTRIAL,No 3 years to less than 5 years,0,0,0
+Ward 1,4340,MORIN INDUSTRIAL,1 year to less than 3 years,0,0,0
+Ward 1,4340,MORIN INDUSTRIAL,Less than 1 year,0,0,0
+Ward 1,4340,MORIN INDUSTRIAL,Child less than 1 year,0,0,0
+Ward 1,4340,MORIN INDUSTRIAL,No Response,0,0,0
+Ward 1,4350,NORWESTER INDUSTRIAL,5 years or more,0,0,0
+Ward 1,4350,NORWESTER INDUSTRIAL,No 3 years to less than 5 years,0,0,0
+Ward 1,4350,NORWESTER INDUSTRIAL,1 year to less than 3 years,0,0,0
+Ward 1,4350,NORWESTER INDUSTRIAL,Less than 1 year,0,0,0
+Ward 1,4350,NORWESTER INDUSTRIAL,Child less than 1 year,0,0,0
+Ward 1,4350,NORWESTER INDUSTRIAL,No Response,0,0,0
+Ward 1,3330,PARKVIEW,5 years or more,2024,37,20
+Ward 1,3330,PARKVIEW,No 3 years to less than 5 years,367,66,0
+Ward 1,3330,PARKVIEW,1 year to less than 3 years,214,72,2
+Ward 1,3330,PARKVIEW,Less than 1 year,168,84,0
+Ward 1,3330,PARKVIEW,Child less than 1 year,29,5,0
+Ward 1,3330,PARKVIEW,No Response,165,18,63
+Ward 1,4400,PLACE LARUE,5 years or more,0,0,0
+Ward 1,4400,PLACE LARUE,No 3 years to less than 5 years,0,0,0
+Ward 1,4400,PLACE LARUE,1 year to less than 3 years,0,0,0
+Ward 1,4400,PLACE LARUE,Less than 1 year,0,0,0
+Ward 1,4400,PLACE LARUE,Child less than 1 year,0,0,0
+Ward 1,4400,PLACE LARUE,No Response,0,0,0
+Ward 1,4710,POTTER GREENS,5 years or more,1062,2,4
+Ward 1,4710,POTTER GREENS,No 3 years to less than 5 years,211,0,0
+Ward 1,4710,POTTER GREENS,1 year to less than 3 years,91,16,0
+Ward 1,4710,POTTER GREENS,Less than 1 year,75,5,0
+Ward 1,4710,POTTER GREENS,Child less than 1 year,8,0,0
+Ward 1,4710,POTTER GREENS,No Response,31,0,15
+Ward 1,4410,POUNDMAKER INDUSTRIAL,5 years or more,0,0,0
+Ward 1,4410,POUNDMAKER INDUSTRIAL,No 3 years to less than 5 years,0,0,0
+Ward 1,4410,POUNDMAKER INDUSTRIAL,1 year to less than 3 years,0,0,0
+Ward 1,4410,POUNDMAKER INDUSTRIAL,Less than 1 year,0,0,0
+Ward 1,4410,POUNDMAKER INDUSTRIAL,Child less than 1 year,0,0,0
+Ward 1,4410,POUNDMAKER INDUSTRIAL,No Response,0,0,0
+Ward 1,3380,RIVER VALLEY CAPITOL HILL,5 years or more,0,0,0
+Ward 1,3380,RIVER VALLEY CAPITOL HILL,No 3 years to less than 5 years,0,0,0
+Ward 1,3380,RIVER VALLEY CAPITOL HILL,1 year to less than 3 years,0,0,0
+Ward 1,3380,RIVER VALLEY CAPITOL HILL,Less than 1 year,0,0,0
+Ward 1,3380,RIVER VALLEY CAPITOL HILL,Child less than 1 year,0,0,0
+Ward 1,3380,RIVER VALLEY CAPITOL HILL,No Response,0,0,0
+Ward 1,4470,RURAL WEST BIG LAKE,5 years or more,72,5,2
+Ward 1,4470,RURAL WEST BIG LAKE,No 3 years to less than 5 years,3,1,0
+Ward 1,4470,RURAL WEST BIG LAKE,1 year to less than 3 years,3,0,0
+Ward 1,4470,RURAL WEST BIG LAKE,Less than 1 year,2,0,0
+Ward 1,4470,RURAL WEST BIG LAKE,Child less than 1 year,0,0,0
+Ward 1,4470,RURAL WEST BIG LAKE,No Response,33,5,26
+Ward 1,4480,RURAL WEST LEWIS FARMS,5 years or more,0,0,0
+Ward 1,4480,RURAL WEST LEWIS FARMS,No 3 years to less than 5 years,0,0,0
+Ward 1,4480,RURAL WEST LEWIS FARMS,1 year to less than 3 years,0,0,0
+Ward 1,4480,RURAL WEST LEWIS FARMS,Less than 1 year,0,0,0
+Ward 1,4480,RURAL WEST LEWIS FARMS,Child less than 1 year,0,0,0
+Ward 1,4480,RURAL WEST LEWIS FARMS,No Response,0,0,0
+Ward 1,4487,SECORD,5 years or more,9,1,0
+Ward 1,4487,SECORD,No 3 years to less than 5 years,195,0,2
+Ward 1,4487,SECORD,1 year to less than 3 years,272,6,2
+Ward 1,4487,SECORD,Less than 1 year,195,5,7
+Ward 1,4487,SECORD,Child less than 1 year,26,1,1
+Ward 1,4487,SECORD,No Response,114,6,72
+Ward 1,4490,SHEFFIELD INDUSTRIAL,5 years or more,0,0,0
+Ward 1,4490,SHEFFIELD INDUSTRIAL,No 3 years to less than 5 years,0,0,0
+Ward 1,4490,SHEFFIELD INDUSTRIAL,1 year to less than 3 years,0,0,0
+Ward 1,4490,SHEFFIELD INDUSTRIAL,Less than 1 year,0,0,0
+Ward 1,4490,SHEFFIELD INDUSTRIAL,Child less than 1 year,0,0,0
+Ward 1,4490,SHEFFIELD INDUSTRIAL,No Response,0,0,0
+Ward 1,4500,SHERWOOD,5 years or more,368,116,8
+Ward 1,4500,SHERWOOD,No 3 years to less than 5 years,57,60,0
+Ward 1,4500,SHERWOOD,1 year to less than 3 years,41,76,5
+Ward 1,4500,SHERWOOD,Less than 1 year,36,92,0
+Ward 1,4500,SHERWOOD,Child less than 1 year,0,4,1
+Ward 1,4500,SHERWOOD,No Response,152,190,47
+Ward 1,4486,STEWART GREENS,5 years or more,0,0,0
+Ward 1,4486,STEWART GREENS,No 3 years to less than 5 years,0,0,0
+Ward 1,4486,STEWART GREENS,1 year to less than 3 years,0,0,0
+Ward 1,4486,STEWART GREENS,Less than 1 year,0,0,0
+Ward 1,4486,STEWART GREENS,Child less than 1 year,0,0,0
+Ward 1,4486,STEWART GREENS,No Response,0,0,0
+Ward 1,4510,STONE INDUSTRIAL,5 years or more,0,0,0
+Ward 1,4510,STONE INDUSTRIAL,No 3 years to less than 5 years,0,0,0
+Ward 1,4510,STONE INDUSTRIAL,1 year to less than 3 years,0,0,0
+Ward 1,4510,STONE INDUSTRIAL,Less than 1 year,0,0,0
+Ward 1,4510,STONE INDUSTRIAL,Child less than 1 year,0,0,0
+Ward 1,4510,STONE INDUSTRIAL,No Response,0,0,0
+Ward 1,4730,SUDER GREENS,5 years or more,790,8,12
+Ward 1,4730,SUDER GREENS,No 3 years to less than 5 years,775,33,3
+Ward 1,4730,SUDER GREENS,1 year to less than 3 years,455,52,12
+Ward 1,4730,SUDER GREENS,Less than 1 year,258,69,0
+Ward 1,4730,SUDER GREENS,Child less than 1 year,38,6,1
+Ward 1,4730,SUDER GREENS,No Response,173,18,102
+Ward 1,4520,SUMMERLEA,5 years or more,753,83,8
+Ward 1,4520,SUMMERLEA,No 3 years to less than 5 years,129,95,5
+Ward 1,4520,SUMMERLEA,1 year to less than 3 years,122,195,0
+Ward 1,4520,SUMMERLEA,Less than 1 year,72,245,4
+Ward 1,4520,SUMMERLEA,Child less than 1 year,4,10,0
+Ward 1,4520,SUMMERLEA,No Response,58,39,219
+Ward 1,4530,SUNWAPTA INDUSTRIAL,5 years or more,0,0,0
+Ward 1,4530,SUNWAPTA INDUSTRIAL,No 3 years to less than 5 years,0,0,0
+Ward 2,3010,ATHLONE,Less than 1 year,90,209,0
+Ward 1,4530,SUNWAPTA INDUSTRIAL,1 year to less than 3 years,0,0,0
+Ward 1,4530,SUNWAPTA INDUSTRIAL,Less than 1 year,0,0,0
+Ward 1,4530,SUNWAPTA INDUSTRIAL,Child less than 1 year,0,0,0
+Ward 1,4530,SUNWAPTA INDUSTRIAL,No Response,0,0,0
+Ward 1,4540,TERRA LOSA,5 years or more,846,84,6
+Ward 1,4540,TERRA LOSA,No 3 years to less than 5 years,258,80,3
+Ward 1,4540,TERRA LOSA,1 year to less than 3 years,171,114,5
+Ward 1,4540,TERRA LOSA,Less than 1 year,116,149,6
+Ward 1,4540,TERRA LOSA,Child less than 1 year,7,5,0
+Ward 1,4540,TERRA LOSA,No Response,104,144,90
+Ward 1,4471,TRUMPETER AREA,5 years or more,0,0,0
+Ward 1,4471,TRUMPETER AREA,No 3 years to less than 5 years,0,0,0
+Ward 1,4471,TRUMPETER AREA,1 year to less than 3 years,25,7,0
+Ward 1,4471,TRUMPETER AREA,Less than 1 year,62,1,2
+Ward 1,4471,TRUMPETER AREA,Child less than 1 year,1,0,0
+Ward 1,4471,TRUMPETER AREA,No Response,29,0,32
+Ward 1,4740,WEBBER GREENS,5 years or more,9,0,0
+Ward 1,4740,WEBBER GREENS,No 3 years to less than 5 years,8,0,0
+Ward 1,4740,WEBBER GREENS,1 year to less than 3 years,210,6,0
+Ward 1,4740,WEBBER GREENS,Less than 1 year,271,9,0
+Ward 1,4740,WEBBER GREENS,Child less than 1 year,12,0,0
+Ward 1,4740,WEBBER GREENS,No Response,14,0,10
+Ward 1,4580,WEST JASPER PLACE,5 years or more,615,312,12
+Ward 1,4580,WEST JASPER PLACE,No 3 years to less than 5 years,84,198,8
+Ward 1,4580,WEST JASPER PLACE,1 year to less than 3 years,55,352,8
+Ward 1,4580,WEST JASPER PLACE,Less than 1 year,49,489,4
+Ward 1,4580,WEST JASPER PLACE,Child less than 1 year,3,16,0
+Ward 1,4580,WEST JASPER PLACE,No Response,199,398,134
+Ward 1,4590,WEST MEADOWLARK PARK,5 years or more,1068,129,5
+Ward 1,4590,WEST MEADOWLARK PARK,No 3 years to less than 5 years,189,146,6
+Ward 1,4590,WEST MEADOWLARK PARK,1 year to less than 3 years,131,284,13
+Ward 1,4590,WEST MEADOWLARK PARK,Less than 1 year,85,315,19
+Ward 1,4590,WEST MEADOWLARK PARK,Child less than 1 year,18,19,0
+Ward 1,4590,WEST MEADOWLARK PARK,No Response,167,173,173
+Ward 1,4600,WEST SHEFFIELD INDUSTRIAL,5 years or more,0,0,0
+Ward 1,4600,WEST SHEFFIELD INDUSTRIAL,No 3 years to less than 5 years,0,0,0
+Ward 1,4600,WEST SHEFFIELD INDUSTRIAL,1 year to less than 3 years,0,0,0
+Ward 1,4600,WEST SHEFFIELD INDUSTRIAL,Less than 1 year,0,0,0
+Ward 1,4600,WEST SHEFFIELD INDUSTRIAL,Child less than 1 year,0,0,0
+Ward 1,4600,WEST SHEFFIELD INDUSTRIAL,No Response,0,0,0
+Ward 1,4620,WESTVIEW VILLAGE,5 years or more,1065,21,9
+Ward 1,4620,WESTVIEW VILLAGE,No 3 years to less than 5 years,327,17,0
+Ward 1,4620,WESTVIEW VILLAGE,1 year to less than 3 years,224,56,1
+Ward 1,4620,WESTVIEW VILLAGE,Less than 1 year,152,56,3
+Ward 1,4620,WESTVIEW VILLAGE,Child less than 1 year,14,1,0
+Ward 1,4620,WESTVIEW VILLAGE,No Response,240,11,45
+Ward 1,4630,WHITE INDUSTRIAL,5 years or more,0,0,0
+Ward 1,4630,WHITE INDUSTRIAL,No 3 years to less than 5 years,0,0,0
+Ward 1,4630,WHITE INDUSTRIAL,1 year to less than 3 years,0,0,0
+Ward 1,4630,WHITE INDUSTRIAL,Less than 1 year,0,0,0
+Ward 1,4630,WHITE INDUSTRIAL,Child less than 1 year,0,0,0
+Ward 1,4630,WHITE INDUSTRIAL,No Response,0,0,0
+Ward 1,4640,WILSON INDUSTRIAL,5 years or more,0,0,0
+Ward 1,4640,WILSON INDUSTRIAL,No 3 years to less than 5 years,0,0,0
+Ward 1,4640,WILSON INDUSTRIAL,1 year to less than 3 years,0,0,0
+Ward 1,4640,WILSON INDUSTRIAL,Less than 1 year,0,0,0
+Ward 1,4640,WILSON INDUSTRIAL,Child less than 1 year,0,0,0
+Ward 1,4640,WILSON INDUSTRIAL,No Response,0,0,0
+Ward 1,4650,WINTERBURN INDUSTRIAL AREA EAST,5 years or more,0,0,0
+Ward 1,4650,WINTERBURN INDUSTRIAL AREA EAST,No 3 years to less than 5 years,0,0,0
+Ward 1,4650,WINTERBURN INDUSTRIAL AREA EAST,1 year to less than 3 years,0,0,0
+Ward 1,4650,WINTERBURN INDUSTRIAL AREA EAST,Less than 1 year,0,0,0
+Ward 1,4650,WINTERBURN INDUSTRIAL AREA EAST,Child less than 1 year,0,0,0
+Ward 1,4650,WINTERBURN INDUSTRIAL AREA EAST,No Response,0,0,0
+Ward 1,4670,WINTERBURN INDUSTRIAL AREA WEST,5 years or more,1,0,0
+Ward 1,4670,WINTERBURN INDUSTRIAL AREA WEST,No 3 years to less than 5 years,0,0,0
+Ward 1,4670,WINTERBURN INDUSTRIAL AREA WEST,1 year to less than 3 years,0,4,0
+Ward 1,4670,WINTERBURN INDUSTRIAL AREA WEST,Less than 1 year,1,0,0
+Ward 1,4670,WINTERBURN INDUSTRIAL AREA WEST,Child less than 1 year,0,0,0
+Ward 1,4670,WINTERBURN INDUSTRIAL AREA WEST,No Response,3,0,8
+Ward 1,4660,YOUNGSTOWN INDUSTRIAL,5 years or more,0,0,0
+Ward 1,4660,YOUNGSTOWN INDUSTRIAL,No 3 years to less than 5 years,0,0,0
+Ward 1,4660,YOUNGSTOWN INDUSTRIAL,1 year to less than 3 years,0,0,0
+Ward 1,4660,YOUNGSTOWN INDUSTRIAL,Less than 1 year,0,0,0
+Ward 1,4660,YOUNGSTOWN INDUSTRIAL,Child less than 1 year,0,0,0
+Ward 1,4660,YOUNGSTOWN INDUSTRIAL,No Response,0,0,0
+Ward 2,3460,ALBANY,5 years or more,0,0,0
+Ward 2,3460,ALBANY,No 3 years to less than 5 years,0,0,0
+Ward 2,3460,ALBANY,1 year to less than 3 years,0,0,0
+Ward 2,3460,ALBANY,Less than 1 year,0,0,0
+Ward 2,3460,ALBANY,Child less than 1 year,0,0,0
+Ward 2,3460,ALBANY,No Response,0,0,0
+Ward 2,4015,ANTHONY HENDAY MISTATIM,5 years or more,0,0,0
+Ward 2,4015,ANTHONY HENDAY MISTATIM,No 3 years to less than 5 years,0,0,0
+Ward 2,4015,ANTHONY HENDAY MISTATIM,1 year to less than 3 years,0,0,0
+Ward 2,4015,ANTHONY HENDAY MISTATIM,Less than 1 year,0,0,0
+Ward 2,4015,ANTHONY HENDAY MISTATIM,Child less than 1 year,0,0,0
+Ward 2,4015,ANTHONY HENDAY MISTATIM,No Response,0,0,0
+Ward 2,3010,ATHLONE,5 years or more,1604,172,23
+Ward 2,3010,ATHLONE,No 3 years to less than 5 years,226,104,2
+Ward 2,3010,ATHLONE,1 year to less than 3 years,180,195,6
+Ward 2,3010,ATHLONE,Child less than 1 year,18,7,0
+Ward 2,3010,ATHLONE,No Response,104,64,94
+Ward 2,3020,BARANOW,5 years or more,166,28,4
+Ward 2,3020,BARANOW,No 3 years to less than 5 years,112,73,6
+Ward 2,3020,BARANOW,1 year to less than 3 years,130,110,8
+Ward 2,3020,BARANOW,Less than 1 year,89,131,2
+Ward 2,3020,BARANOW,Child less than 1 year,3,6,0
+Ward 2,3020,BARANOW,No Response,44,100,125
+Ward 2,4050,BONAVENTURE INDUSTRIAL,5 years or more,0,0,0
+Ward 2,4050,BONAVENTURE INDUSTRIAL,No 3 years to less than 5 years,0,0,0
+Ward 2,4050,BONAVENTURE INDUSTRIAL,1 year to less than 3 years,0,0,0
+Ward 2,4050,BONAVENTURE INDUSTRIAL,Less than 1 year,0,0,0
+Ward 2,4050,BONAVENTURE INDUSTRIAL,Child less than 1 year,0,0,0
+Ward 2,4050,BONAVENTURE INDUSTRIAL,No Response,0,0,0
+Ward 2,3050,BROWN INDUSTRIAL,5 years or more,0,0,0
+Ward 2,3050,BROWN INDUSTRIAL,No 3 years to less than 5 years,0,0,0
+Ward 2,3050,BROWN INDUSTRIAL,1 year to less than 3 years,0,0,0
+Ward 2,3050,BROWN INDUSTRIAL,Less than 1 year,0,0,0
+Ward 2,3050,BROWN INDUSTRIAL,Child less than 1 year,0,0,0
+Ward 2,3050,BROWN INDUSTRIAL,No Response,0,0,0
+Ward 2,3060,CAERNARVON,5 years or more,1875,301,9
+Ward 2,3060,CAERNARVON,No 3 years to less than 5 years,350,268,1
+Ward 2,3060,CAERNARVON,1 year to less than 3 years,176,273,6
+Ward 2,3060,CAERNARVON,Less than 1 year,149,391,1
+Ward 2,3060,CAERNARVON,Child less than 1 year,28,22,0
+Ward 2,3060,CAERNARVON,No Response,106,102,144
+Ward 2,3070,CALDER,5 years or more,1359,376,10
+Ward 2,3070,CALDER,No 3 years to less than 5 years,263,296,7
+Ward 2,3070,CALDER,1 year to less than 3 years,187,413,9
+Ward 2,3070,CALDER,Less than 1 year,145,474,16
+Ward 2,3070,CALDER,Child less than 1 year,18,25,0
+Ward 2,3070,CALDER,No Response,120,203,73
+Ward 2,3090,CARLISLE,5 years or more,1567,347,14
+Ward 2,3090,CARLISLE,No 3 years to less than 5 years,221,209,9
+Ward 2,3090,CARLISLE,1 year to less than 3 years,171,283,13
+Ward 2,3090,CARLISLE,Less than 1 year,125,400,8
+Ward 2,3090,CARLISLE,Child less than 1 year,19,24,0
+Ward 2,3090,CARLISLE,No Response,200,184,49
+Ward 2,3470,CARLTON,5 years or more,1013,24,3
+Ward 2,3470,CARLTON,No 3 years to less than 5 years,568,30,6
+Ward 2,3470,CARLTON,1 year to less than 3 years,597,75,1
+Ward 2,3470,CARLTON,Less than 1 year,193,55,0
+Ward 2,3470,CARLTON,Child less than 1 year,36,3,0
+Ward 2,3470,CARLTON,No Response,77,11,45
+Ward 2,3150,CUMBERLAND,5 years or more,2994,90,33
+Ward 2,3150,CUMBERLAND,No 3 years to less than 5 years,981,131,13
+Ward 2,3150,CUMBERLAND,1 year to less than 3 years,551,258,10
+Ward 2,3150,CUMBERLAND,Less than 1 year,264,236,1
+Ward 2,3150,CUMBERLAND,Child less than 1 year,79,21,2
+Ward 2,3150,CUMBERLAND,No Response,334,135,275
+Ward 2,3160,DOMINION INDUSTRIAL,5 years or more,0,0,0
+Ward 2,3160,DOMINION INDUSTRIAL,No 3 years to less than 5 years,0,0,0
+Ward 2,3160,DOMINION INDUSTRIAL,1 year to less than 3 years,0,0,0
+Ward 2,3160,DOMINION INDUSTRIAL,Less than 1 year,0,0,0
+Ward 2,3160,DOMINION INDUSTRIAL,Child less than 1 year,0,0,0
+Ward 2,3160,DOMINION INDUSTRIAL,No Response,0,0,0
+Ward 2,3170,DOVERCOURT,5 years or more,972,138,10
+Ward 2,3170,DOVERCOURT,No 3 years to less than 5 years,167,93,0
+Ward 2,3170,DOVERCOURT,1 year to less than 3 years,123,118,0
+Ward 2,3170,DOVERCOURT,Less than 1 year,86,123,2
+Ward 2,3170,DOVERCOURT,Child less than 1 year,21,3,0
+Ward 2,3170,DOVERCOURT,No Response,58,60,60
+Ward 2,1110,EDMONTON MUNICIPAL AIRPORT,5 years or more,0,0,0
+Ward 2,1110,EDMONTON MUNICIPAL AIRPORT,No 3 years to less than 5 years,0,0,0
+Ward 2,1110,EDMONTON MUNICIPAL AIRPORT,1 year to less than 3 years,0,0,0
+Ward 2,1110,EDMONTON MUNICIPAL AIRPORT,Less than 1 year,0,0,0
+Ward 2,1110,EDMONTON MUNICIPAL AIRPORT,Child less than 1 year,0,0,0
+Ward 2,1110,EDMONTON MUNICIPAL AIRPORT,No Response,0,0,0
+Ward 2,4150,GAGNON ESTATE INDUSTRIAL,5 years or more,0,0,0
+Ward 2,4150,GAGNON ESTATE INDUSTRIAL,No 3 years to less than 5 years,0,0,0
+Ward 2,4150,GAGNON ESTATE INDUSTRIAL,1 year to less than 3 years,0,0,0
+Ward 2,4150,GAGNON ESTATE INDUSTRIAL,Less than 1 year,0,0,0
+Ward 2,4150,GAGNON ESTATE INDUSTRIAL,Child less than 1 year,0,0,0
+Ward 2,4150,GAGNON ESTATE INDUSTRIAL,No Response,0,0,0
+Ward 2,4170,GARSIDE INDUSTRIAL,5 years or more,0,0,0
+Ward 2,4170,GARSIDE INDUSTRIAL,No 3 years to less than 5 years,0,0,0
+Ward 2,4170,GARSIDE INDUSTRIAL,1 year to less than 3 years,0,0,0
+Ward 2,4170,GARSIDE INDUSTRIAL,Less than 1 year,0,0,0
+Ward 2,4170,GARSIDE INDUSTRIAL,Child less than 1 year,0,0,0
+Ward 2,4170,GARSIDE INDUSTRIAL,No Response,0,0,0
+Ward 2,3111,GRIESBACH,5 years or more,178,253,1
+Ward 2,3111,GRIESBACH,No 3 years to less than 5 years,337,391,2
+Ward 2,3111,GRIESBACH,1 year to less than 3 years,370,507,8
+Ward 2,3111,GRIESBACH,Less than 1 year,229,418,10
+Ward 2,3111,GRIESBACH,Child less than 1 year,23,37,0
+Ward 2,3111,GRIESBACH,No Response,21,287,28
+Ward 2,3220,HAGMANN ESTATE INDUSTRIAL,5 years or more,0,0,0
+Ward 2,3220,HAGMANN ESTATE INDUSTRIAL,No 3 years to less than 5 years,0,0,0
+Ward 2,3220,HAGMANN ESTATE INDUSTRIAL,1 year to less than 3 years,0,0,0
+Ward 2,3220,HAGMANN ESTATE INDUSTRIAL,Less than 1 year,0,0,0
+Ward 2,3220,HAGMANN ESTATE INDUSTRIAL,Child less than 1 year,0,0,0
+Ward 2,3220,HAGMANN ESTATE INDUSTRIAL,No Response,0,0,0
+Ward 2,4210,HIGH PARK INDUSTRIAL,5 years or more,0,0,0
+Ward 2,4210,HIGH PARK INDUSTRIAL,No 3 years to less than 5 years,0,0,0
+Ward 2,4210,HIGH PARK INDUSTRIAL,1 year to less than 3 years,0,0,0
+Ward 2,4210,HIGH PARK INDUSTRIAL,Less than 1 year,0,0,0
+Ward 2,4210,HIGH PARK INDUSTRIAL,Child less than 1 year,0,0,0
+Ward 2,4210,HIGH PARK INDUSTRIAL,No Response,0,0,0
+Ward 2,3480,HUDSON,5 years or more,1041,30,6
+Ward 2,3480,HUDSON,No 3 years to less than 5 years,156,46,0
+Ward 2,3480,HUDSON,1 year to less than 3 years,143,92,0
+Ward 2,3480,HUDSON,Less than 1 year,64,56,0
+Ward 2,3480,HUDSON,Child less than 1 year,17,4,0
+Ward 2,3480,HUDSON,No Response,153,76,132
+Ward 2,3230,HUFF BREMNER ESTATE INDUSTRIAL,5 years or more,0,0,0
+Ward 2,3230,HUFF BREMNER ESTATE INDUSTRIAL,No 3 years to less than 5 years,0,0,0
+Ward 2,3230,HUFF BREMNER ESTATE INDUSTRIAL,1 year to less than 3 years,0,0,0
+Ward 2,3230,HUFF BREMNER ESTATE INDUSTRIAL,Less than 1 year,0,0,0
+Ward 2,3230,HUFF BREMNER ESTATE INDUSTRIAL,Child less than 1 year,0,0,0
+Ward 2,3230,HUFF BREMNER ESTATE INDUSTRIAL,No Response,0,0,0
+Ward 2,3240,INGLEWOOD,5 years or more,1001,898,32
+Ward 2,3240,INGLEWOOD,No 3 years to less than 5 years,189,704,3
+Ward 2,3240,INGLEWOOD,1 year to less than 3 years,163,1140,7
+Ward 2,3240,INGLEWOOD,Less than 1 year,108,1271,20
+Ward 2,3240,INGLEWOOD,Child less than 1 year,17,47,2
+Ward 2,3240,INGLEWOOD,No Response,73,398,188
+Ward 2,3250,KENSINGTON,5 years or more,1637,230,21
+Ward 2,3250,KENSINGTON,No 3 years to less than 5 years,255,157,8
+Ward 2,3250,KENSINGTON,1 year to less than 3 years,209,263,3
+Ward 2,3250,KENSINGTON,Less than 1 year,139,270,6
+Ward 2,3250,KENSINGTON,Child less than 1 year,9,13,0
+Ward 2,3250,KENSINGTON,No Response,92,96,78
+Ward 2,3260,LAUDERDALE,5 years or more,1016,261,9
+Ward 2,3260,LAUDERDALE,No 3 years to less than 5 years,123,136,4
+Ward 2,3260,LAUDERDALE,1 year to less than 3 years,135,258,14
+Ward 2,3260,LAUDERDALE,Less than 1 year,80,338,5
+Ward 2,3260,LAUDERDALE,Child less than 1 year,14,26,1
+Ward 2,3260,LAUDERDALE,No Response,61,181,49
+Ward 2,3290,MCARTHUR INDUSTRIAL,5 years or more,0,0,0
+Ward 2,3290,MCARTHUR INDUSTRIAL,No 3 years to less than 5 years,0,0,0
+Ward 2,3290,MCARTHUR INDUSTRIAL,1 year to less than 3 years,0,0,0
+Ward 2,3290,MCARTHUR INDUSTRIAL,Less than 1 year,0,0,0
+Ward 2,3290,MCARTHUR INDUSTRIAL,Child less than 1 year,0,0,0
+Ward 2,3290,MCARTHUR INDUSTRIAL,No Response,0,0,0
+Ward 2,4320,MISTATIM INDUSTRIAL,5 years or more,0,0,0
+Ward 2,4320,MISTATIM INDUSTRIAL,No 3 years to less than 5 years,0,0,0
+Ward 2,4320,MISTATIM INDUSTRIAL,1 year to less than 3 years,0,0,0
+Ward 2,4320,MISTATIM INDUSTRIAL,Less than 1 year,0,0,0
+Ward 2,4320,MISTATIM INDUSTRIAL,Child less than 1 year,0,0,0
+Ward 2,4320,MISTATIM INDUSTRIAL,No Response,0,0,0
+Ward 2,4330,MITCHELL INDUSTRIAL,5 years or more,0,0,0
+Ward 2,4330,MITCHELL INDUSTRIAL,No 3 years to less than 5 years,0,0,0
+Ward 2,4330,MITCHELL INDUSTRIAL,1 year to less than 3 years,0,0,0
+Ward 2,4330,MITCHELL INDUSTRIAL,Less than 1 year,0,0,0
+Ward 2,4330,MITCHELL INDUSTRIAL,Child less than 1 year,0,0,0
+Ward 2,4330,MITCHELL INDUSTRIAL,No Response,0,0,0
+Ward 2,3320,OXFORD,5 years or more,2062,37,29
+Ward 2,3320,OXFORD,No 3 years to less than 5 years,340,40,5
+Ward 2,3320,OXFORD,1 year to less than 3 years,257,77,3
+Ward 2,3320,OXFORD,Less than 1 year,118,63,0
+Ward 2,3320,OXFORD,Child less than 1 year,34,11,1
+Ward 2,3320,OXFORD,No Response,234,20,68
+Ward 2,3340,PEMBINA,5 years or more,132,12,3
+Ward 2,3340,PEMBINA,No 3 years to less than 5 years,81,23,6
+Ward 2,3340,PEMBINA,1 year to less than 3 years,60,36,4
+Ward 2,3340,PEMBINA,Less than 1 year,22,33,0
+Ward 2,3340,PEMBINA,Child less than 1 year,2,3,0
+Ward 2,3340,PEMBINA,No Response,33,15,41
+Ward 2,3350,PRINCE CHARLES,5 years or more,408,56,2
+Ward 2,3350,PRINCE CHARLES,No 3 years to less than 5 years,105,51,3
+Ward 2,3350,PRINCE CHARLES,1 year to less than 3 years,64,89,0
+Ward 2,3350,PRINCE CHARLES,Less than 1 year,51,131,0
+Ward 2,3350,PRINCE CHARLES,Child less than 1 year,8,3,1
+Ward 2,3350,PRINCE CHARLES,No Response,97,119,90
+Ward 2,1170,PRINCE RUPERT,5 years or more,462,70,3
+Ward 2,1170,PRINCE RUPERT,No 3 years to less than 5 years,99,74,0
+Ward 2,1170,PRINCE RUPERT,1 year to less than 3 years,57,146,1
+Ward 2,1170,PRINCE RUPERT,Less than 1 year,54,221,4
+Ward 2,1170,PRINCE RUPERT,Child less than 1 year,6,5,0
+Ward 2,1170,PRINCE RUPERT,No Response,8,38,71
+Ward 2,3360,RAMPART INDUSTRIAL,5 years or more,0,0,0
+Ward 2,3360,RAMPART INDUSTRIAL,No 3 years to less than 5 years,0,0,0
+Ward 2,3360,RAMPART INDUSTRIAL,1 year to less than 3 years,0,0,0
+Ward 2,3360,RAMPART INDUSTRIAL,Less than 1 year,0,0,0
+Ward 2,3360,RAMPART INDUSTRIAL,Child less than 1 year,0,0,0
+Ward 2,3360,RAMPART INDUSTRIAL,No Response,0,0,0
+Ward 2,3390,ROSSLYN,5 years or more,1222,214,28
+Ward 2,3390,ROSSLYN,No 3 years to less than 5 years,234,210,8
+Ward 2,3390,ROSSLYN,1 year to less than 3 years,141,159,2
+Ward 2,3390,ROSSLYN,Less than 1 year,101,218,2
+Ward 2,3390,ROSSLYN,Child less than 1 year,11,11,0
+Ward 2,3390,ROSSLYN,No Response,69,70,42
+Ward 2,3400,RURAL NORTH WEST,5 years or more,0,0,0
+Ward 2,3400,RURAL NORTH WEST,No 3 years to less than 5 years,0,0,0
+Ward 2,3400,RURAL NORTH WEST,1 year to less than 3 years,0,0,0
+Ward 2,3400,RURAL NORTH WEST,Less than 1 year,0,0,0
+Ward 2,3400,RURAL NORTH WEST,Child less than 1 year,0,0,0
+Ward 2,3400,RURAL NORTH WEST,No Response,0,0,0
+Ward 2,3410,SHERBROOKE,5 years or more,909,113,14
+Ward 2,3410,SHERBROOKE,No 3 years to less than 5 years,175,176,5
+Ward 2,3410,SHERBROOKE,1 year to less than 3 years,109,284,7
+Ward 2,3410,SHERBROOKE,Less than 1 year,87,210,6
+Ward 2,3410,SHERBROOKE,Child less than 1 year,11,17,0
+Ward 2,3410,SHERBROOKE,No Response,110,150,45
+Ward 2,1230,SPRUCE AVENUE,5 years or more,357,132,12
+Ward 2,1230,SPRUCE AVENUE,No 3 years to less than 5 years,80,184,6
+Ward 2,1230,SPRUCE AVENUE,1 year to less than 3 years,51,236,6
+Ward 2,1230,SPRUCE AVENUE,Less than 1 year,46,280,5
+Ward 2,1230,SPRUCE AVENUE,Child less than 1 year,3,15,0
+Ward 2,1230,SPRUCE AVENUE,No Response,47,214,425
+Ward 2,3430,WELLINGTON,5 years or more,1404,191,39
+Ward 2,3430,WELLINGTON,No 3 years to less than 5 years,200,224,7
+Ward 2,3430,WELLINGTON,1 year to less than 3 years,124,302,9
+Ward 2,3430,WELLINGTON,Less than 1 year,61,241,12
+Ward 2,3430,WELLINGTON,Child less than 1 year,24,18,1
+Ward 2,3430,WELLINGTON,No Response,73,172,25
+Ward 2,1250,WESTWOOD,5 years or more,426,328,15
+Ward 2,1250,WESTWOOD,No 3 years to less than 5 years,66,316,9
+Ward 2,1250,WESTWOOD,1 year to less than 3 years,67,553,10
+Ward 2,1250,WESTWOOD,Less than 1 year,44,835,14
+Ward 2,1250,WESTWOOD,Child less than 1 year,5,19,0
+Ward 2,1250,WESTWOOD,No Response,21,316,127
+Ward 2,3450,WOODCROFT,5 years or more,733,482,9
+Ward 2,3450,WOODCROFT,No 3 years to less than 5 years,121,265,0
+Ward 2,3450,WOODCROFT,1 year to less than 3 years,63,254,5
+Ward 2,3450,WOODCROFT,Less than 1 year,61,303,8
+Ward 2,3450,WOODCROFT,Child less than 1 year,10,19,1
+Ward 2,3450,WOODCROFT,No Response,153,95,10
+Ward 2,1280,YELLOWHEAD CORRIDOR WEST,5 years or more,0,0,0
+Ward 2,1280,YELLOWHEAD CORRIDOR WEST,No 3 years to less than 5 years,0,0,0
+Ward 2,1280,YELLOWHEAD CORRIDOR WEST,1 year to less than 3 years,0,0,0
+Ward 2,1280,YELLOWHEAD CORRIDOR WEST,Less than 1 year,0,0,0
+Ward 2,1280,YELLOWHEAD CORRIDOR WEST,Child less than 1 year,0,0,0
+Ward 2,1280,YELLOWHEAD CORRIDOR WEST,No Response,0,0,0
+Ward 3,4016,ANTHONY HENDAY CASTLEDOWNS,5 years or more,0,0,0
+Ward 3,4016,ANTHONY HENDAY CASTLEDOWNS,No 3 years to less than 5 years,0,0,0
+Ward 3,4016,ANTHONY HENDAY CASTLEDOWNS,1 year to less than 3 years,0,0,0
+Ward 3,4016,ANTHONY HENDAY CASTLEDOWNS,Less than 1 year,0,0,0
+Ward 3,4016,ANTHONY HENDAY CASTLEDOWNS,Child less than 1 year,0,0,0
+Ward 3,4016,ANTHONY HENDAY CASTLEDOWNS,No Response,0,0,0
+Ward 3,4017,ANTHONY HENDAY LAKE DISTRICT,5 years or more,0,0,0
+Ward 3,4017,ANTHONY HENDAY LAKE DISTRICT,No 3 years to less than 5 years,0,0,0
+Ward 3,4017,ANTHONY HENDAY LAKE DISTRICT,1 year to less than 3 years,0,0,0
+Ward 3,4017,ANTHONY HENDAY LAKE DISTRICT,Less than 1 year,0,0,0
+Ward 3,4017,ANTHONY HENDAY LAKE DISTRICT,Child less than 1 year,0,0,0
+Ward 3,4017,ANTHONY HENDAY LAKE DISTRICT,No Response,0,0,0
+Ward 3,3030,BATURYN,5 years or more,2520,243,45
+Ward 3,3030,BATURYN,No 3 years to less than 5 years,366,154,9
+Ward 3,3030,BATURYN,1 year to less than 3 years,289,381,4
+Ward 3,3030,BATURYN,Less than 1 year,174,289,8
+Ward 3,3030,BATURYN,Child less than 1 year,32,26,1
+Ward 3,3030,BATURYN,No Response,119,78,165
+Ward 3,3040,BEAUMARIS,5 years or more,2363,204,9
+Ward 3,3040,BEAUMARIS,No 3 years to less than 5 years,262,192,0
+Ward 3,3040,BEAUMARIS,1 year to less than 3 years,217,305,1
+Ward 3,3040,BEAUMARIS,Less than 1 year,130,349,6
+Ward 3,3040,BEAUMARIS,Child less than 1 year,11,19,1
+Ward 3,3040,BEAUMARIS,No Response,89,88,130
+Ward 3,2050,BELLE RIVE,5 years or more,2788,84,18
+Ward 3,2050,BELLE RIVE,No 3 years to less than 5 years,301,49,0
+Ward 3,2050,BELLE RIVE,1 year to less than 3 years,215,73,4
+Ward 3,2050,BELLE RIVE,Less than 1 year,120,82,4
+Ward 3,2050,BELLE RIVE,Child less than 1 year,37,5,2
+Ward 3,2050,BELLE RIVE,No Response,118,10,35
+Ward 3,3080,CANOSSA,5 years or more,1397,13,3
+Ward 3,3080,CANOSSA,No 3 years to less than 5 years,805,57,0
+Ward 3,3080,CANOSSA,1 year to less than 3 years,323,40,2
+Ward 3,3080,CANOSSA,Less than 1 year,166,91,0
+Ward 3,3080,CANOSSA,Child less than 1 year,60,7,0
+Ward 3,3080,CANOSSA,No Response,158,8,80
+Ward 3,3120,CHAMBERY,5 years or more,1000,11,6
+Ward 3,3120,CHAMBERY,No 3 years to less than 5 years,318,0,5
+Ward 3,3120,CHAMBERY,1 year to less than 3 years,310,26,0
+Ward 3,3120,CHAMBERY,Less than 1 year,237,30,4
+Ward 3,3120,CHAMBERY,Child less than 1 year,36,1,0
+Ward 3,3120,CHAMBERY,No Response,31,0,49
+Ward 3,2210,CRYSTALLINA NERA,5 years or more,0,0,0
+Ward 3,2210,CRYSTALLINA NERA,No 3 years to less than 5 years,0,0,0
+Ward 3,2210,CRYSTALLINA NERA,1 year to less than 3 years,0,0,0
+Ward 3,2210,CRYSTALLINA NERA,Less than 1 year,0,0,0
+Ward 3,2210,CRYSTALLINA NERA,Child less than 1 year,0,0,0
+Ward 3,2210,CRYSTALLINA NERA,No Response,0,0,0
+Ward 3,3180,DUNLUCE,5 years or more,2666,373,5
+Ward 3,3180,DUNLUCE,No 3 years to less than 5 years,375,261,2
+Ward 3,3180,DUNLUCE,1 year to less than 3 years,292,559,6
+Ward 3,3180,DUNLUCE,Less than 1 year,154,735,1
+Ward 3,3180,DUNLUCE,Child less than 1 year,34,42,3
+Ward 3,3180,DUNLUCE,No Response,206,238,400
+Ward 3,2241,EAUX CLAIRES,5 years or more,1472,26,25
+Ward 3,2241,EAUX CLAIRES,No 3 years to less than 5 years,350,38,9
+Ward 3,2241,EAUX CLAIRES,1 year to less than 3 years,376,132,2
+Ward 3,2241,EAUX CLAIRES,Less than 1 year,169,137,5
+Ward 3,2241,EAUX CLAIRES,Child less than 1 year,28,3,1
+Ward 3,2241,EAUX CLAIRES,No Response,135,38,111
+Ward 3,3190,ELSINORE,5 years or more,1286,0,21
+Ward 3,3190,ELSINORE,No 3 years to less than 5 years,239,6,5
+Ward 3,3190,ELSINORE,1 year to less than 3 years,150,17,4
+Ward 3,3190,ELSINORE,Less than 1 year,75,28,1
+Ward 3,3190,ELSINORE,Child less than 1 year,15,0,0
+Ward 3,3190,ELSINORE,No Response,180,4,100
+Ward 3,2260,EVANSDALE,5 years or more,2048,563,26
+Ward 3,2260,EVANSDALE,No 3 years to less than 5 years,287,467,15
+Ward 3,2260,EVANSDALE,1 year to less than 3 years,186,664,7
+Ward 3,2260,EVANSDALE,Less than 1 year,133,666,7
+Ward 3,2260,EVANSDALE,Child less than 1 year,19,73,1
+Ward 3,2260,EVANSDALE,No Response,126,245,122
+Ward 3,2410,KILKENNY,5 years or more,2588,414,17
+Ward 3,2410,KILKENNY,No 3 years to less than 5 years,302,321,13
+Ward 3,2410,KILKENNY,1 year to less than 3 years,281,552,6
+Ward 3,2410,KILKENNY,Less than 1 year,172,710,25
+Ward 3,2410,KILKENNY,Child less than 1 year,27,40,1
+Ward 3,2410,KILKENNY,No Response,60,129,45
+Ward 3,2440,KLARVATTEN,5 years or more,2083,23,47
+Ward 3,2440,KLARVATTEN,No 3 years to less than 5 years,1028,32,15
+Ward 3,2440,KLARVATTEN,1 year to less than 3 years,524,119,17
+Ward 3,2440,KLARVATTEN,Less than 1 year,250,94,1
+Ward 3,2440,KLARVATTEN,Child less than 1 year,63,8,0
+Ward 3,2440,KLARVATTEN,No Response,259,13,213
+Ward 3,2450,LAGO LINDO,5 years or more,2499,69,8
+Ward 3,2450,LAGO LINDO,No 3 years to less than 5 years,379,102,6
+Ward 3,2450,LAGO LINDO,1 year to less than 3 years,306,122,0
+Ward 3,2450,LAGO LINDO,Less than 1 year,176,134,3
+Ward 3,2450,LAGO LINDO,Child less than 1 year,32,7,0
+Ward 3,2450,LAGO LINDO,No Response,59,18,61
+Ward 3,2461,LAKE DISTRICT NORTH EAST PORTION,5 years or more,0,0,0
+Ward 3,2461,LAKE DISTRICT NORTH EAST PORTION,No 3 years to less than 5 years,0,0,0
+Ward 3,2461,LAKE DISTRICT NORTH EAST PORTION,1 year to less than 3 years,0,0,0
+Ward 3,2461,LAKE DISTRICT NORTH EAST PORTION,Less than 1 year,0,0,0
+Ward 3,2461,LAKE DISTRICT NORTH EAST PORTION,Child less than 1 year,0,0,0
+Ward 3,2461,LAKE DISTRICT NORTH EAST PORTION,No Response,0,0,0
+Ward 3,3280,LORELEI,5 years or more,1902,230,15
+Ward 3,3280,LORELEI,No 3 years to less than 5 years,271,184,2
+Ward 3,3280,LORELEI,1 year to less than 3 years,186,305,4
+Ward 3,3280,LORELEI,Less than 1 year,94,236,12
+Ward 3,3280,LORELEI,Child less than 1 year,24,27,1
+Ward 3,3280,LORELEI,No Response,183,169,173
+Ward 3,2511,MAYLIEWAN,5 years or more,2874,34,20
+Ward 3,2511,MAYLIEWAN,No 3 years to less than 5 years,438,41,0
+Ward 3,2511,MAYLIEWAN,1 year to less than 3 years,272,57,3
+Ward 3,2511,MAYLIEWAN,Less than 1 year,133,44,2
+Ward 3,2511,MAYLIEWAN,Child less than 1 year,28,4,0
+Ward 3,2511,MAYLIEWAN,No Response,168,13,68
+Ward 3,2600,OZERNA,5 years or more,2847,52,27
+Ward 3,2600,OZERNA,No 3 years to less than 5 years,425,60,10
+Ward 3,2600,OZERNA,1 year to less than 3 years,239,78,0
+Ward 3,2600,OZERNA,Less than 1 year,163,63,2
+Ward 3,2600,OZERNA,Child less than 1 year,28,3,0
+Ward 3,2600,OZERNA,No Response,343,38,117
+Ward 3,3370,RAPPERSWILL,5 years or more,0,0,0
+Ward 3,3370,RAPPERSWILL,No 3 years to less than 5 years,0,0,0
+Ward 3,3370,RAPPERSWILL,1 year to less than 3 years,0,0,0
+Ward 3,3370,RAPPERSWILL,Less than 1 year,0,0,0
+Ward 3,3370,RAPPERSWILL,Child less than 1 year,0,0,0
+Ward 3,3370,RAPPERSWILL,No Response,0,0,0
+Ward 3,2700,SCHONSEE,5 years or more,290,7,0
+Ward 3,2700,SCHONSEE,No 3 years to less than 5 years,442,4,5
+Ward 3,2700,SCHONSEE,1 year to less than 3 years,398,13,1
+Ward 3,2700,SCHONSEE,Less than 1 year,335,14,0
+Ward 3,2700,SCHONSEE,Child less than 1 year,35,1,0
+Ward 3,2700,SCHONSEE,No Response,107,4,56
+Ward 4,2030,BANNERMAN,5 years or more,1350,137,6
+Ward 4,2030,BANNERMAN,No 3 years to less than 5 years,200,163,2
+Ward 4,2030,BANNERMAN,1 year to less than 3 years,145,271,0
+Ward 4,2030,BANNERMAN,Less than 1 year,106,418,1
+Ward 4,2030,BANNERMAN,Child less than 1 year,17,24,0
+Ward 4,2030,BANNERMAN,No Response,38,67,99
+Ward 4,2070,BELMONT,5 years or more,1981,329,39
+Ward 4,2070,BELMONT,No 3 years to less than 5 years,441,365,15
+Ward 4,2070,BELMONT,1 year to less than 3 years,221,409,11
+Ward 4,2070,BELMONT,Less than 1 year,165,548,12
+Ward 4,2070,BELMONT,Child less than 1 year,32,27,0
+Ward 4,2070,BELMONT,No Response,299,201,105
+Ward 4,2080,BELVEDERE,5 years or more,1451,443,25
+Ward 4,2080,BELVEDERE,No 3 years to less than 5 years,298,400,1
+Ward 4,2080,BELVEDERE,1 year to less than 3 years,305,538,31
+Ward 4,2080,BELVEDERE,Less than 1 year,153,640,11
+Ward 4,2080,BELVEDERE,Child less than 1 year,29,33,1
+Ward 4,2080,BELVEDERE,No Response,137,332,182
+Ward 4,2110,BRINTNELL,5 years or more,1385,21,19
+Ward 4,2110,BRINTNELL,No 3 years to less than 5 years,1453,116,20
+Ward 4,2110,BRINTNELL,1 year to less than 3 years,706,128,15
+Ward 4,2110,BRINTNELL,Less than 1 year,304,125,17
+Ward 4,2110,BRINTNELL,Child less than 1 year,97,8,6
+Ward 4,2110,BRINTNELL,No Response,376,51,326
+Ward 4,2120,CANON RIDGE,5 years or more,462,89,10
+Ward 4,2120,CANON RIDGE,No 3 years to less than 5 years,282,124,2
+Ward 4,2120,CANON RIDGE,1 year to less than 3 years,289,205,9
+Ward 4,2120,CANON RIDGE,Less than 1 year,117,193,6
+Ward 4,2120,CANON RIDGE,Child less than 1 year,17,14,0
+Ward 4,2120,CANON RIDGE,No Response,59,59,87
+Ward 4,2130,CASSELMAN,5 years or more,1220,178,12
+Ward 4,2130,CASSELMAN,No 3 years to less than 5 years,213,216,9
+Ward 4,2130,CASSELMAN,1 year to less than 3 years,222,309,7
+Ward 4,2130,CASSELMAN,Less than 1 year,134,287,22
+Ward 4,2130,CASSELMAN,Child less than 1 year,14,17,0
+Ward 4,2130,CASSELMAN,No Response,87,238,220
+Ward 4,2145,CLAREVIEW TOWN CENTRE,5 years or more,321,66,0
+Ward 4,2145,CLAREVIEW TOWN CENTRE,No 3 years to less than 5 years,538,211,2
+Ward 4,2145,CLAREVIEW TOWN CENTRE,1 year to less than 3 years,298,521,7
+Ward 4,2145,CLAREVIEW TOWN CENTRE,Less than 1 year,185,660,10
+Ward 4,2145,CLAREVIEW TOWN CENTRE,Child less than 1 year,14,19,0
+Ward 4,2145,CLAREVIEW TOWN CENTRE,No Response,71,132,175
+Ward 4,2160,CLOVER BAR AREA,5 years or more,0,0,0
+Ward 4,2160,CLOVER BAR AREA,No 3 years to less than 5 years,0,0,0
+Ward 4,2160,CLOVER BAR AREA,1 year to less than 3 years,0,0,0
+Ward 4,2160,CLOVER BAR AREA,Less than 1 year,0,0,0
+Ward 4,2160,CLOVER BAR AREA,Child less than 1 year,0,0,0
+Ward 4,2160,CLOVER BAR AREA,No Response,0,0,0
+Ward 4,2251,EBBERS,5 years or more,0,0,0
+Ward 4,2251,EBBERS,No 3 years to less than 5 years,0,0,0
+Ward 4,2251,EBBERS,1 year to less than 3 years,0,0,0
+Ward 4,2251,EBBERS,Less than 1 year,0,0,0
+Ward 4,2251,EBBERS,Child less than 1 year,0,0,0
+Ward 4,2251,EBBERS,No Response,0,0,0
+Ward 4,2270,EVERGREEN,5 years or more,689,12,11
+Ward 4,2270,EVERGREEN,No 3 years to less than 5 years,156,1,1
+Ward 4,2270,EVERGREEN,1 year to less than 3 years,128,38,1
+Ward 4,2270,EVERGREEN,Less than 1 year,97,36,0
+Ward 4,2270,EVERGREEN,Child less than 1 year,13,1,0
+Ward 4,2270,EVERGREEN,No Response,248,6,12
+Ward 4,2280,FRASER,5 years or more,1613,125,5
+Ward 4,2280,FRASER,No 3 years to less than 5 years,256,104,6
+Ward 4,2280,FRASER,1 year to less than 3 years,200,225,9
+Ward 4,2280,FRASER,Less than 1 year,106,278,9
+Ward 4,2280,FRASER,Child less than 1 year,19,10,1
+Ward 4,2280,FRASER,No Response,96,52,163
+Ward 4,2311,GORMAN,5 years or more,0,0,0
+Ward 4,2311,GORMAN,No 3 years to less than 5 years,0,0,0
+Ward 4,2311,GORMAN,1 year to less than 3 years,0,0,0
+Ward 4,2311,GORMAN,Less than 1 year,0,0,0
+Ward 4,2311,GORMAN,Child less than 1 year,0,0,0
+Ward 4,2311,GORMAN,No Response,0,0,0
+Ward 4,2320,HAIRSINE,5 years or more,893,150,4
+Ward 4,2320,HAIRSINE,No 3 years to less than 5 years,178,168,0
+Ward 4,2320,HAIRSINE,1 year to less than 3 years,105,338,6
+Ward 4,2320,HAIRSINE,Less than 1 year,85,296,0
+Ward 4,2320,HAIRSINE,Child less than 1 year,7,21,1
+Ward 4,2320,HAIRSINE,No Response,49,79,85
+Ward 4,2340,HOLLICK-KENYON,5 years or more,2391,13,40
+Ward 4,2340,HOLLICK-KENYON,No 3 years to less than 5 years,934,48,11
+Ward 4,2340,HOLLICK-KENYON,1 year to less than 3 years,768,82,11
+Ward 4,2340,HOLLICK-KENYON,Less than 1 year,313,105,1
+Ward 4,2340,HOLLICK-KENYON,Child less than 1 year,63,6,0
+Ward 4,2340,HOLLICK-KENYON,No Response,328,30,57
+Ward 4,2350,HOMESTEADER,5 years or more,1117,263,22
+Ward 4,2350,HOMESTEADER,No 3 years to less than 5 years,159,295,4
+Ward 4,2350,HOMESTEADER,1 year to less than 3 years,120,324,5
+Ward 4,2350,HOMESTEADER,Less than 1 year,71,479,0
+Ward 4,2350,HOMESTEADER,Child less than 1 year,18,36,0
+Ward 4,2350,HOMESTEADER,No Response,85,190,85
+Ward 4,2380,KENNEDALE INDUSTRIAL,5 years or more,0,0,0
+Ward 4,2380,KENNEDALE INDUSTRIAL,No 3 years to less than 5 years,0,0,0
+Ward 4,2380,KENNEDALE INDUSTRIAL,1 year to less than 3 years,0,0,0
+Ward 4,2380,KENNEDALE INDUSTRIAL,Less than 1 year,0,0,0
+Ward 4,2380,KENNEDALE INDUSTRIAL,Child less than 1 year,0,0,0
+Ward 4,2380,KENNEDALE INDUSTRIAL,No Response,0,0,0
+Ward 4,2390,KERNOHAN,5 years or more,1754,69,16
+Ward 4,2390,KERNOHAN,No 3 years to less than 5 years,213,113,6
+Ward 4,2390,KERNOHAN,1 year to less than 3 years,180,151,3
+Ward 4,2390,KERNOHAN,Less than 1 year,127,165,0
+Ward 4,2390,KERNOHAN,Child less than 1 year,22,13,1
+Ward 4,2390,KERNOHAN,No Response,61,34,138
+Ward 4,2430,KIRKNESS,5 years or more,1432,258,11
+Ward 4,2430,KIRKNESS,No 3 years to less than 5 years,304,270,6
+Ward 4,2430,KIRKNESS,1 year to less than 3 years,218,333,2
+Ward 4,2430,KIRKNESS,Less than 1 year,138,288,7
+Ward 4,2430,KIRKNESS,Child less than 1 year,13,24,0
+Ward 4,2430,KIRKNESS,No Response,132,144,157
+Ward 4,2500,MATT BERRY,5 years or more,2424,12,55
+Ward 4,2500,MATT BERRY,No 3 years to less than 5 years,452,35,10
+Ward 4,2500,MATT BERRY,1 year to less than 3 years,384,59,14
+Ward 4,2500,MATT BERRY,Less than 1 year,130,96,4
+Ward 4,2500,MATT BERRY,Child less than 1 year,17,3,0
+Ward 4,2500,MATT BERRY,No Response,149,22,193
+Ward 4,2521,MCCONACHIE AREA,5 years or more,0,0,0
+Ward 4,2521,MCCONACHIE AREA,No 3 years to less than 5 years,70,0,0
+Ward 4,2521,MCCONACHIE AREA,1 year to less than 3 years,399,7,0
+Ward 4,2521,MCCONACHIE AREA,Less than 1 year,215,13,4
+Ward 4,2521,MCCONACHIE AREA,Child less than 1 year,18,1,0
+Ward 4,2521,MCCONACHIE AREA,No Response,76,3,91
+Ward 4,2530,MCLEOD,5 years or more,1630,32,5
+Ward 4,2530,MCLEOD,No 3 years to less than 5 years,200,33,2
+Ward 4,2530,MCLEOD,1 year to less than 3 years,136,63,0
+Ward 4,2530,MCLEOD,Less than 1 year,94,56,2
+Ward 4,2530,MCLEOD,Child less than 1 year,15,3,0
+Ward 4,2530,MCLEOD,No Response,20,3,15
+Ward 4,2541,MILLER,5 years or more,1166,50,2
+Ward 4,2541,MILLER,No 3 years to less than 5 years,385,54,0
+Ward 4,2541,MILLER,1 year to less than 3 years,275,108,1
+Ward 4,2541,MILLER,Less than 1 year,152,170,3
+Ward 4,2541,MILLER,Child less than 1 year,31,8,0
+Ward 4,2541,MILLER,No Response,356,93,117
+Ward 4,2590,OVERLANDERS,5 years or more,603,375,19
+Ward 4,2590,OVERLANDERS,No 3 years to less than 5 years,118,394,7
+Ward 4,2590,OVERLANDERS,1 year to less than 3 years,66,479,7
+Ward 4,2590,OVERLANDERS,Less than 1 year,33,396,10
+Ward 4,2590,OVERLANDERS,Child less than 1 year,11,14,0
+Ward 4,2590,OVERLANDERS,No Response,23,155,151
+Ward 4,2610,PILOT SOUND AREA WEST PORTION,5 years or more,0,0,0
+Ward 4,2610,PILOT SOUND AREA WEST PORTION,No 3 years to less than 5 years,0,0,0
+Ward 4,2610,PILOT SOUND AREA WEST PORTION,1 year to less than 3 years,0,0,0
+Ward 4,2610,PILOT SOUND AREA WEST PORTION,Less than 1 year,0,0,0
+Ward 4,2610,PILOT SOUND AREA WEST PORTION,Child less than 1 year,0,0,0
+Ward 4,2610,PILOT SOUND AREA WEST PORTION,No Response,0,0,0
+Ward 4,2630,RIVER VALLEY HERMITAGE,5 years or more,0,0,0
+Ward 4,2630,RIVER VALLEY HERMITAGE,No 3 years to less than 5 years,0,0,0
+Ward 4,2630,RIVER VALLEY HERMITAGE,1 year to less than 3 years,0,0,0
+Ward 4,2630,RIVER VALLEY HERMITAGE,Less than 1 year,0,0,0
+Ward 4,2630,RIVER VALLEY HERMITAGE,Child less than 1 year,0,0,0
+Ward 4,2630,RIVER VALLEY HERMITAGE,No Response,0,0,0
+Ward 4,2670,RURAL NORTH EAST HORSE HILL,5 years or more,133,4,1
+Ward 4,2670,RURAL NORTH EAST HORSE HILL,No 3 years to less than 5 years,19,11,0
+Ward 4,2670,RURAL NORTH EAST HORSE HILL,1 year to less than 3 years,9,0,0
+Ward 4,2670,RURAL NORTH EAST HORSE HILL,Less than 1 year,4,2,0
+Ward 4,2670,RURAL NORTH EAST HORSE HILL,Child less than 1 year,3,1,0
+Ward 4,2670,RURAL NORTH EAST HORSE HILL,No Response,6,1,21
+Ward 4,2680,RURAL NORTH EAST NORTH STURGEON,5 years or more,101,6,2
+Ward 4,2680,RURAL NORTH EAST NORTH STURGEON,No 3 years to less than 5 years,16,15,0
+Ward 4,2680,RURAL NORTH EAST NORTH STURGEON,1 year to less than 3 years,3,0,0
+Ward 4,2680,RURAL NORTH EAST NORTH STURGEON,Less than 1 year,4,5,0
+Ward 4,2680,RURAL NORTH EAST NORTH STURGEON,Child less than 1 year,0,0,0
+Ward 4,2680,RURAL NORTH EAST NORTH STURGEON,No Response,0,0,23
+Ward 4,2690,RURAL NORTH EAST SOUTH STURGEON,5 years or more,372,6,8
+Ward 4,2690,RURAL NORTH EAST SOUTH STURGEON,No 3 years to less than 5 years,87,0,1
+Ward 4,2690,RURAL NORTH EAST SOUTH STURGEON,1 year to less than 3 years,26,11,6
+Ward 4,2690,RURAL NORTH EAST SOUTH STURGEON,Less than 1 year,13,7,0
+Ward 4,2690,RURAL NORTH EAST SOUTH STURGEON,Child less than 1 year,4,1,0
+Ward 4,2690,RURAL NORTH EAST SOUTH STURGEON,No Response,34,4,24
+Ward 4,2710,SIFTON PARK,5 years or more,589,194,16
+Ward 4,2710,SIFTON PARK,No 3 years to less than 5 years,96,219,10
+Ward 4,2710,SIFTON PARK,1 year to less than 3 years,69,324,27
+Ward 4,2710,SIFTON PARK,Less than 1 year,36,248,9
+Ward 4,2710,SIFTON PARK,Child less than 1 year,7,15,1
+Ward 4,2710,SIFTON PARK,No Response,29,342,58
+Ward 4,2720,YORK,5 years or more,1535,313,23
+Ward 4,2720,YORK,No 3 years to less than 5 years,245,256,6
+Ward 4,2720,YORK,1 year to less than 3 years,188,361,11
+Ward 4,2720,YORK,Less than 1 year,130,424,14
+Ward 4,2720,YORK,Child less than 1 year,24,17,0
+Ward 4,2720,YORK,No Response,87,136,55
+Ward 5,4012,ANTHONY HENDAY SOUTH WEST,5 years or more,0,0,0
+Ward 5,4012,ANTHONY HENDAY SOUTH WEST,No 3 years to less than 5 years,0,0,0
+Ward 5,4012,ANTHONY HENDAY SOUTH WEST,1 year to less than 3 years,0,0,0
+Ward 5,4012,ANTHONY HENDAY SOUTH WEST,Less than 1 year,0,0,0
+Ward 5,4012,ANTHONY HENDAY SOUTH WEST,Child less than 1 year,0,0,0
+Ward 5,4012,ANTHONY HENDAY SOUTH WEST,No Response,0,0,0
+Ward 5,4070,CALLINGWOOD NORTH,5 years or more,635,177,2
+Ward 5,4070,CALLINGWOOD NORTH,No 3 years to less than 5 years,144,258,14
+Ward 5,4070,CALLINGWOOD NORTH,1 year to less than 3 years,102,221,15
+Ward 5,4070,CALLINGWOOD NORTH,Less than 1 year,55,374,9
+Ward 5,4070,CALLINGWOOD NORTH,Child less than 1 year,11,19,0
+Ward 5,4070,CALLINGWOOD NORTH,No Response,14,146,175
+Ward 5,4080,CALLINGWOOD SOUTH,5 years or more,567,447,8
+Ward 5,4080,CALLINGWOOD SOUTH,No 3 years to less than 5 years,148,681,8
+Ward 5,4080,CALLINGWOOD SOUTH,1 year to less than 3 years,149,1075,10
+Ward 5,4080,CALLINGWOOD SOUTH,Less than 1 year,82,1609,10
+Ward 5,4080,CALLINGWOOD SOUTH,Child less than 1 year,8,65,1
+Ward 5,4080,CALLINGWOOD SOUTH,No Response,85,591,36
+Ward 5,4466,CAMERON HEIGHTS,5 years or more,195,1,0
+Ward 5,4466,CAMERON HEIGHTS,No 3 years to less than 5 years,185,2,0
+Ward 5,4466,CAMERON HEIGHTS,1 year to less than 3 years,302,20,5
+Ward 5,4466,CAMERON HEIGHTS,Less than 1 year,221,8,0
+Ward 5,4466,CAMERON HEIGHTS,Child less than 1 year,25,0,1
+Ward 5,4466,CAMERON HEIGHTS,No Response,146,1,13
+Ward 5,4110,DECHENE,5 years or more,951,8,9
+Ward 5,4110,DECHENE,No 3 years to less than 5 years,108,12,2
+Ward 5,4110,DECHENE,1 year to less than 3 years,81,24,0
+Ward 5,4110,DECHENE,Less than 1 year,58,4,0
+Ward 5,4110,DECHENE,Child less than 1 year,11,1,0
+Ward 5,4110,DECHENE,No Response,127,6,317
+Ward 5,4120,DONSDALE,5 years or more,677,0,15
+Ward 5,4120,DONSDALE,No 3 years to less than 5 years,181,4,5
+Ward 5,4120,DONSDALE,1 year to less than 3 years,82,2,0
+Ward 5,4120,DONSDALE,Less than 1 year,45,15,0
+Ward 5,4120,DONSDALE,Child less than 1 year,2,0,0
+Ward 5,4120,DONSDALE,No Response,20,0,196
+Ward 5,4140,ELMWOOD,5 years or more,1069,205,6
+Ward 5,4140,ELMWOOD,No 3 years to less than 5 years,131,146,7
+Ward 5,4140,ELMWOOD,1 year to less than 3 years,84,189,12
+Ward 5,4140,ELMWOOD,Less than 1 year,78,163,7
+Ward 5,4140,ELMWOOD,Child less than 1 year,10,10,1
+Ward 5,4140,ELMWOOD,No Response,62,251,182
+Ward 5,4160,GARIEPY,5 years or more,1114,18,6
+Ward 5,4160,GARIEPY,No 3 years to less than 5 years,181,24,0
+Ward 5,4160,GARIEPY,1 year to less than 3 years,146,42,0
+Ward 5,4160,GARIEPY,Less than 1 year,62,50,0
+Ward 5,4160,GARIEPY,Child less than 1 year,14,3,0
+Ward 5,4160,GARIEPY,No Response,104,7,106
+Ward 5,4720,GLASTONBURY,5 years or more,2585,60,26
+Ward 5,4720,GLASTONBURY,No 3 years to less than 5 years,935,100,2
+Ward 5,4720,GLASTONBURY,1 year to less than 3 years,659,252,12
+Ward 5,4720,GLASTONBURY,Less than 1 year,341,309,6
+Ward 5,4720,GLASTONBURY,Child less than 1 year,75,15,0
+Ward 5,4720,GLASTONBURY,No Response,153,69,381
+Ward 5,4551,GRANVILLE,5 years or more,0,0,0
+Ward 5,4551,GRANVILLE,No 3 years to less than 5 years,0,0,0
+Ward 5,4551,GRANVILLE,1 year to less than 3 years,0,0,0
+Ward 5,4551,GRANVILLE,Less than 1 year,209,2,0
+Ward 5,4551,GRANVILLE,Child less than 1 year,7,0,0
+Ward 5,4551,GRANVILLE,No Response,4,0,0
+Ward 5,4220,JAMIESON PLACE,5 years or more,2387,36,30
+Ward 5,4220,JAMIESON PLACE,No 3 years to less than 5 years,400,43,6
+Ward 5,4220,JAMIESON PLACE,1 year to less than 3 years,287,70,2
+Ward 5,4220,JAMIESON PLACE,Less than 1 year,154,63,1
+Ward 5,4220,JAMIESON PLACE,Child less than 1 year,34,2,1
+Ward 5,4220,JAMIESON PLACE,No Response,181,13,202
+Ward 5,3270,LAURIER HEIGHTS,5 years or more,1478,20,49
+Ward 5,3270,LAURIER HEIGHTS,No 3 years to less than 5 years,253,23,19
+Ward 5,3270,LAURIER HEIGHTS,1 year to less than 3 years,172,24,4
+Ward 5,3270,LAURIER HEIGHTS,Less than 1 year,117,18,2
+Ward 5,3270,LAURIER HEIGHTS,Child less than 1 year,16,2,0
+Ward 5,3270,LAURIER HEIGHTS,No Response,113,4,326
+Ward 5,4270,LYMBURN,5 years or more,3040,243,47
+Ward 5,4270,LYMBURN,No 3 years to less than 5 years,606,237,15
+Ward 5,4270,LYMBURN,1 year to less than 3 years,377,307,2
+Ward 5,4270,LYMBURN,Less than 1 year,209,259,0
+Ward 5,4270,LYMBURN,Child less than 1 year,34,14,0
+Ward 5,4270,LYMBURN,No Response,130,164,232
+Ward 5,4280,LYNNWOOD,5 years or more,1078,238,9
+Ward 5,4280,LYNNWOOD,No 3 years to less than 5 years,174,269,9
+Ward 5,4280,LYNNWOOD,1 year to less than 3 years,100,423,12
+Ward 5,4280,LYNNWOOD,Less than 1 year,84,487,9
+Ward 5,4280,LYNNWOOD,Child less than 1 year,8,12,0
+Ward 5,4280,LYNNWOOD,No Response,114,190,75
+Ward 5,4360,OLESKIW,5 years or more,2012,38,20
+Ward 5,4360,OLESKIW,No 3 years to less than 5 years,361,22,3
+Ward 5,4360,OLESKIW,1 year to less than 3 years,197,32,1
+Ward 5,4360,OLESKIW,Less than 1 year,106,27,0
+Ward 5,4360,OLESKIW,Child less than 1 year,15,1,0
+Ward 5,4360,OLESKIW,No Response,81,0,78
+Ward 5,4380,ORMSBY PLACE,5 years or more,2693,213,13
+Ward 5,4380,ORMSBY PLACE,No 3 years to less than 5 years,383,239,2
+Ward 5,4380,ORMSBY PLACE,1 year to less than 3 years,278,384,1
+Ward 5,4380,ORMSBY PLACE,Less than 1 year,240,424,0
+Ward 5,4380,ORMSBY PLACE,Child less than 1 year,26,28,0
+Ward 5,4380,ORMSBY PLACE,No Response,139,88,160
+Ward 5,4390,PATRICIA HEIGHTS,5 years or more,643,125,1
+Ward 5,4390,PATRICIA HEIGHTS,No 3 years to less than 5 years,103,160,5
+Ward 5,4390,PATRICIA HEIGHTS,1 year to less than 3 years,79,218,7
+Ward 5,4390,PATRICIA HEIGHTS,Less than 1 year,48,189,6
+Ward 5,4390,PATRICIA HEIGHTS,Child less than 1 year,8,13,0
+Ward 5,4390,PATRICIA HEIGHTS,No Response,41,78,27
+Ward 5,4420,QUESNELL HEIGHTS,5 years or more,235,0,0
+Ward 5,4420,QUESNELL HEIGHTS,No 3 years to less than 5 years,18,0,0
+Ward 5,4420,QUESNELL HEIGHTS,1 year to less than 3 years,27,0,0
+Ward 5,4420,QUESNELL HEIGHTS,Less than 1 year,10,0,0
+Ward 5,4420,QUESNELL HEIGHTS,Child less than 1 year,0,0,0
+Ward 5,4420,QUESNELL HEIGHTS,No Response,50,0,6
+Ward 5,4430,RIO TERRACE,5 years or more,851,8,6
+Ward 5,4430,RIO TERRACE,No 3 years to less than 5 years,153,13,0
+Ward 5,4430,RIO TERRACE,1 year to less than 3 years,109,3,0
+Ward 5,4430,RIO TERRACE,Less than 1 year,52,26,0
+Ward 5,4430,RIO TERRACE,Child less than 1 year,7,0,0
+Ward 5,4430,RIO TERRACE,No Response,36,6,35
+Ward 5,4467,RIVER VALLEY CAMERON,5 years or more,0,0,0
+Ward 5,4467,RIVER VALLEY CAMERON,No 3 years to less than 5 years,0,0,0
+Ward 5,4467,RIVER VALLEY CAMERON,1 year to less than 3 years,0,0,0
+Ward 5,4467,RIVER VALLEY CAMERON,Less than 1 year,0,0,0
+Ward 6,3440,WESTMOUNT,No Response,518,680,479
+Ward 5,4467,RIVER VALLEY CAMERON,Child less than 1 year,0,0,0
+Ward 5,4467,RIVER VALLEY CAMERON,No Response,0,0,0
+Ward 5,3382,RIVER VALLEY LAURIER,5 years or more,0,0,0
+Ward 5,3382,RIVER VALLEY LAURIER,No 3 years to less than 5 years,0,0,0
+Ward 5,3382,RIVER VALLEY LAURIER,1 year to less than 3 years,0,0,0
+Ward 5,3382,RIVER VALLEY LAURIER,Less than 1 year,0,0,0
+Ward 5,3382,RIVER VALLEY LAURIER,Child less than 1 year,0,0,0
+Ward 5,3382,RIVER VALLEY LAURIER,No Response,0,0,0
+Ward 5,4440,RIVER VALLEY LESSARD NORTH,5 years or more,0,0,0
+Ward 5,4440,RIVER VALLEY LESSARD NORTH,No 3 years to less than 5 years,0,0,0
+Ward 5,4440,RIVER VALLEY LESSARD NORTH,1 year to less than 3 years,0,0,0
+Ward 5,4440,RIVER VALLEY LESSARD NORTH,Less than 1 year,0,0,0
+Ward 5,4440,RIVER VALLEY LESSARD NORTH,Child less than 1 year,0,0,0
+Ward 5,4440,RIVER VALLEY LESSARD NORTH,No Response,0,0,0
+Ward 5,4451,RIVER VALLEY OLESKIW,5 years or more,0,0,0
+Ward 5,4451,RIVER VALLEY OLESKIW,No 3 years to less than 5 years,0,0,0
+Ward 5,4451,RIVER VALLEY OLESKIW,1 year to less than 3 years,0,0,0
+Ward 5,4451,RIVER VALLEY OLESKIW,Less than 1 year,0,0,0
+Ward 5,4451,RIVER VALLEY OLESKIW,Child less than 1 year,0,0,0
+Ward 5,4451,RIVER VALLEY OLESKIW,No Response,0,0,0
+Ward 5,4460,RURAL WEST,5 years or more,354,1,5
+Ward 5,4460,RURAL WEST,No 3 years to less than 5 years,68,0,0
+Ward 5,4460,RURAL WEST,1 year to less than 3 years,39,6,0
+Ward 5,4460,RURAL WEST,Less than 1 year,45,6,3
+Ward 5,4460,RURAL WEST,Child less than 1 year,3,0,1
+Ward 5,4460,RURAL WEST,No Response,12,0,16
+Ward 5,4461,THE HAMPTONS,5 years or more,1369,50,28
+Ward 5,4461,THE HAMPTONS,No 3 years to less than 5 years,2402,163,49
+Ward 5,4461,THE HAMPTONS,1 year to less than 3 years,1993,313,31
+Ward 5,4461,THE HAMPTONS,Less than 1 year,1254,362,24
+Ward 5,4461,THE HAMPTONS,Child less than 1 year,177,20,4
+Ward 5,4461,THE HAMPTONS,No Response,454,68,637
+Ward 5,4560,THORNCLIFF,5 years or more,1040,244,23
+Ward 5,4560,THORNCLIFF,No 3 years to less than 5 years,143,312,11
+Ward 5,4560,THORNCLIFF,1 year to less than 3 years,87,484,4
+Ward 5,4560,THORNCLIFF,Less than 1 year,84,614,12
+Ward 5,4560,THORNCLIFF,Child less than 1 year,16,32,0
+Ward 5,4560,THORNCLIFF,No Response,44,200,109
+Ward 5,4570,WEDGEWOOD HEIGHTS,5 years or more,1016,4,11
+Ward 5,4570,WEDGEWOOD HEIGHTS,No 3 years to less than 5 years,92,1,4
+Ward 5,4570,WEDGEWOOD HEIGHTS,1 year to less than 3 years,76,8,0
+Ward 5,4570,WEDGEWOOD HEIGHTS,Less than 1 year,67,16,3
+Ward 5,4570,WEDGEWOOD HEIGHTS,Child less than 1 year,6,3,0
+Ward 5,4570,WEDGEWOOD HEIGHTS,No Response,87,2,70
+Ward 5,4610,WESTRIDGE,5 years or more,949,3,8
+Ward 5,4610,WESTRIDGE,No 3 years to less than 5 years,128,2,0
+Ward 5,4610,WESTRIDGE,1 year to less than 3 years,77,4,0
+Ward 5,4610,WESTRIDGE,Less than 1 year,24,0,0
+Ward 5,4610,WESTRIDGE,Child less than 1 year,6,0,0
+Ward 5,4610,WESTRIDGE,No Response,104,0,22
+Ward 6,1020,BOYLE STREET,5 years or more,332,770,12
+Ward 6,1020,BOYLE STREET,No 3 years to less than 5 years,145,590,11
+Ward 6,1020,BOYLE STREET,1 year to less than 3 years,79,882,8
+Ward 6,1020,BOYLE STREET,Less than 1 year,54,1168,16
+Ward 6,1020,BOYLE STREET,Child less than 1 year,4,46,2
+Ward 6,1020,BOYLE STREET,No Response,77,917,209
+Ward 6,1030,CENTRAL MCDOUGALL,5 years or more,173,568,20
+Ward 6,1030,CENTRAL MCDOUGALL,No 3 years to less than 5 years,67,451,5
+Ward 6,1030,CENTRAL MCDOUGALL,1 year to less than 3 years,70,868,13
+Ward 6,1030,CENTRAL MCDOUGALL,Less than 1 year,43,1057,15
+Ward 6,1030,CENTRAL MCDOUGALL,Child less than 1 year,3,47,2
+Ward 6,1030,CENTRAL MCDOUGALL,No Response,41,1045,199
+Ward 6,1090,DOWNTOWN,5 years or more,741,942,11
+Ward 6,1090,DOWNTOWN,No 3 years to less than 5 years,544,922,34
+Ward 6,1090,DOWNTOWN,1 year to less than 3 years,586,2209,33
+Ward 6,1090,DOWNTOWN,Less than 1 year,316,2417,36
+Ward 6,1090,DOWNTOWN,Child less than 1 year,14,44,2
+Ward 6,1090,DOWNTOWN,No Response,289,1482,542
+Ward 6,3200,GLENORA,5 years or more,1835,121,35
+Ward 6,3200,GLENORA,No 3 years to less than 5 years,332,111,9
+Ward 6,3200,GLENORA,1 year to less than 3 years,218,140,7
+Ward 6,3200,GLENORA,Less than 1 year,126,194,1
+Ward 6,3200,GLENORA,Child less than 1 year,27,11,1
+Ward 6,3200,GLENORA,No Response,128,25,183
+Ward 6,3210,GROVENOR,5 years or more,1091,102,18
+Ward 6,3210,GROVENOR,No 3 years to less than 5 years,191,98,6
+Ward 6,3210,GROVENOR,1 year to less than 3 years,135,147,1
+Ward 6,3210,GROVENOR,Less than 1 year,93,191,0
+Ward 6,3210,GROVENOR,Child less than 1 year,22,6,1
+Ward 6,3210,GROVENOR,No Response,56,28,163
+Ward 6,1140,MCCAULEY,5 years or more,628,499,29
+Ward 6,1140,MCCAULEY,No 3 years to less than 5 years,100,274,13
+Ward 6,1140,MCCAULEY,1 year to less than 3 years,84,331,11
+Ward 6,1140,MCCAULEY,Less than 1 year,67,388,4
+Ward 6,1140,MCCAULEY,Child less than 1 year,7,24,1
+Ward 6,1140,MCCAULEY,No Response,148,769,135
+Ward 6,3300,MCQUEEN,5 years or more,584,123,2
+Ward 6,3300,MCQUEEN,No 3 years to less than 5 years,72,88,0
+Ward 6,3300,MCQUEEN,1 year to less than 3 years,60,111,0
+Ward 6,3300,MCQUEEN,Less than 1 year,31,144,0
+Ward 6,3300,MCQUEEN,Child less than 1 year,7,5,0
+Ward 6,3300,MCQUEEN,No Response,107,128,215
+Ward 6,3310,NORTH GLENORA,5 years or more,910,113,2
+Ward 6,3310,NORTH GLENORA,No 3 years to less than 5 years,142,108,0
+Ward 6,3310,NORTH GLENORA,1 year to less than 3 years,139,143,1
+Ward 6,3310,NORTH GLENORA,Less than 1 year,89,170,2
+Ward 6,3310,NORTH GLENORA,Child less than 1 year,19,9,0
+Ward 6,3310,NORTH GLENORA,No Response,24,29,112
+Ward 6,1150,OLIVER,5 years or more,2185,2204,58
+Ward 6,1150,OLIVER,No 3 years to less than 5 years,850,1606,23
+Ward 6,1150,OLIVER,1 year to less than 3 years,725,2577,39
+Ward 6,1150,OLIVER,Less than 1 year,576,3413,49
+Ward 6,1150,OLIVER,Child less than 1 year,20,65,3
+Ward 6,1150,OLIVER,No Response,796,2341,507
+Ward 6,1180,QUEEN MARY PARK,5 years or more,750,629,10
+Ward 6,1180,QUEEN MARY PARK,No 3 years to less than 5 years,281,578,7
+Ward 6,1180,QUEEN MARY PARK,1 year to less than 3 years,215,1212,13
+Ward 6,1180,QUEEN MARY PARK,Less than 1 year,149,1788,7
+Ward 6,1180,QUEEN MARY PARK,Child less than 1 year,10,72,0
+Ward 6,1180,QUEEN MARY PARK,No Response,252,991,406
+Ward 6,3381,RIVER VALLEY GLENORA,5 years or more,0,0,0
+Ward 6,3381,RIVER VALLEY GLENORA,No 3 years to less than 5 years,0,0,0
+Ward 6,3381,RIVER VALLEY GLENORA,1 year to less than 3 years,0,0,0
+Ward 6,3381,RIVER VALLEY GLENORA,Less than 1 year,0,0,0
+Ward 6,3381,RIVER VALLEY GLENORA,Child less than 1 year,0,0,0
+Ward 6,3381,RIVER VALLEY GLENORA,No Response,0,0,0
+Ward 6,1200,RIVER VALLEY VICTORIA,5 years or more,0,0,0
+Ward 6,1200,RIVER VALLEY VICTORIA,No 3 years to less than 5 years,0,0,0
+Ward 6,1200,RIVER VALLEY VICTORIA,1 year to less than 3 years,0,0,0
+Ward 6,1200,RIVER VALLEY VICTORIA,Less than 1 year,0,0,0
+Ward 6,1200,RIVER VALLEY VICTORIA,Child less than 1 year,0,0,0
+Ward 6,1200,RIVER VALLEY VICTORIA,No Response,0,0,0
+Ward 6,1210,RIVERDALE,5 years or more,772,195,14
+Ward 6,1210,RIVERDALE,No 3 years to less than 5 years,191,122,3
+Ward 6,1210,RIVERDALE,1 year to less than 3 years,145,118,2
+Ward 6,1210,RIVERDALE,Less than 1 year,109,166,3
+Ward 6,1210,RIVERDALE,Child less than 1 year,14,4,0
+Ward 6,1210,RIVERDALE,No Response,76,41,5
+Ward 6,1220,ROSSDALE,5 years or more,290,50,3
+Ward 6,1220,ROSSDALE,No 3 years to less than 5 years,63,29,0
+Ward 6,1220,ROSSDALE,1 year to less than 3 years,69,57,0
+Ward 6,1220,ROSSDALE,Less than 1 year,30,104,0
+Ward 6,1220,ROSSDALE,Child less than 1 year,2,0,0
+Ward 6,1220,ROSSDALE,No Response,17,91,14
+Ward 6,3440,WESTMOUNT,5 years or more,1833,303,12
+Ward 6,3440,WESTMOUNT,No 3 years to less than 5 years,393,270,8
+Ward 6,3440,WESTMOUNT,1 year to less than 3 years,224,421,10
+Ward 6,3440,WESTMOUNT,Less than 1 year,170,521,8
+Ward 6,3440,WESTMOUNT,Child less than 1 year,23,14,1
+Ward 7,2010,ABBOTTSFIELD,5 years or more,263,178,13
+Ward 7,2010,ABBOTTSFIELD,No 3 years to less than 5 years,58,193,0
+Ward 7,2010,ABBOTTSFIELD,1 year to less than 3 years,31,249,17
+Ward 7,2010,ABBOTTSFIELD,Less than 1 year,26,378,3
+Ward 7,2010,ABBOTTSFIELD,Child less than 1 year,4,19,0
+Ward 7,2010,ABBOTTSFIELD,No Response,75,358,23
+Ward 7,1010,ALBERTA AVENUE,5 years or more,2048,374,99
+Ward 7,1010,ALBERTA AVENUE,No 3 years to less than 5 years,471,294,52
+Ward 7,1010,ALBERTA AVENUE,1 year to less than 3 years,293,454,36
+Ward 7,1010,ALBERTA AVENUE,Less than 1 year,196,553,38
+Ward 7,1010,ALBERTA AVENUE,Child less than 1 year,28,26,1
+Ward 7,1010,ALBERTA AVENUE,No Response,329,497,322
+Ward 7,2020,BALWIN,5 years or more,1428,316,69
+Ward 7,2020,BALWIN,No 3 years to less than 5 years,210,275,17
+Ward 7,2020,BALWIN,1 year to less than 3 years,138,317,10
+Ward 7,2020,BALWIN,Less than 1 year,114,485,9
+Ward 7,2020,BALWIN,Child less than 1 year,23,29,1
+Ward 7,2020,BALWIN,No Response,136,187,49
+Ward 7,2040,BEACON HEIGHTS,5 years or more,1218,188,18
+Ward 7,2040,BEACON HEIGHTS,No 3 years to less than 5 years,213,132,10
+Ward 7,2040,BEACON HEIGHTS,1 year to less than 3 years,142,157,10
+Ward 7,2040,BEACON HEIGHTS,Less than 1 year,102,223,14
+Ward 7,2040,BEACON HEIGHTS,Child less than 1 year,11,9,0
+Ward 7,2040,BEACON HEIGHTS,No Response,99,98,279
+Ward 7,2060,BELLEVUE,5 years or more,451,37,15
+Ward 7,2060,BELLEVUE,No 3 years to less than 5 years,90,32,4
+Ward 7,2060,BELLEVUE,1 year to less than 3 years,57,52,2
+Ward 7,2060,BELLEVUE,Less than 1 year,41,64,0
+Ward 7,2060,BELLEVUE,Child less than 1 year,6,2,0
+Ward 7,2060,BELLEVUE,No Response,55,8,23
+Ward 7,2090,BERGMAN,5 years or more,1009,6,15
+Ward 7,2090,BERGMAN,No 3 years to less than 5 years,51,9,3
+Ward 7,2090,BERGMAN,1 year to less than 3 years,62,16,1
+Ward 7,2090,BERGMAN,Less than 1 year,60,131,0
+Ward 7,2090,BERGMAN,Child less than 1 year,4,5,0
+Ward 7,2090,BERGMAN,No Response,65,8,9
+Ward 7,2100,BEVERLY HEIGHTS,5 years or more,1486,270,21
+Ward 7,2100,BEVERLY HEIGHTS,No 3 years to less than 5 years,201,157,5
+Ward 7,2100,BEVERLY HEIGHTS,1 year to less than 3 years,180,192,1
+Ward 7,2100,BEVERLY HEIGHTS,Less than 1 year,86,215,2
+Ward 7,2100,BEVERLY HEIGHTS,Child less than 1 year,14,12,0
+Ward 7,2100,BEVERLY HEIGHTS,No Response,68,163,117
+Ward 7,1070,CROMDALE,5 years or more,405,186,2
+Ward 7,1070,CROMDALE,No 3 years to less than 5 years,76,201,1
+Ward 7,1070,CROMDALE,1 year to less than 3 years,70,268,0
+Ward 7,1070,CROMDALE,Less than 1 year,31,503,7
+Ward 7,1070,CROMDALE,Child less than 1 year,1,20,0
+Ward 7,1070,CROMDALE,No Response,41,96,9
+Ward 7,1080,DELTON,5 years or more,737,151,19
+Ward 7,1080,DELTON,No 3 years to less than 5 years,121,88,20
+Ward 7,1080,DELTON,1 year to less than 3 years,96,185,22
+Ward 7,1080,DELTON,Less than 1 year,51,182,11
+Ward 7,1080,DELTON,Child less than 1 year,11,10,1
+Ward 7,1080,DELTON,No Response,85,105,113
+Ward 7,2230,DELWOOD,5 years or more,2050,89,36
+Ward 7,2230,DELWOOD,No 3 years to less than 5 years,203,89,0
+Ward 7,2230,DELWOOD,1 year to less than 3 years,192,153,0
+Ward 7,2230,DELWOOD,Less than 1 year,117,142,6
+Ward 7,2230,DELWOOD,Child less than 1 year,15,1,0
+Ward 7,2230,DELWOOD,No Response,189,61,42
+Ward 7,1100,EASTWOOD,5 years or more,767,551,42
+Ward 7,1100,EASTWOOD,No 3 years to less than 5 years,158,403,27
+Ward 7,1100,EASTWOOD,1 year to less than 3 years,90,502,20
+Ward 7,1100,EASTWOOD,Less than 1 year,68,576,12
+Ward 7,1100,EASTWOOD,Child less than 1 year,7,22,2
+Ward 7,1100,EASTWOOD,No Response,158,467,106
+Ward 7,1120,EDMONTON NORTHLANDS,5 years or more,3,0,0
+Ward 7,1120,EDMONTON NORTHLANDS,No 3 years to less than 5 years,0,0,0
+Ward 7,1120,EDMONTON NORTHLANDS,1 year to less than 3 years,0,0,0
+Ward 7,1120,EDMONTON NORTHLANDS,Less than 1 year,0,0,0
+Ward 7,1120,EDMONTON NORTHLANDS,Child less than 1 year,0,0,0
+Ward 7,1120,EDMONTON NORTHLANDS,No Response,0,0,0
+Ward 7,1130,ELMWOOD PARK,5 years or more,291,78,28
+Ward 7,1130,ELMWOOD PARK,No 3 years to less than 5 years,44,71,5
+Ward 7,1130,ELMWOOD PARK,1 year to less than 3 years,17,82,4
+Ward 7,1130,ELMWOOD PARK,Less than 1 year,36,134,4
+Ward 7,1130,ELMWOOD PARK,Child less than 1 year,2,5,0
+Ward 7,1130,ELMWOOD PARK,No Response,66,146,65
+Ward 7,2290,GLENGARRY,5 years or more,1484,196,5
+Ward 7,2290,GLENGARRY,No 3 years to less than 5 years,196,117,0
+Ward 7,2290,GLENGARRY,1 year to less than 3 years,172,192,0
+Ward 7,2290,GLENGARRY,Less than 1 year,120,214,0
+Ward 7,2290,GLENGARRY,Child less than 1 year,22,10,0
+Ward 7,2290,GLENGARRY,No Response,51,75,56
+Ward 7,2330,HIGHLANDS,5 years or more,1302,126,17
+Ward 7,2330,HIGHLANDS,No 3 years to less than 5 years,216,85,0
+Ward 7,2330,HIGHLANDS,1 year to less than 3 years,178,146,1
+Ward 7,2330,HIGHLANDS,Less than 1 year,116,157,4
+Ward 7,2330,HIGHLANDS,Child less than 1 year,21,8,0
+Ward 7,2330,HIGHLANDS,No Response,153,47,25
+Ward 7,2360,INDUSTRIAL HEIGHTS,5 years or more,0,0,0
+Ward 7,2360,INDUSTRIAL HEIGHTS,No 3 years to less than 5 years,0,0,0
+Ward 7,2360,INDUSTRIAL HEIGHTS,1 year to less than 3 years,0,0,0
+Ward 7,2360,INDUSTRIAL HEIGHTS,Less than 1 year,0,0,0
+Ward 7,2360,INDUSTRIAL HEIGHTS,Child less than 1 year,0,0,0
+Ward 7,2360,INDUSTRIAL HEIGHTS,No Response,0,0,0
+Ward 7,2400,KILDARE,5 years or more,1063,199,20
+Ward 7,2400,KILDARE,No 3 years to less than 5 years,184,165,0
+Ward 7,2400,KILDARE,1 year to less than 3 years,112,285,3
+Ward 7,2400,KILDARE,Less than 1 year,46,266,2
+Ward 7,2400,KILDARE,Child less than 1 year,8,18,0
+Ward 7,2400,KILDARE,No Response,67,78,178
+Ward 7,2420,KILLARNEY,5 years or more,953,489,8
+Ward 7,2420,KILLARNEY,No 3 years to less than 5 years,147,314,11
+Ward 7,2420,KILLARNEY,1 year to less than 3 years,111,632,1
+Ward 7,2420,KILLARNEY,Less than 1 year,75,772,8
+Ward 7,2420,KILLARNEY,Child less than 1 year,10,42,0
+Ward 7,2420,KILLARNEY,No Response,82,263,70
+Ward 7,2550,MONTROSE,5 years or more,1124,325,14
+Ward 7,2550,MONTROSE,No 3 years to less than 5 years,216,137,17
+Ward 7,2550,MONTROSE,1 year to less than 3 years,158,316,10
+Ward 7,2550,MONTROSE,Less than 1 year,112,336,11
+Ward 7,2550,MONTROSE,Child less than 1 year,16,21,0
+Ward 7,2550,MONTROSE,No Response,84,128,214
+Ward 7,2560,NEWTON,5 years or more,1536,173,78
+Ward 7,2560,NEWTON,No 3 years to less than 5 years,100,129,10
+Ward 7,2560,NEWTON,1 year to less than 3 years,88,108,10
+Ward 7,2560,NEWTON,Less than 1 year,86,171,2
+Ward 7,2560,NEWTON,Child less than 1 year,10,7,0
+Ward 7,2560,NEWTON,No Response,147,47,208
+Ward 7,2580,NORTHMOUNT,5 years or more,1705,159,8
+Ward 7,2580,NORTHMOUNT,No 3 years to less than 5 years,223,87,7
+Ward 7,2580,NORTHMOUNT,1 year to less than 3 years,139,116,0
+Ward 7,2580,NORTHMOUNT,Less than 1 year,85,184,9
+Ward 7,2580,NORTHMOUNT,Child less than 1 year,12,14,1
+Ward 7,2580,NORTHMOUNT,No Response,81,33,46
+Ward 7,1160,PARKDALE,5 years or more,972,232,6
+Ward 7,1160,PARKDALE,No 3 years to less than 5 years,195,184,10
+Ward 7,1160,PARKDALE,1 year to less than 3 years,181,338,10
+Ward 7,1160,PARKDALE,Less than 1 year,92,319,7
+Ward 7,1160,PARKDALE,Child less than 1 year,21,22,1
+Ward 7,1160,PARKDALE,No Response,197,174,227
+Ward 7,2640,RIVER VALLEY HIGHLANDS,5 years or more,0,0,0
+Ward 7,2640,RIVER VALLEY HIGHLANDS,No 3 years to less than 5 years,0,0,0
+Ward 7,2640,RIVER VALLEY HIGHLANDS,1 year to less than 3 years,0,0,0
+Ward 7,2640,RIVER VALLEY HIGHLANDS,Less than 1 year,0,0,0
+Ward 7,2640,RIVER VALLEY HIGHLANDS,Child less than 1 year,0,0,0
+Ward 7,2640,RIVER VALLEY HIGHLANDS,No Response,0,0,0
+Ward 7,1190,RIVER VALLEY KINNAIRD,5 years or more,0,0,0
+Ward 7,1190,RIVER VALLEY KINNAIRD,No 3 years to less than 5 years,0,0,0
+Ward 7,1190,RIVER VALLEY KINNAIRD,1 year to less than 3 years,0,0,0
+Ward 7,1190,RIVER VALLEY KINNAIRD,Less than 1 year,0,0,0
+Ward 7,1190,RIVER VALLEY KINNAIRD,Child less than 1 year,0,0,0
+Ward 7,1190,RIVER VALLEY KINNAIRD,No Response,0,0,0
+Ward 7,2650,RIVER VALLEY RUNDLE,5 years or more,0,0,0
+Ward 7,2650,RIVER VALLEY RUNDLE,No 3 years to less than 5 years,0,0,0
+Ward 7,2650,RIVER VALLEY RUNDLE,1 year to less than 3 years,0,0,0
+Ward 7,2650,RIVER VALLEY RUNDLE,Less than 1 year,0,0,0
+Ward 7,2650,RIVER VALLEY RUNDLE,Child less than 1 year,0,0,0
+Ward 7,2650,RIVER VALLEY RUNDLE,No Response,0,0,0
+Ward 7,2660,RUNDLE HEIGHTS,5 years or more,831,362,21
+Ward 7,2660,RUNDLE HEIGHTS,No 3 years to less than 5 years,76,351,11
+Ward 7,2660,RUNDLE HEIGHTS,1 year to less than 3 years,67,566,14
+Ward 7,2660,RUNDLE HEIGHTS,Less than 1 year,44,535,9
+Ward 7,2660,RUNDLE HEIGHTS,Child less than 1 year,14,48,1
+Ward 7,2660,RUNDLE HEIGHTS,No Response,43,163,203
+Ward 7,1240,VIRGINIA PARK,5 years or more,213,112,4
+Ward 7,1240,VIRGINIA PARK,No 3 years to less than 5 years,32,83,0
+Ward 7,1240,VIRGINIA PARK,1 year to less than 3 years,27,61,0
+Ward 7,1240,VIRGINIA PARK,Less than 1 year,17,57,0
+Ward 7,1240,VIRGINIA PARK,Child less than 1 year,0,3,0
+Ward 7,1240,VIRGINIA PARK,No Response,33,21,37
+Ward 7,1270,YELLOWHEAD CORRIDOR EAST,5 years or more,0,0,0
+Ward 7,1270,YELLOWHEAD CORRIDOR EAST,No 3 years to less than 5 years,0,0,0
+Ward 7,1270,YELLOWHEAD CORRIDOR EAST,1 year to less than 3 years,0,0,0
+Ward 7,1270,YELLOWHEAD CORRIDOR EAST,Less than 1 year,0,0,0
+Ward 7,1270,YELLOWHEAD CORRIDOR EAST,Child less than 1 year,0,0,0
+Ward 7,1270,YELLOWHEAD CORRIDOR EAST,No Response,0,0,0
+Ward 8,5040,BELGRAVIA,5 years or more,1055,56,1
+Ward 8,5040,BELGRAVIA,No 3 years to less than 5 years,161,59,0
+Ward 8,5040,BELGRAVIA,1 year to less than 3 years,122,138,0
+Ward 8,5040,BELGRAVIA,Less than 1 year,99,178,2
+Ward 8,5040,BELGRAVIA,Child less than 1 year,8,1,0
+Ward 8,5040,BELGRAVIA,No Response,153,105,3
+Ward 8,6040,BONNIE DOON,5 years or more,1185,322,27
+Ward 8,6040,BONNIE DOON,No 3 years to less than 5 years,333,257,14
+Ward 8,6040,BONNIE DOON,1 year to less than 3 years,264,506,17
+Ward 8,6040,BONNIE DOON,Less than 1 year,199,528,15
+Ward 8,6040,BONNIE DOON,Child less than 1 year,17,23,4
+Ward 8,6040,BONNIE DOON,No Response,138,173,330
+Ward 8,6061,CAPILANO,5 years or more,1816,38,8
+Ward 8,6061,CAPILANO,No 3 years to less than 5 years,251,25,0
+Ward 8,6061,CAPILANO,1 year to less than 3 years,147,55,6
+Ward 8,6061,CAPILANO,Less than 1 year,99,31,0
+Ward 8,6061,CAPILANO,Child less than 1 year,15,2,0
+Ward 8,6061,CAPILANO,No Response,49,8,133
+Ward 8,6070,CLOVERDALE,5 years or more,338,18,1
+Ward 8,6070,CLOVERDALE,No 3 years to less than 5 years,106,29,0
+Ward 8,6070,CLOVERDALE,1 year to less than 3 years,121,39,0
+Ward 8,6070,CLOVERDALE,Less than 1 year,43,79,0
+Ward 8,6070,CLOVERDALE,Child less than 1 year,4,2,0
+Ward 8,6070,CLOVERDALE,No Response,62,8,35
+Ward 8,5150,CPR WEST,5 years or more,0,0,0
+Ward 8,5150,CPR WEST,No 3 years to less than 5 years,0,0,0
+Ward 8,5150,CPR WEST,1 year to less than 3 years,0,0,0
+Ward 8,5150,CPR WEST,Less than 1 year,0,0,0
+Ward 8,5150,CPR WEST,Child less than 1 year,0,0,0
+Ward 8,5150,CPR WEST,No Response,0,0,0
+Ward 8,6180,EASTGATE BUSINESS PARK,5 years or more,0,0,0
+Ward 8,6180,EASTGATE BUSINESS PARK,No 3 years to less than 5 years,0,0,0
+Ward 8,6180,EASTGATE BUSINESS PARK,1 year to less than 3 years,0,0,0
+Ward 8,6180,EASTGATE BUSINESS PARK,Less than 1 year,0,0,0
+Ward 8,6180,EASTGATE BUSINESS PARK,Child less than 1 year,0,0,0
+Ward 8,6180,EASTGATE BUSINESS PARK,No Response,0,0,0
+Ward 8,6230,FOREST HEIGHTS,5 years or more,1273,258,24
+Ward 8,6230,FOREST HEIGHTS,No 3 years to less than 5 years,157,142,4
+Ward 8,6230,FOREST HEIGHTS,1 year to less than 3 years,139,253,7
+Ward 8,6230,FOREST HEIGHTS,Less than 1 year,84,322,5
+Ward 8,6230,FOREST HEIGHTS,Child less than 1 year,9,5,0
+Ward 8,6230,FOREST HEIGHTS,No Response,476,302,468
+Ward 8,6240,FULTON PLACE,5 years or more,1360,81,1
+Ward 8,6240,FULTON PLACE,No 3 years to less than 5 years,217,67,1
+Ward 8,6240,FULTON PLACE,1 year to less than 3 years,139,115,4
+Ward 8,6240,FULTON PLACE,Less than 1 year,101,105,3
+Ward 8,6240,FULTON PLACE,Child less than 1 year,19,5,0
+Ward 8,6240,FULTON PLACE,No Response,22,3,1
+Ward 8,5200,GARNEAU,5 years or more,747,582,20
+Ward 8,5200,GARNEAU,No 3 years to less than 5 years,234,710,14
+Ward 8,5200,GARNEAU,1 year to less than 3 years,210,1694,25
+Ward 8,5200,GARNEAU,Less than 1 year,119,2263,29
+Ward 8,5200,GARNEAU,Child less than 1 year,11,34,1
+Ward 8,5200,GARNEAU,No Response,298,1386,1100
+Ward 8,6270,GOLD BAR,5 years or more,1363,154,13
+Ward 8,6270,GOLD BAR,No 3 years to less than 5 years,220,205,11
+Ward 8,6270,GOLD BAR,1 year to less than 3 years,157,208,2
+Ward 8,6270,GOLD BAR,Less than 1 year,104,281,0
+Ward 8,6270,GOLD BAR,Child less than 1 year,16,15,0
+Ward 8,6270,GOLD BAR,No Response,19,59,10
+Ward 8,6310,HOLYROOD,5 years or more,1417,241,7
+Ward 8,6310,HOLYROOD,No 3 years to less than 5 years,245,220,2
+Ward 8,6310,HOLYROOD,1 year to less than 3 years,192,271,0
+Ward 8,6310,HOLYROOD,Less than 1 year,97,294,3
+Ward 8,6310,HOLYROOD,Child less than 1 year,19,10,0
+Ward 8,6310,HOLYROOD,No Response,58,130,124
+Ward 8,6320,IDYLWYLDE,5 years or more,658,180,9
+Ward 8,6320,IDYLWYLDE,No 3 years to less than 5 years,88,106,1
+Ward 8,6320,IDYLWYLDE,1 year to less than 3 years,107,167,2
+Ward 8,6320,IDYLWYLDE,Less than 1 year,53,212,3
+Ward 8,6320,IDYLWYLDE,Child less than 1 year,9,11,0
+Ward 8,6320,IDYLWYLDE,No Response,60,60,46
+Ward 8,6350,KENILWORTH,5 years or more,1402,89,5
+Ward 8,6350,KENILWORTH,No 3 years to less than 5 years,172,93,1
+Ward 8,6350,KENILWORTH,1 year to less than 3 years,141,102,1
+Ward 8,6350,KENILWORTH,Less than 1 year,84,107,2
+Ward 8,6350,KENILWORTH,Child less than 1 year,8,3,1
+Ward 8,6350,KENILWORTH,No Response,122,59,88
+Ward 8,6380,LAMBTON INDUSTRIAL,5 years or more,0,0,0
+Ward 8,6380,LAMBTON INDUSTRIAL,No 3 years to less than 5 years,0,0,0
+Ward 8,6380,LAMBTON INDUSTRIAL,1 year to less than 3 years,0,0,0
+Ward 8,6380,LAMBTON INDUSTRIAL,Less than 1 year,0,0,0
+Ward 8,6380,LAMBTON INDUSTRIAL,Child less than 1 year,0,0,0
+Ward 8,6380,LAMBTON INDUSTRIAL,No Response,0,0,0
+Ward 8,5290,MCKERNAN,5 years or more,570,87,1
+Ward 8,5290,MCKERNAN,No 3 years to less than 5 years,127,137,0
+Ward 8,5290,MCKERNAN,1 year to less than 3 years,142,424,3
+Ward 8,5290,MCKERNAN,Less than 1 year,66,781,4
+Ward 8,5290,MCKERNAN,Child less than 1 year,6,9,0
+Ward 8,5290,MCKERNAN,No Response,44,163,248
+Ward 8,6491,MILL CREEK RAVINE NORTH,5 years or more,0,0,0
+Ward 8,6491,MILL CREEK RAVINE NORTH,No 3 years to less than 5 years,0,0,0
+Ward 8,6491,MILL CREEK RAVINE NORTH,1 year to less than 3 years,0,0,0
+Ward 8,6491,MILL CREEK RAVINE NORTH,Less than 1 year,0,0,0
+Ward 8,6491,MILL CREEK RAVINE NORTH,Child less than 1 year,0,0,0
+Ward 8,6491,MILL CREEK RAVINE NORTH,No Response,0,0,0
+Ward 8,6550,OTTEWELL,5 years or more,3106,206,41
+Ward 8,6550,OTTEWELL,No 3 years to less than 5 years,460,166,4
+Ward 8,6550,OTTEWELL,1 year to less than 3 years,304,256,12
+Ward 8,6550,OTTEWELL,Less than 1 year,278,407,2
+Ward 8,6550,OTTEWELL,Child less than 1 year,36,18,0
+Ward 8,6550,OTTEWELL,No Response,139,167,251
+Ward 8,5330,QUEEN ALEXANDRA,5 years or more,539,414,19
+Ward 8,5330,QUEEN ALEXANDRA,No 3 years to less than 5 years,154,453,7
+Ward 8,5330,QUEEN ALEXANDRA,1 year to less than 3 years,152,722,28
+Ward 8,5330,QUEEN ALEXANDRA,Less than 1 year,126,981,22
+Ward 8,5330,QUEEN ALEXANDRA,Child less than 1 year,11,18,2
+Ward 8,5330,QUEEN ALEXANDRA,No Response,87,712,231
+Ward 8,6620,RIVER VALLEY GOLD BAR,5 years or more,0,0,0
+Ward 8,6620,RIVER VALLEY GOLD BAR,No 3 years to less than 5 years,0,0,0
+Ward 8,6620,RIVER VALLEY GOLD BAR,1 year to less than 3 years,0,0,0
+Ward 8,6620,RIVER VALLEY GOLD BAR,Less than 1 year,0,0,0
+Ward 8,6620,RIVER VALLEY GOLD BAR,Child less than 1 year,0,0,0
+Ward 8,6620,RIVER VALLEY GOLD BAR,No Response,0,0,0
+Ward 8,5370,RIVER VALLEY MAYFAIR,5 years or more,0,0,0
+Ward 8,5370,RIVER VALLEY MAYFAIR,No 3 years to less than 5 years,0,0,0
+Ward 8,5370,RIVER VALLEY MAYFAIR,1 year to less than 3 years,0,0,0
+Ward 8,5370,RIVER VALLEY MAYFAIR,Less than 1 year,0,0,0
+Ward 8,5370,RIVER VALLEY MAYFAIR,Child less than 1 year,0,0,0
+Ward 8,5370,RIVER VALLEY MAYFAIR,No Response,0,0,0
+Ward 8,6630,RIVER VALLEY RIVERSIDE,5 years or more,0,0,0
+Ward 8,6630,RIVER VALLEY RIVERSIDE,No 3 years to less than 5 years,0,0,0
+Ward 8,6630,RIVER VALLEY RIVERSIDE,1 year to less than 3 years,0,0,0
+Ward 8,6630,RIVER VALLEY RIVERSIDE,Less than 1 year,0,0,0
+Ward 8,6630,RIVER VALLEY RIVERSIDE,Child less than 1 year,0,0,0
+Ward 8,6630,RIVER VALLEY RIVERSIDE,No Response,0,0,0
+Ward 8,5390,RIVER VALLEY WALTERDALE,5 years or more,0,0,0
+Ward 8,5390,RIVER VALLEY WALTERDALE,No 3 years to less than 5 years,0,0,0
+Ward 8,5390,RIVER VALLEY WALTERDALE,1 year to less than 3 years,0,0,0
+Ward 8,5390,RIVER VALLEY WALTERDALE,Less than 1 year,0,0,0
+Ward 8,5390,RIVER VALLEY WALTERDALE,Child less than 1 year,0,0,0
+Ward 8,5390,RIVER VALLEY WALTERDALE,No Response,0,0,0
+Ward 8,5480,STRATHCONA,5 years or more,1496,666,67
+Ward 8,5480,STRATHCONA,No 3 years to less than 5 years,369,654,30
+Ward 8,5480,STRATHCONA,1 year to less than 3 years,258,1229,35
+Ward 8,5480,STRATHCONA,Less than 1 year,216,1812,43
+Ward 8,5480,STRATHCONA,Child less than 1 year,22,41,1
+Ward 8,5480,STRATHCONA,No Response,331,1225,450
+Ward 8,6710,STRATHEARN,5 years or more,679,308,4
+Ward 8,6710,STRATHEARN,No 3 years to less than 5 years,139,211,4
+Ward 8,6710,STRATHEARN,1 year to less than 3 years,95,377,2
+Ward 8,6710,STRATHEARN,Less than 1 year,71,372,5
+Ward 8,6710,STRATHEARN,Child less than 1 year,11,13,0
+Ward 8,6710,STRATHEARN,No Response,56,212,60
+Ward 8,6730,TERRACE HEIGHTS,5 years or more,768,169,1
+Ward 8,6730,TERRACE HEIGHTS,No 3 years to less than 5 years,96,184,5
+Ward 8,6730,TERRACE HEIGHTS,1 year to less than 3 years,84,272,4
+Ward 8,6730,TERRACE HEIGHTS,Less than 1 year,56,302,0
+Ward 8,6730,TERRACE HEIGHTS,Child less than 1 year,9,15,0
+Ward 8,6730,TERRACE HEIGHTS,No Response,23,124,197
+Ward 8,5520,UNIVERSITY OF ALBERTA,5 years or more,0,0,0
+Ward 8,5520,UNIVERSITY OF ALBERTA,No 3 years to less than 5 years,0,0,0
+Ward 8,5520,UNIVERSITY OF ALBERTA,1 year to less than 3 years,0,0,0
+Ward 8,5520,UNIVERSITY OF ALBERTA,Less than 1 year,0,0,0
+Ward 8,5520,UNIVERSITY OF ALBERTA,Child less than 1 year,0,0,0
+Ward 8,5520,UNIVERSITY OF ALBERTA,No Response,0,0,0
+Ward 8,5580,WINDSOR PARK,5 years or more,697,6,3
+Ward 8,5580,WINDSOR PARK,No 3 years to less than 5 years,86,36,4
+Ward 8,5580,WINDSOR PARK,1 year to less than 3 years,52,82,5
+Ward 8,5580,WINDSOR PARK,Less than 1 year,39,108,0
+Ward 8,5580,WINDSOR PARK,Child less than 1 year,5,1,0
+Ward 8,5580,WINDSOR PARK,No Response,59,50,19
+Ward 9,5458,ALLARD,5 years or more,17,6,0
+Ward 9,5458,ALLARD,No 3 years to less than 5 years,0,0,0
+Ward 9,5458,ALLARD,1 year to less than 3 years,8,1,0
+Ward 9,5458,ALLARD,Less than 1 year,178,3,0
+Ward 9,5458,ALLARD,Child less than 1 year,8,0,0
+Ward 9,5458,ALLARD,No Response,12,0,8
+Ward 9,5505,AMBLESIDE,5 years or more,0,0,0
+Ward 9,5505,AMBLESIDE,No 3 years to less than 5 years,261,0,2
+Ward 9,5505,AMBLESIDE,1 year to less than 3 years,929,54,2
+Ward 9,5505,AMBLESIDE,Less than 1 year,637,77,5
+Ward 9,5505,AMBLESIDE,Child less than 1 year,46,4,0
+Ward 9,5505,AMBLESIDE,No Response,245,2,64
+Ward 9,4014,ANTHONY HENDAY SOUTH,5 years or more,0,0,0
+Ward 9,4014,ANTHONY HENDAY SOUTH,No 3 years to less than 5 years,0,0,0
+Ward 9,4014,ANTHONY HENDAY SOUTH,1 year to less than 3 years,0,0,0
+Ward 9,4014,ANTHONY HENDAY SOUTH,Less than 1 year,0,0,0
+Ward 9,4014,ANTHONY HENDAY SOUTH,Child less than 1 year,0,0,0
+Ward 9,4014,ANTHONY HENDAY SOUTH,No Response,0,0,0
+Ward 9,4013,ANTHONY HENDAY TERWILLEGAR,5 years or more,0,0,0
+Ward 9,4013,ANTHONY HENDAY TERWILLEGAR,No 3 years to less than 5 years,0,0,0
+Ward 9,4013,ANTHONY HENDAY TERWILLEGAR,1 year to less than 3 years,0,0,0
+Ward 9,4013,ANTHONY HENDAY TERWILLEGAR,Less than 1 year,0,0,0
+Ward 9,4013,ANTHONY HENDAY TERWILLEGAR,Child less than 1 year,0,0,0
+Ward 9,4013,ANTHONY HENDAY TERWILLEGAR,No Response,0,0,0
+Ward 9,5590,BLACKBURNE,5 years or more,978,14,10
+Ward 9,5590,BLACKBURNE,No 3 years to less than 5 years,130,20,2
+Ward 9,5590,BLACKBURNE,1 year to less than 3 years,132,11,0
+Ward 9,5590,BLACKBURNE,Less than 1 year,91,22,0
+Ward 9,5590,BLACKBURNE,Child less than 1 year,15,0,0
+Ward 9,5590,BLACKBURNE,No Response,54,5,22
+Ward 9,5453,BLACKMUD CREEK,5 years or more,1307,11,4
+Ward 9,5453,BLACKMUD CREEK,No 3 years to less than 5 years,467,42,2
+Ward 9,5453,BLACKMUD CREEK,1 year to less than 3 years,322,75,2
+Ward 9,5453,BLACKMUD CREEK,Less than 1 year,153,82,2
+Ward 9,5453,BLACKMUD CREEK,Child less than 1 year,22,4,1
+Ward 9,5453,BLACKMUD CREEK,No Response,29,3,49
+Ward 9,5080,BRANDER GARDENS,5 years or more,920,186,5
+Ward 9,5080,BRANDER GARDENS,No 3 years to less than 5 years,174,195,0
+Ward 9,5080,BRANDER GARDENS,1 year to less than 3 years,141,279,4
+Ward 9,5080,BRANDER GARDENS,Less than 1 year,101,248,1
+Ward 9,5080,BRANDER GARDENS,Child less than 1 year,7,15,1
+Ward 9,5080,BRANDER GARDENS,No Response,25,112,17
+Ward 9,5090,BROOKSIDE,5 years or more,1092,67,2
+Ward 9,5090,BROOKSIDE,No 3 years to less than 5 years,126,64,3
+Ward 9,5090,BROOKSIDE,1 year to less than 3 years,102,117,0
+Ward 9,5090,BROOKSIDE,Less than 1 year,61,118,0
+Ward 9,5090,BROOKSIDE,Child less than 1 year,11,6,2
+Ward 9,5090,BROOKSIDE,No Response,95,45,5
+Ward 9,5100,BULYEA HEIGHTS,5 years or more,2732,13,20
+Ward 9,5100,BULYEA HEIGHTS,No 3 years to less than 5 years,323,7,0
+Ward 9,5100,BULYEA HEIGHTS,1 year to less than 3 years,174,19,2
+Ward 9,5100,BULYEA HEIGHTS,Less than 1 year,72,20,4
+Ward 9,5100,BULYEA HEIGHTS,Child less than 1 year,18,1,0
+Ward 9,5100,BULYEA HEIGHTS,No Response,121,10,55
+Ward 9,5457,CALLAGHAN,5 years or more,0,0,0
+Ward 9,5457,CALLAGHAN,No 3 years to less than 5 years,103,6,0
+Ward 9,5457,CALLAGHAN,1 year to less than 3 years,365,6,0
+Ward 9,5457,CALLAGHAN,Less than 1 year,551,29,4
+Ward 9,5457,CALLAGHAN,Child less than 1 year,24,1,0
+Ward 9,5457,CALLAGHAN,No Response,40,2,46
+Ward 9,5130,CARTER CREST,5 years or more,1105,5,2
+Ward 9,5130,CARTER CREST,No 3 years to less than 5 years,148,6,7
+Ward 9,5130,CARTER CREST,1 year to less than 3 years,103,20,0
+Ward 9,5130,CARTER CREST,Less than 1 year,52,12,0
+Ward 9,5130,CARTER CREST,Child less than 1 year,7,1,0
+Ward 9,5130,CARTER CREST,No Response,70,1,185
+Ward 9,5462,CHAPPELLE AREA,5 years or more,7,0,0
+Ward 9,5462,CHAPPELLE AREA,No 3 years to less than 5 years,0,0,0
+Ward 9,5462,CHAPPELLE AREA,1 year to less than 3 years,0,4,0
+Ward 9,5462,CHAPPELLE AREA,Less than 1 year,123,9,3
+Ward 9,5462,CHAPPELLE AREA,Child less than 1 year,2,0,0
+Ward 9,5462,CHAPPELLE AREA,No Response,1,0,2
+Ward 9,5463,DESROCHERS AREA,5 years or more,0,0,0
+Ward 9,5463,DESROCHERS AREA,No 3 years to less than 5 years,0,0,0
+Ward 9,5463,DESROCHERS AREA,1 year to less than 3 years,0,0,0
+Ward 9,5463,DESROCHERS AREA,Less than 1 year,0,0,0
+Ward 9,5463,DESROCHERS AREA,Child less than 1 year,0,0,0
+Ward 9,5463,DESROCHERS AREA,No Response,0,0,0
+Ward 9,5190,FALCONER HEIGHTS,5 years or more,1177,28,0
+Ward 9,5190,FALCONER HEIGHTS,No 3 years to less than 5 years,190,54,6
+Ward 9,5190,FALCONER HEIGHTS,1 year to less than 3 years,122,106,4
+Ward 9,5190,FALCONER HEIGHTS,Less than 1 year,71,77,0
+Ward 9,5190,FALCONER HEIGHTS,Child less than 1 year,8,2,0
+Ward 9,5190,FALCONER HEIGHTS,No Response,65,1,159
+Ward 9,5610,HADDOW,5 years or more,2337,16,11
+Ward 9,5610,HADDOW,No 3 years to less than 5 years,821,55,7
+Ward 9,5610,HADDOW,1 year to less than 3 years,439,70,0
+Ward 9,5610,HADDOW,Less than 1 year,174,136,3
+Ward 9,5610,HADDOW,Child less than 1 year,40,7,0
+Ward 9,5610,HADDOW,No Response,84,2,140
+Ward 9,5230,HENDERSON ESTATES,5 years or more,1302,2,26
+Ward 9,5230,HENDERSON ESTATES,No 3 years to less than 5 years,199,0,0
+Ward 9,5230,HENDERSON ESTATES,1 year to less than 3 years,129,2,4
+Ward 9,5230,HENDERSON ESTATES,Less than 1 year,62,18,0
+Ward 9,5230,HENDERSON ESTATES,Child less than 1 year,10,0,0
+Ward 9,5230,HENDERSON ESTATES,No Response,55,0,84
+Ward 9,5456,HERITAGE VALLEY AREA,5 years or more,0,0,0
+Ward 9,5456,HERITAGE VALLEY AREA,No 3 years to less than 5 years,0,0,0
+Ward 9,5456,HERITAGE VALLEY AREA,1 year to less than 3 years,0,0,0
+Ward 9,5456,HERITAGE VALLEY AREA,Less than 1 year,0,0,0
+Ward 9,5456,HERITAGE VALLEY AREA,Child less than 1 year,0,0,0
+Ward 9,5456,HERITAGE VALLEY AREA,No Response,0,0,0
+Ward 9,5461,HERITAGE VALLEY AREA EAST,5 years or more,0,0,0
+Ward 9,5461,HERITAGE VALLEY AREA EAST,No 3 years to less than 5 years,0,0,0
+Ward 9,5461,HERITAGE VALLEY AREA EAST,1 year to less than 3 years,0,0,0
+Ward 9,5461,HERITAGE VALLEY AREA EAST,Less than 1 year,0,0,0
+Ward 9,5461,HERITAGE VALLEY AREA EAST,Child less than 1 year,0,0,0
+Ward 9,5461,HERITAGE VALLEY AREA EAST,No Response,0,0,0
+Ward 9,5464,HERITAGE VALLEY TOWN CENTRE AREA,5 years or more,0,0,0
+Ward 9,5464,HERITAGE VALLEY TOWN CENTRE AREA,No 3 years to less than 5 years,0,0,0
+Ward 9,5464,HERITAGE VALLEY TOWN CENTRE AREA,1 year to less than 3 years,0,0,0
+Ward 9,5464,HERITAGE VALLEY TOWN CENTRE AREA,Less than 1 year,0,0,0
+Ward 9,5464,HERITAGE VALLEY TOWN CENTRE AREA,Child less than 1 year,0,0,0
+Ward 9,5464,HERITAGE VALLEY TOWN CENTRE AREA,No Response,0,0,0
+Ward 9,5620,HODGSON,5 years or more,1211,23,11
+Ward 9,5620,HODGSON,No 3 years to less than 5 years,448,37,10
+Ward 9,5620,HODGSON,1 year to less than 3 years,314,80,4
+Ward 9,5620,HODGSON,Less than 1 year,218,97,5
+Ward 9,5620,HODGSON,Child less than 1 year,30,3,0
+Ward 9,5620,HODGSON,No Response,38,1,118
+Ward 9,5630,LEGER,5 years or more,1264,5,0
+Ward 9,5630,LEGER,No 3 years to less than 5 years,450,34,0
+Ward 9,5630,LEGER,1 year to less than 3 years,301,67,1
+Ward 9,5630,LEGER,Less than 1 year,143,85,2
+Ward 9,5630,LEGER,Child less than 1 year,19,4,0
+Ward 9,5630,LEGER,No Response,32,5,146
+Ward 9,5452,MACEWAN,5 years or more,1858,67,9
+Ward 9,5452,MACEWAN,No 3 years to less than 5 years,1057,217,3
+Ward 9,5452,MACEWAN,1 year to less than 3 years,675,503,6
+Ward 9,5452,MACEWAN,Less than 1 year,259,504,2
+Ward 9,5452,MACEWAN,Child less than 1 year,71,12,1
+Ward 9,5452,MACEWAN,No Response,184,40,154
+Ward 9,5477,MACTAGGART,5 years or more,78,0,0
+Ward 9,5477,MACTAGGART,No 3 years to less than 5 years,360,13,3
+Ward 9,5477,MACTAGGART,1 year to less than 3 years,530,20,6
+Ward 9,5477,MACTAGGART,Less than 1 year,413,38,6
+Ward 9,5477,MACTAGGART,Child less than 1 year,30,2,0
+Ward 9,5477,MACTAGGART,No Response,54,3,123
+Ward 9,5476,MAGRATH HEIGHTS,5 years or more,532,17,0
+Ward 9,5476,MAGRATH HEIGHTS,No 3 years to less than 5 years,872,16,0
+Ward 9,5476,MAGRATH HEIGHTS,1 year to less than 3 years,583,51,1
+Ward 9,5476,MAGRATH HEIGHTS,Less than 1 year,238,93,0
+Ward 9,5476,MAGRATH HEIGHTS,Child less than 1 year,34,4,0
+Ward 9,5476,MAGRATH HEIGHTS,No Response,225,16,113
+Ward 9,5300,OGILVIE RIDGE,5 years or more,654,2,1
+Ward 9,5300,OGILVIE RIDGE,No 3 years to less than 5 years,89,6,0
+Ward 9,5300,OGILVIE RIDGE,1 year to less than 3 years,57,2,0
+Ward 9,5300,OGILVIE RIDGE,Less than 1 year,39,13,0
+Ward 9,5300,OGILVIE RIDGE,Child less than 1 year,4,1,0
+Ward 9,5300,OGILVIE RIDGE,No Response,46,4,83
+Ward 9,5340,RAMSAY HEIGHTS,5 years or more,1809,120,4
+Ward 9,5340,RAMSAY HEIGHTS,No 3 years to less than 5 years,244,129,0
+Ward 9,5340,RAMSAY HEIGHTS,1 year to less than 3 years,163,214,1
+Ward 9,5340,RAMSAY HEIGHTS,Less than 1 year,136,278,6
+Ward 9,5340,RAMSAY HEIGHTS,Child less than 1 year,18,9,0
+Ward 9,5340,RAMSAY HEIGHTS,No Response,87,95,36
+Ward 9,5350,RHATIGAN RIDGE,5 years or more,2239,18,0
+Ward 9,5350,RHATIGAN RIDGE,No 3 years to less than 5 years,309,21,2
+Ward 9,5350,RHATIGAN RIDGE,1 year to less than 3 years,232,47,0
+Ward 9,5350,RHATIGAN RIDGE,Less than 1 year,135,21,4
+Ward 9,5350,RHATIGAN RIDGE,Child less than 1 year,13,0,0
+Ward 9,5350,RHATIGAN RIDGE,No Response,140,2,69
+Ward 9,5451,RICHFORD,5 years or more,335,2,4
+Ward 9,5451,RICHFORD,No 3 years to less than 5 years,61,1,0
+Ward 9,5451,RICHFORD,1 year to less than 3 years,40,4,2
+Ward 9,5451,RICHFORD,Less than 1 year,24,6,0
+Ward 9,5451,RICHFORD,Child less than 1 year,3,0,0
+Ward 9,5451,RICHFORD,No Response,16,0,32
+Ward 9,5401,RIVER VALLEY FORT EDMONTON,5 years or more,0,0,0
+Ward 9,5401,RIVER VALLEY FORT EDMONTON,No 3 years to less than 5 years,0,0,0
+Ward 9,5401,RIVER VALLEY FORT EDMONTON,1 year to less than 3 years,0,0,0
+Ward 9,5401,RIVER VALLEY FORT EDMONTON,Less than 1 year,0,0,0
+Ward 9,5401,RIVER VALLEY FORT EDMONTON,Child less than 1 year,0,0,0
+Ward 9,5401,RIVER VALLEY FORT EDMONTON,No Response,0,0,0
+Ward 9,5380,RIVER VALLEY TERWILLEGAR,5 years or more,0,0,0
+Ward 9,5380,RIVER VALLEY TERWILLEGAR,No 3 years to less than 5 years,0,0,0
+Ward 9,5380,RIVER VALLEY TERWILLEGAR,1 year to less than 3 years,0,0,0
+Ward 9,5380,RIVER VALLEY TERWILLEGAR,Less than 1 year,0,0,0
+Ward 12,6030,BISSET,Less than 1 year,113,413,0
+Ward 9,5380,RIVER VALLEY TERWILLEGAR,Child less than 1 year,0,0,0
+Ward 9,5380,RIVER VALLEY TERWILLEGAR,No Response,0,0,0
+Ward 9,5405,RIVER VALLEY WINDERMERE,5 years or more,0,0,0
+Ward 9,5405,RIVER VALLEY WINDERMERE,No 3 years to less than 5 years,0,0,0
+Ward 9,5405,RIVER VALLEY WINDERMERE,1 year to less than 3 years,0,0,0
+Ward 9,5405,RIVER VALLEY WINDERMERE,Less than 1 year,0,0,0
+Ward 9,5405,RIVER VALLEY WINDERMERE,Child less than 1 year,0,0,0
+Ward 9,5405,RIVER VALLEY WINDERMERE,No Response,0,0,0
+Ward 9,5454,RUTHERFORD,5 years or more,2043,31,7
+Ward 9,5454,RUTHERFORD,No 3 years to less than 5 years,1842,147,4
+Ward 9,5454,RUTHERFORD,1 year to less than 3 years,1321,298,8
+Ward 9,5454,RUTHERFORD,Less than 1 year,891,371,9
+Ward 9,5454,RUTHERFORD,Child less than 1 year,157,16,2
+Ward 9,5454,RUTHERFORD,No Response,384,166,523
+Ward 9,5641,SOUTH TERWILLEGAR,5 years or more,766,25,14
+Ward 9,5641,SOUTH TERWILLEGAR,No 3 years to less than 5 years,2122,179,16
+Ward 9,5641,SOUTH TERWILLEGAR,1 year to less than 3 years,1653,476,30
+Ward 9,5641,SOUTH TERWILLEGAR,Less than 1 year,610,629,36
+Ward 9,5641,SOUTH TERWILLEGAR,Child less than 1 year,132,31,4
+Ward 9,5641,SOUTH TERWILLEGAR,No Response,215,61,533
+Ward 9,5640,TERWILLEGAR TOWNE,5 years or more,2614,41,11
+Ward 9,5640,TERWILLEGAR TOWNE,No 3 years to less than 5 years,1051,69,9
+Ward 9,5640,TERWILLEGAR TOWNE,1 year to less than 3 years,713,230,6
+Ward 9,5640,TERWILLEGAR TOWNE,Less than 1 year,353,268,5
+Ward 9,5640,TERWILLEGAR TOWNE,Child less than 1 year,68,6,2
+Ward 9,5640,TERWILLEGAR TOWNE,No Response,280,19,750
+Ward 9,5511,TWIN BROOKS,5 years or more,4328,40,23
+Ward 9,5511,TWIN BROOKS,No 3 years to less than 5 years,630,29,5
+Ward 9,5511,TWIN BROOKS,1 year to less than 3 years,385,105,8
+Ward 9,5511,TWIN BROOKS,Less than 1 year,201,119,2
+Ward 9,5511,TWIN BROOKS,Child less than 1 year,38,3,1
+Ward 9,5511,TWIN BROOKS,No Response,131,11,370
+Ward 9,5565,WHITEMUD CREEK RAVINE TWIN BROOKS,5 years or more,0,0,0
+Ward 9,5565,WHITEMUD CREEK RAVINE TWIN BROOKS,No 3 years to less than 5 years,0,0,0
+Ward 9,5565,WHITEMUD CREEK RAVINE TWIN BROOKS,1 year to less than 3 years,0,0,0
+Ward 9,5565,WHITEMUD CREEK RAVINE TWIN BROOKS,Less than 1 year,0,0,0
+Ward 9,5565,WHITEMUD CREEK RAVINE TWIN BROOKS,Child less than 1 year,0,0,0
+Ward 9,5565,WHITEMUD CREEK RAVINE TWIN BROOKS,No Response,0,0,0
+Ward 9,5570,WINDERMERE,5 years or more,164,0,0
+Ward 9,5570,WINDERMERE,No 3 years to less than 5 years,137,0,2
+Ward 9,5570,WINDERMERE,1 year to less than 3 years,709,11,10
+Ward 9,5570,WINDERMERE,Less than 1 year,718,50,10
+Ward 9,5570,WINDERMERE,Child less than 1 year,53,2,1
+Ward 9,5570,WINDERMERE,No Response,187,4,78
+Ward 9,5575,WINDERMERE AREA,5 years or more,0,0,0
+Ward 9,5575,WINDERMERE AREA,No 3 years to less than 5 years,0,0,0
+Ward 9,5575,WINDERMERE AREA,1 year to less than 3 years,0,0,0
+Ward 9,5575,WINDERMERE AREA,Less than 1 year,0,0,0
+Ward 9,5575,WINDERMERE AREA,Child less than 1 year,0,0,0
+Ward 9,5575,WINDERMERE AREA,No Response,0,0,0
+Ward 10,5010,ALLENDALE,5 years or more,699,195,12
+Ward 10,5010,ALLENDALE,No 3 years to less than 5 years,158,213,14
+Ward 10,5010,ALLENDALE,1 year to less than 3 years,154,343,18
+Ward 10,5010,ALLENDALE,Less than 1 year,72,448,19
+Ward 10,5010,ALLENDALE,Child less than 1 year,12,10,0
+Ward 10,5010,ALLENDALE,No Response,51,193,75
+Ward 10,5020,ASPEN GARDENS,5 years or more,1071,14,2
+Ward 10,5020,ASPEN GARDENS,No 3 years to less than 5 years,223,12,0
+Ward 10,5020,ASPEN GARDENS,1 year to less than 3 years,89,31,0
+Ward 10,5020,ASPEN GARDENS,Less than 1 year,61,20,0
+Ward 10,5020,ASPEN GARDENS,Child less than 1 year,11,2,0
+Ward 10,5020,ASPEN GARDENS,No Response,35,27,40
+Ward 10,5030,BEARSPAW,5 years or more,1421,75,6
+Ward 10,5030,BEARSPAW,No 3 years to less than 5 years,203,28,5
+Ward 10,5030,BEARSPAW,1 year to less than 3 years,117,46,0
+Ward 10,5030,BEARSPAW,Less than 1 year,69,45,0
+Ward 10,5030,BEARSPAW,Child less than 1 year,13,5,1
+Ward 10,5030,BEARSPAW,No Response,60,18,14
+Ward 10,5050,BLACKMUD CREEK RAVINE,5 years or more,0,0,0
+Ward 10,5050,BLACKMUD CREEK RAVINE,No 3 years to less than 5 years,0,0,0
+Ward 10,5050,BLACKMUD CREEK RAVINE,1 year to less than 3 years,0,0,0
+Ward 10,5050,BLACKMUD CREEK RAVINE,Less than 1 year,0,0,0
+Ward 10,5050,BLACKMUD CREEK RAVINE,Child less than 1 year,0,0,0
+Ward 10,5050,BLACKMUD CREEK RAVINE,No Response,0,0,0
+Ward 10,5060,BLUE QUILL,5 years or more,1165,237,23
+Ward 10,5060,BLUE QUILL,No 3 years to less than 5 years,251,416,4
+Ward 10,5060,BLUE QUILL,1 year to less than 3 years,160,790,9
+Ward 10,5060,BLUE QUILL,Less than 1 year,119,776,5
+Ward 10,5060,BLUE QUILL,Child less than 1 year,17,34,1
+Ward 10,5060,BLUE QUILL,No Response,125,344,92
+Ward 10,5070,BLUE QUILL ESTATES,5 years or more,515,40,1
+Ward 10,5070,BLUE QUILL ESTATES,No 3 years to less than 5 years,97,49,0
+Ward 10,5070,BLUE QUILL ESTATES,1 year to less than 3 years,53,151,0
+Ward 10,5070,BLUE QUILL ESTATES,Less than 1 year,18,186,0
+Ward 10,5070,BLUE QUILL ESTATES,Child less than 1 year,5,6,0
+Ward 10,5070,BLUE QUILL ESTATES,No Response,48,80,47
+Ward 10,5110,CALGARY TRAIL NORTH,5 years or more,0,0,0
+Ward 10,5110,CALGARY TRAIL NORTH,No 3 years to less than 5 years,0,0,0
+Ward 10,5110,CALGARY TRAIL NORTH,1 year to less than 3 years,0,0,0
+Ward 10,5110,CALGARY TRAIL NORTH,Less than 1 year,0,0,0
+Ward 10,5110,CALGARY TRAIL NORTH,Child less than 1 year,0,0,0
+Ward 10,5110,CALGARY TRAIL NORTH,No Response,0,0,0
+Ward 10,5120,CALGARY TRAIL SOUTH,5 years or more,0,0,0
+Ward 10,5120,CALGARY TRAIL SOUTH,No 3 years to less than 5 years,0,0,0
+Ward 10,5120,CALGARY TRAIL SOUTH,1 year to less than 3 years,0,0,0
+Ward 10,5120,CALGARY TRAIL SOUTH,Less than 1 year,0,0,0
+Ward 10,5120,CALGARY TRAIL SOUTH,Child less than 1 year,0,0,0
+Ward 10,5120,CALGARY TRAIL SOUTH,No Response,0,0,0
+Ward 10,5160,DUGGAN,5 years or more,1820,210,27
+Ward 10,5160,DUGGAN,No 3 years to less than 5 years,261,280,4
+Ward 10,5160,DUGGAN,1 year to less than 3 years,164,499,9
+Ward 10,5160,DUGGAN,Less than 1 year,134,529,11
+Ward 10,5160,DUGGAN,Child less than 1 year,26,32,0
+Ward 10,5160,DUGGAN,No Response,145,195,189
+Ward 10,5170,EMPIRE PARK,5 years or more,219,647,23
+Ward 10,5170,EMPIRE PARK,No 3 years to less than 5 years,65,563,7
+Ward 10,5170,EMPIRE PARK,1 year to less than 3 years,67,1191,17
+Ward 10,5170,EMPIRE PARK,Less than 1 year,29,1269,16
+Ward 10,5170,EMPIRE PARK,Child less than 1 year,5,54,0
+Ward 10,5170,EMPIRE PARK,No Response,17,912,72
+Ward 10,5180,ERMINESKIN,5 years or more,866,665,47
+Ward 10,5180,ERMINESKIN,No 3 years to less than 5 years,182,557,12
+Ward 10,5180,ERMINESKIN,1 year to less than 3 years,216,764,14
+Ward 10,5180,ERMINESKIN,Less than 1 year,128,824,11
+Ward 10,5180,ERMINESKIN,Child less than 1 year,16,29,2
+Ward 10,5180,ERMINESKIN,No Response,95,416,192
+Ward 10,5210,GRANDVIEW HEIGHTS,5 years or more,636,3,7
+Ward 10,5210,GRANDVIEW HEIGHTS,No 3 years to less than 5 years,100,3,0
+Ward 10,5210,GRANDVIEW HEIGHTS,1 year to less than 3 years,49,8,0
+Ward 10,5210,GRANDVIEW HEIGHTS,Less than 1 year,38,13,0
+Ward 10,5210,GRANDVIEW HEIGHTS,Child less than 1 year,4,2,0
+Ward 10,5210,GRANDVIEW HEIGHTS,No Response,45,13,28
+Ward 10,5220,GREENFIELD,5 years or more,2405,53,11
+Ward 10,5220,GREENFIELD,No 3 years to less than 5 years,307,82,0
+Ward 10,5220,GREENFIELD,1 year to less than 3 years,208,92,0
+Ward 10,5220,GREENFIELD,Less than 1 year,131,112,4
+Ward 10,5220,GREENFIELD,Child less than 1 year,20,4,0
+Ward 10,5220,GREENFIELD,No Response,75,32,70
+Ward 10,5250,KEHEEWIN,5 years or more,1470,96,47
+Ward 10,5250,KEHEEWIN,No 3 years to less than 5 years,278,168,15
+Ward 10,5250,KEHEEWIN,1 year to less than 3 years,154,113,7
+Ward 10,5250,KEHEEWIN,Less than 1 year,119,158,10
+Ward 10,5250,KEHEEWIN,Child less than 1 year,11,9,0
+Ward 10,5250,KEHEEWIN,No Response,99,43,71
+Ward 10,5260,LANSDOWNE,5 years or more,590,65,11
+Ward 10,5260,LANSDOWNE,No 3 years to less than 5 years,78,48,1
+Ward 10,5260,LANSDOWNE,1 year to less than 3 years,67,92,9
+Ward 10,5260,LANSDOWNE,Less than 1 year,24,93,2
+Ward 10,5260,LANSDOWNE,Child less than 1 year,9,3,0
+Ward 10,5260,LANSDOWNE,No Response,8,60,54
+Ward 10,5270,LENDRUM PLACE,5 years or more,914,102,12
+Ward 10,5270,LENDRUM PLACE,No 3 years to less than 5 years,137,44,4
+Ward 10,5270,LENDRUM PLACE,1 year to less than 3 years,100,114,1
+Ward 10,5270,LENDRUM PLACE,Less than 1 year,56,176,1
+Ward 10,5270,LENDRUM PLACE,Child less than 1 year,10,10,0
+Ward 10,5270,LENDRUM PLACE,No Response,19,27,158
+Ward 10,5280,MALMO PLAINS,5 years or more,963,143,36
+Ward 10,5280,MALMO PLAINS,No 3 years to less than 5 years,118,421,8
+Ward 10,5280,MALMO PLAINS,1 year to less than 3 years,106,567,15
+Ward 10,5280,MALMO PLAINS,Less than 1 year,58,477,5
+Ward 10,5280,MALMO PLAINS,Child less than 1 year,9,54,0
+Ward 10,5280,MALMO PLAINS,No Response,52,170,97
+Ward 10,5310,PARKALLEN,5 years or more,918,74,11
+Ward 10,5310,PARKALLEN,No 3 years to less than 5 years,181,78,1
+Ward 10,5310,PARKALLEN,1 year to less than 3 years,125,242,7
+Ward 10,5310,PARKALLEN,Less than 1 year,104,309,9
+Ward 10,5310,PARKALLEN,Child less than 1 year,13,3,0
+Ward 10,5310,PARKALLEN,No Response,40,54,46
+Ward 10,5320,PLEASANTVIEW,5 years or more,1220,343,30
+Ward 10,5320,PLEASANTVIEW,No 3 years to less than 5 years,200,279,11
+Ward 10,5320,PLEASANTVIEW,1 year to less than 3 years,138,366,17
+Ward 10,5320,PLEASANTVIEW,Less than 1 year,116,427,16
+Ward 10,5320,PLEASANTVIEW,Child less than 1 year,19,11,3
+Ward 10,5320,PLEASANTVIEW,No Response,120,218,213
+Ward 10,5360,RIDEAU PARK,5 years or more,602,189,7
+Ward 10,5360,RIDEAU PARK,No 3 years to less than 5 years,92,124,0
+Ward 10,5360,RIDEAU PARK,1 year to less than 3 years,65,156,3
+Ward 10,5360,RIDEAU PARK,Less than 1 year,41,174,0
+Ward 10,5360,RIDEAU PARK,Child less than 1 year,6,3,0
+Ward 10,5360,RIDEAU PARK,No Response,65,120,232
+Ward 10,5400,RIVER VALLEY WHITEMUD,5 years or more,0,0,0
+Ward 10,5400,RIVER VALLEY WHITEMUD,No 3 years to less than 5 years,0,0,0
+Ward 10,5400,RIVER VALLEY WHITEMUD,1 year to less than 3 years,0,0,0
+Ward 10,5400,RIVER VALLEY WHITEMUD,Less than 1 year,0,0,0
+Ward 10,5400,RIVER VALLEY WHITEMUD,Child less than 1 year,0,0,0
+Ward 10,5400,RIVER VALLEY WHITEMUD,No Response,0,0,0
+Ward 10,6650,ROSEDALE INDUSTRIAL,5 years or more,0,0,0
+Ward 10,6650,ROSEDALE INDUSTRIAL,No 3 years to less than 5 years,0,0,0
+Ward 10,6650,ROSEDALE INDUSTRIAL,1 year to less than 3 years,0,0,0
+Ward 10,6650,ROSEDALE INDUSTRIAL,Less than 1 year,0,0,0
+Ward 10,6650,ROSEDALE INDUSTRIAL,Child less than 1 year,0,0,0
+Ward 10,6650,ROSEDALE INDUSTRIAL,No Response,0,0,0
+Ward 10,5430,ROYAL GARDENS,5 years or more,1169,273,9
+Ward 10,5430,ROYAL GARDENS,No 3 years to less than 5 years,205,295,9
+Ward 10,5430,ROYAL GARDENS,1 year to less than 3 years,154,378,7
+Ward 10,5430,ROYAL GARDENS,Less than 1 year,111,414,11
+Ward 10,5430,ROYAL GARDENS,Child less than 1 year,13,15,0
+Ward 10,5430,ROYAL GARDENS,No Response,103,278,28
+Ward 10,5460,SKYRATTLER,5 years or more,617,183,3
+Ward 10,5460,SKYRATTLER,No 3 years to less than 5 years,155,114,0
+Ward 10,5460,SKYRATTLER,1 year to less than 3 years,81,188,7
+Ward 10,5460,SKYRATTLER,Less than 1 year,58,224,2
+Ward 10,5460,SKYRATTLER,Child less than 1 year,6,3,0
+Ward 10,5460,SKYRATTLER,No Response,74,135,74
+Ward 10,5470,STEINHAUER,5 years or more,1031,53,14
+Ward 10,5470,STEINHAUER,No 3 years to less than 5 years,134,53,1
+Ward 10,5470,STEINHAUER,1 year to less than 3 years,64,85,1
+Ward 10,5470,STEINHAUER,Less than 1 year,40,39,1
+Ward 10,5470,STEINHAUER,Child less than 1 year,8,3,0
+Ward 10,5470,STEINHAUER,No Response,63,64,213
+Ward 10,5490,SWEET GRASS,5 years or more,1148,194,20
+Ward 10,5490,SWEET GRASS,No 3 years to less than 5 years,138,186,0
+Ward 10,5490,SWEET GRASS,1 year to less than 3 years,89,182,0
+Ward 10,5490,SWEET GRASS,Less than 1 year,57,209,5
+Ward 10,5490,SWEET GRASS,Child less than 1 year,10,14,0
+Ward 10,5490,SWEET GRASS,No Response,89,124,117
+Ward 10,5530,UNIVERSITY OF ALBERTA FARM,5 years or more,0,0,0
+Ward 10,5530,UNIVERSITY OF ALBERTA FARM,No 3 years to less than 5 years,0,0,0
+Ward 10,5530,UNIVERSITY OF ALBERTA FARM,1 year to less than 3 years,0,0,0
+Ward 10,5530,UNIVERSITY OF ALBERTA FARM,Less than 1 year,0,0,0
+Ward 10,5530,UNIVERSITY OF ALBERTA FARM,Child less than 1 year,0,0,0
+Ward 10,5530,UNIVERSITY OF ALBERTA FARM,No Response,0,0,0
+Ward 10,5540,WESTBROOK ESTATES,5 years or more,600,30,2
+Ward 10,5540,WESTBROOK ESTATES,No 3 years to less than 5 years,85,69,0
+Ward 10,5540,WESTBROOK ESTATES,1 year to less than 3 years,47,138,2
+Ward 10,5540,WESTBROOK ESTATES,Less than 1 year,23,127,1
+Ward 10,5540,WESTBROOK ESTATES,Child less than 1 year,1,10,0
+Ward 10,5540,WESTBROOK ESTATES,No Response,25,19,46
+Ward 10,5550,WHITEMUD CREEK RAVINE NORTH,5 years or more,0,0,0
+Ward 10,5550,WHITEMUD CREEK RAVINE NORTH,No 3 years to less than 5 years,0,0,0
+Ward 10,5550,WHITEMUD CREEK RAVINE NORTH,1 year to less than 3 years,0,0,0
+Ward 10,5550,WHITEMUD CREEK RAVINE NORTH,Less than 1 year,0,0,0
+Ward 10,5550,WHITEMUD CREEK RAVINE NORTH,Child less than 1 year,0,0,0
+Ward 10,5550,WHITEMUD CREEK RAVINE NORTH,No Response,0,0,0
+Ward 10,5560,WHITEMUD CREEK RAVINE SOUTH,5 years or more,0,0,0
+Ward 10,5560,WHITEMUD CREEK RAVINE SOUTH,No 3 years to less than 5 years,0,0,0
+Ward 10,5560,WHITEMUD CREEK RAVINE SOUTH,1 year to less than 3 years,0,0,0
+Ward 10,5560,WHITEMUD CREEK RAVINE SOUTH,Less than 1 year,0,0,0
+Ward 10,5560,WHITEMUD CREEK RAVINE SOUTH,Child less than 1 year,0,0,0
+Ward 10,5560,WHITEMUD CREEK RAVINE SOUTH,No Response,0,0,0
+Ward 11,6010,ARGYLL,5 years or more,458,24,2
+Ward 11,6010,ARGYLL,No 3 years to less than 5 years,80,37,0
+Ward 11,6010,ARGYLL,1 year to less than 3 years,62,29,0
+Ward 11,6010,ARGYLL,Less than 1 year,51,50,0
+Ward 11,6010,ARGYLL,Child less than 1 year,4,0,0
+Ward 11,6010,ARGYLL,No Response,7,10,36
+Ward 11,6020,AVONMORE,5 years or more,1071,81,21
+Ward 11,6020,AVONMORE,No 3 years to less than 5 years,176,59,4
+Ward 11,6020,AVONMORE,1 year to less than 3 years,137,92,3
+Ward 11,6020,AVONMORE,Less than 1 year,67,75,0
+Ward 11,6020,AVONMORE,Child less than 1 year,10,1,1
+Ward 11,6020,AVONMORE,No Response,94,57,138
+Ward 11,6090,CORONET ADDITION INDUSTRIAL,5 years or more,0,0,0
+Ward 11,6090,CORONET ADDITION INDUSTRIAL,No 3 years to less than 5 years,0,0,0
+Ward 11,6090,CORONET ADDITION INDUSTRIAL,1 year to less than 3 years,0,0,0
+Ward 11,6090,CORONET ADDITION INDUSTRIAL,Less than 1 year,0,0,0
+Ward 11,6090,CORONET ADDITION INDUSTRIAL,Child less than 1 year,0,0,0
+Ward 11,6090,CORONET ADDITION INDUSTRIAL,No Response,0,0,0
+Ward 11,6100,CORONET INDUSTRIAL,5 years or more,0,0,0
+Ward 11,6100,CORONET INDUSTRIAL,No 3 years to less than 5 years,0,0,0
+Ward 11,6100,CORONET INDUSTRIAL,1 year to less than 3 years,0,0,0
+Ward 11,6100,CORONET INDUSTRIAL,Less than 1 year,0,0,0
+Ward 11,6100,CORONET INDUSTRIAL,Child less than 1 year,0,0,0
+Ward 11,6100,CORONET INDUSTRIAL,No Response,0,0,0
+Ward 11,6110,CPR IRVINE,5 years or more,0,0,0
+Ward 11,6110,CPR IRVINE,No 3 years to less than 5 years,0,0,0
+Ward 11,6110,CPR IRVINE,1 year to less than 3 years,0,0,0
+Ward 11,6110,CPR IRVINE,Less than 1 year,0,0,0
+Ward 11,6110,CPR IRVINE,Child less than 1 year,0,0,0
+Ward 11,6110,CPR IRVINE,No Response,0,0,0
+Ward 11,6160,DAVIES INDUSTRIAL EAST,5 years or more,0,0,0
+Ward 11,6160,DAVIES INDUSTRIAL EAST,No 3 years to less than 5 years,0,0,0
+Ward 11,6160,DAVIES INDUSTRIAL EAST,1 year to less than 3 years,0,0,0
+Ward 11,6160,DAVIES INDUSTRIAL EAST,Less than 1 year,0,0,0
+Ward 11,6160,DAVIES INDUSTRIAL EAST,Child less than 1 year,0,0,0
+Ward 11,6160,DAVIES INDUSTRIAL EAST,No Response,0,0,0
+Ward 11,6170,DAVIES INDUSTRIAL WEST,5 years or more,0,0,0
+Ward 11,6170,DAVIES INDUSTRIAL WEST,No 3 years to less than 5 years,0,0,0
+Ward 11,6170,DAVIES INDUSTRIAL WEST,1 year to less than 3 years,0,0,0
+Ward 11,6170,DAVIES INDUSTRIAL WEST,Less than 1 year,0,0,0
+Ward 11,6170,DAVIES INDUSTRIAL WEST,Child less than 1 year,0,0,0
+Ward 11,6170,DAVIES INDUSTRIAL WEST,No Response,0,0,0
+Ward 11,6190,EDMONTON RESEARCH AND DEVELOPMENT PARK,5 years or more,0,0,0
+Ward 11,6190,EDMONTON RESEARCH AND DEVELOPMENT PARK,No 3 years to less than 5 years,0,0,0
+Ward 11,6190,EDMONTON RESEARCH AND DEVELOPMENT PARK,1 year to less than 3 years,0,0,0
+Ward 11,6190,EDMONTON RESEARCH AND DEVELOPMENT PARK,Less than 1 year,0,0,0
+Ward 11,6190,EDMONTON RESEARCH AND DEVELOPMENT PARK,Child less than 1 year,0,0,0
+Ward 11,6190,EDMONTON RESEARCH AND DEVELOPMENT PARK,No Response,0,0,0
+Ward 11,6200,EKOTA,5 years or more,1169,182,11
+Ward 11,6200,EKOTA,No 3 years to less than 5 years,165,137,1
+Ward 11,6200,EKOTA,1 year to less than 3 years,136,195,9
+Ward 11,6200,EKOTA,Less than 1 year,125,200,1
+Ward 11,6200,EKOTA,Child less than 1 year,11,13,0
+Ward 11,6200,EKOTA,No Response,90,76,29
+Ward 11,6250,GAINER INDUSTRIAL,5 years or more,0,0,0
+Ward 11,6250,GAINER INDUSTRIAL,No 3 years to less than 5 years,72,5,0
+Ward 11,6250,GAINER INDUSTRIAL,1 year to less than 3 years,45,8,0
+Ward 11,6250,GAINER INDUSTRIAL,Less than 1 year,70,9,0
+Ward 11,6250,GAINER INDUSTRIAL,Child less than 1 year,1,1,0
+Ward 11,6250,GAINER INDUSTRIAL,No Response,5,0,0
+Ward 11,6260,GIRARD INDUSTRIAL,5 years or more,0,0,0
+Ward 11,6260,GIRARD INDUSTRIAL,No 3 years to less than 5 years,0,0,0
+Ward 11,6260,GIRARD INDUSTRIAL,1 year to less than 3 years,0,0,0
+Ward 11,6260,GIRARD INDUSTRIAL,Less than 1 year,0,0,0
+Ward 11,6260,GIRARD INDUSTRIAL,Child less than 1 year,0,0,0
+Ward 11,6260,GIRARD INDUSTRIAL,No Response,0,0,0
+Ward 11,6280,GREENVIEW,5 years or more,1597,114,18
+Ward 11,6280,GREENVIEW,No 3 years to less than 5 years,223,99,1
+Ward 11,6280,GREENVIEW,1 year to less than 3 years,216,123,0
+Ward 11,6280,GREENVIEW,Less than 1 year,136,169,6
+Ward 11,6280,GREENVIEW,Child less than 1 year,22,13,1
+Ward 11,6280,GREENVIEW,No Response,85,47,54
+Ward 11,6290,HAZELDEAN,5 years or more,1032,215,8
+Ward 11,6290,HAZELDEAN,No 3 years to less than 5 years,206,148,2
+Ward 11,6290,HAZELDEAN,1 year to less than 3 years,166,295,5
+Ward 11,6290,HAZELDEAN,Less than 1 year,106,375,6
+Ward 11,6290,HAZELDEAN,Child less than 1 year,16,22,1
+Ward 11,6290,HAZELDEAN,No Response,61,146,169
+Ward 11,6300,HILLVIEW,5 years or more,1450,205,54
+Ward 11,6300,HILLVIEW,No 3 years to less than 5 years,249,144,7
+Ward 11,6300,HILLVIEW,1 year to less than 3 years,144,257,13
+Ward 11,6300,HILLVIEW,Less than 1 year,77,180,19
+Ward 11,6300,HILLVIEW,Child less than 1 year,18,15,1
+Ward 11,6300,HILLVIEW,No Response,206,156,243
+Ward 11,6340,KAMEYOSEK,5 years or more,809,232,3
+Ward 11,6340,KAMEYOSEK,No 3 years to less than 5 years,201,234,20
+Ward 11,6340,KAMEYOSEK,1 year to less than 3 years,145,389,24
+Ward 11,6340,KAMEYOSEK,Less than 1 year,103,308,5
+Ward 11,6340,KAMEYOSEK,Child less than 1 year,10,25,1
+Ward 11,6340,KAMEYOSEK,No Response,40,153,194
+Ward 11,6360,KING EDWARD PARK,5 years or more,1275,289,28
+Ward 11,6360,KING EDWARD PARK,No 3 years to less than 5 years,207,234,17
+Ward 11,6360,KING EDWARD PARK,1 year to less than 3 years,214,468,9
+Ward 11,6360,KING EDWARD PARK,Less than 1 year,131,553,12
+Ward 11,6360,KING EDWARD PARK,Child less than 1 year,19,20,1
+Ward 11,6360,KING EDWARD PARK,No Response,144,274,319
+Ward 11,6400,LEE RIDGE,5 years or more,1043,233,9
+Ward 11,6400,LEE RIDGE,No 3 years to less than 5 years,218,233,10
+Ward 11,6400,LEE RIDGE,1 year to less than 3 years,154,380,6
+Ward 11,6400,LEE RIDGE,Less than 1 year,87,290,8
+Ward 11,6400,LEE RIDGE,Child less than 1 year,11,18,0
+Ward 11,6400,LEE RIDGE,No Response,23,15,1
+Ward 11,6410,MAPLE RIDGE,5 years or more,815,13,2
+Ward 11,6410,MAPLE RIDGE,No 3 years to less than 5 years,246,15,0
+Ward 11,6410,MAPLE RIDGE,1 year to less than 3 years,160,34,0
+Ward 11,6410,MAPLE RIDGE,Less than 1 year,115,51,4
+Ward 11,6410,MAPLE RIDGE,Child less than 1 year,15,1,0
+Ward 11,6410,MAPLE RIDGE,No Response,46,6,185
+Ward 11,6420,MAPLE RIDGE INDUSTRIAL,5 years or more,42,5,0
+Ward 11,6420,MAPLE RIDGE INDUSTRIAL,No 3 years to less than 5 years,2,1,1
+Ward 11,6420,MAPLE RIDGE INDUSTRIAL,1 year to less than 3 years,0,1,5
+Ward 11,6420,MAPLE RIDGE INDUSTRIAL,Less than 1 year,1,0,0
+Ward 11,6420,MAPLE RIDGE INDUSTRIAL,Child less than 1 year,0,0,0
+Ward 11,6420,MAPLE RIDGE INDUSTRIAL,No Response,1,2,0
+Ward 11,6430,MCINTYRE INDUSTRIAL,5 years or more,0,0,0
+Ward 11,6430,MCINTYRE INDUSTRIAL,No 3 years to less than 5 years,0,0,0
+Ward 11,6430,MCINTYRE INDUSTRIAL,1 year to less than 3 years,0,0,0
+Ward 11,6430,MCINTYRE INDUSTRIAL,Less than 1 year,0,0,0
+Ward 11,6430,MCINTYRE INDUSTRIAL,Child less than 1 year,0,0,0
+Ward 11,6430,MCINTYRE INDUSTRIAL,No Response,0,0,0
+Ward 11,6450,MENISA,5 years or more,1531,89,14
+Ward 11,6450,MENISA,No 3 years to less than 5 years,188,71,1
+Ward 11,6450,MENISA,1 year to less than 3 years,128,130,3
+Ward 11,6450,MENISA,Less than 1 year,107,121,3
+Ward 11,6450,MENISA,Child less than 1 year,9,4,1
+Ward 11,6450,MENISA,No Response,55,17,72
+Ward 11,6460,MEYOKUMIN,5 years or more,1253,124,31
+Ward 11,6460,MEYOKUMIN,No 3 years to less than 5 years,197,91,4
+Ward 11,6460,MEYOKUMIN,1 year to less than 3 years,207,214,1
+Ward 11,6460,MEYOKUMIN,Less than 1 year,98,183,8
+Ward 11,6460,MEYOKUMIN,Child less than 1 year,21,15,0
+Ward 11,6460,MEYOKUMIN,No Response,57,56,325
+Ward 11,6470,MEYONOHK,5 years or more,1222,88,108
+Ward 11,6470,MEYONOHK,No 3 years to less than 5 years,261,69,53
+Ward 11,6470,MEYONOHK,1 year to less than 3 years,218,217,30
+Ward 11,6470,MEYONOHK,Less than 1 year,111,182,20
+Ward 11,6470,MEYONOHK,Child less than 1 year,13,17,7
+Ward 11,6470,MEYONOHK,No Response,123,32,161
+Ward 11,6480,MICHAELS PARK,5 years or more,1150,92,3
+Ward 11,6480,MICHAELS PARK,No 3 years to less than 5 years,182,140,12
+Ward 11,6480,MICHAELS PARK,1 year to less than 3 years,155,185,2
+Ward 11,6480,MICHAELS PARK,Less than 1 year,76,164,4
+Ward 11,6480,MICHAELS PARK,Child less than 1 year,5,14,0
+Ward 11,6480,MICHAELS PARK,No Response,9,8,0
+Ward 11,6492,MILL CREEK RAVINE SOUTH,5 years or more,0,0,0
+Ward 11,6492,MILL CREEK RAVINE SOUTH,No 3 years to less than 5 years,0,0,0
+Ward 11,6492,MILL CREEK RAVINE SOUTH,1 year to less than 3 years,0,0,0
+Ward 11,6492,MILL CREEK RAVINE SOUTH,Less than 1 year,0,0,0
+Ward 11,6492,MILL CREEK RAVINE SOUTH,Child less than 1 year,0,0,0
+Ward 11,6492,MILL CREEK RAVINE SOUTH,No Response,0,0,0
+Ward 11,6500,MILL WOODS GOLF COURSE,5 years or more,0,0,0
+Ward 11,6500,MILL WOODS GOLF COURSE,No 3 years to less than 5 years,0,0,0
+Ward 11,6500,MILL WOODS GOLF COURSE,1 year to less than 3 years,0,0,0
+Ward 11,6500,MILL WOODS GOLF COURSE,Less than 1 year,0,0,0
+Ward 11,6500,MILL WOODS GOLF COURSE,Child less than 1 year,0,0,0
+Ward 11,6500,MILL WOODS GOLF COURSE,No Response,0,0,0
+Ward 11,6510,MILL WOODS PARK,5 years or more,0,0,0
+Ward 11,6510,MILL WOODS PARK,No 3 years to less than 5 years,0,0,0
+Ward 11,6510,MILL WOODS PARK,1 year to less than 3 years,0,0,0
+Ward 11,6510,MILL WOODS PARK,Less than 1 year,0,0,0
+Ward 11,6510,MILL WOODS PARK,Child less than 1 year,0,0,0
+Ward 11,6510,MILL WOODS PARK,No Response,0,0,0
+Ward 11,6520,MILL WOODS TOWN CENTRE,5 years or more,326,61,1
+Ward 11,6520,MILL WOODS TOWN CENTRE,No 3 years to less than 5 years,91,59,1
+Ward 11,6520,MILL WOODS TOWN CENTRE,1 year to less than 3 years,40,155,1
+Ward 11,6520,MILL WOODS TOWN CENTRE,Less than 1 year,51,211,1
+Ward 11,6520,MILL WOODS TOWN CENTRE,Child less than 1 year,4,7,0
+Ward 11,6520,MILL WOODS TOWN CENTRE,No Response,16,58,6
+Ward 11,6540,MORRIS INDUSTRIAL,5 years or more,0,0,0
+Ward 11,6540,MORRIS INDUSTRIAL,No 3 years to less than 5 years,0,0,0
+Ward 11,6540,MORRIS INDUSTRIAL,1 year to less than 3 years,0,0,0
+Ward 11,6540,MORRIS INDUSTRIAL,Less than 1 year,0,0,0
+Ward 11,6540,MORRIS INDUSTRIAL,Child less than 1 year,0,0,0
+Ward 11,6540,MORRIS INDUSTRIAL,No Response,0,0,0
+Ward 11,6560,PAPASCHASE INDUSTRIAL,5 years or more,0,0,0
+Ward 11,6560,PAPASCHASE INDUSTRIAL,No 3 years to less than 5 years,0,0,0
+Ward 11,6560,PAPASCHASE INDUSTRIAL,1 year to less than 3 years,0,0,0
+Ward 11,6560,PAPASCHASE INDUSTRIAL,Less than 1 year,0,0,0
+Ward 11,6560,PAPASCHASE INDUSTRIAL,Child less than 1 year,0,0,0
+Ward 11,6560,PAPASCHASE INDUSTRIAL,No Response,0,0,0
+Ward 11,6570,PARSONS INDUSTRIAL,5 years or more,0,0,0
+Ward 11,6570,PARSONS INDUSTRIAL,No 3 years to less than 5 years,0,0,0
+Ward 11,6570,PARSONS INDUSTRIAL,1 year to less than 3 years,0,0,0
+Ward 11,6570,PARSONS INDUSTRIAL,Less than 1 year,0,0,0
+Ward 11,6570,PARSONS INDUSTRIAL,Child less than 1 year,0,0,0
+Ward 11,6570,PARSONS INDUSTRIAL,No Response,0,0,0
+Ward 11,6590,PYLYPOW INDUSTRIAL,5 years or more,0,0,0
+Ward 11,6590,PYLYPOW INDUSTRIAL,No 3 years to less than 5 years,0,0,0
+Ward 11,6590,PYLYPOW INDUSTRIAL,1 year to less than 3 years,0,0,0
+Ward 11,6590,PYLYPOW INDUSTRIAL,Less than 1 year,0,0,0
+Ward 11,6590,PYLYPOW INDUSTRIAL,Child less than 1 year,0,0,0
+Ward 11,6590,PYLYPOW INDUSTRIAL,No Response,0,0,0
+Ward 11,6600,RICHFIELD,5 years or more,1000,419,12
+Ward 11,6600,RICHFIELD,No 3 years to less than 5 years,238,381,2
+Ward 11,6600,RICHFIELD,1 year to less than 3 years,138,549,0
+Ward 11,6600,RICHFIELD,Less than 1 year,64,376,11
+Ward 11,6600,RICHFIELD,Child less than 1 year,16,30,2
+Ward 11,6600,RICHFIELD,No Response,29,27,0
+Ward 11,6610,RITCHIE,5 years or more,1141,272,18
+Ward 11,6610,RITCHIE,No 3 years to less than 5 years,293,242,11
+Ward 11,6610,RITCHIE,1 year to less than 3 years,248,392,8
+Ward 11,6610,RITCHIE,Less than 1 year,205,575,13
+Ward 11,6610,RITCHIE,Child less than 1 year,25,22,0
+Ward 11,6610,RITCHIE,No Response,83,269,364
+Ward 11,6640,ROPER INDUSTRIAL,5 years or more,0,0,0
+Ward 11,6640,ROPER INDUSTRIAL,No 3 years to less than 5 years,0,0,0
+Ward 11,6640,ROPER INDUSTRIAL,1 year to less than 3 years,0,0,0
+Ward 11,6640,ROPER INDUSTRIAL,Less than 1 year,0,0,0
+Ward 11,6640,ROPER INDUSTRIAL,Child less than 1 year,0,0,0
+Ward 11,6640,ROPER INDUSTRIAL,No Response,0,0,0
+Ward 11,6670,SAKAW,5 years or more,2030,217,22
+Ward 11,6670,SAKAW,No 3 years to less than 5 years,284,221,0
+Ward 11,6670,SAKAW,1 year to less than 3 years,253,334,2
+Ward 11,6670,SAKAW,Less than 1 year,173,374,3
+Ward 11,6670,SAKAW,Child less than 1 year,27,24,1
+Ward 11,6670,SAKAW,No Response,62,28,52
+Ward 11,6680,SATOO,5 years or more,1600,125,13
+Ward 11,6680,SATOO,No 3 years to less than 5 years,261,177,2
+Ward 11,6680,SATOO,1 year to less than 3 years,192,247,1
+Ward 11,6680,SATOO,Less than 1 year,119,194,2
+Ward 11,6680,SATOO,Child less than 1 year,14,21,0
+Ward 11,6680,SATOO,No Response,343,37,41
+Ward 11,6195,SOUTH EDMONTON COMMON,5 years or more,0,0,0
+Ward 11,6195,SOUTH EDMONTON COMMON,No 3 years to less than 5 years,0,0,0
+Ward 11,6195,SOUTH EDMONTON COMMON,1 year to less than 3 years,0,0,0
+Ward 11,6195,SOUTH EDMONTON COMMON,Less than 1 year,0,0,0
+Ward 11,6195,SOUTH EDMONTON COMMON,Child less than 1 year,0,0,0
+Ward 11,6195,SOUTH EDMONTON COMMON,No Response,0,0,0
+Ward 11,6690,SOUTHEAST INDUSTRIAL,5 years or more,0,0,0
+Ward 11,6690,SOUTHEAST INDUSTRIAL,No 3 years to less than 5 years,0,0,0
+Ward 11,6690,SOUTHEAST INDUSTRIAL,1 year to less than 3 years,0,0,0
+Ward 11,6690,SOUTHEAST INDUSTRIAL,Less than 1 year,0,0,0
+Ward 11,6690,SOUTHEAST INDUSTRIAL,Child less than 1 year,0,0,0
+Ward 11,6690,SOUTHEAST INDUSTRIAL,No Response,0,0,0
+Ward 11,6700,STRATHCONA INDUSTRIAL PARK,5 years or more,0,0,0
+Ward 11,6700,STRATHCONA INDUSTRIAL PARK,No 3 years to less than 5 years,0,0,0
+Ward 11,6700,STRATHCONA INDUSTRIAL PARK,1 year to less than 3 years,0,0,0
+Ward 11,6700,STRATHCONA INDUSTRIAL PARK,Less than 1 year,0,0,0
+Ward 11,6700,STRATHCONA INDUSTRIAL PARK,Child less than 1 year,0,0,0
+Ward 11,6700,STRATHCONA INDUSTRIAL PARK,No Response,0,0,0
+Ward 11,6720,TAWA,5 years or more,616,133,6
+Ward 11,6720,TAWA,No 3 years to less than 5 years,187,99,4
+Ward 11,6720,TAWA,1 year to less than 3 years,168,122,1
+Ward 11,6720,TAWA,Less than 1 year,93,172,0
+Ward 11,6720,TAWA,Child less than 1 year,9,7,0
+Ward 11,6720,TAWA,No Response,67,86,143
+Ward 11,6750,TIPASKAN,5 years or more,873,202,2
+Ward 11,6750,TIPASKAN,No 3 years to less than 5 years,170,219,1
+Ward 11,6750,TIPASKAN,1 year to less than 3 years,107,343,3
+Ward 11,6750,TIPASKAN,Less than 1 year,61,484,8
+Ward 11,6750,TIPASKAN,Child less than 1 year,6,20,0
+Ward 11,6750,TIPASKAN,No Response,181,200,20
+Ward 11,6760,TWEDDLE PLACE,5 years or more,1127,195,5
+Ward 11,6760,TWEDDLE PLACE,No 3 years to less than 5 years,236,262,6
+Ward 11,6760,TWEDDLE PLACE,1 year to less than 3 years,125,532,4
+Ward 11,6760,TWEDDLE PLACE,Less than 1 year,78,509,0
+Ward 11,6760,TWEDDLE PLACE,Child less than 1 year,11,15,0
+Ward 11,6760,TWEDDLE PLACE,No Response,9,14,0
+Ward 11,6780,WEIR INDUSTRIAL,5 years or more,43,7,1
+Ward 11,6780,WEIR INDUSTRIAL,No 3 years to less than 5 years,2,4,0
+Ward 11,6780,WEIR INDUSTRIAL,1 year to less than 3 years,3,4,0
+Ward 11,6780,WEIR INDUSTRIAL,Less than 1 year,4,0,0
+Ward 11,6780,WEIR INDUSTRIAL,Child less than 1 year,0,0,0
+Ward 11,6780,WEIR INDUSTRIAL,No Response,2,0,12
+Ward 12,6665,ANTHONY HENDAY SOUTHEAST,5 years or more,0,0,0
+Ward 12,6665,ANTHONY HENDAY SOUTHEAST,No 3 years to less than 5 years,0,0,0
+Ward 12,6665,ANTHONY HENDAY SOUTHEAST,1 year to less than 3 years,0,0,0
+Ward 12,6665,ANTHONY HENDAY SOUTHEAST,Less than 1 year,0,0,0
+Ward 12,6665,ANTHONY HENDAY SOUTHEAST,Child less than 1 year,0,0,0
+Ward 12,6665,ANTHONY HENDAY SOUTHEAST,No Response,0,0,0
+Ward 12,6030,BISSET,5 years or more,1562,161,28
+Ward 12,6030,BISSET,No 3 years to less than 5 years,236,152,1
+Ward 12,6030,BISSET,1 year to less than 3 years,215,292,6
+Ward 12,6030,BISSET,Child less than 1 year,24,24,0
+Ward 12,6030,BISSET,No Response,252,197,155
+Ward 12,6661,CHARLESWORTH,5 years or more,58,0,0
+Ward 12,6661,CHARLESWORTH,No 3 years to less than 5 years,943,32,10
+Ward 12,6661,CHARLESWORTH,1 year to less than 3 years,916,102,12
+Ward 12,6661,CHARLESWORTH,Less than 1 year,344,86,9
+Ward 12,6661,CHARLESWORTH,Child less than 1 year,54,3,0
+Ward 12,6661,CHARLESWORTH,No Response,274,29,69
+Ward 12,6140,CRAWFORD PLAINS,5 years or more,2120,123,28
+Ward 12,6140,CRAWFORD PLAINS,No 3 years to less than 5 years,424,165,2
+Ward 12,6140,CRAWFORD PLAINS,1 year to less than 3 years,286,236,9
+Ward 12,6140,CRAWFORD PLAINS,Less than 1 year,177,274,7
+Ward 12,6140,CRAWFORD PLAINS,Child less than 1 year,45,18,2
+Ward 12,6140,CRAWFORD PLAINS,No Response,166,74,230
+Ward 12,6150,DALY GROVE,5 years or more,1680,153,8
+Ward 12,6150,DALY GROVE,No 3 years to less than 5 years,280,160,2
+Ward 12,6150,DALY GROVE,1 year to less than 3 years,200,301,0
+Ward 12,6150,DALY GROVE,Less than 1 year,145,380,1
+Ward 12,6150,DALY GROVE,Child less than 1 year,23,20,0
+Ward 12,6150,DALY GROVE,No Response,44,26,125
+Ward 12,6211,ELLERSLIE,5 years or more,2052,84,7
+Ward 12,6211,ELLERSLIE,No 3 years to less than 5 years,877,128,9
+Ward 12,6211,ELLERSLIE,1 year to less than 3 years,572,270,3
+Ward 12,6211,ELLERSLIE,Less than 1 year,268,318,12
+Ward 12,6211,ELLERSLIE,Child less than 1 year,84,15,1
+Ward 12,6211,ELLERSLIE,No Response,354,64,444
+Ward 12,6214,ELLERSLIE INDUSTRIAL,5 years or more,0,0,0
+Ward 12,6214,ELLERSLIE INDUSTRIAL,No 3 years to less than 5 years,0,0,0
+Ward 12,6214,ELLERSLIE INDUSTRIAL,1 year to less than 3 years,0,0,0
+Ward 12,6214,ELLERSLIE INDUSTRIAL,Less than 1 year,0,0,0
+Ward 12,6214,ELLERSLIE INDUSTRIAL,Child less than 1 year,0,0,0
+Ward 12,6214,ELLERSLIE INDUSTRIAL,No Response,0,0,0
+Ward 12,6330,JACKSON HEIGHTS,5 years or more,2435,34,31
+Ward 12,6330,JACKSON HEIGHTS,No 3 years to less than 5 years,285,53,0
+Ward 12,6330,JACKSON HEIGHTS,1 year to less than 3 years,276,61,5
+Ward 12,6330,JACKSON HEIGHTS,Less than 1 year,138,81,3
+Ward 12,6330,JACKSON HEIGHTS,Child less than 1 year,29,7,0
+Ward 12,6330,JACKSON HEIGHTS,No Response,377,13,98
+Ward 12,6370,KINISKI GARDENS,5 years or more,3802,110,34
+Ward 12,6370,KINISKI GARDENS,No 3 years to less than 5 years,676,98,5
+Ward 12,6370,KINISKI GARDENS,1 year to less than 3 years,502,229,5
+Ward 12,6370,KINISKI GARDENS,Less than 1 year,282,253,2
+Ward 12,6370,KINISKI GARDENS,Child less than 1 year,73,5,1
+Ward 12,6370,KINISKI GARDENS,No Response,213,64,284
+Ward 12,6390,LARKSPUR,5 years or more,2873,31,8
+Ward 12,6390,LARKSPUR,No 3 years to less than 5 years,481,74,3
+Ward 12,6390,LARKSPUR,1 year to less than 3 years,447,152,2
+Ward 12,6390,LARKSPUR,Less than 1 year,293,182,12
+Ward 12,6390,LARKSPUR,Child less than 1 year,54,8,2
+Ward 12,6390,LARKSPUR,No Response,113,44,167
+Ward 12,6444,LAUREL,5 years or more,3,0,0
+Ward 12,6444,LAUREL,No 3 years to less than 5 years,93,5,0
+Ward 12,6444,LAUREL,1 year to less than 3 years,651,168,3
+Ward 12,6444,LAUREL,Less than 1 year,466,121,0
+Ward 12,6444,LAUREL,Child less than 1 year,24,5,0
+Ward 12,6444,LAUREL,No Response,12,29,26
+Ward 12,6441,MAPLE,5 years or more,0,0,0
+Ward 12,6441,MAPLE,No 3 years to less than 5 years,0,0,0
+Ward 12,6441,MAPLE,1 year to less than 3 years,0,0,0
+Ward 12,6441,MAPLE,Less than 1 year,0,0,0
+Ward 12,6441,MAPLE,Child less than 1 year,0,0,0
+Ward 12,6441,MAPLE,No Response,0,0,0
+Ward 12,6440,MEADOWS AREA,5 years or more,0,0,0
+Ward 12,6440,MEADOWS AREA,No 3 years to less than 5 years,0,0,0
+Ward 12,6440,MEADOWS AREA,1 year to less than 3 years,0,0,0
+Ward 12,6440,MEADOWS AREA,Less than 1 year,0,0,0
+Ward 12,6440,MEADOWS AREA,Child less than 1 year,0,0,0
+Ward 12,6440,MEADOWS AREA,No Response,0,0,0
+Ward 12,6530,MINCHAU,5 years or more,1526,113,18
+Ward 12,6530,MINCHAU,No 3 years to less than 5 years,289,87,15
+Ward 12,6530,MINCHAU,1 year to less than 3 years,165,201,5
+Ward 12,6530,MINCHAU,Less than 1 year,90,244,6
+Ward 12,6530,MINCHAU,Child less than 1 year,23,12,1
+Ward 12,6530,MINCHAU,No Response,67,61,178
+Ward 12,6580,POLLARD MEADOWS,5 years or more,1706,253,4
+Ward 12,6580,POLLARD MEADOWS,No 3 years to less than 5 years,425,287,6
+Ward 12,6580,POLLARD MEADOWS,1 year to less than 3 years,269,559,4
+Ward 12,6580,POLLARD MEADOWS,Less than 1 year,116,578,12
+Ward 12,6580,POLLARD MEADOWS,Child less than 1 year,26,26,0
+Ward 12,6580,POLLARD MEADOWS,No Response,90,127,73
+Ward 12,6660,RURAL SOUTH EAST,5 years or more,123,13,2
+Ward 12,6660,RURAL SOUTH EAST,No 3 years to less than 5 years,8,7,0
+Ward 12,6660,RURAL SOUTH EAST,1 year to less than 3 years,11,8,0
+Ward 12,6660,RURAL SOUTH EAST,Less than 1 year,7,5,0
+Ward 12,6660,RURAL SOUTH EAST,Child less than 1 year,1,0,0
+Ward 12,6660,RURAL SOUTH EAST,No Response,6,0,2
+Ward 12,6442,SILVER BERRY,5 years or more,2476,50,10
+Ward 12,6442,SILVER BERRY,No 3 years to less than 5 years,1628,156,13
+Ward 12,6442,SILVER BERRY,1 year to less than 3 years,1286,295,11
+Ward 12,6442,SILVER BERRY,Less than 1 year,649,328,12
+Ward 12,6442,SILVER BERRY,Child less than 1 year,122,22,4
+Ward 12,6442,SILVER BERRY,No Response,446,66,473
+Ward 12,6213,SUMMERSIDE,5 years or more,1276,14,8
+Ward 12,6213,SUMMERSIDE,No 3 years to less than 5 years,1459,54,19
+Ward 12,6213,SUMMERSIDE,1 year to less than 3 years,1630,149,26
+Ward 12,6213,SUMMERSIDE,Less than 1 year,1043,200,28
+Ward 12,6213,SUMMERSIDE,Child less than 1 year,126,8,2
+Ward 12,6213,SUMMERSIDE,No Response,334,50,1534
+Ward 12,6443,TAMARACK,5 years or more,0,0,0
+Ward 12,6443,TAMARACK,No 3 years to less than 5 years,515,22,0
+Ward 12,6443,TAMARACK,1 year to less than 3 years,843,56,1
+Ward 12,6443,TAMARACK,Less than 1 year,369,30,1
+Ward 12,6443,TAMARACK,Child less than 1 year,38,3,0
+Ward 12,6443,TAMARACK,No Response,153,5,312
+Ward 12,6216,THE ORCHARDS AT ELLERSLIE,5 years or more,0,0,0
+Ward 12,6216,THE ORCHARDS AT ELLERSLIE,No 3 years to less than 5 years,0,0,0
+Ward 12,6216,THE ORCHARDS AT ELLERSLIE,1 year to less than 3 years,0,0,0
+Ward 12,6216,THE ORCHARDS AT ELLERSLIE,Less than 1 year,0,0,0
+Ward 12,6216,THE ORCHARDS AT ELLERSLIE,Child less than 1 year,0,0,0
+Ward 12,6216,THE ORCHARDS AT ELLERSLIE,No Response,0,0,0
+Ward 12,6662,WALKER,5 years or more,0,0,0
+Ward 12,6662,WALKER,No 3 years to less than 5 years,122,2,0
+Ward 12,6662,WALKER,1 year to less than 3 years,793,16,2
+Ward 12,6662,WALKER,Less than 1 year,686,37,7
+Ward 12,6662,WALKER,Child less than 1 year,46,2,0
+Ward 12,6662,WALKER,No Response,110,26,187
+Ward 12,6770,WEINLOS,5 years or more,1529,162,27
+Ward 12,6770,WEINLOS,No 3 years to less than 5 years,350,107,3
+Ward 12,6770,WEINLOS,1 year to less than 3 years,264,244,9
+Ward 12,6770,WEINLOS,Less than 1 year,112,274,8
+Ward 12,6770,WEINLOS,Child less than 1 year,13,13,0
+Ward 12,6770,WEINLOS,No Response,133,98,86
+Ward 12,6790,WILD ROSE,5 years or more,3678,48,31
+Ward 12,6790,WILD ROSE,No 3 years to less than 5 years,1421,98,8
+Ward 12,6790,WILD ROSE,1 year to less than 3 years,848,134,13
+Ward 12,6790,WILD ROSE,Less than 1 year,459,167,1
+Ward 12,6790,WILD ROSE,Child less than 1 year,92,7,0
+Ward 12,6790,WILD ROSE,No Response,597,49,360
