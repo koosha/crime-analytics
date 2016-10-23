@@ -1,0 +1,11 @@
+STRUCTURE_TYPE,OCCUPIED,UNOCCUPIED,NO_RESPONSE
+Single-detached house,166015,12873,0
+Duplex/triplex/fourplex,22825,3033,0
+Row house,24971,2469,0
+Apartment with 5 or more stories,29162,5168,0
+Apartment with less than 5 stories,71013,11777,0
+Manufactured home/mobile home,2831,267,0
+Rooming house/collective residence,1804,890,0
+Hotel or motel,43,72,0
+Other residential,333,2309,0
+No Response,0,0,0

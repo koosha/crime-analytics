@@ -1,0 +1,3211 @@
+NEIGHBOURHOOD,STRUCTURE_TYPE,OWNED,RENTED,NO_RESPONSE
+ABBOTTSFIELD,Single-detached house,0,0,0
+ABBOTTSFIELD,Duplex/triplex/fourplex,0,0,0
+ABBOTTSFIELD,Row house,216,222,0
+ABBOTTSFIELD,Apartment with 5 or more stories,0,0,0
+ABBOTTSFIELD,Apartment with less than 5 stories,0,222,0
+ABBOTTSFIELD,Manufactured home/mobile home,0,0,0
+ABBOTTSFIELD,Rooming house/collective residence,0,0,0
+ABBOTTSFIELD,Hotel or motel,0,0,0
+ABBOTTSFIELD,Other residential,0,0,0
+ABBOTTSFIELD,No Response,0,0,0
+ALBERTA AVENUE,Single-detached house,1514,605,23
+ALBERTA AVENUE,Duplex/triplex/fourplex,33,98,0
+ALBERTA AVENUE,Row house,0,3,0
+ALBERTA AVENUE,Apartment with 5 or more stories,0,51,0
+ALBERTA AVENUE,Apartment with less than 5 stories,7,333,2
+ALBERTA AVENUE,Manufactured home/mobile home,0,0,0
+ALBERTA AVENUE,Rooming house/collective residence,1,6,0
+ALBERTA AVENUE,Hotel or motel,0,1,0
+ALBERTA AVENUE,Other residential,32,40,3
+ALBERTA AVENUE,No Response,0,0,0
+ALBERTA PARK INDUSTRIAL,Single-detached house,0,0,0
+ALBERTA PARK INDUSTRIAL,Duplex/triplex/fourplex,0,0,0
+ALBERTA PARK INDUSTRIAL,Row house,0,0,0
+ALBERTA PARK INDUSTRIAL,Apartment with 5 or more stories,0,0,0
+ALBERTA PARK INDUSTRIAL,Apartment with less than 5 stories,0,0,0
+ALBERTA PARK INDUSTRIAL,Manufactured home/mobile home,0,0,0
+ALBERTA PARK INDUSTRIAL,Rooming house/collective residence,0,0,0
+ALBERTA PARK INDUSTRIAL,Hotel or motel,0,0,0
+ALBERTA PARK INDUSTRIAL,Other residential,0,0,0
+ALBERTA PARK INDUSTRIAL,No Response,0,0,0
+ALDERGROVE,Single-detached house,1025,55,1
+ALDERGROVE,Duplex/triplex/fourplex,0,0,0
+ALDERGROVE,Row house,180,208,0
+ALDERGROVE,Apartment with 5 or more stories,0,1,0
+ALDERGROVE,Apartment with less than 5 stories,6,429,0
+ALDERGROVE,Manufactured home/mobile home,0,0,0
+ALDERGROVE,Rooming house/collective residence,0,0,0
+ALDERGROVE,Hotel or motel,0,0,0
+ALDERGROVE,Other residential,0,0,0
+ALDERGROVE,No Response,0,0,0
+ALLENDALE,Single-detached house,520,463,8
+ALLENDALE,Duplex/triplex/fourplex,23,109,0
+ALLENDALE,Row house,0,0,0
+ALLENDALE,Apartment with 5 or more stories,0,0,0
+ALLENDALE,Apartment with less than 5 stories,3,211,0
+ALLENDALE,Manufactured home/mobile home,0,0,0
+ALLENDALE,Rooming house/collective residence,0,4,0
+ALLENDALE,Hotel or motel,0,0,0
+ALLENDALE,Other residential,0,0,0
+ALLENDALE,No Response,0,0,0
+AMBLESIDE,Single-detached house,78,3,5
+AMBLESIDE,Duplex/triplex/fourplex,5,0,0
+AMBLESIDE,Row house,0,0,0
+AMBLESIDE,Apartment with 5 or more stories,0,0,0
+AMBLESIDE,Apartment with less than 5 stories,5,1,0
+AMBLESIDE,Manufactured home/mobile home,0,0,0
+AMBLESIDE,Rooming house/collective residence,0,0,0
+AMBLESIDE,Hotel or motel,0,0,0
+AMBLESIDE,Other residential,0,0,0
+AMBLESIDE,No Response,0,0,0
+ANTHONY HENDAY,Single-detached house,0,0,0
+ANTHONY HENDAY,Duplex/triplex/fourplex,0,0,0
+ANTHONY HENDAY,Row house,0,0,0
+ANTHONY HENDAY,Apartment with 5 or more stories,0,0,0
+ANTHONY HENDAY,Apartment with less than 5 stories,0,0,0
+ANTHONY HENDAY,Manufactured home/mobile home,0,0,0
+ANTHONY HENDAY,Rooming house/collective residence,0,0,0
+ANTHONY HENDAY,Hotel or motel,0,0,0
+ANTHONY HENDAY,Other residential,0,0,0
+ANTHONY HENDAY,No Response,0,0,0
+ANTHONY HENDAY SOUTH,Single-detached house,0,0,0
+ANTHONY HENDAY SOUTH,Duplex/triplex/fourplex,0,0,0
+ANTHONY HENDAY SOUTH,Row house,0,0,0
+ANTHONY HENDAY SOUTH,Apartment with 5 or more stories,0,0,0
+ANTHONY HENDAY SOUTH,Apartment with less than 5 stories,0,0,0
+ANTHONY HENDAY SOUTH,Manufactured home/mobile home,0,0,0
+ANTHONY HENDAY SOUTH,Rooming house/collective residence,0,0,0
+ANTHONY HENDAY SOUTH,Hotel or motel,0,0,0
+ANTHONY HENDAY SOUTH,Other residential,0,0,0
+ANTHONY HENDAY SOUTH,No Response,0,0,0
+ANTHONY HENDAY SOUTH WEST,Single-detached house,0,0,0
+ANTHONY HENDAY SOUTH WEST,Duplex/triplex/fourplex,0,0,0
+ANTHONY HENDAY SOUTH WEST,Row house,0,0,0
+ANTHONY HENDAY SOUTH WEST,Apartment with 5 or more stories,0,0,0
+ANTHONY HENDAY SOUTH WEST,Apartment with less than 5 stories,0,0,0
+ANTHONY HENDAY SOUTH WEST,Manufactured home/mobile home,0,0,0
+ANTHONY HENDAY SOUTH WEST,Rooming house/collective residence,0,0,0
+ANTHONY HENDAY SOUTH WEST,Hotel or motel,0,0,0
+ANTHONY HENDAY SOUTH WEST,Other residential,0,0,0
+ANTHONY HENDAY SOUTH WEST,No Response,0,0,0
+ANTHONY HENDAY SOUTHEAST,Single-detached house,0,0,0
+ANTHONY HENDAY SOUTHEAST,Duplex/triplex/fourplex,0,0,0
+ANTHONY HENDAY SOUTHEAST,Row house,0,0,0
+ANTHONY HENDAY SOUTHEAST,Apartment with 5 or more stories,0,0,0
+ANTHONY HENDAY SOUTHEAST,Apartment with less than 5 stories,0,0,0
+ANTHONY HENDAY SOUTHEAST,Manufactured home/mobile home,0,0,0
+ANTHONY HENDAY SOUTHEAST,Rooming house/collective residence,0,0,0
+ANTHONY HENDAY SOUTHEAST,Hotel or motel,0,0,0
+ANTHONY HENDAY SOUTHEAST,Other residential,0,0,0
+ANTHONY HENDAY SOUTHEAST,No Response,0,0,0
+ANTHONY HENDAY TERWILLEGAR,Single-detached house,0,0,0
+ANTHONY HENDAY TERWILLEGAR,Duplex/triplex/fourplex,0,0,0
+ANTHONY HENDAY TERWILLEGAR,Row house,0,0,0
+ANTHONY HENDAY TERWILLEGAR,Apartment with 5 or more stories,0,0,0
+ANTHONY HENDAY TERWILLEGAR,Apartment with less than 5 stories,0,0,0
+ANTHONY HENDAY TERWILLEGAR,Manufactured home/mobile home,0,0,0
+ANTHONY HENDAY TERWILLEGAR,Rooming house/collective residence,0,0,0
+ANTHONY HENDAY TERWILLEGAR,Hotel or motel,0,0,0
+ANTHONY HENDAY TERWILLEGAR,Other residential,0,0,0
+ANTHONY HENDAY TERWILLEGAR,No Response,0,0,0
+ARGYLL,Single-detached house,288,45,1
+ARGYLL,Duplex/triplex/fourplex,1,3,0
+ARGYLL,Row house,0,0,0
+ARGYLL,Apartment with 5 or more stories,0,0,0
+ARGYLL,Apartment with less than 5 stories,0,0,0
+ARGYLL,Manufactured home/mobile home,0,0,0
+ARGYLL,Rooming house/collective residence,0,0,0
+ARGYLL,Hotel or motel,0,0,0
+ARGYLL,Other residential,0,0,0
+ARGYLL,No Response,0,0,0
+ARMSTRONG INDUSTRIAL,Single-detached house,0,0,0
+ARMSTRONG INDUSTRIAL,Duplex/triplex/fourplex,0,0,0
+ARMSTRONG INDUSTRIAL,Row house,0,0,0
+ARMSTRONG INDUSTRIAL,Apartment with 5 or more stories,0,0,0
+ARMSTRONG INDUSTRIAL,Apartment with less than 5 stories,0,0,0
+ARMSTRONG INDUSTRIAL,Manufactured home/mobile home,0,0,0
+ARMSTRONG INDUSTRIAL,Rooming house/collective residence,0,1,0
+ARMSTRONG INDUSTRIAL,Hotel or motel,0,1,0
+ARMSTRONG INDUSTRIAL,Other residential,0,0,0
+ARMSTRONG INDUSTRIAL,No Response,0,0,0
+ASPEN GARDENS,Single-detached house,489,16,0
+ASPEN GARDENS,Duplex/triplex/fourplex,0,0,0
+ASPEN GARDENS,Row house,0,0,0
+ASPEN GARDENS,Apartment with 5 or more stories,0,0,0
+ASPEN GARDENS,Apartment with less than 5 stories,111,22,1
+ASPEN GARDENS,Manufactured home/mobile home,0,0,0
+ASPEN GARDENS,Rooming house/collective residence,0,0,0
+ASPEN GARDENS,Hotel or motel,0,0,0
+ASPEN GARDENS,Other residential,0,0,0
+ASPEN GARDENS,No Response,0,0,0
+ATHLONE,Single-detached house,837,140,10
+ATHLONE,Duplex/triplex/fourplex,10,14,0
+ATHLONE,Row house,2,122,1
+ATHLONE,Apartment with 5 or more stories,0,0,0
+ATHLONE,Apartment with less than 5 stories,10,3,0
+ATHLONE,Manufactured home/mobile home,0,0,0
+ATHLONE,Rooming house/collective residence,0,0,0
+ATHLONE,Hotel or motel,0,0,0
+ATHLONE,Other residential,0,0,0
+ATHLONE,No Response,0,0,0
+AVONMORE,Single-detached house,692,142,8
+AVONMORE,Duplex/triplex/fourplex,4,9,0
+AVONMORE,Row house,0,0,0
+AVONMORE,Apartment with 5 or more stories,1,0,0
+AVONMORE,Apartment with less than 5 stories,77,27,1
+AVONMORE,Manufactured home/mobile home,0,0,0
+AVONMORE,Rooming house/collective residence,0,0,0
+AVONMORE,Hotel or motel,0,0,0
+AVONMORE,Other residential,0,0,0
+AVONMORE,No Response,0,0,0
+BALWIN,Single-detached house,780,203,26
+BALWIN,Duplex/triplex/fourplex,69,108,5
+BALWIN,Row house,4,35,1
+BALWIN,Apartment with 5 or more stories,0,1,0
+BALWIN,Apartment with less than 5 stories,12,341,3
+BALWIN,Manufactured home/mobile home,0,0,0
+BALWIN,Rooming house/collective residence,0,3,0
+BALWIN,Hotel or motel,0,0,0
+BALWIN,Other residential,0,0,0
+BALWIN,No Response,0,0,0
+BANNERMAN,Single-detached house,477,41,6
+BANNERMAN,Duplex/triplex/fourplex,0,0,0
+BANNERMAN,Row house,253,162,14
+BANNERMAN,Apartment with 5 or more stories,0,0,0
+BANNERMAN,Apartment with less than 5 stories,30,149,1
+BANNERMAN,Manufactured home/mobile home,0,0,0
+BANNERMAN,Rooming house/collective residence,0,0,0
+BANNERMAN,Hotel or motel,0,0,0
+BANNERMAN,Other residential,0,0,0
+BANNERMAN,No Response,0,0,0
+BARANOW,Single-detached house,2,0,0
+BARANOW,Duplex/triplex/fourplex,71,9,1
+BARANOW,Row house,0,0,0
+BARANOW,Apartment with 5 or more stories,0,0,0
+BARANOW,Apartment with less than 5 stories,153,209,13
+BARANOW,Manufactured home/mobile home,0,0,0
+BARANOW,Rooming house/collective residence,0,112,0
+BARANOW,Hotel or motel,0,0,0
+BARANOW,Other residential,0,0,0
+BARANOW,No Response,0,0,0
+BATURYN,Single-detached house,1079,81,18
+BATURYN,Duplex/triplex/fourplex,167,50,15
+BATURYN,Row house,125,160,0
+BATURYN,Apartment with 5 or more stories,0,0,0
+BATURYN,Apartment with less than 5 stories,0,0,0
+BATURYN,Manufactured home/mobile home,0,0,0
+BATURYN,Rooming house/collective residence,0,0,0
+BATURYN,Hotel or motel,0,0,0
+BATURYN,Other residential,0,0,0
+BATURYN,No Response,0,0,0
+BEACON HEIGHTS,Single-detached house,820,186,0
+BEACON HEIGHTS,Duplex/triplex/fourplex,36,118,0
+BEACON HEIGHTS,Row house,0,6,0
+BEACON HEIGHTS,Apartment with 5 or more stories,0,2,0
+BEACON HEIGHTS,Apartment with less than 5 stories,7,93,0
+BEACON HEIGHTS,Manufactured home/mobile home,0,0,0
+BEACON HEIGHTS,Rooming house/collective residence,0,0,0
+BEACON HEIGHTS,Hotel or motel,0,2,0
+BEACON HEIGHTS,Other residential,0,0,0
+BEACON HEIGHTS,No Response,0,0,0
+BEARSPAW,Single-detached house,571,20,0
+BEARSPAW,Duplex/triplex/fourplex,167,4,0
+BEARSPAW,Row house,12,44,0
+BEARSPAW,Apartment with 5 or more stories,0,0,0
+BEARSPAW,Apartment with less than 5 stories,0,0,0
+BEARSPAW,Manufactured home/mobile home,0,0,0
+BEARSPAW,Rooming house/collective residence,0,0,0
+BEARSPAW,Hotel or motel,0,0,0
+BEARSPAW,Other residential,1,0,0
+BEARSPAW,No Response,0,0,0
+BEAUMARIS,Single-detached house,809,29,2
+BEAUMARIS,Duplex/triplex/fourplex,171,34,0
+BEAUMARIS,Row house,48,109,0
+BEAUMARIS,Apartment with 5 or more stories,2,1,0
+BEAUMARIS,Apartment with less than 5 stories,415,298,8
+BEAUMARIS,Manufactured home/mobile home,0,0,0
+BEAUMARIS,Rooming house/collective residence,0,0,0
+BEAUMARIS,Hotel or motel,0,0,0
+BEAUMARIS,Other residential,0,0,0
+BEAUMARIS,No Response,0,0,0
+BELGRAVIA,Single-detached house,564,142,1
+BELGRAVIA,Duplex/triplex/fourplex,1,2,0
+BELGRAVIA,Row house,0,0,0
+BELGRAVIA,Apartment with 5 or more stories,0,0,0
+BELGRAVIA,Apartment with less than 5 stories,97,82,0
+BELGRAVIA,Manufactured home/mobile home,0,0,0
+BELGRAVIA,Rooming house/collective residence,0,0,0
+BELGRAVIA,Hotel or motel,0,0,0
+BELGRAVIA,Other residential,0,0,0
+BELGRAVIA,No Response,0,0,0
+BELLE RIVE,Single-detached house,980,47,1
+BELLE RIVE,Duplex/triplex/fourplex,81,14,1
+BELLE RIVE,Row house,22,5,0
+BELLE RIVE,Apartment with 5 or more stories,0,0,0
+BELLE RIVE,Apartment with less than 5 stories,0,0,0
+BELLE RIVE,Manufactured home/mobile home,0,0,0
+BELLE RIVE,Rooming house/collective residence,0,0,0
+BELLE RIVE,Hotel or motel,0,0,0
+BELLE RIVE,Other residential,0,0,0
+BELLE RIVE,No Response,0,0,0
+BELLEVUE,Single-detached house,363,95,3
+BELLEVUE,Duplex/triplex/fourplex,3,2,0
+BELLEVUE,Row house,0,0,0
+BELLEVUE,Apartment with 5 or more stories,0,0,0
+BELLEVUE,Apartment with less than 5 stories,1,25,0
+BELLEVUE,Manufactured home/mobile home,0,0,0
+BELLEVUE,Rooming house/collective residence,0,0,0
+BELLEVUE,Hotel or motel,0,0,0
+BELLEVUE,Other residential,0,0,0
+BELLEVUE,No Response,0,0,0
+BELMEAD,Single-detached house,749,43,0
+BELMEAD,Duplex/triplex/fourplex,39,61,0
+BELMEAD,Row house,304,190,1
+BELMEAD,Apartment with 5 or more stories,0,0,0
+BELMEAD,Apartment with less than 5 stories,13,182,1
+BELMEAD,Manufactured home/mobile home,0,0,0
+BELMEAD,Rooming house/collective residence,0,0,0
+BELMEAD,Hotel or motel,0,0,0
+BELMEAD,Other residential,0,0,0
+BELMEAD,No Response,0,0,0
+BELMONT,Single-detached house,702,44,2
+BELMONT,Duplex/triplex/fourplex,178,76,1
+BELMONT,Row house,323,275,4
+BELMONT,Apartment with 5 or more stories,1,0,0
+BELMONT,Apartment with less than 5 stories,69,212,1
+BELMONT,Manufactured home/mobile home,0,0,0
+BELMONT,Rooming house/collective residence,0,0,0
+BELMONT,Hotel or motel,0,2,0
+BELMONT,Other residential,0,0,0
+BELMONT,No Response,0,0,0
+BELVEDERE,Single-detached house,689,150,12
+BELVEDERE,Duplex/triplex/fourplex,94,97,1
+BELVEDERE,Row house,25,59,0
+BELVEDERE,Apartment with 5 or more stories,25,227,4
+BELVEDERE,Apartment with less than 5 stories,161,682,1
+BELVEDERE,Manufactured home/mobile home,0,0,0
+BELVEDERE,Rooming house/collective residence,0,0,0
+BELVEDERE,Hotel or motel,0,1,0
+BELVEDERE,Other residential,0,0,0
+BELVEDERE,No Response,0,0,0
+BERGMAN,Single-detached house,464,35,4
+BERGMAN,Duplex/triplex/fourplex,10,8,0
+BERGMAN,Row house,0,0,0
+BERGMAN,Apartment with 5 or more stories,0,0,0
+BERGMAN,Apartment with less than 5 stories,0,0,0
+BERGMAN,Manufactured home/mobile home,0,0,0
+BERGMAN,Rooming house/collective residence,0,0,0
+BERGMAN,Hotel or motel,0,0,0
+BERGMAN,Other residential,0,0,0
+BERGMAN,No Response,0,0,0
+BEVERLY HEIGHTS,Single-detached house,1015,150,13
+BEVERLY HEIGHTS,Duplex/triplex/fourplex,10,47,1
+BEVERLY HEIGHTS,Row house,0,0,0
+BEVERLY HEIGHTS,Apartment with 5 or more stories,0,7,0
+BEVERLY HEIGHTS,Apartment with less than 5 stories,1,387,1
+BEVERLY HEIGHTS,Manufactured home/mobile home,0,0,0
+BEVERLY HEIGHTS,Rooming house/collective residence,0,0,0
+BEVERLY HEIGHTS,Hotel or motel,0,1,0
+BEVERLY HEIGHTS,Other residential,0,0,0
+BEVERLY HEIGHTS,No Response,0,0,0
+BISSET,Single-detached house,676,80,2
+BISSET,Duplex/triplex/fourplex,6,11,0
+BISSET,Row house,140,93,2
+BISSET,Apartment with 5 or more stories,0,0,0
+BISSET,Apartment with less than 5 stories,39,320,1
+BISSET,Manufactured home/mobile home,0,0,0
+BISSET,Rooming house/collective residence,0,1,0
+BISSET,Hotel or motel,0,0,0
+BISSET,Other residential,0,0,0
+BISSET,No Response,0,0,0
+BLACKBURNE,Single-detached house,394,8,1
+BLACKBURNE,Duplex/triplex/fourplex,125,4,0
+BLACKBURNE,Row house,0,0,0
+BLACKBURNE,Apartment with 5 or more stories,0,0,0
+BLACKBURNE,Apartment with less than 5 stories,49,1,0
+BLACKBURNE,Manufactured home/mobile home,0,0,0
+BLACKBURNE,Rooming house/collective residence,0,0,0
+BLACKBURNE,Hotel or motel,0,0,0
+BLACKBURNE,Other residential,0,0,0
+BLACKBURNE,No Response,0,0,0
+BLACKMUD CREEK,Single-detached house,607,23,29
+BLACKMUD CREEK,Duplex/triplex/fourplex,32,7,3
+BLACKMUD CREEK,Row house,0,0,0
+BLACKMUD CREEK,Apartment with 5 or more stories,0,0,0
+BLACKMUD CREEK,Apartment with less than 5 stories,155,52,7
+BLACKMUD CREEK,Manufactured home/mobile home,0,0,0
+BLACKMUD CREEK,Rooming house/collective residence,0,0,0
+BLACKMUD CREEK,Hotel or motel,0,0,0
+BLACKMUD CREEK,Other residential,0,0,0
+BLACKMUD CREEK,No Response,0,0,0
+BLUE QUILL,Single-detached house,489,11,5
+BLUE QUILL,Duplex/triplex/fourplex,97,37,1
+BLUE QUILL,Row house,57,109,1
+BLUE QUILL,Apartment with 5 or more stories,0,1,0
+BLUE QUILL,Apartment with less than 5 stories,80,954,18
+BLUE QUILL,Manufactured home/mobile home,0,0,0
+BLUE QUILL,Rooming house/collective residence,0,0,0
+BLUE QUILL,Hotel or motel,0,0,0
+BLUE QUILL,Other residential,0,0,0
+BLUE QUILL,No Response,0,0,0
+BLUE QUILL ESTATES,Single-detached house,231,7,0
+BLUE QUILL ESTATES,Duplex/triplex/fourplex,11,3,0
+BLUE QUILL ESTATES,Row house,77,17,3
+BLUE QUILL ESTATES,Apartment with 5 or more stories,0,0,0
+BLUE QUILL ESTATES,Apartment with less than 5 stories,1,191,0
+BLUE QUILL ESTATES,Manufactured home/mobile home,0,0,0
+BLUE QUILL ESTATES,Rooming house/collective residence,0,0,0
+BLUE QUILL ESTATES,Hotel or motel,0,0,0
+BLUE QUILL ESTATES,Other residential,0,0,0
+BLUE QUILL ESTATES,No Response,0,0,0
+BONAVENTURE INDUSTRIAL,Single-detached house,0,0,0
+BONAVENTURE INDUSTRIAL,Duplex/triplex/fourplex,0,0,0
+BONAVENTURE INDUSTRIAL,Row house,0,0,0
+BONAVENTURE INDUSTRIAL,Apartment with 5 or more stories,0,0,0
+BONAVENTURE INDUSTRIAL,Apartment with less than 5 stories,0,0,0
+BONAVENTURE INDUSTRIAL,Manufactured home/mobile home,0,0,0
+BONAVENTURE INDUSTRIAL,Rooming house/collective residence,0,0,0
+BONAVENTURE INDUSTRIAL,Hotel or motel,0,0,0
+BONAVENTURE INDUSTRIAL,Other residential,0,0,0
+BONAVENTURE INDUSTRIAL,No Response,0,0,0
+BONNIE DOON,Single-detached house,682,295,11
+BONNIE DOON,Duplex/triplex/fourplex,134,298,5
+BONNIE DOON,Row house,0,0,0
+BONNIE DOON,Apartment with 5 or more stories,2,148,0
+BONNIE DOON,Apartment with less than 5 stories,109,332,2
+BONNIE DOON,Manufactured home/mobile home,0,0,0
+BONNIE DOON,Rooming house/collective residence,1,17,0
+BONNIE DOON,Hotel or motel,0,0,0
+BONNIE DOON,Other residential,0,0,0
+BONNIE DOON,No Response,0,0,0
+BOYLE STREET,Single-detached house,53,31,1
+BOYLE STREET,Duplex/triplex/fourplex,7,21,3
+BOYLE STREET,Row house,10,37,0
+BOYLE STREET,Apartment with 5 or more stories,136,1401,3
+BOYLE STREET,Apartment with less than 5 stories,311,1537,49
+BOYLE STREET,Manufactured home/mobile home,0,0,0
+BOYLE STREET,Rooming house/collective residence,2,61,0
+BOYLE STREET,Hotel or motel,0,3,0
+BOYLE STREET,Other residential,0,6,1
+BOYLE STREET,No Response,0,0,0
+BRANDER GARDENS,Single-detached house,287,16,1
+BRANDER GARDENS,Duplex/triplex/fourplex,18,40,0
+BRANDER GARDENS,Row house,138,146,3
+BRANDER GARDENS,Apartment with 5 or more stories,0,0,0
+BRANDER GARDENS,Apartment with less than 5 stories,179,201,1
+BRANDER GARDENS,Manufactured home/mobile home,0,0,0
+BRANDER GARDENS,Rooming house/collective residence,0,0,0
+BRANDER GARDENS,Hotel or motel,0,0,0
+BRANDER GARDENS,Other residential,0,0,0
+BRANDER GARDENS,No Response,0,0,0
+BRECKENRIDGE GREENS,Single-detached house,475,16,0
+BRECKENRIDGE GREENS,Duplex/triplex/fourplex,31,1,1
+BRECKENRIDGE GREENS,Row house,0,0,0
+BRECKENRIDGE GREENS,Apartment with 5 or more stories,1,0,0
+BRECKENRIDGE GREENS,Apartment with less than 5 stories,159,36,4
+BRECKENRIDGE GREENS,Manufactured home/mobile home,0,0,0
+BRECKENRIDGE GREENS,Rooming house/collective residence,0,0,0
+BRECKENRIDGE GREENS,Hotel or motel,0,0,0
+BRECKENRIDGE GREENS,Other residential,0,0,0
+BRECKENRIDGE GREENS,No Response,0,0,0
+BRINTNELL,Single-detached house,1208,152,5
+BRINTNELL,Duplex/triplex/fourplex,34,10,0
+BRINTNELL,Row house,24,18,0
+BRINTNELL,Apartment with 5 or more stories,0,0,0
+BRINTNELL,Apartment with less than 5 stories,0,0,0
+BRINTNELL,Manufactured home/mobile home,0,0,0
+BRINTNELL,Rooming house/collective residence,0,0,0
+BRINTNELL,Hotel or motel,0,0,0
+BRINTNELL,Other residential,0,0,0
+BRINTNELL,No Response,0,0,0
+BRITANNIA YOUNGSTOWN,Single-detached house,678,127,9
+BRITANNIA YOUNGSTOWN,Duplex/triplex/fourplex,47,72,4
+BRITANNIA YOUNGSTOWN,Row house,63,70,0
+BRITANNIA YOUNGSTOWN,Apartment with 5 or more stories,0,1,0
+BRITANNIA YOUNGSTOWN,Apartment with less than 5 stories,13,950,1
+BRITANNIA YOUNGSTOWN,Manufactured home/mobile home,0,0,0
+BRITANNIA YOUNGSTOWN,Rooming house/collective residence,0,0,0
+BRITANNIA YOUNGSTOWN,Hotel or motel,0,1,0
+BRITANNIA YOUNGSTOWN,Other residential,4,3,0
+BRITANNIA YOUNGSTOWN,No Response,0,0,0
+BROOKSIDE,Single-detached house,561,9,3
+BROOKSIDE,Duplex/triplex/fourplex,0,0,0
+BROOKSIDE,Row house,1,73,0
+BROOKSIDE,Apartment with 5 or more stories,0,1,0
+BROOKSIDE,Apartment with less than 5 stories,0,42,0
+BROOKSIDE,Manufactured home/mobile home,0,0,0
+BROOKSIDE,Rooming house/collective residence,0,0,0
+BROOKSIDE,Hotel or motel,0,0,0
+BROOKSIDE,Other residential,0,0,0
+BROOKSIDE,No Response,0,0,0
+BROWN INDUSTRIAL,Single-detached house,0,0,0
+BROWN INDUSTRIAL,Duplex/triplex/fourplex,0,0,0
+BROWN INDUSTRIAL,Row house,0,0,0
+BROWN INDUSTRIAL,Apartment with 5 or more stories,0,0,0
+BROWN INDUSTRIAL,Apartment with less than 5 stories,0,0,0
+BROWN INDUSTRIAL,Manufactured home/mobile home,0,0,0
+BROWN INDUSTRIAL,Rooming house/collective residence,0,0,0
+BROWN INDUSTRIAL,Hotel or motel,0,0,0
+BROWN INDUSTRIAL,Other residential,0,0,0
+BROWN INDUSTRIAL,No Response,0,0,0
+BULYEA HEIGHTS,Single-detached house,1042,13,9
+BULYEA HEIGHTS,Duplex/triplex/fourplex,125,2,3
+BULYEA HEIGHTS,Row house,0,0,0
+BULYEA HEIGHTS,Apartment with 5 or more stories,0,0,0
+BULYEA HEIGHTS,Apartment with less than 5 stories,0,0,0
+BULYEA HEIGHTS,Manufactured home/mobile home,0,0,0
+BULYEA HEIGHTS,Rooming house/collective residence,0,0,0
+BULYEA HEIGHTS,Hotel or motel,0,0,0
+BULYEA HEIGHTS,Other residential,0,0,0
+BULYEA HEIGHTS,No Response,0,0,0
+CAERNARVON,Single-detached house,823,86,6
+CAERNARVON,Duplex/triplex/fourplex,69,29,10
+CAERNARVON,Row house,158,267,8
+CAERNARVON,Apartment with 5 or more stories,0,0,0
+CAERNARVON,Apartment with less than 5 stories,38,59,5
+CAERNARVON,Manufactured home/mobile home,0,0,0
+CAERNARVON,Rooming house/collective residence,0,0,0
+CAERNARVON,Hotel or motel,0,0,0
+CAERNARVON,Other residential,1,8,0
+CAERNARVON,No Response,0,0,0
+CALDER,Single-detached house,811,330,9
+CALDER,Duplex/triplex/fourplex,83,259,3
+CALDER,Row house,8,11,0
+CALDER,Apartment with 5 or more stories,0,3,0
+CALDER,Apartment with less than 5 stories,8,246,0
+CALDER,Manufactured home/mobile home,0,0,0
+CALDER,Rooming house/collective residence,2,0,0
+CALDER,Hotel or motel,0,1,0
+CALDER,Other residential,0,0,0
+CALDER,No Response,0,0,0
+CALLINGWOOD NORTH,Single-detached house,91,17,1
+CALLINGWOOD NORTH,Duplex/triplex/fourplex,52,102,2
+CALLINGWOOD NORTH,Row house,231,120,6
+CALLINGWOOD NORTH,Apartment with 5 or more stories,97,39,2
+CALLINGWOOD NORTH,Apartment with less than 5 stories,35,292,3
+CALLINGWOOD NORTH,Manufactured home/mobile home,0,0,0
+CALLINGWOOD NORTH,Rooming house/collective residence,0,0,0
+CALLINGWOOD NORTH,Hotel or motel,0,0,0
+CALLINGWOOD NORTH,Other residential,0,0,0
+CALLINGWOOD NORTH,No Response,0,0,0
+CALLINGWOOD SOUTH,Single-detached house,2,9,0
+CALLINGWOOD SOUTH,Duplex/triplex/fourplex,0,18,0
+CALLINGWOOD SOUTH,Row house,257,235,9
+CALLINGWOOD SOUTH,Apartment with 5 or more stories,103,602,4
+CALLINGWOOD SOUTH,Apartment with less than 5 stories,347,1152,16
+CALLINGWOOD SOUTH,Manufactured home/mobile home,0,0,0
+CALLINGWOOD SOUTH,Rooming house/collective residence,0,0,0
+CALLINGWOOD SOUTH,Hotel or motel,0,0,0
+CALLINGWOOD SOUTH,Other residential,0,0,0
+CALLINGWOOD SOUTH,No Response,0,0,0
+CAMERON HEIGHTS,Single-detached house,185,5,0
+CAMERON HEIGHTS,Duplex/triplex/fourplex,0,0,0
+CAMERON HEIGHTS,Row house,0,0,0
+CAMERON HEIGHTS,Apartment with 5 or more stories,0,0,0
+CAMERON HEIGHTS,Apartment with less than 5 stories,0,0,0
+CAMERON HEIGHTS,Manufactured home/mobile home,0,0,0
+CAMERON HEIGHTS,Rooming house/collective residence,0,0,0
+CAMERON HEIGHTS,Hotel or motel,0,0,0
+CAMERON HEIGHTS,Other residential,0,0,0
+CAMERON HEIGHTS,No Response,0,0,0
+CANON RIDGE,Single-detached house,158,7,0
+CANON RIDGE,Duplex/triplex/fourplex,30,17,1
+CANON RIDGE,Row house,78,153,0
+CANON RIDGE,Apartment with 5 or more stories,0,0,0
+CANON RIDGE,Apartment with less than 5 stories,266,29,10
+CANON RIDGE,Manufactured home/mobile home,0,0,0
+CANON RIDGE,Rooming house/collective residence,0,0,0
+CANON RIDGE,Hotel or motel,0,0,0
+CANON RIDGE,Other residential,0,0,0
+CANON RIDGE,No Response,0,0,0
+CANORA,Single-detached house,218,128,1
+CANORA,Duplex/triplex/fourplex,162,243,0
+CANORA,Row house,0,0,0
+CANORA,Apartment with 5 or more stories,1,183,0
+CANORA,Apartment with less than 5 stories,42,570,1
+CANORA,Manufactured home/mobile home,0,0,0
+CANORA,Rooming house/collective residence,0,0,0
+CANORA,Hotel or motel,0,2,0
+CANORA,Other residential,0,0,0
+CANORA,No Response,0,0,0
+CANOSSA,Single-detached house,833,48,18
+CANOSSA,Duplex/triplex/fourplex,42,16,0
+CANOSSA,Row house,37,5,0
+CANOSSA,Apartment with 5 or more stories,0,0,0
+CANOSSA,Apartment with less than 5 stories,0,0,0
+CANOSSA,Manufactured home/mobile home,0,0,0
+CANOSSA,Rooming house/collective residence,0,0,0
+CANOSSA,Hotel or motel,0,0,0
+CANOSSA,Other residential,0,0,0
+CANOSSA,No Response,0,0,0
+CAPILANO,Single-detached house,1014,60,2
+CAPILANO,Duplex/triplex/fourplex,0,0,0
+CAPILANO,Row house,0,0,0
+CAPILANO,Apartment with 5 or more stories,0,0,0
+CAPILANO,Apartment with less than 5 stories,0,0,0
+CAPILANO,Manufactured home/mobile home,0,0,0
+CAPILANO,Rooming house/collective residence,0,0,0
+CAPILANO,Hotel or motel,0,0,0
+CAPILANO,Other residential,0,0,0
+CAPILANO,No Response,0,0,0
+CARLISLE,Single-detached house,658,66,20
+CARLISLE,Duplex/triplex/fourplex,99,32,0
+CARLISLE,Row house,83,263,2
+CARLISLE,Apartment with 5 or more stories,0,0,0
+CARLISLE,Apartment with less than 5 stories,0,130,0
+CARLISLE,Manufactured home/mobile home,0,0,0
+CARLISLE,Rooming house/collective residence,0,0,0
+CARLISLE,Hotel or motel,0,0,0
+CARLISLE,Other residential,0,0,0
+CARLISLE,No Response,0,0,0
+CARLTON,Single-detached house,502,20,23
+CARLTON,Duplex/triplex/fourplex,86,9,4
+CARLTON,Row house,11,17,1
+CARLTON,Apartment with 5 or more stories,0,0,0
+CARLTON,Apartment with less than 5 stories,7,2,0
+CARLTON,Manufactured home/mobile home,2,0,0
+CARLTON,Rooming house/collective residence,0,0,0
+CARLTON,Hotel or motel,0,0,0
+CARLTON,Other residential,0,0,0
+CARLTON,No Response,0,0,0
+CARTER CREST,Single-detached house,415,11,5
+CARTER CREST,Duplex/triplex/fourplex,161,15,0
+CARTER CREST,Row house,0,0,0
+CARTER CREST,Apartment with 5 or more stories,0,0,0
+CARTER CREST,Apartment with less than 5 stories,0,0,0
+CARTER CREST,Manufactured home/mobile home,0,0,0
+CARTER CREST,Rooming house/collective residence,0,0,0
+CARTER CREST,Hotel or motel,0,0,0
+CARTER CREST,Other residential,0,0,0
+CARTER CREST,No Response,0,0,0
+CASSELMAN,Single-detached house,347,13,0
+CASSELMAN,Duplex/triplex/fourplex,0,0,0
+CASSELMAN,Row house,442,230,2
+CASSELMAN,Apartment with 5 or more stories,0,2,0
+CASSELMAN,Apartment with less than 5 stories,88,272,1
+CASSELMAN,Manufactured home/mobile home,0,0,0
+CASSELMAN,Rooming house/collective residence,0,0,0
+CASSELMAN,Hotel or motel,0,0,0
+CASSELMAN,Other residential,0,0,0
+CASSELMAN,No Response,0,0,0
+CENTRAL MCDOUGALL,Single-detached house,57,70,0
+CENTRAL MCDOUGALL,Duplex/triplex/fourplex,2,42,0
+CENTRAL MCDOUGALL,Row house,113,42,0
+CENTRAL MCDOUGALL,Apartment with 5 or more stories,1,121,0
+CENTRAL MCDOUGALL,Apartment with less than 5 stories,152,2096,9
+CENTRAL MCDOUGALL,Manufactured home/mobile home,0,0,0
+CENTRAL MCDOUGALL,Rooming house/collective residence,0,14,0
+CENTRAL MCDOUGALL,Hotel or motel,0,0,0
+CENTRAL MCDOUGALL,Other residential,4,13,0
+CENTRAL MCDOUGALL,No Response,0,0,0
+CHAMBERY,Single-detached house,486,11,4
+CHAMBERY,Duplex/triplex/fourplex,0,0,0
+CHAMBERY,Row house,0,0,0
+CHAMBERY,Apartment with 5 or more stories,0,0,0
+CHAMBERY,Apartment with less than 5 stories,0,0,0
+CHAMBERY,Manufactured home/mobile home,0,0,0
+CHAMBERY,Rooming house/collective residence,0,0,0
+CHAMBERY,Hotel or motel,0,0,0
+CHAMBERY,Other residential,0,0,0
+CHAMBERY,No Response,0,0,0
+CHARLESWORTH,Single-detached house,310,31,16
+CHARLESWORTH,Duplex/triplex/fourplex,63,24,4
+CHARLESWORTH,Row house,0,0,0
+CHARLESWORTH,Apartment with 5 or more stories,0,0,0
+CHARLESWORTH,Apartment with less than 5 stories,32,1,2
+CHARLESWORTH,Manufactured home/mobile home,0,0,0
+CHARLESWORTH,Rooming house/collective residence,0,0,0
+CHARLESWORTH,Hotel or motel,0,0,0
+CHARLESWORTH,Other residential,0,0,0
+CHARLESWORTH,No Response,0,0,0
+CLAREVIEW BUSINESS PARK,Single-detached house,0,0,0
+CLAREVIEW BUSINESS PARK,Duplex/triplex/fourplex,0,0,0
+CLAREVIEW BUSINESS PARK,Row house,0,0,0
+CLAREVIEW BUSINESS PARK,Apartment with 5 or more stories,0,0,0
+CLAREVIEW BUSINESS PARK,Apartment with less than 5 stories,197,194,1
+CLAREVIEW BUSINESS PARK,Manufactured home/mobile home,0,0,0
+CLAREVIEW BUSINESS PARK,Rooming house/collective residence,0,0,0
+CLAREVIEW BUSINESS PARK,Hotel or motel,0,0,0
+CLAREVIEW BUSINESS PARK,Other residential,0,0,0
+CLAREVIEW BUSINESS PARK,No Response,0,0,0
+CLAREVIEW CAMPUS,Single-detached house,96,2,1
+CLAREVIEW CAMPUS,Duplex/triplex/fourplex,91,25,1
+CLAREVIEW CAMPUS,Row house,0,1,0
+CLAREVIEW CAMPUS,Apartment with 5 or more stories,39,169,0
+CLAREVIEW CAMPUS,Apartment with less than 5 stories,218,314,2
+CLAREVIEW CAMPUS,Manufactured home/mobile home,0,0,0
+CLAREVIEW CAMPUS,Rooming house/collective residence,0,0,0
+CLAREVIEW CAMPUS,Hotel or motel,0,0,0
+CLAREVIEW CAMPUS,Other residential,0,0,0
+CLAREVIEW CAMPUS,No Response,0,0,0
+CLOVERDALE,Single-detached house,123,40,1
+CLOVERDALE,Duplex/triplex/fourplex,16,1,0
+CLOVERDALE,Row house,39,9,0
+CLOVERDALE,Apartment with 5 or more stories,0,0,0
+CLOVERDALE,Apartment with less than 5 stories,119,47,1
+CLOVERDALE,Manufactured home/mobile home,0,0,0
+CLOVERDALE,Rooming house/collective residence,0,0,0
+CLOVERDALE,Hotel or motel,0,0,0
+CLOVERDALE,Other residential,0,0,0
+CLOVERDALE,No Response,0,0,0
+CORONET ADDITION INDUSTRIAL,Single-detached house,0,0,0
+CORONET ADDITION INDUSTRIAL,Duplex/triplex/fourplex,0,0,0
+CORONET ADDITION INDUSTRIAL,Row house,0,0,0
+CORONET ADDITION INDUSTRIAL,Apartment with 5 or more stories,0,0,0
+CORONET ADDITION INDUSTRIAL,Apartment with less than 5 stories,0,0,0
+CORONET ADDITION INDUSTRIAL,Manufactured home/mobile home,0,0,0
+CORONET ADDITION INDUSTRIAL,Rooming house/collective residence,0,0,0
+CORONET ADDITION INDUSTRIAL,Hotel or motel,0,0,0
+CORONET ADDITION INDUSTRIAL,Other residential,0,0,0
+CORONET ADDITION INDUSTRIAL,No Response,0,0,0
+CORONET INDUSTRIAL,Single-detached house,0,0,0
+CORONET INDUSTRIAL,Duplex/triplex/fourplex,0,0,0
+CORONET INDUSTRIAL,Row house,0,0,0
+CORONET INDUSTRIAL,Apartment with 5 or more stories,0,0,0
+CORONET INDUSTRIAL,Apartment with less than 5 stories,0,0,0
+CORONET INDUSTRIAL,Manufactured home/mobile home,0,0,0
+CORONET INDUSTRIAL,Rooming house/collective residence,0,0,0
+CORONET INDUSTRIAL,Hotel or motel,0,0,0
+CORONET INDUSTRIAL,Other residential,0,0,0
+CORONET INDUSTRIAL,No Response,0,0,0
+CPR IRVINE,Single-detached house,0,0,0
+CPR IRVINE,Duplex/triplex/fourplex,0,0,0
+CPR IRVINE,Row house,0,0,0
+CPR IRVINE,Apartment with 5 or more stories,0,1,0
+CPR IRVINE,Apartment with less than 5 stories,65,49,1
+CPR IRVINE,Manufactured home/mobile home,0,0,0
+CPR IRVINE,Rooming house/collective residence,0,0,0
+CPR IRVINE,Hotel or motel,0,0,0
+CPR IRVINE,Other residential,0,0,0
+CPR IRVINE,No Response,0,0,0
+CRAWFORD PLAINS,Single-detached house,984,100,2
+CRAWFORD PLAINS,Duplex/triplex/fourplex,39,20,0
+CRAWFORD PLAINS,Row house,76,72,0
+CRAWFORD PLAINS,Apartment with 5 or more stories,0,0,0
+CRAWFORD PLAINS,Apartment with less than 5 stories,25,100,2
+CRAWFORD PLAINS,Manufactured home/mobile home,0,0,0
+CRAWFORD PLAINS,Rooming house/collective residence,0,1,0
+CRAWFORD PLAINS,Hotel or motel,0,0,0
+CRAWFORD PLAINS,Other residential,0,0,0
+CRAWFORD PLAINS,No Response,0,0,0
+CRESTWOOD,Single-detached house,705,57,23
+CRESTWOOD,Duplex/triplex/fourplex,2,1,0
+CRESTWOOD,Row house,12,0,0
+CRESTWOOD,Apartment with 5 or more stories,0,0,0
+CRESTWOOD,Apartment with less than 5 stories,44,60,2
+CRESTWOOD,Manufactured home/mobile home,0,0,0
+CRESTWOOD,Rooming house/collective residence,1,0,0
+CRESTWOOD,Hotel or motel,0,0,0
+CRESTWOOD,Other residential,1,0,0
+CRESTWOOD,No Response,0,0,0
+CROMDALE,Single-detached house,124,42,1
+CROMDALE,Duplex/triplex/fourplex,0,5,0
+CROMDALE,Row house,0,0,0
+CROMDALE,Apartment with 5 or more stories,143,44,0
+CROMDALE,Apartment with less than 5 stories,141,655,3
+CROMDALE,Manufactured home/mobile home,0,1,0
+CROMDALE,Rooming house/collective residence,0,0,0
+CROMDALE,Hotel or motel,0,0,0
+CROMDALE,Other residential,1,0,0
+CROMDALE,No Response,0,0,0
+CUMBERLAND,Single-detached house,1577,80,15
+CUMBERLAND,Duplex/triplex/fourplex,0,0,0
+CUMBERLAND,Row house,2,178,0
+CUMBERLAND,Apartment with 5 or more stories,0,0,0
+CUMBERLAND,Apartment with less than 5 stories,160,38,6
+CUMBERLAND,Manufactured home/mobile home,0,0,0
+CUMBERLAND,Rooming house/collective residence,0,0,0
+CUMBERLAND,Hotel or motel,0,0,0
+CUMBERLAND,Other residential,0,0,0
+CUMBERLAND,No Response,0,0,0
+DALY GROVE,Single-detached house,704,97,6
+DALY GROVE,Duplex/triplex/fourplex,54,39,2
+DALY GROVE,Row house,88,100,2
+DALY GROVE,Apartment with 5 or more stories,0,0,0
+DALY GROVE,Apartment with less than 5 stories,1,111,0
+DALY GROVE,Manufactured home/mobile home,0,0,0
+DALY GROVE,Rooming house/collective residence,0,0,0
+DALY GROVE,Hotel or motel,0,0,0
+DALY GROVE,Other residential,0,0,0
+DALY GROVE,No Response,0,0,0
+DECHENE,Single-detached house,509,12,5
+DECHENE,Duplex/triplex/fourplex,66,1,0
+DECHENE,Row house,0,0,0
+DECHENE,Apartment with 5 or more stories,0,0,0
+DECHENE,Apartment with less than 5 stories,0,0,0
+DECHENE,Manufactured home/mobile home,0,0,0
+DECHENE,Rooming house/collective residence,0,0,0
+DECHENE,Hotel or motel,0,0,0
+DECHENE,Other residential,0,0,0
+DECHENE,No Response,0,0,0
+DELTON,Single-detached house,484,209,5
+DELTON,Duplex/triplex/fourplex,43,67,4
+DELTON,Row house,0,0,0
+DELTON,Apartment with 5 or more stories,0,0,0
+DELTON,Apartment with less than 5 stories,0,45,0
+DELTON,Manufactured home/mobile home,0,0,0
+DELTON,Rooming house/collective residence,0,1,0
+DELTON,Hotel or motel,0,0,0
+DELTON,Other residential,3,2,1
+DELTON,No Response,0,0,0
+DELWOOD,Single-detached house,1067,96,4
+DELWOOD,Duplex/triplex/fourplex,51,40,0
+DELWOOD,Row house,29,12,1
+DELWOOD,Apartment with 5 or more stories,0,0,0
+DELWOOD,Apartment with less than 5 stories,1,36,0
+DELWOOD,Manufactured home/mobile home,0,0,0
+DELWOOD,Rooming house/collective residence,0,0,0
+DELWOOD,Hotel or motel,0,0,0
+DELWOOD,Other residential,0,0,0
+DELWOOD,No Response,0,0,0
+DOMINION INDUSTRIAL,Single-detached house,0,0,0
+DOMINION INDUSTRIAL,Duplex/triplex/fourplex,0,0,0
+DOMINION INDUSTRIAL,Row house,0,0,0
+DOMINION INDUSTRIAL,Apartment with 5 or more stories,0,0,0
+DOMINION INDUSTRIAL,Apartment with less than 5 stories,0,0,0
+DOMINION INDUSTRIAL,Manufactured home/mobile home,0,0,0
+DOMINION INDUSTRIAL,Rooming house/collective residence,0,0,0
+DOMINION INDUSTRIAL,Hotel or motel,0,0,0
+DOMINION INDUSTRIAL,Other residential,0,0,0
+DOMINION INDUSTRIAL,No Response,0,0,0
+DONSDALE,Single-detached house,321,3,1
+DONSDALE,Duplex/triplex/fourplex,0,0,0
+DONSDALE,Row house,0,0,0
+DONSDALE,Apartment with 5 or more stories,0,0,0
+DONSDALE,Apartment with less than 5 stories,0,135,0
+DONSDALE,Manufactured home/mobile home,0,0,0
+DONSDALE,Rooming house/collective residence,0,0,0
+DONSDALE,Hotel or motel,0,0,0
+DONSDALE,Other residential,0,0,0
+DONSDALE,No Response,0,0,0
+DOVERCOURT,Single-detached house,643,108,1
+DOVERCOURT,Duplex/triplex/fourplex,7,15,0
+DOVERCOURT,Row house,0,94,0
+DOVERCOURT,Apartment with 5 or more stories,0,0,0
+DOVERCOURT,Apartment with less than 5 stories,0,0,0
+DOVERCOURT,Manufactured home/mobile home,0,0,0
+DOVERCOURT,Rooming house/collective residence,0,0,0
+DOVERCOURT,Hotel or motel,0,0,0
+DOVERCOURT,Other residential,0,0,0
+DOVERCOURT,No Response,0,0,0
+DOWNTOWN,Single-detached house,12,55,2
+DOWNTOWN,Duplex/triplex/fourplex,25,18,0
+DOWNTOWN,Row house,1,2,0
+DOWNTOWN,Apartment with 5 or more stories,1471,4290,117
+DOWNTOWN,Apartment with less than 5 stories,253,578,12
+DOWNTOWN,Manufactured home/mobile home,0,0,0
+DOWNTOWN,Rooming house/collective residence,1,316,1
+DOWNTOWN,Hotel or motel,0,6,0
+DOWNTOWN,Other residential,0,0,0
+DOWNTOWN,No Response,0,0,0
+DUGGAN,Single-detached house,985,60,2
+DUGGAN,Duplex/triplex/fourplex,0,0,0
+DUGGAN,Row house,60,120,0
+DUGGAN,Apartment with 5 or more stories,0,1,0
+DUGGAN,Apartment with less than 5 stories,12,451,0
+DUGGAN,Manufactured home/mobile home,0,0,0
+DUGGAN,Rooming house/collective residence,0,1,0
+DUGGAN,Hotel or motel,0,0,0
+DUGGAN,Other residential,0,0,0
+DUGGAN,No Response,0,0,0
+DUNLUCE,Single-detached house,1058,88,13
+DUNLUCE,Duplex/triplex/fourplex,104,66,5
+DUNLUCE,Row house,205,302,3
+DUNLUCE,Apartment with 5 or more stories,0,0,0
+DUNLUCE,Apartment with less than 5 stories,2,437,3
+DUNLUCE,Manufactured home/mobile home,116,0,0
+DUNLUCE,Rooming house/collective residence,0,2,0
+DUNLUCE,Hotel or motel,0,0,0
+DUNLUCE,Other residential,0,0,0
+DUNLUCE,No Response,0,0,0
+EASTGATE BUSINESS PARK,Single-detached house,0,0,0
+EASTGATE BUSINESS PARK,Duplex/triplex/fourplex,0,0,0
+EASTGATE BUSINESS PARK,Row house,0,0,0
+EASTGATE BUSINESS PARK,Apartment with 5 or more stories,0,0,0
+EASTGATE BUSINESS PARK,Apartment with less than 5 stories,0,0,0
+EASTGATE BUSINESS PARK,Manufactured home/mobile home,0,0,0
+EASTGATE BUSINESS PARK,Rooming house/collective residence,0,0,0
+EASTGATE BUSINESS PARK,Hotel or motel,0,0,0
+EASTGATE BUSINESS PARK,Other residential,0,0,0
+EASTGATE BUSINESS PARK,No Response,0,0,0
+EASTWOOD,Single-detached house,404,255,25
+EASTWOOD,Duplex/triplex/fourplex,116,223,3
+EASTWOOD,Row house,0,19,0
+EASTWOOD,Apartment with 5 or more stories,0,0,0
+EASTWOOD,Apartment with less than 5 stories,22,798,13
+EASTWOOD,Manufactured home/mobile home,0,0,0
+EASTWOOD,Rooming house/collective residence,0,4,0
+EASTWOOD,Hotel or motel,0,0,0
+EASTWOOD,Other residential,0,0,0
+EASTWOOD,No Response,0,0,0
+EAUX CLAIRES,Single-detached house,526,16,0
+EAUX CLAIRES,Duplex/triplex/fourplex,90,20,0
+EAUX CLAIRES,Row house,0,0,0
+EAUX CLAIRES,Apartment with 5 or more stories,0,0,0
+EAUX CLAIRES,Apartment with less than 5 stories,320,81,0
+EAUX CLAIRES,Manufactured home/mobile home,0,0,0
+EAUX CLAIRES,Rooming house/collective residence,0,0,0
+EAUX CLAIRES,Hotel or motel,0,0,0
+EAUX CLAIRES,Other residential,0,0,0
+EAUX CLAIRES,No Response,0,0,0
+EBBERS INDUSTRIAL,Single-detached house,0,0,0
+EBBERS INDUSTRIAL,Duplex/triplex/fourplex,0,0,0
+EBBERS INDUSTRIAL,Row house,0,0,0
+EBBERS INDUSTRIAL,Apartment with 5 or more stories,0,0,0
+EBBERS INDUSTRIAL,Apartment with less than 5 stories,0,0,0
+EBBERS INDUSTRIAL,Manufactured home/mobile home,0,0,0
+EBBERS INDUSTRIAL,Rooming house/collective residence,0,0,0
+EBBERS INDUSTRIAL,Hotel or motel,0,0,0
+EBBERS INDUSTRIAL,Other residential,0,0,0
+EBBERS INDUSTRIAL,No Response,0,0,0
+ED RESEARCH AND DEVELOPMENT PARK,Single-detached house,0,0,0
+ED RESEARCH AND DEVELOPMENT PARK,Duplex/triplex/fourplex,0,0,0
+ED RESEARCH AND DEVELOPMENT PARK,Row house,0,0,0
+ED RESEARCH AND DEVELOPMENT PARK,Apartment with 5 or more stories,0,0,0
+ED RESEARCH AND DEVELOPMENT PARK,Apartment with less than 5 stories,0,0,0
+ED RESEARCH AND DEVELOPMENT PARK,Manufactured home/mobile home,0,0,0
+ED RESEARCH AND DEVELOPMENT PARK,Rooming house/collective residence,0,0,0
+ED RESEARCH AND DEVELOPMENT PARK,Hotel or motel,0,0,0
+ED RESEARCH AND DEVELOPMENT PARK,Other residential,0,0,0
+ED RESEARCH AND DEVELOPMENT PARK,No Response,0,0,0
+EDMISTON INDUSTRIAL,Single-detached house,0,0,0
+EDMISTON INDUSTRIAL,Duplex/triplex/fourplex,0,0,0
+EDMISTON INDUSTRIAL,Row house,0,0,0
+EDMISTON INDUSTRIAL,Apartment with 5 or more stories,0,0,0
+EDMISTON INDUSTRIAL,Apartment with less than 5 stories,0,0,0
+EDMISTON INDUSTRIAL,Manufactured home/mobile home,0,0,0
+EDMISTON INDUSTRIAL,Rooming house/collective residence,0,0,0
+EDMISTON INDUSTRIAL,Hotel or motel,0,0,0
+EDMISTON INDUSTRIAL,Other residential,0,0,0
+EDMISTON INDUSTRIAL,No Response,0,0,0
+EDMONTON MUNICIPAL AIRPORT,Single-detached house,0,0,0
+EDMONTON MUNICIPAL AIRPORT,Duplex/triplex/fourplex,0,0,0
+EDMONTON MUNICIPAL AIRPORT,Row house,0,0,0
+EDMONTON MUNICIPAL AIRPORT,Apartment with 5 or more stories,0,0,0
+EDMONTON MUNICIPAL AIRPORT,Apartment with less than 5 stories,0,0,0
+EDMONTON MUNICIPAL AIRPORT,Manufactured home/mobile home,0,0,0
+EDMONTON MUNICIPAL AIRPORT,Rooming house/collective residence,0,0,0
+EDMONTON MUNICIPAL AIRPORT,Hotel or motel,0,0,0
+EDMONTON MUNICIPAL AIRPORT,Other residential,0,0,0
+EDMONTON MUNICIPAL AIRPORT,No Response,0,0,0
+EDMONTON NORTHLANDS,Single-detached house,0,0,0
+EDMONTON NORTHLANDS,Duplex/triplex/fourplex,0,0,0
+EDMONTON NORTHLANDS,Row house,0,0,0
+EDMONTON NORTHLANDS,Apartment with 5 or more stories,0,0,0
+EDMONTON NORTHLANDS,Apartment with less than 5 stories,0,0,0
+EDMONTON NORTHLANDS,Manufactured home/mobile home,0,0,0
+EDMONTON NORTHLANDS,Rooming house/collective residence,0,1,0
+EDMONTON NORTHLANDS,Hotel or motel,0,0,0
+EDMONTON NORTHLANDS,Other residential,0,0,0
+EDMONTON NORTHLANDS,No Response,0,0,0
+EKOTA,Single-detached house,488,42,2
+EKOTA,Duplex/triplex/fourplex,20,22,0
+EKOTA,Row house,120,136,3
+EKOTA,Apartment with 5 or more stories,0,0,0
+EKOTA,Apartment with less than 5 stories,0,92,1
+EKOTA,Manufactured home/mobile home,0,0,0
+EKOTA,Rooming house/collective residence,0,0,0
+EKOTA,Hotel or motel,0,0,0
+EKOTA,Other residential,0,0,0
+EKOTA,No Response,0,0,0
+ELLERSLIE,Single-detached house,951,86,13
+ELLERSLIE,Duplex/triplex/fourplex,165,26,5
+ELLERSLIE,Row house,194,73,7
+ELLERSLIE,Apartment with 5 or more stories,0,0,0
+ELLERSLIE,Apartment with less than 5 stories,275,125,8
+ELLERSLIE,Manufactured home/mobile home,0,0,0
+ELLERSLIE,Rooming house/collective residence,0,0,0
+ELLERSLIE,Hotel or motel,0,0,0
+ELLERSLIE,Other residential,0,0,0
+ELLERSLIE,No Response,0,0,0
+ELMWOOD,Single-detached house,642,79,2
+ELMWOOD,Duplex/triplex/fourplex,1,191,0
+ELMWOOD,Row house,0,0,0
+ELMWOOD,Apartment with 5 or more stories,0,0,0
+ELMWOOD,Apartment with less than 5 stories,0,56,0
+ELMWOOD,Manufactured home/mobile home,0,0,0
+ELMWOOD,Rooming house/collective residence,0,1,0
+ELMWOOD,Hotel or motel,0,0,0
+ELMWOOD,Other residential,0,0,0
+ELMWOOD,No Response,0,0,0
+ELMWOOD PARK,Single-detached house,232,72,0
+ELMWOOD PARK,Duplex/triplex/fourplex,12,23,0
+ELMWOOD PARK,Row house,0,0,0
+ELMWOOD PARK,Apartment with 5 or more stories,0,0,0
+ELMWOOD PARK,Apartment with less than 5 stories,19,191,0
+ELMWOOD PARK,Manufactured home/mobile home,0,0,0
+ELMWOOD PARK,Rooming house/collective residence,0,0,0
+ELMWOOD PARK,Hotel or motel,0,1,0
+ELMWOOD PARK,Other residential,0,1,0
+ELMWOOD PARK,No Response,0,0,0
+ELSINORE,Single-detached house,572,10,1
+ELSINORE,Duplex/triplex/fourplex,137,14,0
+ELSINORE,Row house,2,0,0
+ELSINORE,Apartment with 5 or more stories,0,0,0
+ELSINORE,Apartment with less than 5 stories,0,0,0
+ELSINORE,Manufactured home/mobile home,0,0,0
+ELSINORE,Rooming house/collective residence,0,0,0
+ELSINORE,Hotel or motel,0,0,0
+ELSINORE,Other residential,0,0,0
+ELSINORE,No Response,0,0,0
+EMPIRE PARK,Single-detached house,54,9,0
+EMPIRE PARK,Duplex/triplex/fourplex,54,154,2
+EMPIRE PARK,Row house,1,453,0
+EMPIRE PARK,Apartment with 5 or more stories,42,714,0
+EMPIRE PARK,Apartment with less than 5 stories,116,708,4
+EMPIRE PARK,Manufactured home/mobile home,0,0,0
+EMPIRE PARK,Rooming house/collective residence,0,0,0
+EMPIRE PARK,Hotel or motel,0,0,0
+EMPIRE PARK,Other residential,0,0,0
+EMPIRE PARK,No Response,0,0,0
+ERMINESKIN,Single-detached house,321,26,0
+ERMINESKIN,Duplex/triplex/fourplex,72,107,1
+ERMINESKIN,Row house,93,163,0
+ERMINESKIN,Apartment with 5 or more stories,10,680,1
+ERMINESKIN,Apartment with less than 5 stories,112,616,1
+ERMINESKIN,Manufactured home/mobile home,0,0,0
+ERMINESKIN,Rooming house/collective residence,0,0,0
+ERMINESKIN,Hotel or motel,0,0,0
+ERMINESKIN,Other residential,0,0,0
+ERMINESKIN,No Response,0,0,0
+EVANSDALE,Single-detached house,1005,107,0
+EVANSDALE,Duplex/triplex/fourplex,43,21,0
+EVANSDALE,Row house,80,304,0
+EVANSDALE,Apartment with 5 or more stories,0,0,0
+EVANSDALE,Apartment with less than 5 stories,1,509,0
+EVANSDALE,Manufactured home/mobile home,0,0,0
+EVANSDALE,Rooming house/collective residence,0,0,0
+EVANSDALE,Hotel or motel,0,0,0
+EVANSDALE,Other residential,0,0,0
+EVANSDALE,No Response,0,0,0
+EVERGREEN,Single-detached house,0,0,0
+EVERGREEN,Duplex/triplex/fourplex,0,0,0
+EVERGREEN,Row house,0,0,0
+EVERGREEN,Apartment with 5 or more stories,0,0,0
+EVERGREEN,Apartment with less than 5 stories,0,0,0
+EVERGREEN,Manufactured home/mobile home,632,39,1
+EVERGREEN,Rooming house/collective residence,0,0,0
+EVERGREEN,Hotel or motel,0,0,0
+EVERGREEN,Other residential,0,0,0
+EVERGREEN,No Response,0,0,0
+FALCONER HEIGHTS,Single-detached house,432,16,0
+FALCONER HEIGHTS,Duplex/triplex/fourplex,52,0,0
+FALCONER HEIGHTS,Row house,36,4,0
+FALCONER HEIGHTS,Apartment with 5 or more stories,0,0,0
+FALCONER HEIGHTS,Apartment with less than 5 stories,42,213,0
+FALCONER HEIGHTS,Manufactured home/mobile home,0,0,0
+FALCONER HEIGHTS,Rooming house/collective residence,0,0,0
+FALCONER HEIGHTS,Hotel or motel,0,0,0
+FALCONER HEIGHTS,Other residential,0,0,0
+FALCONER HEIGHTS,No Response,0,0,0
+FOREST HEIGHTS,Single-detached house,894,434,21
+FOREST HEIGHTS,Duplex/triplex/fourplex,70,175,11
+FOREST HEIGHTS,Row house,0,0,0
+FOREST HEIGHTS,Apartment with 5 or more stories,0,0,0
+FOREST HEIGHTS,Apartment with less than 5 stories,53,217,0
+FOREST HEIGHTS,Manufactured home/mobile home,0,0,0
+FOREST HEIGHTS,Rooming house/collective residence,0,0,0
+FOREST HEIGHTS,Hotel or motel,0,0,0
+FOREST HEIGHTS,Other residential,0,0,0
+FOREST HEIGHTS,No Response,0,0,0
+FRASER,Single-detached house,639,70,8
+FRASER,Duplex/triplex/fourplex,63,22,0
+FRASER,Row house,66,21,0
+FRASER,Apartment with 5 or more stories,0,0,0
+FRASER,Apartment with less than 5 stories,111,167,1
+FRASER,Manufactured home/mobile home,0,0,0
+FRASER,Rooming house/collective residence,0,3,0
+FRASER,Hotel or motel,0,0,0
+FRASER,Other residential,0,0,0
+FRASER,No Response,0,0,0
+FULTON PLACE,Single-detached house,711,86,4
+FULTON PLACE,Duplex/triplex/fourplex,3,5,0
+FULTON PLACE,Row house,0,0,0
+FULTON PLACE,Apartment with 5 or more stories,0,0,0
+FULTON PLACE,Apartment with less than 5 stories,75,54,0
+FULTON PLACE,Manufactured home/mobile home,0,0,0
+FULTON PLACE,Rooming house/collective residence,0,0,0
+FULTON PLACE,Hotel or motel,0,0,0
+FULTON PLACE,Other residential,0,0,0
+FULTON PLACE,No Response,0,0,0
+GAINER INDUSTRIAL,Single-detached house,0,0,0
+GAINER INDUSTRIAL,Duplex/triplex/fourplex,0,0,0
+GAINER INDUSTRIAL,Row house,0,0,0
+GAINER INDUSTRIAL,Apartment with 5 or more stories,0,0,0
+GAINER INDUSTRIAL,Apartment with less than 5 stories,52,0,0
+GAINER INDUSTRIAL,Manufactured home/mobile home,0,0,0
+GAINER INDUSTRIAL,Rooming house/collective residence,0,0,0
+GAINER INDUSTRIAL,Hotel or motel,0,0,0
+GAINER INDUSTRIAL,Other residential,0,0,0
+GAINER INDUSTRIAL,No Response,0,0,0
+GARIEPY,Single-detached house,475,10,2
+GARIEPY,Duplex/triplex/fourplex,85,11,1
+GARIEPY,Row house,42,2,0
+GARIEPY,Apartment with 5 or more stories,0,0,0
+GARIEPY,Apartment with less than 5 stories,77,19,0
+GARIEPY,Manufactured home/mobile home,0,0,0
+GARIEPY,Rooming house/collective residence,0,0,0
+GARIEPY,Hotel or motel,0,0,0
+GARIEPY,Other residential,0,0,0
+GARIEPY,No Response,0,0,0
+GARNEAU,Single-detached house,249,349,19
+GARNEAU,Duplex/triplex/fourplex,22,79,1
+GARNEAU,Row house,28,28,8
+GARNEAU,Apartment with 5 or more stories,492,2472,61
+GARNEAU,Apartment with less than 5 stories,162,1042,59
+GARNEAU,Manufactured home/mobile home,0,0,0
+GARNEAU,Rooming house/collective residence,1,22,0
+GARNEAU,Hotel or motel,0,0,0
+GARNEAU,Other residential,0,0,0
+GARNEAU,No Response,0,0,0
+GARSIDE INDUSTRIAL,Single-detached house,0,0,0
+GARSIDE INDUSTRIAL,Duplex/triplex/fourplex,0,0,0
+GARSIDE INDUSTRIAL,Row house,0,0,0
+GARSIDE INDUSTRIAL,Apartment with 5 or more stories,0,0,0
+GARSIDE INDUSTRIAL,Apartment with less than 5 stories,0,0,0
+GARSIDE INDUSTRIAL,Manufactured home/mobile home,0,0,0
+GARSIDE INDUSTRIAL,Rooming house/collective residence,0,0,0
+GARSIDE INDUSTRIAL,Hotel or motel,0,0,0
+GARSIDE INDUSTRIAL,Other residential,0,0,0
+GARSIDE INDUSTRIAL,No Response,0,0,0
+GIRARD INDUSTRIAL,Single-detached house,0,0,0
+GIRARD INDUSTRIAL,Duplex/triplex/fourplex,0,0,0
+GIRARD INDUSTRIAL,Row house,0,0,0
+GIRARD INDUSTRIAL,Apartment with 5 or more stories,0,0,0
+GIRARD INDUSTRIAL,Apartment with less than 5 stories,0,0,0
+GIRARD INDUSTRIAL,Manufactured home/mobile home,0,0,0
+GIRARD INDUSTRIAL,Rooming house/collective residence,0,0,0
+GIRARD INDUSTRIAL,Hotel or motel,0,0,0
+GIRARD INDUSTRIAL,Other residential,0,0,0
+GIRARD INDUSTRIAL,No Response,0,0,0
+GLASTONBURY,Single-detached house,1249,46,27
+GLASTONBURY,Duplex/triplex/fourplex,241,29,14
+GLASTONBURY,Row house,55,6,5
+GLASTONBURY,Apartment with 5 or more stories,78,26,4
+GLASTONBURY,Apartment with less than 5 stories,91,164,6
+GLASTONBURY,Manufactured home/mobile home,0,0,0
+GLASTONBURY,Rooming house/collective residence,0,0,0
+GLASTONBURY,Hotel or motel,0,0,0
+GLASTONBURY,Other residential,0,0,0
+GLASTONBURY,No Response,0,0,0
+GLENGARRY,Single-detached house,619,67,1
+GLENGARRY,Duplex/triplex/fourplex,56,38,0
+GLENGARRY,Row house,198,66,0
+GLENGARRY,Apartment with 5 or more stories,3,178,2
+GLENGARRY,Apartment with less than 5 stories,0,22,1
+GLENGARRY,Manufactured home/mobile home,0,0,0
+GLENGARRY,Rooming house/collective residence,0,0,0
+GLENGARRY,Hotel or motel,0,0,0
+GLENGARRY,Other residential,0,0,0
+GLENGARRY,No Response,0,0,0
+GLENORA,Single-detached house,1005,105,6
+GLENORA,Duplex/triplex/fourplex,1,5,0
+GLENORA,Row house,0,0,0
+GLENORA,Apartment with 5 or more stories,222,59,0
+GLENORA,Apartment with less than 5 stories,0,78,0
+GLENORA,Manufactured home/mobile home,0,0,0
+GLENORA,Rooming house/collective residence,0,0,0
+GLENORA,Hotel or motel,0,0,0
+GLENORA,Other residential,0,0,0
+GLENORA,No Response,0,0,0
+GLENWOOD,Single-detached house,773,186,5
+GLENWOOD,Duplex/triplex/fourplex,62,20,0
+GLENWOOD,Row house,26,3,0
+GLENWOOD,Apartment with 5 or more stories,1,180,0
+GLENWOOD,Apartment with less than 5 stories,113,751,0
+GLENWOOD,Manufactured home/mobile home,0,0,0
+GLENWOOD,Rooming house/collective residence,0,0,0
+GLENWOOD,Hotel or motel,0,0,0
+GLENWOOD,Other residential,0,0,0
+GLENWOOD,No Response,0,0,0
+GOLD BAR,Single-detached house,800,81,1
+GOLD BAR,Duplex/triplex/fourplex,0,4,0
+GOLD BAR,Row house,0,206,0
+GOLD BAR,Apartment with 5 or more stories,0,0,0
+GOLD BAR,Apartment with less than 5 stories,0,36,0
+GOLD BAR,Manufactured home/mobile home,0,0,0
+GOLD BAR,Rooming house/collective residence,0,0,0
+GOLD BAR,Hotel or motel,0,0,0
+GOLD BAR,Other residential,0,0,0
+GOLD BAR,No Response,0,0,0
+GORMAN INDUSTRIAL EAST,Single-detached house,0,0,0
+GORMAN INDUSTRIAL EAST,Duplex/triplex/fourplex,0,0,0
+GORMAN INDUSTRIAL EAST,Row house,0,0,0
+GORMAN INDUSTRIAL EAST,Apartment with 5 or more stories,0,0,0
+GORMAN INDUSTRIAL EAST,Apartment with less than 5 stories,0,0,0
+GORMAN INDUSTRIAL EAST,Manufactured home/mobile home,0,0,0
+GORMAN INDUSTRIAL EAST,Rooming house/collective residence,0,0,0
+GORMAN INDUSTRIAL EAST,Hotel or motel,0,0,0
+GORMAN INDUSTRIAL EAST,Other residential,0,0,0
+GORMAN INDUSTRIAL EAST,No Response,0,0,0
+GRANDVIEW HEIGHTS,Single-detached house,332,6,0
+GRANDVIEW HEIGHTS,Duplex/triplex/fourplex,0,0,0
+GRANDVIEW HEIGHTS,Row house,0,0,0
+GRANDVIEW HEIGHTS,Apartment with 5 or more stories,0,0,0
+GRANDVIEW HEIGHTS,Apartment with less than 5 stories,0,19,0
+GRANDVIEW HEIGHTS,Manufactured home/mobile home,0,0,0
+GRANDVIEW HEIGHTS,Rooming house/collective residence,0,0,0
+GRANDVIEW HEIGHTS,Hotel or motel,0,0,0
+GRANDVIEW HEIGHTS,Other residential,0,0,0
+GRANDVIEW HEIGHTS,No Response,0,0,0
+GRANVILLE,Single-detached house,0,0,0
+GRANVILLE,Duplex/triplex/fourplex,0,0,0
+GRANVILLE,Row house,0,0,0
+GRANVILLE,Apartment with 5 or more stories,0,0,0
+GRANVILLE,Apartment with less than 5 stories,0,0,0
+GRANVILLE,Manufactured home/mobile home,0,0,0
+GRANVILLE,Rooming house/collective residence,0,0,0
+GRANVILLE,Hotel or motel,0,0,0
+GRANVILLE,Other residential,0,0,0
+GRANVILLE,No Response,0,0,0
+GREENFIELD,Single-detached house,1197,82,17
+GREENFIELD,Duplex/triplex/fourplex,25,32,7
+GREENFIELD,Row house,0,0,0
+GREENFIELD,Apartment with 5 or more stories,0,0,0
+GREENFIELD,Apartment with less than 5 stories,0,45,0
+GREENFIELD,Manufactured home/mobile home,0,0,0
+GREENFIELD,Rooming house/collective residence,0,0,0
+GREENFIELD,Hotel or motel,0,0,0
+GREENFIELD,Other residential,0,0,0
+GREENFIELD,No Response,0,0,0
+GREENVIEW,Single-detached house,673,46,6
+GREENVIEW,Duplex/triplex/fourplex,67,31,2
+GREENVIEW,Row house,57,62,2
+GREENVIEW,Apartment with 5 or more stories,0,0,0
+GREENVIEW,Apartment with less than 5 stories,0,47,0
+GREENVIEW,Manufactured home/mobile home,0,0,0
+GREENVIEW,Rooming house/collective residence,0,0,0
+GREENVIEW,Hotel or motel,0,0,0
+GREENVIEW,Other residential,0,0,0
+GREENVIEW,No Response,0,0,0
+GRIESBACH,Single-detached house,154,193,5
+GRIESBACH,Duplex/triplex/fourplex,44,158,1
+GRIESBACH,Row house,32,194,3
+GRIESBACH,Apartment with 5 or more stories,0,1,0
+GRIESBACH,Apartment with less than 5 stories,15,243,0
+GRIESBACH,Manufactured home/mobile home,0,0,0
+GRIESBACH,Rooming house/collective residence,0,0,0
+GRIESBACH,Hotel or motel,0,0,0
+GRIESBACH,Other residential,0,0,0
+GRIESBACH,No Response,0,0,0
+GROVENOR,Single-detached house,689,156,3
+GROVENOR,Duplex/triplex/fourplex,40,65,0
+GROVENOR,Row house,17,2,0
+GROVENOR,Apartment with 5 or more stories,0,0,0
+GROVENOR,Apartment with less than 5 stories,0,4,0
+GROVENOR,Manufactured home/mobile home,0,0,0
+GROVENOR,Rooming house/collective residence,0,0,0
+GROVENOR,Hotel or motel,0,0,0
+GROVENOR,Other residential,0,0,0
+GROVENOR,No Response,0,0,0
+HADDOW,Single-detached house,1014,30,4
+HADDOW,Duplex/triplex/fourplex,144,24,3
+HADDOW,Row house,29,8,1
+HADDOW,Apartment with 5 or more stories,138,1,0
+HADDOW,Apartment with less than 5 stories,71,38,0
+HADDOW,Manufactured home/mobile home,0,0,0
+HADDOW,Rooming house/collective residence,0,0,0
+HADDOW,Hotel or motel,0,0,0
+HADDOW,Other residential,0,0,0
+HADDOW,No Response,0,0,0
+HAIRSINE,Single-detached house,222,19,0
+HAIRSINE,Duplex/triplex/fourplex,57,40,1
+HAIRSINE,Row house,282,168,5
+HAIRSINE,Apartment with 5 or more stories,0,0,0
+HAIRSINE,Apartment with less than 5 stories,43,128,1
+HAIRSINE,Manufactured home/mobile home,0,0,0
+HAIRSINE,Rooming house/collective residence,0,0,0
+HAIRSINE,Hotel or motel,0,0,0
+HAIRSINE,Other residential,0,0,0
+HAIRSINE,No Response,0,0,0
+HAWIN PARK ESTATE INDUSTRIAL,Single-detached house,0,0,0
+HAWIN PARK ESTATE INDUSTRIAL,Duplex/triplex/fourplex,0,0,0
+HAWIN PARK ESTATE INDUSTRIAL,Row house,0,0,0
+HAWIN PARK ESTATE INDUSTRIAL,Apartment with 5 or more stories,0,0,0
+HAWIN PARK ESTATE INDUSTRIAL,Apartment with less than 5 stories,0,0,0
+HAWIN PARK ESTATE INDUSTRIAL,Manufactured home/mobile home,0,0,0
+HAWIN PARK ESTATE INDUSTRIAL,Rooming house/collective residence,0,0,0
+HAWIN PARK ESTATE INDUSTRIAL,Hotel or motel,0,0,0
+HAWIN PARK ESTATE INDUSTRIAL,Other residential,0,0,0
+HAWIN PARK ESTATE INDUSTRIAL,No Response,0,0,0
+HAZELDEAN,Single-detached house,709,341,13
+HAZELDEAN,Duplex/triplex/fourplex,1,83,0
+HAZELDEAN,Row house,0,125,0
+HAZELDEAN,Apartment with 5 or more stories,0,0,0
+HAZELDEAN,Apartment with less than 5 stories,0,0,0
+HAZELDEAN,Manufactured home/mobile home,0,0,0
+HAZELDEAN,Rooming house/collective residence,0,0,0
+HAZELDEAN,Hotel or motel,0,0,0
+HAZELDEAN,Other residential,0,0,0
+HAZELDEAN,No Response,0,0,0
+HENDERSON ESTATES,Single-detached house,566,1,4
+HENDERSON ESTATES,Duplex/triplex/fourplex,43,2,1
+HENDERSON ESTATES,Row house,0,0,0
+HENDERSON ESTATES,Apartment with 5 or more stories,0,0,0
+HENDERSON ESTATES,Apartment with less than 5 stories,0,0,0
+HENDERSON ESTATES,Manufactured home/mobile home,0,0,0
+HENDERSON ESTATES,Rooming house/collective residence,0,0,0
+HENDERSON ESTATES,Hotel or motel,0,0,0
+HENDERSON ESTATES,Other residential,0,0,0
+HENDERSON ESTATES,No Response,0,0,0
+HERITAGE VALLEY AREA,Single-detached house,10,11,0
+HERITAGE VALLEY AREA,Duplex/triplex/fourplex,0,0,0
+HERITAGE VALLEY AREA,Row house,0,0,0
+HERITAGE VALLEY AREA,Apartment with 5 or more stories,0,0,0
+HERITAGE VALLEY AREA,Apartment with less than 5 stories,0,0,0
+HERITAGE VALLEY AREA,Manufactured home/mobile home,23,0,0
+HERITAGE VALLEY AREA,Rooming house/collective residence,0,0,0
+HERITAGE VALLEY AREA,Hotel or motel,0,0,0
+HERITAGE VALLEY AREA,Other residential,0,0,0
+HERITAGE VALLEY AREA,No Response,0,0,0
+HIGH PARK,Single-detached house,452,119,12
+HIGH PARK,Duplex/triplex/fourplex,1,10,0
+HIGH PARK,Row house,0,0,0
+HIGH PARK,Apartment with 5 or more stories,0,0,0
+HIGH PARK,Apartment with less than 5 stories,0,6,0
+HIGH PARK,Manufactured home/mobile home,0,0,0
+HIGH PARK,Rooming house/collective residence,0,0,0
+HIGH PARK,Hotel or motel,0,4,0
+HIGH PARK,Other residential,0,0,0
+HIGH PARK,No Response,0,0,0
+HIGH PARK INDUSTRIAL,Single-detached house,0,0,0
+HIGH PARK INDUSTRIAL,Duplex/triplex/fourplex,0,0,0
+HIGH PARK INDUSTRIAL,Row house,0,0,0
+HIGH PARK INDUSTRIAL,Apartment with 5 or more stories,0,0,0
+HIGH PARK INDUSTRIAL,Apartment with less than 5 stories,0,0,0
+HIGH PARK INDUSTRIAL,Manufactured home/mobile home,0,0,0
+HIGH PARK INDUSTRIAL,Rooming house/collective residence,0,0,0
+HIGH PARK INDUSTRIAL,Hotel or motel,0,0,0
+HIGH PARK INDUSTRIAL,Other residential,0,0,0
+HIGH PARK INDUSTRIAL,No Response,0,0,0
+HIGHLANDS,Single-detached house,852,151,5
+HIGHLANDS,Duplex/triplex/fourplex,7,13,0
+HIGHLANDS,Row house,0,0,0
+HIGHLANDS,Apartment with 5 or more stories,0,0,0
+HIGHLANDS,Apartment with less than 5 stories,10,107,0
+HIGHLANDS,Manufactured home/mobile home,0,0,0
+HIGHLANDS,Rooming house/collective residence,0,0,0
+HIGHLANDS,Hotel or motel,0,1,0
+HIGHLANDS,Other residential,0,0,0
+HIGHLANDS,No Response,0,0,0
+HILLVIEW,Single-detached house,684,59,1
+HILLVIEW,Duplex/triplex/fourplex,75,23,1
+HILLVIEW,Row house,117,160,3
+HILLVIEW,Apartment with 5 or more stories,0,0,0
+HILLVIEW,Apartment with less than 5 stories,22,213,0
+HILLVIEW,Manufactured home/mobile home,0,0,0
+HILLVIEW,Rooming house/collective residence,0,0,0
+HILLVIEW,Hotel or motel,0,0,0
+HILLVIEW,Other residential,0,0,0
+HILLVIEW,No Response,0,0,0
+HODGSON,Single-detached house,529,20,5
+HODGSON,Duplex/triplex/fourplex,63,15,3
+HODGSON,Row house,0,0,0
+HODGSON,Apartment with 5 or more stories,0,0,0
+HODGSON,Apartment with less than 5 stories,221,48,7
+HODGSON,Manufactured home/mobile home,0,0,0
+HODGSON,Rooming house/collective residence,0,0,0
+HODGSON,Hotel or motel,0,0,0
+HODGSON,Other residential,0,0,0
+HODGSON,No Response,0,0,0
+HOLLICK-KENYON,Single-detached house,1159,41,3
+HOLLICK-KENYON,Duplex/triplex/fourplex,162,19,1
+HOLLICK-KENYON,Row house,1,0,0
+HOLLICK-KENYON,Apartment with 5 or more stories,0,0,0
+HOLLICK-KENYON,Apartment with less than 5 stories,0,0,0
+HOLLICK-KENYON,Manufactured home/mobile home,0,0,0
+HOLLICK-KENYON,Rooming house/collective residence,0,0,0
+HOLLICK-KENYON,Hotel or motel,0,0,0
+HOLLICK-KENYON,Other residential,0,0,0
+HOLLICK-KENYON,No Response,0,0,0
+HOLYROOD,Single-detached house,859,181,15
+HOLYROOD,Duplex/triplex/fourplex,1,167,0
+HOLYROOD,Row house,1,67,0
+HOLYROOD,Apartment with 5 or more stories,0,95,0
+HOLYROOD,Apartment with less than 5 stories,1,151,1
+HOLYROOD,Manufactured home/mobile home,0,0,0
+HOLYROOD,Rooming house/collective residence,0,0,0
+HOLYROOD,Hotel or motel,0,0,0
+HOLYROOD,Other residential,2,3,2
+HOLYROOD,No Response,0,0,0
+HOMESTEADER,Single-detached house,413,35,1
+HOMESTEADER,Duplex/triplex/fourplex,104,31,0
+HOMESTEADER,Row house,154,312,0
+HOMESTEADER,Apartment with 5 or more stories,1,1,0
+HOMESTEADER,Apartment with less than 5 stories,3,216,1
+HOMESTEADER,Manufactured home/mobile home,0,0,0
+HOMESTEADER,Rooming house/collective residence,0,0,0
+HOMESTEADER,Hotel or motel,0,0,0
+HOMESTEADER,Other residential,0,0,0
+HOMESTEADER,No Response,0,0,0
+HUDSON,Single-detached house,349,12,13
+HUDSON,Duplex/triplex/fourplex,97,16,3
+HUDSON,Row house,1,0,0
+HUDSON,Apartment with 5 or more stories,0,0,0
+HUDSON,Apartment with less than 5 stories,62,106,8
+HUDSON,Manufactured home/mobile home,0,0,0
+HUDSON,Rooming house/collective residence,0,0,0
+HUDSON,Hotel or motel,0,0,0
+HUDSON,Other residential,0,0,0
+HUDSON,No Response,0,0,0
+IDYLWYLDE,Single-detached house,378,156,7
+IDYLWYLDE,Duplex/triplex/fourplex,3,21,0
+IDYLWYLDE,Row house,0,0,0
+IDYLWYLDE,Apartment with 5 or more stories,65,41,0
+IDYLWYLDE,Apartment with less than 5 stories,52,210,2
+IDYLWYLDE,Manufactured home/mobile home,0,0,0
+IDYLWYLDE,Rooming house/collective residence,0,0,0
+IDYLWYLDE,Hotel or motel,0,0,0
+IDYLWYLDE,Other residential,0,0,0
+IDYLWYLDE,No Response,0,0,0
+INGLEWOOD,Single-detached house,619,263,3
+INGLEWOOD,Duplex/triplex/fourplex,69,134,2
+INGLEWOOD,Row house,2,0,0
+INGLEWOOD,Apartment with 5 or more stories,2,417,0
+INGLEWOOD,Apartment with less than 5 stories,105,1943,4
+INGLEWOOD,Manufactured home/mobile home,0,0,0
+INGLEWOOD,Rooming house/collective residence,0,1,0
+INGLEWOOD,Hotel or motel,0,0,0
+INGLEWOOD,Other residential,5,21,2
+INGLEWOOD,No Response,0,0,0
+JACKSON HEIGHTS,Single-detached house,1063,60,4
+JACKSON HEIGHTS,Duplex/triplex/fourplex,91,1,0
+JACKSON HEIGHTS,Row house,19,4,0
+JACKSON HEIGHTS,Apartment with 5 or more stories,0,0,0
+JACKSON HEIGHTS,Apartment with less than 5 stories,0,0,0
+JACKSON HEIGHTS,Manufactured home/mobile home,0,0,0
+JACKSON HEIGHTS,Rooming house/collective residence,0,0,0
+JACKSON HEIGHTS,Hotel or motel,0,0,0
+JACKSON HEIGHTS,Other residential,0,0,0
+JACKSON HEIGHTS,No Response,0,0,0
+JAMIESON PLACE,Single-detached house,1136,63,29
+JAMIESON PLACE,Duplex/triplex/fourplex,62,0,9
+JAMIESON PLACE,Row house,10,0,0
+JAMIESON PLACE,Apartment with 5 or more stories,0,0,0
+JAMIESON PLACE,Apartment with less than 5 stories,0,0,0
+JAMIESON PLACE,Manufactured home/mobile home,0,0,0
+JAMIESON PLACE,Rooming house/collective residence,0,0,0
+JAMIESON PLACE,Hotel or motel,0,0,0
+JAMIESON PLACE,Other residential,0,0,0
+JAMIESON PLACE,No Response,0,0,0
+JASPER PARK,Single-detached house,331,102,14
+JASPER PARK,Duplex/triplex/fourplex,12,41,0
+JASPER PARK,Row house,0,0,0
+JASPER PARK,Apartment with 5 or more stories,0,0,0
+JASPER PARK,Apartment with less than 5 stories,44,303,2
+JASPER PARK,Manufactured home/mobile home,0,1,0
+JASPER PARK,Rooming house/collective residence,0,0,0
+JASPER PARK,Hotel or motel,0,0,0
+JASPER PARK,Other residential,3,3,4
+JASPER PARK,No Response,0,0,0
+KAMEYOSEK,Single-detached house,269,32,0
+KAMEYOSEK,Duplex/triplex/fourplex,0,4,0
+KAMEYOSEK,Row house,199,240,4
+KAMEYOSEK,Apartment with 5 or more stories,0,73,0
+KAMEYOSEK,Apartment with less than 5 stories,5,137,1
+KAMEYOSEK,Manufactured home/mobile home,0,0,0
+KAMEYOSEK,Rooming house/collective residence,0,0,0
+KAMEYOSEK,Hotel or motel,0,0,0
+KAMEYOSEK,Other residential,0,0,0
+KAMEYOSEK,No Response,0,0,0
+KEHEEWIN,Single-detached house,532,40,6
+KEHEEWIN,Duplex/triplex/fourplex,25,16,0
+KEHEEWIN,Row house,97,26,3
+KEHEEWIN,Apartment with 5 or more stories,0,0,0
+KEHEEWIN,Apartment with less than 5 stories,281,124,1
+KEHEEWIN,Manufactured home/mobile home,0,0,0
+KEHEEWIN,Rooming house/collective residence,0,30,0
+KEHEEWIN,Hotel or motel,0,0,0
+KEHEEWIN,Other residential,2,4,0
+KEHEEWIN,No Response,0,0,0
+KENILWORTH,Single-detached house,777,71,12
+KENILWORTH,Duplex/triplex/fourplex,65,63,0
+KENILWORTH,Row house,1,1,0
+KENILWORTH,Apartment with 5 or more stories,0,0,0
+KENILWORTH,Apartment with less than 5 stories,0,65,0
+KENILWORTH,Manufactured home/mobile home,0,0,0
+KENILWORTH,Rooming house/collective residence,0,1,0
+KENILWORTH,Hotel or motel,0,0,0
+KENILWORTH,Other residential,0,0,0
+KENILWORTH,No Response,0,0,0
+KENSINGTON,Single-detached house,855,120,4
+KENSINGTON,Duplex/triplex/fourplex,187,83,1
+KENSINGTON,Row house,2,0,0
+KENSINGTON,Apartment with 5 or more stories,0,0,0
+KENSINGTON,Apartment with less than 5 stories,87,395,0
+KENSINGTON,Manufactured home/mobile home,0,0,0
+KENSINGTON,Rooming house/collective residence,0,2,0
+KENSINGTON,Hotel or motel,0,0,0
+KENSINGTON,Other residential,0,0,0
+KENSINGTON,No Response,0,0,0
+KERNOHAN,Single-detached house,665,45,4
+KERNOHAN,Duplex/triplex/fourplex,100,10,0
+KERNOHAN,Row house,175,97,0
+KERNOHAN,Apartment with 5 or more stories,0,0,0
+KERNOHAN,Apartment with less than 5 stories,58,2,0
+KERNOHAN,Manufactured home/mobile home,0,0,0
+KERNOHAN,Rooming house/collective residence,0,0,0
+KERNOHAN,Hotel or motel,0,0,0
+KERNOHAN,Other residential,0,0,0
+KERNOHAN,No Response,0,0,0
+KILDARE,Single-detached house,482,46,0
+KILDARE,Duplex/triplex/fourplex,77,22,0
+KILDARE,Row house,161,115,10
+KILDARE,Apartment with 5 or more stories,0,113,0
+KILDARE,Apartment with less than 5 stories,0,104,0
+KILDARE,Manufactured home/mobile home,0,0,0
+KILDARE,Rooming house/collective residence,0,0,0
+KILDARE,Hotel or motel,0,0,0
+KILDARE,Other residential,0,0,0
+KILDARE,No Response,0,0,0
+KILKENNY,Single-detached house,1161,91,1
+KILKENNY,Duplex/triplex/fourplex,2,10,0
+KILKENNY,Row house,104,95,0
+KILKENNY,Apartment with 5 or more stories,0,3,0
+KILKENNY,Apartment with less than 5 stories,8,597,1
+KILKENNY,Manufactured home/mobile home,0,0,0
+KILKENNY,Rooming house/collective residence,0,0,0
+KILKENNY,Hotel or motel,0,0,0
+KILKENNY,Other residential,0,0,0
+KILKENNY,No Response,0,0,0
+KILLARNEY,Single-detached house,460,122,1
+KILLARNEY,Duplex/triplex/fourplex,145,299,3
+KILLARNEY,Row house,0,272,0
+KILLARNEY,Apartment with 5 or more stories,0,3,0
+KILLARNEY,Apartment with less than 5 stories,2,403,1
+KILLARNEY,Manufactured home/mobile home,0,0,0
+KILLARNEY,Rooming house/collective residence,0,0,0
+KILLARNEY,Hotel or motel,0,0,0
+KILLARNEY,Other residential,0,0,0
+KILLARNEY,No Response,0,0,0
+KING EDWARD PARK,Single-detached house,884,462,21
+KING EDWARD PARK,Duplex/triplex/fourplex,70,215,8
+KING EDWARD PARK,Row house,0,2,0
+KING EDWARD PARK,Apartment with 5 or more stories,0,1,0
+KING EDWARD PARK,Apartment with less than 5 stories,54,341,0
+KING EDWARD PARK,Manufactured home/mobile home,0,0,0
+KING EDWARD PARK,Rooming house/collective residence,0,0,0
+KING EDWARD PARK,Hotel or motel,0,0,0
+KING EDWARD PARK,Other residential,0,0,0
+KING EDWARD PARK,No Response,0,0,0
+KINISKI GARDENS,Single-detached house,1831,203,9
+KINISKI GARDENS,Duplex/triplex/fourplex,33,5,2
+KINISKI GARDENS,Row house,0,0,0
+KINISKI GARDENS,Apartment with 5 or more stories,0,0,0
+KINISKI GARDENS,Apartment with less than 5 stories,19,59,2
+KINISKI GARDENS,Manufactured home/mobile home,0,0,0
+KINISKI GARDENS,Rooming house/collective residence,0,0,0
+KINISKI GARDENS,Hotel or motel,0,0,0
+KINISKI GARDENS,Other residential,0,0,0
+KINISKI GARDENS,No Response,0,0,0
+KINOKAMAU PLAINS AREA,Single-detached house,35,6,0
+KINOKAMAU PLAINS AREA,Duplex/triplex/fourplex,0,0,0
+KINOKAMAU PLAINS AREA,Row house,0,0,0
+KINOKAMAU PLAINS AREA,Apartment with 5 or more stories,0,0,0
+KINOKAMAU PLAINS AREA,Apartment with less than 5 stories,0,0,0
+KINOKAMAU PLAINS AREA,Manufactured home/mobile home,0,0,0
+KINOKAMAU PLAINS AREA,Rooming house/collective residence,0,0,0
+KINOKAMAU PLAINS AREA,Hotel or motel,0,0,0
+KINOKAMAU PLAINS AREA,Other residential,0,0,0
+KINOKAMAU PLAINS AREA,No Response,0,0,0
+KIRKNESS,Single-detached house,592,45,9
+KIRKNESS,Duplex/triplex/fourplex,12,3,0
+KIRKNESS,Row house,97,105,3
+KIRKNESS,Apartment with 5 or more stories,0,0,0
+KIRKNESS,Apartment with less than 5 stories,42,422,3
+KIRKNESS,Manufactured home/mobile home,0,0,0
+KIRKNESS,Rooming house/collective residence,0,0,0
+KIRKNESS,Hotel or motel,0,0,0
+KIRKNESS,Other residential,0,0,0
+KIRKNESS,No Response,0,0,0
+KLARVATTEN,Single-detached house,1165,47,14
+KLARVATTEN,Duplex/triplex/fourplex,35,14,2
+KLARVATTEN,Row house,70,32,0
+KLARVATTEN,Apartment with 5 or more stories,0,0,0
+KLARVATTEN,Apartment with less than 5 stories,0,0,0
+KLARVATTEN,Manufactured home/mobile home,0,0,0
+KLARVATTEN,Rooming house/collective residence,0,0,0
+KLARVATTEN,Hotel or motel,0,0,0
+KLARVATTEN,Other residential,0,0,0
+KLARVATTEN,No Response,0,0,0
+LA PERLE,Single-detached house,855,78,2
+LA PERLE,Duplex/triplex/fourplex,165,65,1
+LA PERLE,Row house,37,308,1
+LA PERLE,Apartment with 5 or more stories,0,0,0
+LA PERLE,Apartment with less than 5 stories,276,140,0
+LA PERLE,Manufactured home/mobile home,0,0,0
+LA PERLE,Rooming house/collective residence,0,0,0
+LA PERLE,Hotel or motel,0,0,0
+LA PERLE,Other residential,0,0,0
+LA PERLE,No Response,0,0,0
+LAGO LINDO,Single-detached house,1163,64,18
+LAGO LINDO,Duplex/triplex/fourplex,3,1,0
+LAGO LINDO,Row house,75,59,1
+LAGO LINDO,Apartment with 5 or more stories,0,0,0
+LAGO LINDO,Apartment with less than 5 stories,0,0,0
+LAGO LINDO,Manufactured home/mobile home,0,0,0
+LAGO LINDO,Rooming house/collective residence,0,0,0
+LAGO LINDO,Hotel or motel,0,0,0
+LAGO LINDO,Other residential,0,0,0
+LAGO LINDO,No Response,0,0,0
+LAMBTON INDUSTRIAL,Single-detached house,0,0,0
+LAMBTON INDUSTRIAL,Duplex/triplex/fourplex,0,0,0
+LAMBTON INDUSTRIAL,Row house,0,0,0
+LAMBTON INDUSTRIAL,Apartment with 5 or more stories,0,0,0
+LAMBTON INDUSTRIAL,Apartment with less than 5 stories,0,0,0
+LAMBTON INDUSTRIAL,Manufactured home/mobile home,0,0,0
+LAMBTON INDUSTRIAL,Rooming house/collective residence,0,1,0
+LAMBTON INDUSTRIAL,Hotel or motel,0,0,0
+LAMBTON INDUSTRIAL,Other residential,0,0,0
+LAMBTON INDUSTRIAL,No Response,0,0,0
+LANSDOWNE,Single-detached house,322,11,3
+LANSDOWNE,Duplex/triplex/fourplex,0,0,0
+LANSDOWNE,Row house,0,0,0
+LANSDOWNE,Apartment with 5 or more stories,0,59,0
+LANSDOWNE,Apartment with less than 5 stories,1,134,1
+LANSDOWNE,Manufactured home/mobile home,0,0,0
+LANSDOWNE,Rooming house/collective residence,0,0,0
+LANSDOWNE,Hotel or motel,0,0,0
+LANSDOWNE,Other residential,0,0,0
+LANSDOWNE,No Response,0,0,0
+LARKSPUR,Single-detached house,1127,65,9
+LARKSPUR,Duplex/triplex/fourplex,163,27,5
+LARKSPUR,Row house,1,0,0
+LARKSPUR,Apartment with 5 or more stories,0,0,0
+LARKSPUR,Apartment with less than 5 stories,57,51,13
+LARKSPUR,Manufactured home/mobile home,0,0,0
+LARKSPUR,Rooming house/collective residence,0,0,0
+LARKSPUR,Hotel or motel,0,0,0
+LARKSPUR,Other residential,0,0,0
+LARKSPUR,No Response,0,0,0
+LAUDERDALE,Single-detached house,462,119,15
+LAUDERDALE,Duplex/triplex/fourplex,80,189,1
+LAUDERDALE,Row house,64,80,0
+LAUDERDALE,Apartment with 5 or more stories,0,0,0
+LAUDERDALE,Apartment with less than 5 stories,10,195,1
+LAUDERDALE,Manufactured home/mobile home,0,0,0
+LAUDERDALE,Rooming house/collective residence,0,0,0
+LAUDERDALE,Hotel or motel,0,0,0
+LAUDERDALE,Other residential,0,0,0
+LAUDERDALE,No Response,0,0,0
+LAURIER HEIGHTS,Single-detached house,836,28,8
+LAURIER HEIGHTS,Duplex/triplex/fourplex,0,0,0
+LAURIER HEIGHTS,Row house,0,0,0
+LAURIER HEIGHTS,Apartment with 5 or more stories,0,0,0
+LAURIER HEIGHTS,Apartment with less than 5 stories,1,272,0
+LAURIER HEIGHTS,Manufactured home/mobile home,0,0,0
+LAURIER HEIGHTS,Rooming house/collective residence,0,0,0
+LAURIER HEIGHTS,Hotel or motel,0,0,0
+LAURIER HEIGHTS,Other residential,30,4,0
+LAURIER HEIGHTS,No Response,0,0,0
+LEE RIDGE,Single-detached house,340,22,2
+LEE RIDGE,Duplex/triplex/fourplex,72,81,2
+LEE RIDGE,Row house,175,127,1
+LEE RIDGE,Apartment with 5 or more stories,0,1,0
+LEE RIDGE,Apartment with less than 5 stories,1,114,0
+LEE RIDGE,Manufactured home/mobile home,76,8,4
+LEE RIDGE,Rooming house/collective residence,0,0,0
+LEE RIDGE,Hotel or motel,0,0,0
+LEE RIDGE,Other residential,0,0,0
+LEE RIDGE,No Response,0,0,0
+LEGER,Single-detached house,570,34,13
+LEGER,Duplex/triplex/fourplex,96,15,1
+LEGER,Row house,15,3,0
+LEGER,Apartment with 5 or more stories,0,0,0
+LEGER,Apartment with less than 5 stories,0,0,0
+LEGER,Manufactured home/mobile home,0,0,0
+LEGER,Rooming house/collective residence,0,0,0
+LEGER,Hotel or motel,0,0,0
+LEGER,Other residential,0,0,0
+LEGER,No Response,0,0,0
+LENDRUM PLACE,Single-detached house,538,54,6
+LENDRUM PLACE,Duplex/triplex/fourplex,0,1,0
+LENDRUM PLACE,Row house,0,0,0
+LENDRUM PLACE,Apartment with 5 or more stories,0,0,0
+LENDRUM PLACE,Apartment with less than 5 stories,1,219,1
+LENDRUM PLACE,Manufactured home/mobile home,0,0,0
+LENDRUM PLACE,Rooming house/collective residence,0,0,0
+LENDRUM PLACE,Hotel or motel,0,0,0
+LENDRUM PLACE,Other residential,0,0,0
+LENDRUM PLACE,No Response,0,0,0
+LEWIS FARMS INDUSTRIAL,Single-detached house,22,8,0
+LEWIS FARMS INDUSTRIAL,Duplex/triplex/fourplex,0,0,0
+LEWIS FARMS INDUSTRIAL,Row house,0,0,0
+LEWIS FARMS INDUSTRIAL,Apartment with 5 or more stories,0,0,0
+LEWIS FARMS INDUSTRIAL,Apartment with less than 5 stories,0,0,0
+LEWIS FARMS INDUSTRIAL,Manufactured home/mobile home,2,0,0
+LEWIS FARMS INDUSTRIAL,Rooming house/collective residence,0,0,0
+LEWIS FARMS INDUSTRIAL,Hotel or motel,0,1,0
+LEWIS FARMS INDUSTRIAL,Other residential,0,0,0
+LEWIS FARMS INDUSTRIAL,No Response,0,0,0
+LORELEI,Single-detached house,749,65,3
+LORELEI,Duplex/triplex/fourplex,73,26,5
+LORELEI,Row house,181,172,2
+LORELEI,Apartment with 5 or more stories,0,0,0
+LORELEI,Apartment with less than 5 stories,0,152,0
+LORELEI,Manufactured home/mobile home,0,0,0
+LORELEI,Rooming house/collective residence,0,0,0
+LORELEI,Hotel or motel,0,0,0
+LORELEI,Other residential,0,0,0
+LORELEI,No Response,0,0,0
+LYMBURN,Single-detached house,1347,140,12
+LYMBURN,Duplex/triplex/fourplex,227,114,1
+LYMBURN,Row house,146,152,2
+LYMBURN,Apartment with 5 or more stories,0,0,0
+LYMBURN,Apartment with less than 5 stories,0,0,0
+LYMBURN,Manufactured home/mobile home,0,0,0
+LYMBURN,Rooming house/collective residence,0,0,0
+LYMBURN,Hotel or motel,0,0,0
+LYMBURN,Other residential,0,0,0
+LYMBURN,No Response,0,0,0
+LYNNWOOD,Single-detached house,653,119,11
+LYNNWOOD,Duplex/triplex/fourplex,0,0,0
+LYNNWOOD,Row house,0,0,0
+LYNNWOOD,Apartment with 5 or more stories,1,306,0
+LYNNWOOD,Apartment with less than 5 stories,1,247,0
+LYNNWOOD,Manufactured home/mobile home,0,0,0
+LYNNWOOD,Rooming house/collective residence,0,0,0
+LYNNWOOD,Hotel or motel,0,0,0
+LYNNWOOD,Other residential,0,0,0
+LYNNWOOD,No Response,0,0,0
+MACEWAN,Single-detached house,961,51,6
+MACEWAN,Duplex/triplex/fourplex,255,67,2
+MACEWAN,Row house,0,0,0
+MACEWAN,Apartment with 5 or more stories,2,0,0
+MACEWAN,Apartment with less than 5 stories,372,420,0
+MACEWAN,Manufactured home/mobile home,0,0,0
+MACEWAN,Rooming house/collective residence,0,0,0
+MACEWAN,Hotel or motel,0,0,0
+MACEWAN,Other residential,0,0,0
+MACEWAN,No Response,0,0,0
+MACTAGGART AREA,Single-detached house,271,13,2
+MACTAGGART AREA,Duplex/triplex/fourplex,1,1,0
+MACTAGGART AREA,Row house,0,0,0
+MACTAGGART AREA,Apartment with 5 or more stories,0,0,0
+MACTAGGART AREA,Apartment with less than 5 stories,0,0,0
+MACTAGGART AREA,Manufactured home/mobile home,0,0,0
+MACTAGGART AREA,Rooming house/collective residence,0,0,0
+MACTAGGART AREA,Hotel or motel,0,0,0
+MACTAGGART AREA,Other residential,0,0,0
+MACTAGGART AREA,No Response,0,0,0
+MAGRATH HEIGHTS AREA,Single-detached house,308,18,5
+MAGRATH HEIGHTS AREA,Duplex/triplex/fourplex,60,26,3
+MAGRATH HEIGHTS AREA,Row house,0,0,0
+MAGRATH HEIGHTS AREA,Apartment with 5 or more stories,0,0,0
+MAGRATH HEIGHTS AREA,Apartment with less than 5 stories,117,30,0
+MAGRATH HEIGHTS AREA,Manufactured home/mobile home,0,0,0
+MAGRATH HEIGHTS AREA,Rooming house/collective residence,0,0,0
+MAGRATH HEIGHTS AREA,Hotel or motel,0,0,0
+MAGRATH HEIGHTS AREA,Other residential,0,0,0
+MAGRATH HEIGHTS AREA,No Response,0,0,0
+MALMO PLAINS,Single-detached house,560,68,2
+MALMO PLAINS,Duplex/triplex/fourplex,0,0,0
+MALMO PLAINS,Row house,4,261,1
+MALMO PLAINS,Apartment with 5 or more stories,79,199,1
+MALMO PLAINS,Apartment with less than 5 stories,0,62,0
+MALMO PLAINS,Manufactured home/mobile home,0,0,0
+MALMO PLAINS,Rooming house/collective residence,0,0,0
+MALMO PLAINS,Hotel or motel,0,0,0
+MALMO PLAINS,Other residential,0,0,0
+MALMO PLAINS,No Response,0,0,0
+MAPLE RIDGE,Single-detached house,0,0,0
+MAPLE RIDGE,Duplex/triplex/fourplex,1,0,0
+MAPLE RIDGE,Row house,0,0,0
+MAPLE RIDGE,Apartment with 5 or more stories,0,0,0
+MAPLE RIDGE,Apartment with less than 5 stories,0,0,0
+MAPLE RIDGE,Manufactured home/mobile home,756,42,10
+MAPLE RIDGE,Rooming house/collective residence,0,0,0
+MAPLE RIDGE,Hotel or motel,0,0,0
+MAPLE RIDGE,Other residential,0,0,0
+MAPLE RIDGE,No Response,0,0,0
+MAPLE RIDGE INDUSTRIAL,Single-detached house,21,8,0
+MAPLE RIDGE INDUSTRIAL,Duplex/triplex/fourplex,0,0,0
+MAPLE RIDGE INDUSTRIAL,Row house,0,0,0
+MAPLE RIDGE INDUSTRIAL,Apartment with 5 or more stories,0,0,0
+MAPLE RIDGE INDUSTRIAL,Apartment with less than 5 stories,0,0,0
+MAPLE RIDGE INDUSTRIAL,Manufactured home/mobile home,1,1,0
+MAPLE RIDGE INDUSTRIAL,Rooming house/collective residence,0,0,0
+MAPLE RIDGE INDUSTRIAL,Hotel or motel,0,0,0
+MAPLE RIDGE INDUSTRIAL,Other residential,0,0,0
+MAPLE RIDGE INDUSTRIAL,No Response,0,0,0
+MATT BERRY,Single-detached house,985,25,2
+MATT BERRY,Duplex/triplex/fourplex,63,23,0
+MATT BERRY,Row house,19,5,0
+MATT BERRY,Apartment with 5 or more stories,1,0,0
+MATT BERRY,Apartment with less than 5 stories,0,0,0
+MATT BERRY,Manufactured home/mobile home,0,0,0
+MATT BERRY,Rooming house/collective residence,0,0,0
+MATT BERRY,Hotel or motel,0,0,0
+MATT BERRY,Other residential,9,1,0
+MATT BERRY,No Response,0,0,0
+MAYFIELD,Single-detached house,661,108,3
+MAYFIELD,Duplex/triplex/fourplex,10,3,0
+MAYFIELD,Row house,7,8,0
+MAYFIELD,Apartment with 5 or more stories,0,0,0
+MAYFIELD,Apartment with less than 5 stories,24,29,0
+MAYFIELD,Manufactured home/mobile home,0,0,0
+MAYFIELD,Rooming house/collective residence,0,0,0
+MAYFIELD,Hotel or motel,0,0,0
+MAYFIELD,Other residential,0,0,0
+MAYFIELD,No Response,0,0,0
+MAYLIEWAN,Single-detached house,1114,37,36
+MAYLIEWAN,Duplex/triplex/fourplex,64,6,0
+MAYLIEWAN,Row house,0,0,0
+MAYLIEWAN,Apartment with 5 or more stories,0,0,0
+MAYLIEWAN,Apartment with less than 5 stories,0,0,0
+MAYLIEWAN,Manufactured home/mobile home,0,0,0
+MAYLIEWAN,Rooming house/collective residence,0,0,0
+MAYLIEWAN,Hotel or motel,0,0,0
+MAYLIEWAN,Other residential,0,0,0
+MAYLIEWAN,No Response,0,0,0
+MCARTHUR INDUSTRIAL,Single-detached house,0,0,0
+MCARTHUR INDUSTRIAL,Duplex/triplex/fourplex,0,0,0
+MCARTHUR INDUSTRIAL,Row house,0,0,0
+MCARTHUR INDUSTRIAL,Apartment with 5 or more stories,0,0,0
+MCARTHUR INDUSTRIAL,Apartment with less than 5 stories,0,0,0
+MCARTHUR INDUSTRIAL,Manufactured home/mobile home,0,0,0
+MCARTHUR INDUSTRIAL,Rooming house/collective residence,0,0,0
+MCARTHUR INDUSTRIAL,Hotel or motel,0,0,0
+MCARTHUR INDUSTRIAL,Other residential,0,0,0
+MCARTHUR INDUSTRIAL,No Response,0,0,0
+MCCAULEY,Single-detached house,434,518,6
+MCCAULEY,Duplex/triplex/fourplex,32,63,0
+MCCAULEY,Row house,7,28,0
+MCCAULEY,Apartment with 5 or more stories,1,321,0
+MCCAULEY,Apartment with less than 5 stories,14,671,4
+MCCAULEY,Manufactured home/mobile home,0,0,0
+MCCAULEY,Rooming house/collective residence,0,191,0
+MCCAULEY,Hotel or motel,0,0,0
+MCCAULEY,Other residential,0,0,0
+MCCAULEY,No Response,0,0,0
+MCINTYRE INDUSTRIAL,Single-detached house,0,0,0
+MCINTYRE INDUSTRIAL,Duplex/triplex/fourplex,0,0,0
+MCINTYRE INDUSTRIAL,Row house,0,0,0
+MCINTYRE INDUSTRIAL,Apartment with 5 or more stories,0,0,0
+MCINTYRE INDUSTRIAL,Apartment with less than 5 stories,0,0,0
+MCINTYRE INDUSTRIAL,Manufactured home/mobile home,0,0,0
+MCINTYRE INDUSTRIAL,Rooming house/collective residence,0,0,0
+MCINTYRE INDUSTRIAL,Hotel or motel,0,0,0
+MCINTYRE INDUSTRIAL,Other residential,0,0,0
+MCINTYRE INDUSTRIAL,No Response,0,0,0
+MCKERNAN,Single-detached house,420,458,3
+MCKERNAN,Duplex/triplex/fourplex,37,132,0
+MCKERNAN,Row house,4,3,0
+MCKERNAN,Apartment with 5 or more stories,0,0,0
+MCKERNAN,Apartment with less than 5 stories,0,15,1
+MCKERNAN,Manufactured home/mobile home,0,0,0
+MCKERNAN,Rooming house/collective residence,3,44,0
+MCKERNAN,Hotel or motel,0,0,0
+MCKERNAN,Other residential,0,0,0
+MCKERNAN,No Response,0,0,0
+MCLEOD,Single-detached house,811,51,0
+MCLEOD,Duplex/triplex/fourplex,0,0,0
+MCLEOD,Row house,0,0,0
+MCLEOD,Apartment with 5 or more stories,0,0,0
+MCLEOD,Apartment with less than 5 stories,0,0,0
+MCLEOD,Manufactured home/mobile home,0,0,0
+MCLEOD,Rooming house/collective residence,0,0,0
+MCLEOD,Hotel or motel,0,0,0
+MCLEOD,Other residential,0,0,0
+MCLEOD,No Response,0,0,0
+MCNAMARA INDUSTRIAL,Single-detached house,0,0,0
+MCNAMARA INDUSTRIAL,Duplex/triplex/fourplex,0,0,0
+MCNAMARA INDUSTRIAL,Row house,0,0,0
+MCNAMARA INDUSTRIAL,Apartment with 5 or more stories,0,0,0
+MCNAMARA INDUSTRIAL,Apartment with less than 5 stories,0,0,0
+MCNAMARA INDUSTRIAL,Manufactured home/mobile home,0,0,0
+MCNAMARA INDUSTRIAL,Rooming house/collective residence,0,0,0
+MCNAMARA INDUSTRIAL,Hotel or motel,0,0,0
+MCNAMARA INDUSTRIAL,Other residential,0,0,0
+MCNAMARA INDUSTRIAL,No Response,0,0,0
+MCQUEEN,Single-detached house,354,48,6
+MCQUEEN,Duplex/triplex/fourplex,8,10,1
+MCQUEEN,Row house,0,0,0
+MCQUEEN,Apartment with 5 or more stories,0,0,0
+MCQUEEN,Apartment with less than 5 stories,12,233,2
+MCQUEEN,Manufactured home/mobile home,0,0,0
+MCQUEEN,Rooming house/collective residence,0,119,2
+MCQUEEN,Hotel or motel,0,0,0
+MCQUEEN,Other residential,0,0,0
+MCQUEEN,No Response,0,0,0
+MEADOWLARK PARK,Single-detached house,795,98,0
+MEADOWLARK PARK,Duplex/triplex/fourplex,0,0,0
+MEADOWLARK PARK,Row house,0,0,0
+MEADOWLARK PARK,Apartment with 5 or more stories,1,0,0
+MEADOWLARK PARK,Apartment with less than 5 stories,233,27,0
+MEADOWLARK PARK,Manufactured home/mobile home,0,0,0
+MEADOWLARK PARK,Rooming house/collective residence,0,0,0
+MEADOWLARK PARK,Hotel or motel,0,0,0
+MEADOWLARK PARK,Other residential,0,0,0
+MEADOWLARK PARK,No Response,0,0,0
+MENISA,Single-detached house,696,48,3
+MENISA,Duplex/triplex/fourplex,47,28,0
+MENISA,Row house,21,49,0
+MENISA,Apartment with 5 or more stories,0,0,0
+MENISA,Apartment with less than 5 stories,0,12,0
+MENISA,Manufactured home/mobile home,0,0,0
+MENISA,Rooming house/collective residence,0,0,0
+MENISA,Hotel or motel,0,0,0
+MENISA,Other residential,0,0,0
+MENISA,No Response,0,0,0
+MEYOKUMIN,Single-detached house,518,90,3
+MEYOKUMIN,Duplex/triplex/fourplex,124,57,3
+MEYOKUMIN,Row house,82,112,0
+MEYOKUMIN,Apartment with 5 or more stories,0,0,0
+MEYOKUMIN,Apartment with less than 5 stories,0,12,0
+MEYOKUMIN,Manufactured home/mobile home,0,0,0
+MEYOKUMIN,Rooming house/collective residence,0,0,0
+MEYOKUMIN,Hotel or motel,0,0,0
+MEYOKUMIN,Other residential,0,0,0
+MEYOKUMIN,No Response,0,0,0
+MEYONOHK,Single-detached house,461,58,3
+MEYONOHK,Duplex/triplex/fourplex,88,47,2
+MEYONOHK,Row house,176,80,2
+MEYONOHK,Apartment with 5 or more stories,0,0,0
+MEYONOHK,Apartment with less than 5 stories,135,38,2
+MEYONOHK,Manufactured home/mobile home,0,0,0
+MEYONOHK,Rooming house/collective residence,0,0,0
+MEYONOHK,Hotel or motel,0,0,0
+MEYONOHK,Other residential,0,0,0
+MEYONOHK,No Response,0,0,0
+MICHAELS PARK,Single-detached house,397,40,2
+MICHAELS PARK,Duplex/triplex/fourplex,47,26,1
+MICHAELS PARK,Row house,79,64,8
+MICHAELS PARK,Apartment with 5 or more stories,0,0,0
+MICHAELS PARK,Apartment with less than 5 stories,86,41,6
+MICHAELS PARK,Manufactured home/mobile home,0,0,0
+MICHAELS PARK,Rooming house/collective residence,0,0,0
+MICHAELS PARK,Hotel or motel,0,0,0
+MICHAELS PARK,Other residential,0,0,0
+MICHAELS PARK,No Response,0,0,0
+MILL WOODS GOLF COURSE,Single-detached house,0,0,0
+MILL WOODS GOLF COURSE,Duplex/triplex/fourplex,0,0,0
+MILL WOODS GOLF COURSE,Row house,0,0,0
+MILL WOODS GOLF COURSE,Apartment with 5 or more stories,0,0,0
+MILL WOODS GOLF COURSE,Apartment with less than 5 stories,0,0,0
+MILL WOODS GOLF COURSE,Manufactured home/mobile home,0,0,0
+MILL WOODS GOLF COURSE,Rooming house/collective residence,0,0,0
+MILL WOODS GOLF COURSE,Hotel or motel,0,0,0
+MILL WOODS GOLF COURSE,Other residential,0,0,0
+MILL WOODS GOLF COURSE,No Response,0,0,0
+MILL WOODS PARK,Single-detached house,0,0,0
+MILL WOODS PARK,Duplex/triplex/fourplex,0,0,0
+MILL WOODS PARK,Row house,0,0,0
+MILL WOODS PARK,Apartment with 5 or more stories,0,0,0
+MILL WOODS PARK,Apartment with less than 5 stories,0,0,0
+MILL WOODS PARK,Manufactured home/mobile home,0,0,0
+MILL WOODS PARK,Rooming house/collective residence,0,0,0
+MILL WOODS PARK,Hotel or motel,0,0,0
+MILL WOODS PARK,Other residential,0,0,0
+MILL WOODS PARK,No Response,0,0,0
+MILL WOODS TOWN CENTRE,Single-detached house,0,0,0
+MILL WOODS TOWN CENTRE,Duplex/triplex/fourplex,0,0,0
+MILL WOODS TOWN CENTRE,Row house,0,0,0
+QUESNELL HEIGHTS,Row house,0,0,0
+MILL WOODS TOWN CENTRE,Apartment with 5 or more stories,0,0,0
+MILL WOODS TOWN CENTRE,Apartment with less than 5 stories,377,249,0
+MILL WOODS TOWN CENTRE,Manufactured home/mobile home,0,0,0
+MILL WOODS TOWN CENTRE,Rooming house/collective residence,0,0,0
+MILL WOODS TOWN CENTRE,Hotel or motel,0,0,0
+MILL WOODS TOWN CENTRE,Other residential,0,0,0
+MILL WOODS TOWN CENTRE,No Response,0,0,0
+MILLER,Single-detached house,600,31,14
+MILLER,Duplex/triplex/fourplex,182,30,0
+MILLER,Row house,0,0,0
+MILLER,Apartment with 5 or more stories,0,0,0
+MILLER,Apartment with less than 5 stories,90,115,0
+MILLER,Manufactured home/mobile home,0,0,0
+MILLER,Rooming house/collective residence,0,0,0
+MILLER,Hotel or motel,0,0,0
+MILLER,Other residential,0,0,0
+MILLER,No Response,0,0,0
+MINCHAU,Single-detached house,706,79,9
+MINCHAU,Duplex/triplex/fourplex,44,43,1
+MINCHAU,Row house,71,29,2
+MINCHAU,Apartment with 5 or more stories,0,0,0
+MINCHAU,Apartment with less than 5 stories,0,102,1
+MINCHAU,Manufactured home/mobile home,0,0,0
+MINCHAU,Rooming house/collective residence,0,0,0
+MINCHAU,Hotel or motel,0,0,0
+MINCHAU,Other residential,0,0,0
+MINCHAU,No Response,0,0,0
+MITCHELL INDUSTRIAL,Single-detached house,0,0,0
+MITCHELL INDUSTRIAL,Duplex/triplex/fourplex,0,0,0
+MITCHELL INDUSTRIAL,Row house,0,0,0
+MITCHELL INDUSTRIAL,Apartment with 5 or more stories,0,0,0
+MITCHELL INDUSTRIAL,Apartment with less than 5 stories,0,0,0
+MITCHELL INDUSTRIAL,Manufactured home/mobile home,0,0,0
+MITCHELL INDUSTRIAL,Rooming house/collective residence,0,0,0
+MITCHELL INDUSTRIAL,Hotel or motel,0,0,0
+MITCHELL INDUSTRIAL,Other residential,0,0,0
+MITCHELL INDUSTRIAL,No Response,0,0,0
+MONTROSE,Single-detached house,772,256,12
+MONTROSE,Duplex/triplex/fourplex,18,77,1
+MONTROSE,Row house,3,17,0
+MONTROSE,Apartment with 5 or more stories,0,0,0
+MONTROSE,Apartment with less than 5 stories,10,235,4
+MONTROSE,Manufactured home/mobile home,0,0,0
+MONTROSE,Rooming house/collective residence,0,0,0
+MONTROSE,Hotel or motel,0,1,0
+MONTROSE,Other residential,0,0,0
+MONTROSE,No Response,0,0,0
+MORRIS INDUSTRIAL,Single-detached house,0,0,0
+MORRIS INDUSTRIAL,Duplex/triplex/fourplex,0,0,0
+MORRIS INDUSTRIAL,Row house,0,0,0
+MORRIS INDUSTRIAL,Apartment with 5 or more stories,0,0,0
+MORRIS INDUSTRIAL,Apartment with less than 5 stories,0,0,0
+MORRIS INDUSTRIAL,Manufactured home/mobile home,0,0,0
+MORRIS INDUSTRIAL,Rooming house/collective residence,0,0,0
+MORRIS INDUSTRIAL,Hotel or motel,0,0,0
+MORRIS INDUSTRIAL,Other residential,0,0,0
+MORRIS INDUSTRIAL,No Response,0,0,0
+NEWTON,Single-detached house,909,163,7
+NEWTON,Duplex/triplex/fourplex,14,36,1
+NEWTON,Row house,0,0,0
+NEWTON,Apartment with 5 or more stories,0,2,0
+NEWTON,Apartment with less than 5 stories,31,74,1
+NEWTON,Manufactured home/mobile home,0,0,0
+NEWTON,Rooming house/collective residence,0,0,0
+NEWTON,Hotel or motel,0,0,0
+NEWTON,Other residential,0,0,0
+NEWTON,No Response,0,0,0
+NORTH GLENORA,Single-detached house,568,96,26
+NORTH GLENORA,Duplex/triplex/fourplex,1,15,0
+NORTH GLENORA,Row house,0,56,0
+NORTH GLENORA,Apartment with 5 or more stories,0,0,0
+NORTH GLENORA,Apartment with less than 5 stories,1,54,0
+NORTH GLENORA,Manufactured home/mobile home,0,0,0
+NORTH GLENORA,Rooming house/collective residence,0,0,0
+NORTH GLENORA,Hotel or motel,0,0,0
+NORTH GLENORA,Other residential,0,0,0
+NORTH GLENORA,No Response,0,0,0
+NORTHMOUNT,Single-detached house,728,67,11
+NORTHMOUNT,Duplex/triplex/fourplex,0,0,0
+NORTHMOUNT,Row house,161,77,0
+NORTHMOUNT,Apartment with 5 or more stories,0,0,0
+NORTHMOUNT,Apartment with less than 5 stories,0,98,0
+NORTHMOUNT,Manufactured home/mobile home,0,0,0
+NORTHMOUNT,Rooming house/collective residence,0,3,0
+NORTHMOUNT,Hotel or motel,0,0,0
+NORTHMOUNT,Other residential,0,0,0
+NORTHMOUNT,No Response,0,0,0
+NORWESTER INDUSTRIAL,Single-detached house,0,0,0
+NORWESTER INDUSTRIAL,Duplex/triplex/fourplex,0,0,0
+NORWESTER INDUSTRIAL,Row house,0,0,0
+NORWESTER INDUSTRIAL,Apartment with 5 or more stories,0,0,0
+NORWESTER INDUSTRIAL,Apartment with less than 5 stories,0,0,0
+NORWESTER INDUSTRIAL,Manufactured home/mobile home,0,0,0
+NORWESTER INDUSTRIAL,Rooming house/collective residence,0,0,0
+NORWESTER INDUSTRIAL,Hotel or motel,0,0,0
+NORWESTER INDUSTRIAL,Other residential,0,0,0
+NORWESTER INDUSTRIAL,No Response,0,0,0
+OGILVIE RIDGE,Single-detached house,284,4,0
+OGILVIE RIDGE,Duplex/triplex/fourplex,58,6,0
+OGILVIE RIDGE,Row house,0,0,0
+OGILVIE RIDGE,Apartment with 5 or more stories,0,0,0
+OGILVIE RIDGE,Apartment with less than 5 stories,0,0,0
+OGILVIE RIDGE,Manufactured home/mobile home,0,0,0
+OGILVIE RIDGE,Rooming house/collective residence,0,0,0
+OGILVIE RIDGE,Hotel or motel,0,0,0
+OGILVIE RIDGE,Other residential,0,0,0
+OGILVIE RIDGE,No Response,0,0,0
+OLESKIW,Single-detached house,864,11,13
+OLESKIW,Duplex/triplex/fourplex,119,39,2
+OLESKIW,Row house,0,0,0
+OLESKIW,Apartment with 5 or more stories,0,0,0
+OLESKIW,Apartment with less than 5 stories,1,0,0
+OLESKIW,Manufactured home/mobile home,0,0,0
+OLESKIW,Rooming house/collective residence,0,0,0
+OLESKIW,Hotel or motel,0,0,0
+OLESKIW,Other residential,0,0,0
+OLESKIW,No Response,0,0,0
+OLIVER,Single-detached house,34,48,0
+OLIVER,Duplex/triplex/fourplex,45,47,0
+OLIVER,Row house,35,20,1
+OLIVER,Apartment with 5 or more stories,2552,5169,30
+OLIVER,Apartment with less than 5 stories,862,2784,20
+OLIVER,Manufactured home/mobile home,0,1,0
+OLIVER,Rooming house/collective residence,0,342,0
+OLIVER,Hotel or motel,0,1,0
+OLIVER,Other residential,25,36,1
+OLIVER,No Response,0,0,0
+ORMSBY PLACE,Single-detached house,978,39,11
+ORMSBY PLACE,Duplex/triplex/fourplex,6,14,0
+ORMSBY PLACE,Row house,366,319,6
+ORMSBY PLACE,Apartment with 5 or more stories,0,0,0
+ORMSBY PLACE,Apartment with less than 5 stories,7,132,2
+ORMSBY PLACE,Manufactured home/mobile home,0,0,0
+ORMSBY PLACE,Rooming house/collective residence,0,0,0
+ORMSBY PLACE,Hotel or motel,0,0,0
+ORMSBY PLACE,Other residential,8,4,1
+ORMSBY PLACE,No Response,0,0,0
+OTTEWELL,Single-detached house,1796,210,41
+OTTEWELL,Duplex/triplex/fourplex,49,55,3
+OTTEWELL,Row house,0,0,0
+OTTEWELL,Apartment with 5 or more stories,0,0,0
+OTTEWELL,Apartment with less than 5 stories,22,265,7
+OTTEWELL,Manufactured home/mobile home,0,0,0
+OTTEWELL,Rooming house/collective residence,0,157,0
+OTTEWELL,Hotel or motel,0,0,0
+OTTEWELL,Other residential,4,2,1
+OTTEWELL,No Response,0,0,0
+OVERLANDERS,Single-detached house,286,23,1
+OVERLANDERS,Duplex/triplex/fourplex,37,7,0
+OVERLANDERS,Row house,54,266,2
+OVERLANDERS,Apartment with 5 or more stories,0,1,0
+OVERLANDERS,Apartment with less than 5 stories,1,512,2
+OVERLANDERS,Manufactured home/mobile home,0,0,0
+OVERLANDERS,Rooming house/collective residence,0,0,0
+OVERLANDERS,Hotel or motel,0,0,0
+OVERLANDERS,Other residential,0,0,0
+OVERLANDERS,No Response,0,0,0
+OXFORD,Single-detached house,783,38,5
+OXFORD,Duplex/triplex/fourplex,113,18,0
+OXFORD,Row house,0,0,0
+OXFORD,Apartment with 5 or more stories,0,0,0
+OXFORD,Apartment with less than 5 stories,128,22,4
+OXFORD,Manufactured home/mobile home,0,0,0
+OXFORD,Rooming house/collective residence,0,0,0
+OXFORD,Hotel or motel,0,0,0
+OXFORD,Other residential,0,0,0
+OXFORD,No Response,0,0,0
+OZERNA,Single-detached house,1045,35,7
+OZERNA,Duplex/triplex/fourplex,136,18,1
+OZERNA,Row house,2,0,0
+OZERNA,Apartment with 5 or more stories,0,0,0
+OZERNA,Apartment with less than 5 stories,88,25,0
+OZERNA,Manufactured home/mobile home,0,0,0
+OZERNA,Rooming house/collective residence,0,0,0
+OZERNA,Hotel or motel,0,0,0
+OZERNA,Other residential,1,0,1
+OZERNA,No Response,0,0,0
+PAPASCHASE INDUSTRIAL,Single-detached house,0,0,0
+PAPASCHASE INDUSTRIAL,Duplex/triplex/fourplex,0,0,0
+PAPASCHASE INDUSTRIAL,Row house,0,0,0
+PAPASCHASE INDUSTRIAL,Apartment with 5 or more stories,0,0,0
+PAPASCHASE INDUSTRIAL,Apartment with less than 5 stories,0,0,0
+PAPASCHASE INDUSTRIAL,Manufactured home/mobile home,0,0,0
+PAPASCHASE INDUSTRIAL,Rooming house/collective residence,0,0,0
+PAPASCHASE INDUSTRIAL,Hotel or motel,0,0,0
+PAPASCHASE INDUSTRIAL,Other residential,0,0,0
+PAPASCHASE INDUSTRIAL,No Response,0,0,0
+PARKALLEN,Single-detached house,556,231,6
+PARKALLEN,Duplex/triplex/fourplex,0,31,0
+PARKALLEN,Row house,0,1,0
+PARKALLEN,Apartment with 5 or more stories,0,1,0
+PARKALLEN,Apartment with less than 5 stories,56,150,0
+PARKALLEN,Manufactured home/mobile home,0,0,0
+PARKALLEN,Rooming house/collective residence,0,0,0
+PARKALLEN,Hotel or motel,0,0,0
+PARKALLEN,Other residential,0,0,0
+PARKALLEN,No Response,0,0,0
+PARKDALE,Single-detached house,700,308,6
+PARKDALE,Duplex/triplex/fourplex,21,67,0
+PARKDALE,Row house,1,18,0
+PARKDALE,Apartment with 5 or more stories,111,112,12
+PARKDALE,Apartment with less than 5 stories,1,157,0
+PARKDALE,Manufactured home/mobile home,0,0,0
+PARKDALE,Rooming house/collective residence,0,0,0
+PARKDALE,Hotel or motel,0,0,0
+PARKDALE,Other residential,0,0,0
+PARKDALE,No Response,0,0,0
+PARKVIEW,Single-detached house,1163,92,30
+PARKVIEW,Duplex/triplex/fourplex,0,0,0
+PARKVIEW,Row house,9,2,0
+PARKVIEW,Apartment with 5 or more stories,0,0,0
+PARKVIEW,Apartment with less than 5 stories,0,0,0
+PARKVIEW,Manufactured home/mobile home,0,0,0
+PARKVIEW,Rooming house/collective residence,0,0,0
+PARKVIEW,Hotel or motel,0,0,0
+PARKVIEW,Other residential,0,0,0
+PARKVIEW,No Response,0,0,0
+PARSONS INDUSTRIAL,Single-detached house,0,0,0
+PARSONS INDUSTRIAL,Duplex/triplex/fourplex,0,0,0
+PARSONS INDUSTRIAL,Row house,0,0,0
+PARSONS INDUSTRIAL,Apartment with 5 or more stories,0,0,0
+PARSONS INDUSTRIAL,Apartment with less than 5 stories,0,0,0
+PARSONS INDUSTRIAL,Manufactured home/mobile home,0,0,0
+PARSONS INDUSTRIAL,Rooming house/collective residence,0,0,0
+PARSONS INDUSTRIAL,Hotel or motel,0,0,0
+PARSONS INDUSTRIAL,Other residential,0,0,0
+PARSONS INDUSTRIAL,No Response,0,0,0
+PATRICIA HEIGHTS,Single-detached house,295,19,0
+PATRICIA HEIGHTS,Duplex/triplex/fourplex,0,0,0
+PATRICIA HEIGHTS,Row house,0,1,0
+PATRICIA HEIGHTS,Apartment with 5 or more stories,0,0,0
+PATRICIA HEIGHTS,Apartment with less than 5 stories,25,341,0
+PATRICIA HEIGHTS,Manufactured home/mobile home,0,0,0
+PATRICIA HEIGHTS,Rooming house/collective residence,0,0,0
+PATRICIA HEIGHTS,Hotel or motel,0,0,0
+PATRICIA HEIGHTS,Other residential,0,0,0
+PATRICIA HEIGHTS,No Response,0,0,0
+PEMBINA,Single-detached house,1,0,0
+PEMBINA,Duplex/triplex/fourplex,26,5,0
+PEMBINA,Row house,0,0,0
+PEMBINA,Apartment with 5 or more stories,0,0,0
+PEMBINA,Apartment with less than 5 stories,174,44,1
+PEMBINA,Manufactured home/mobile home,0,0,0
+PEMBINA,Rooming house/collective residence,0,0,0
+PEMBINA,Hotel or motel,0,0,0
+PEMBINA,Other residential,0,0,0
+PEMBINA,No Response,0,0,0
+PLACE LARUE,Single-detached house,0,0,0
+PLACE LARUE,Duplex/triplex/fourplex,0,0,0
+PLACE LARUE,Row house,0,0,0
+PLACE LARUE,Apartment with 5 or more stories,0,0,0
+PLACE LARUE,Apartment with less than 5 stories,0,0,0
+PLACE LARUE,Manufactured home/mobile home,0,0,0
+PLACE LARUE,Rooming house/collective residence,0,0,0
+PLACE LARUE,Hotel or motel,0,0,0
+PLACE LARUE,Other residential,0,0,0
+PLACE LARUE,No Response,0,0,0
+PLEASANTVIEW,Single-detached house,635,141,13
+PLEASANTVIEW,Duplex/triplex/fourplex,54,72,3
+PLEASANTVIEW,Row house,97,46,1
+PLEASANTVIEW,Apartment with 5 or more stories,0,367,0
+PLEASANTVIEW,Apartment with less than 5 stories,44,308,2
+PLEASANTVIEW,Manufactured home/mobile home,0,0,0
+PLEASANTVIEW,Rooming house/collective residence,0,0,0
+PLEASANTVIEW,Hotel or motel,0,0,0
+PLEASANTVIEW,Other residential,0,0,0
+PLEASANTVIEW,No Response,0,0,0
+POLLARD MEADOWS,Single-detached house,600,117,4
+POLLARD MEADOWS,Duplex/triplex/fourplex,89,46,0
+POLLARD MEADOWS,Row house,158,183,1
+POLLARD MEADOWS,Apartment with 5 or more stories,0,0,0
+POLLARD MEADOWS,Apartment with less than 5 stories,92,311,0
+POLLARD MEADOWS,Manufactured home/mobile home,0,0,0
+POLLARD MEADOWS,Rooming house/collective residence,0,0,0
+POLLARD MEADOWS,Hotel or motel,0,0,0
+POLLARD MEADOWS,Other residential,0,0,0
+POLLARD MEADOWS,No Response,0,0,0
+POTTER GREENS,Single-detached house,446,9,6
+POTTER GREENS,Duplex/triplex/fourplex,96,1,0
+POTTER GREENS,Row house,0,0,0
+POTTER GREENS,Apartment with 5 or more stories,0,0,0
+POTTER GREENS,Apartment with less than 5 stories,0,0,0
+POTTER GREENS,Manufactured home/mobile home,0,0,0
+POTTER GREENS,Rooming house/collective residence,0,0,0
+POTTER GREENS,Hotel or motel,0,0,0
+POTTER GREENS,Other residential,0,0,0
+POTTER GREENS,No Response,0,0,0
+POUNDMAKER INDUSTRIAL,Single-detached house,0,0,0
+POUNDMAKER INDUSTRIAL,Duplex/triplex/fourplex,0,0,0
+POUNDMAKER INDUSTRIAL,Row house,0,0,0
+POUNDMAKER INDUSTRIAL,Apartment with 5 or more stories,0,0,0
+POUNDMAKER INDUSTRIAL,Apartment with less than 5 stories,0,0,0
+POUNDMAKER INDUSTRIAL,Manufactured home/mobile home,0,0,0
+POUNDMAKER INDUSTRIAL,Rooming house/collective residence,0,0,0
+POUNDMAKER INDUSTRIAL,Hotel or motel,0,0,0
+POUNDMAKER INDUSTRIAL,Other residential,0,0,0
+POUNDMAKER INDUSTRIAL,No Response,0,0,0
+PRINCE CHARLES,Single-detached house,322,121,7
+PRINCE CHARLES,Duplex/triplex/fourplex,36,65,2
+PRINCE CHARLES,Row house,2,1,0
+PRINCE CHARLES,Apartment with 5 or more stories,0,16,0
+PRINCE CHARLES,Apartment with less than 5 stories,0,6,0
+PRINCE CHARLES,Manufactured home/mobile home,0,0,0
+PRINCE CHARLES,Rooming house/collective residence,0,0,0
+PRINCE CHARLES,Hotel or motel,0,0,0
+PRINCE CHARLES,Other residential,0,0,0
+PRINCE CHARLES,No Response,0,0,0
+PRINCE RUPERT,Single-detached house,296,75,0
+PRINCE RUPERT,Duplex/triplex/fourplex,7,37,0
+PRINCE RUPERT,Row house,0,0,0
+PRINCE RUPERT,Apartment with 5 or more stories,0,1,0
+PRINCE RUPERT,Apartment with less than 5 stories,57,149,0
+PRINCE RUPERT,Manufactured home/mobile home,0,0,0
+PRINCE RUPERT,Rooming house/collective residence,0,2,0
+PRINCE RUPERT,Hotel or motel,0,0,0
+PRINCE RUPERT,Other residential,0,0,0
+PRINCE RUPERT,No Response,0,0,0
+PYLYPOW INDUSTRIAL,Single-detached house,0,0,0
+PYLYPOW INDUSTRIAL,Duplex/triplex/fourplex,0,0,0
+PYLYPOW INDUSTRIAL,Row house,0,0,0
+PYLYPOW INDUSTRIAL,Apartment with 5 or more stories,0,0,0
+PYLYPOW INDUSTRIAL,Apartment with less than 5 stories,0,0,0
+PYLYPOW INDUSTRIAL,Manufactured home/mobile home,0,0,0
+PYLYPOW INDUSTRIAL,Rooming house/collective residence,0,0,0
+PYLYPOW INDUSTRIAL,Hotel or motel,0,0,0
+PYLYPOW INDUSTRIAL,Other residential,0,0,0
+PYLYPOW INDUSTRIAL,No Response,0,0,0
+QUEEN ALEXANDRA,Single-detached house,387,515,10
+QUEEN ALEXANDRA,Duplex/triplex/fourplex,38,116,0
+QUEEN ALEXANDRA,Row house,0,0,0
+QUEEN ALEXANDRA,Apartment with 5 or more stories,1,206,0
+QUEEN ALEXANDRA,Apartment with less than 5 stories,136,1286,8
+QUEEN ALEXANDRA,Manufactured home/mobile home,0,0,0
+QUEEN ALEXANDRA,Rooming house/collective residence,0,0,0
+QUEEN ALEXANDRA,Hotel or motel,0,2,0
+QUEEN ALEXANDRA,Other residential,0,0,0
+QUEEN ALEXANDRA,No Response,0,0,0
+QUEEN MARY PARK,Single-detached house,293,141,5
+QUEEN MARY PARK,Duplex/triplex/fourplex,5,46,0
+QUEEN MARY PARK,Row house,3,1,0
+QUEEN MARY PARK,Apartment with 5 or more stories,23,122,0
+QUEEN MARY PARK,Apartment with less than 5 stories,556,2459,7
+QUEEN MARY PARK,Manufactured home/mobile home,0,0,0
+QUEEN MARY PARK,Rooming house/collective residence,0,0,0
+QUEEN MARY PARK,Hotel or motel,0,0,0
+QUEEN MARY PARK,Other residential,0,0,0
+QUEEN MARY PARK,No Response,0,0,0
+QUESNELL HEIGHTS,Single-detached house,117,5,2
+QUESNELL HEIGHTS,Duplex/triplex/fourplex,0,0,0
+QUESNELL HEIGHTS,Apartment with 5 or more stories,0,0,0
+QUESNELL HEIGHTS,Apartment with less than 5 stories,0,0,0
+QUESNELL HEIGHTS,Manufactured home/mobile home,0,0,0
+QUESNELL HEIGHTS,Rooming house/collective residence,0,0,0
+QUESNELL HEIGHTS,Hotel or motel,0,0,0
+QUESNELL HEIGHTS,Other residential,0,0,0
+QUESNELL HEIGHTS,No Response,0,0,0
+RAMSAY HEIGHTS,Single-detached house,697,23,6
+RAMSAY HEIGHTS,Duplex/triplex/fourplex,65,24,1
+RAMSAY HEIGHTS,Row house,70,29,3
+RAMSAY HEIGHTS,Apartment with 5 or more stories,0,0,0
+RAMSAY HEIGHTS,Apartment with less than 5 stories,96,347,3
+RAMSAY HEIGHTS,Manufactured home/mobile home,0,0,0
+RAMSAY HEIGHTS,Rooming house/collective residence,0,0,0
+RAMSAY HEIGHTS,Hotel or motel,0,0,0
+RAMSAY HEIGHTS,Other residential,1,2,0
+RAMSAY HEIGHTS,No Response,0,0,0
+RHATIGAN RIDGE,Single-detached house,956,28,5
+RHATIGAN RIDGE,Duplex/triplex/fourplex,79,0,0
+RHATIGAN RIDGE,Row house,29,5,1
+RHATIGAN RIDGE,Apartment with 5 or more stories,0,0,0
+RHATIGAN RIDGE,Apartment with less than 5 stories,0,0,0
+RHATIGAN RIDGE,Manufactured home/mobile home,0,0,0
+RHATIGAN RIDGE,Rooming house/collective residence,0,0,0
+RHATIGAN RIDGE,Hotel or motel,0,0,0
+RHATIGAN RIDGE,Other residential,0,0,0
+RHATIGAN RIDGE,No Response,0,0,0
+RICHFIELD,Single-detached house,403,59,7
+RICHFIELD,Duplex/triplex/fourplex,71,42,3
+RICHFIELD,Row house,23,376,4
+RICHFIELD,Apartment with 5 or more stories,1,0,0
+RICHFIELD,Apartment with less than 5 stories,43,87,1
+RICHFIELD,Manufactured home/mobile home,0,0,0
+RICHFIELD,Rooming house/collective residence,0,0,0
+RICHFIELD,Hotel or motel,0,0,0
+RICHFIELD,Other residential,0,0,0
+RICHFIELD,No Response,0,0,0
+RICHFORD,Single-detached house,130,2,0
+RICHFORD,Duplex/triplex/fourplex,45,4,1
+RICHFORD,Row house,0,0,0
+RICHFORD,Apartment with 5 or more stories,0,0,0
+RICHFORD,Apartment with less than 5 stories,0,0,0
+RICHFORD,Manufactured home/mobile home,0,0,0
+RICHFORD,Rooming house/collective residence,0,0,0
+RICHFORD,Hotel or motel,0,0,0
+RICHFORD,Other residential,0,0,0
+RICHFORD,No Response,0,0,0
+RIDEAU PARK,Single-detached house,251,16,0
+RIDEAU PARK,Duplex/triplex/fourplex,15,0,0
+RIDEAU PARK,Row house,0,0,0
+RIDEAU PARK,Apartment with 5 or more stories,0,0,0
+RIDEAU PARK,Apartment with less than 5 stories,131,642,5
+RIDEAU PARK,Manufactured home/mobile home,0,0,0
+RIDEAU PARK,Rooming house/collective residence,0,0,0
+RIDEAU PARK,Hotel or motel,0,0,0
+RIDEAU PARK,Other residential,0,0,0
+RIDEAU PARK,No Response,0,0,0
+RIO TERRACE,Single-detached house,460,31,4
+RIO TERRACE,Duplex/triplex/fourplex,0,0,0
+RIO TERRACE,Row house,0,0,0
+RIO TERRACE,Apartment with 5 or more stories,0,0,0
+RIO TERRACE,Apartment with less than 5 stories,0,0,0
+RIO TERRACE,Manufactured home/mobile home,0,0,0
+RIO TERRACE,Rooming house/collective residence,0,0,0
+RIO TERRACE,Hotel or motel,0,0,0
+RIO TERRACE,Other residential,0,0,0
+RIO TERRACE,No Response,0,0,0
+RITCHIE,Single-detached house,714,429,75
+RITCHIE,Duplex/triplex/fourplex,30,52,3
+RITCHIE,Row house,23,11,0
+RITCHIE,Apartment with 5 or more stories,112,18,0
+RITCHIE,Apartment with less than 5 stories,114,358,14
+RITCHIE,Manufactured home/mobile home,0,0,0
+RITCHIE,Rooming house/collective residence,0,8,0
+RITCHIE,Hotel or motel,0,0,0
+RITCHIE,Other residential,0,0,0
+RITCHIE,No Response,0,0,0
+RIVER VALLEY CAMERON,Single-detached house,0,0,0
+RIVER VALLEY CAMERON,Duplex/triplex/fourplex,0,0,0
+RIVER VALLEY CAMERON,Row house,0,0,0
+RIVER VALLEY CAMERON,Apartment with 5 or more stories,0,0,0
+RIVER VALLEY CAMERON,Apartment with less than 5 stories,0,0,0
+RIVER VALLEY CAMERON,Manufactured home/mobile home,0,0,0
+RIVER VALLEY CAMERON,Rooming house/collective residence,0,0,0
+RIVER VALLEY CAMERON,Hotel or motel,0,0,0
+RIVER VALLEY CAMERON,Other residential,0,0,0
+RIVER VALLEY CAMERON,No Response,0,0,0
+RIVER VALLEY CAPITOL HILL,Single-detached house,0,0,0
+RIVER VALLEY CAPITOL HILL,Duplex/triplex/fourplex,0,0,0
+RIVER VALLEY CAPITOL HILL,Row house,0,0,0
+RIVER VALLEY CAPITOL HILL,Apartment with 5 or more stories,0,0,0
+RIVER VALLEY CAPITOL HILL,Apartment with less than 5 stories,0,0,0
+RIVER VALLEY CAPITOL HILL,Manufactured home/mobile home,0,0,0
+RIVER VALLEY CAPITOL HILL,Rooming house/collective residence,0,0,0
+RIVER VALLEY CAPITOL HILL,Hotel or motel,0,0,0
+RIVER VALLEY CAPITOL HILL,Other residential,0,0,0
+RIVER VALLEY CAPITOL HILL,No Response,0,0,0
+RIVER VALLEY GOLD BAR,Single-detached house,0,0,0
+RIVER VALLEY GOLD BAR,Duplex/triplex/fourplex,0,0,0
+RIVER VALLEY GOLD BAR,Row house,0,0,0
+RIVER VALLEY GOLD BAR,Apartment with 5 or more stories,0,0,0
+RIVER VALLEY GOLD BAR,Apartment with less than 5 stories,0,0,0
+RIVER VALLEY GOLD BAR,Manufactured home/mobile home,0,0,0
+RIVER VALLEY GOLD BAR,Rooming house/collective residence,0,0,0
+RIVER VALLEY GOLD BAR,Hotel or motel,0,0,0
+RIVER VALLEY GOLD BAR,Other residential,0,0,0
+RIVER VALLEY GOLD BAR,No Response,0,0,0
+RIVER VALLEY HERMITAGE,Single-detached house,0,0,0
+RIVER VALLEY HERMITAGE,Duplex/triplex/fourplex,0,0,0
+RIVER VALLEY HERMITAGE,Row house,0,0,0
+RIVER VALLEY HERMITAGE,Apartment with 5 or more stories,0,0,0
+RIVER VALLEY HERMITAGE,Apartment with less than 5 stories,0,0,0
+RIVER VALLEY HERMITAGE,Manufactured home/mobile home,0,0,0
+RIVER VALLEY HERMITAGE,Rooming house/collective residence,0,0,0
+RIVER VALLEY HERMITAGE,Hotel or motel,0,0,0
+RIVER VALLEY HERMITAGE,Other residential,0,0,0
+RIVER VALLEY HERMITAGE,No Response,0,0,0
+RIVER VALLEY LESSARD NORTH,Single-detached house,0,0,0
+RIVER VALLEY LESSARD NORTH,Duplex/triplex/fourplex,0,0,0
+RIVER VALLEY LESSARD NORTH,Row house,0,0,0
+RIVER VALLEY LESSARD NORTH,Apartment with 5 or more stories,0,0,0
+RIVER VALLEY LESSARD NORTH,Apartment with less than 5 stories,0,0,0
+RIVER VALLEY LESSARD NORTH,Manufactured home/mobile home,0,0,0
+RIVER VALLEY LESSARD NORTH,Rooming house/collective residence,0,0,0
+RIVER VALLEY LESSARD NORTH,Hotel or motel,0,0,0
+RIVER VALLEY LESSARD NORTH,Other residential,0,0,0
+RIVER VALLEY LESSARD NORTH,No Response,0,0,0
+RIVER VALLEY MAYFAIR,Single-detached house,0,0,0
+RIVER VALLEY MAYFAIR,Duplex/triplex/fourplex,0,0,0
+RIVER VALLEY MAYFAIR,Row house,0,0,0
+RIVER VALLEY MAYFAIR,Apartment with 5 or more stories,0,0,0
+RIVER VALLEY MAYFAIR,Apartment with less than 5 stories,0,0,0
+RIVER VALLEY MAYFAIR,Manufactured home/mobile home,0,0,0
+RIVER VALLEY MAYFAIR,Rooming house/collective residence,0,0,0
+RIVER VALLEY MAYFAIR,Hotel or motel,0,0,0
+RIVER VALLEY MAYFAIR,Other residential,0,0,0
+RIVER VALLEY MAYFAIR,No Response,0,0,0
+RIVER VALLEY OLESKIW,Single-detached house,0,0,0
+RIVER VALLEY OLESKIW,Duplex/triplex/fourplex,0,0,0
+RIVER VALLEY OLESKIW,Row house,0,0,0
+RIVER VALLEY OLESKIW,Apartment with 5 or more stories,0,0,0
+RIVER VALLEY OLESKIW,Apartment with less than 5 stories,0,0,0
+RIVER VALLEY OLESKIW,Manufactured home/mobile home,0,0,0
+RIVER VALLEY OLESKIW,Rooming house/collective residence,0,0,0
+RIVER VALLEY OLESKIW,Hotel or motel,0,0,0
+RIVER VALLEY OLESKIW,Other residential,0,0,0
+RIVER VALLEY OLESKIW,No Response,0,0,0
+RIVER VALLEY RIVERSIDE,Single-detached house,0,0,0
+RIVER VALLEY RIVERSIDE,Duplex/triplex/fourplex,0,0,0
+RIVER VALLEY RIVERSIDE,Row house,0,0,0
+RIVER VALLEY RIVERSIDE,Apartment with 5 or more stories,0,0,0
+RIVER VALLEY RIVERSIDE,Apartment with less than 5 stories,0,0,0
+RIVER VALLEY RIVERSIDE,Manufactured home/mobile home,0,0,0
+RIVER VALLEY RIVERSIDE,Rooming house/collective residence,0,0,0
+RIVER VALLEY RIVERSIDE,Hotel or motel,0,0,0
+RIVER VALLEY RIVERSIDE,Other residential,0,0,0
+RIVER VALLEY RIVERSIDE,No Response,0,0,0
+RIVER VALLEY RUNDLE,Single-detached house,0,0,0
+RIVER VALLEY RUNDLE,Duplex/triplex/fourplex,0,0,0
+RIVER VALLEY RUNDLE,Row house,0,0,0
+RIVER VALLEY RUNDLE,Apartment with 5 or more stories,0,0,0
+RIVER VALLEY RUNDLE,Apartment with less than 5 stories,0,0,0
+RIVER VALLEY RUNDLE,Manufactured home/mobile home,0,0,0
+RIVER VALLEY RUNDLE,Rooming house/collective residence,0,0,0
+RIVER VALLEY RUNDLE,Hotel or motel,0,0,0
+RIVER VALLEY RUNDLE,Other residential,0,0,0
+RIVER VALLEY RUNDLE,No Response,0,0,0
+RIVER VALLEY TERWILLEGAR,Single-detached house,0,0,0
+RIVER VALLEY TERWILLEGAR,Duplex/triplex/fourplex,0,0,0
+RIVER VALLEY TERWILLEGAR,Row house,0,0,0
+RIVER VALLEY TERWILLEGAR,Apartment with 5 or more stories,0,0,0
+RIVER VALLEY TERWILLEGAR,Apartment with less than 5 stories,0,0,0
+RIVER VALLEY TERWILLEGAR,Manufactured home/mobile home,0,0,0
+RIVER VALLEY TERWILLEGAR,Rooming house/collective residence,0,0,0
+RIVER VALLEY TERWILLEGAR,Hotel or motel,0,0,0
+RIVER VALLEY TERWILLEGAR,Other residential,0,0,0
+RIVER VALLEY TERWILLEGAR,No Response,0,0,0
+RIVER VALLEY WALTERDALE,Single-detached house,0,0,0
+RIVER VALLEY WALTERDALE,Duplex/triplex/fourplex,0,0,0
+RIVER VALLEY WALTERDALE,Row house,0,0,0
+RIVER VALLEY WALTERDALE,Apartment with 5 or more stories,0,0,0
+RIVER VALLEY WALTERDALE,Apartment with less than 5 stories,0,0,0
+RIVER VALLEY WALTERDALE,Manufactured home/mobile home,0,0,0
+RIVER VALLEY WALTERDALE,Rooming house/collective residence,0,0,0
+RIVER VALLEY WALTERDALE,Hotel or motel,0,0,0
+RIVER VALLEY WALTERDALE,Other residential,0,0,0
+RIVER VALLEY WALTERDALE,No Response,0,0,0
+RIVERDALE,Single-detached house,272,76,0
+RIVERDALE,Duplex/triplex/fourplex,94,189,0
+RIVERDALE,Row house,16,3,0
+RIVERDALE,Apartment with 5 or more stories,58,28,0
+RIVERDALE,Apartment with less than 5 stories,149,55,0
+RIVERDALE,Manufactured home/mobile home,0,0,0
+RIVERDALE,Rooming house/collective residence,0,0,0
+RIVERDALE,Hotel or motel,0,0,0
+RIVERDALE,Other residential,2,0,0
+RIVERDALE,No Response,0,0,0
+ROPER INDUSTRIAL,Single-detached house,0,0,0
+ROPER INDUSTRIAL,Duplex/triplex/fourplex,0,0,0
+ROPER INDUSTRIAL,Row house,0,0,0
+ROPER INDUSTRIAL,Apartment with 5 or more stories,0,0,0
+ROPER INDUSTRIAL,Apartment with less than 5 stories,0,0,0
+ROPER INDUSTRIAL,Manufactured home/mobile home,0,0,0
+ROPER INDUSTRIAL,Rooming house/collective residence,0,0,0
+ROPER INDUSTRIAL,Hotel or motel,0,0,0
+ROPER INDUSTRIAL,Other residential,0,0,0
+ROPER INDUSTRIAL,No Response,0,0,0
+ROSEDALE INDUSTRIAL,Single-detached house,0,0,0
+ROSEDALE INDUSTRIAL,Duplex/triplex/fourplex,0,0,0
+ROSEDALE INDUSTRIAL,Row house,0,0,0
+ROSEDALE INDUSTRIAL,Apartment with 5 or more stories,0,0,0
+ROSEDALE INDUSTRIAL,Apartment with less than 5 stories,0,0,0
+ROSEDALE INDUSTRIAL,Manufactured home/mobile home,0,0,0
+ROSEDALE INDUSTRIAL,Rooming house/collective residence,0,0,0
+ROSEDALE INDUSTRIAL,Hotel or motel,0,0,0
+ROSEDALE INDUSTRIAL,Other residential,0,0,0
+ROSEDALE INDUSTRIAL,No Response,0,0,0
+ROSSDALE,Single-detached house,131,43,0
+ROSSDALE,Duplex/triplex/fourplex,9,2,0
+ROSSDALE,Row house,49,2,0
+ROSSDALE,Apartment with 5 or more stories,0,75,0
+ROSSDALE,Apartment with less than 5 stories,90,69,0
+ROSSDALE,Manufactured home/mobile home,0,0,0
+ROSSDALE,Rooming house/collective residence,0,0,0
+ROSSDALE,Hotel or motel,0,0,0
+ROSSDALE,Other residential,0,0,0
+ROSSDALE,No Response,0,0,0
+ROSSLYN,Single-detached house,685,120,4
+ROSSLYN,Duplex/triplex/fourplex,59,71,3
+ROSSLYN,Row house,46,11,0
+ROSSLYN,Apartment with 5 or more stories,0,0,0
+ROSSLYN,Apartment with less than 5 stories,0,0,0
+ROSSLYN,Manufactured home/mobile home,0,0,0
+ROSSLYN,Rooming house/collective residence,3,244,0
+ROSSLYN,Hotel or motel,0,0,0
+ROSSLYN,Other residential,0,0,0
+ROSSLYN,No Response,0,0,0
+ROYAL GARDENS,Single-detached house,547,51,0
+ROYAL GARDENS,Duplex/triplex/fourplex,34,20,0
+ROYAL GARDENS,Row house,39,212,2
+ROYAL GARDENS,Apartment with 5 or more stories,1,146,0
+ROYAL GARDENS,Apartment with less than 5 stories,176,176,3
+ROYAL GARDENS,Manufactured home/mobile home,0,0,0
+ROYAL GARDENS,Rooming house/collective residence,0,0,0
+ROYAL GARDENS,Hotel or motel,0,0,0
+ROYAL GARDENS,Other residential,0,0,0
+ROYAL GARDENS,No Response,0,0,0
+RUNDLE HEIGHTS,Single-detached house,446,35,3
+RUNDLE HEIGHTS,Duplex/triplex/fourplex,32,52,1
+RUNDLE HEIGHTS,Row house,39,373,1
+RUNDLE HEIGHTS,Apartment with 5 or more stories,0,3,0
+RUNDLE HEIGHTS,Apartment with less than 5 stories,24,299,1
+RUNDLE HEIGHTS,Manufactured home/mobile home,0,0,0
+RUNDLE HEIGHTS,Rooming house/collective residence,1,0,0
+RUNDLE HEIGHTS,Hotel or motel,0,0,0
+RUNDLE HEIGHTS,Other residential,0,0,0
+RUNDLE HEIGHTS,No Response,0,0,0
+RURAL NORTH EAST HORSE HILL,Single-detached house,61,7,2
+RURAL NORTH EAST HORSE HILL,Duplex/triplex/fourplex,0,0,0
+RURAL NORTH EAST HORSE HILL,Row house,0,0,0
+RURAL NORTH EAST HORSE HILL,Apartment with 5 or more stories,0,0,0
+RURAL NORTH EAST HORSE HILL,Apartment with less than 5 stories,0,0,0
+RURAL NORTH EAST HORSE HILL,Manufactured home/mobile home,9,2,0
+RURAL NORTH EAST HORSE HILL,Rooming house/collective residence,0,0,0
+RURAL NORTH EAST HORSE HILL,Hotel or motel,0,0,0
+RURAL NORTH EAST HORSE HILL,Other residential,0,0,0
+RURAL NORTH EAST HORSE HILL,No Response,0,0,0
+RURAL NORTH EAST NORTH STURGEON,Single-detached house,48,12,1
+RURAL NORTH EAST NORTH STURGEON,Duplex/triplex/fourplex,0,0,0
+RURAL NORTH EAST NORTH STURGEON,Row house,0,0,0
+RURAL NORTH EAST NORTH STURGEON,Apartment with 5 or more stories,0,0,0
+RURAL NORTH EAST NORTH STURGEON,Apartment with less than 5 stories,0,0,0
+RURAL NORTH EAST NORTH STURGEON,Manufactured home/mobile home,4,1,0
+RURAL NORTH EAST NORTH STURGEON,Rooming house/collective residence,0,1,0
+RURAL NORTH EAST NORTH STURGEON,Hotel or motel,0,0,0
+RURAL NORTH EAST NORTH STURGEON,Other residential,0,0,0
+RURAL NORTH EAST NORTH STURGEON,No Response,0,0,0
+RURAL NORTH EAST SOUTH STURGEON,Single-detached house,168,12,0
+RURAL NORTH EAST SOUTH STURGEON,Duplex/triplex/fourplex,0,0,0
+RURAL NORTH EAST SOUTH STURGEON,Row house,0,0,0
+RURAL NORTH EAST SOUTH STURGEON,Apartment with 5 or more stories,0,0,0
+RURAL NORTH EAST SOUTH STURGEON,Apartment with less than 5 stories,0,0,0
+RURAL NORTH EAST SOUTH STURGEON,Manufactured home/mobile home,5,2,0
+RURAL NORTH EAST SOUTH STURGEON,Rooming house/collective residence,0,0,0
+RURAL NORTH EAST SOUTH STURGEON,Hotel or motel,0,0,0
+RURAL NORTH EAST SOUTH STURGEON,Other residential,0,0,0
+RURAL NORTH EAST SOUTH STURGEON,No Response,0,0,0
+RURAL NORTH WEST,Single-detached house,1,1,0
+RURAL NORTH WEST,Duplex/triplex/fourplex,0,0,0
+RURAL NORTH WEST,Row house,0,0,0
+RURAL NORTH WEST,Apartment with 5 or more stories,0,0,0
+RURAL NORTH WEST,Apartment with less than 5 stories,0,0,0
+RURAL NORTH WEST,Manufactured home/mobile home,2,0,0
+RURAL NORTH WEST,Rooming house/collective residence,0,1,0
+RURAL NORTH WEST,Hotel or motel,0,0,0
+RURAL NORTH WEST,Other residential,0,0,0
+RURAL NORTH WEST,No Response,0,0,0
+RURAL SOUTH EAST,Single-detached house,73,15,1
+RURAL SOUTH EAST,Duplex/triplex/fourplex,0,0,0
+RURAL SOUTH EAST,Row house,0,0,0
+RURAL SOUTH EAST,Apartment with 5 or more stories,0,0,0
+RURAL SOUTH EAST,Apartment with less than 5 stories,0,0,0
+RURAL SOUTH EAST,Manufactured home/mobile home,0,0,0
+RURAL SOUTH EAST,Rooming house/collective residence,0,1,0
+RURAL SOUTH EAST,Hotel or motel,0,0,0
+RURAL SOUTH EAST,Other residential,0,0,0
+RURAL SOUTH EAST,No Response,0,0,0
+RURAL WEST,Single-detached house,166,8,0
+RURAL WEST,Duplex/triplex/fourplex,9,13,0
+RURAL WEST,Row house,0,0,0
+RURAL WEST,Apartment with 5 or more stories,0,0,0
+RURAL WEST,Apartment with less than 5 stories,3,1,0
+RURAL WEST,Manufactured home/mobile home,0,0,0
+RURAL WEST,Rooming house/collective residence,0,0,0
+RURAL WEST,Hotel or motel,0,0,0
+RURAL WEST,Other residential,0,0,0
+RURAL WEST,No Response,0,0,0
+RURAL WEST BIG LAKE,Single-detached house,54,7,0
+RURAL WEST BIG LAKE,Duplex/triplex/fourplex,0,0,0
+RURAL WEST BIG LAKE,Row house,0,0,0
+RURAL WEST BIG LAKE,Apartment with 5 or more stories,0,0,0
+RURAL WEST BIG LAKE,Apartment with less than 5 stories,0,0,0
+RURAL WEST BIG LAKE,Manufactured home/mobile home,1,0,0
+RURAL WEST BIG LAKE,Rooming house/collective residence,0,0,0
+RURAL WEST BIG LAKE,Hotel or motel,0,0,0
+RURAL WEST BIG LAKE,Other residential,0,0,0
+RURAL WEST BIG LAKE,No Response,0,0,0
+RUTHERFORD,Single-detached house,1311,75,32
+RUTHERFORD,Duplex/triplex/fourplex,402,86,15
+RUTHERFORD,Row house,49,5,2
+RUTHERFORD,Apartment with 5 or more stories,0,0,0
+RUTHERFORD,Apartment with less than 5 stories,286,219,44
+RUTHERFORD,Manufactured home/mobile home,0,0,0
+RUTHERFORD,Rooming house/collective residence,0,0,0
+RUTHERFORD,Hotel or motel,0,0,0
+RUTHERFORD,Other residential,0,0,0
+RUTHERFORD,No Response,0,0,0
+SAKAW,Single-detached house,821,123,8
+SAKAW,Duplex/triplex/fourplex,50,82,2
+SAKAW,Row house,106,95,2
+SAKAW,Apartment with 5 or more stories,0,2,0
+SAKAW,Apartment with less than 5 stories,1,63,1
+SAKAW,Manufactured home/mobile home,1,0,0
+SAKAW,Rooming house/collective residence,0,0,0
+SAKAW,Hotel or motel,0,0,0
+SAKAW,Other residential,0,0,0
+SAKAW,No Response,0,0,0
+SATOO,Single-detached house,796,80,32
+SATOO,Duplex/triplex/fourplex,19,8,1
+SATOO,Row house,148,135,2
+SATOO,Apartment with 5 or more stories,0,0,0
+SATOO,Apartment with less than 5 stories,0,9,0
+SATOO,Manufactured home/mobile home,0,0,0
+SATOO,Rooming house/collective residence,0,0,0
+SATOO,Hotel or motel,0,0,0
+SATOO,Other residential,0,0,0
+SATOO,No Response,0,0,0
+SCHONSEE,Single-detached house,244,12,2
+SCHONSEE,Duplex/triplex/fourplex,0,0,0
+SCHONSEE,Row house,0,0,0
+SCHONSEE,Apartment with 5 or more stories,0,0,0
+SCHONSEE,Apartment with less than 5 stories,0,0,0
+SCHONSEE,Manufactured home/mobile home,0,0,0
+SCHONSEE,Rooming house/collective residence,0,0,0
+SCHONSEE,Hotel or motel,0,0,0
+SCHONSEE,Other residential,0,0,0
+SCHONSEE,No Response,0,0,0
+SECORD,Single-detached house,87,4,1
+SECORD,Duplex/triplex/fourplex,0,0,0
+SECORD,Row house,0,0,0
+SECORD,Apartment with 5 or more stories,0,0,0
+SECORD,Apartment with less than 5 stories,0,0,0
+SECORD,Manufactured home/mobile home,0,0,0
+SECORD,Rooming house/collective residence,0,0,0
+SECORD,Hotel or motel,0,1,0
+SECORD,Other residential,0,0,0
+SECORD,No Response,0,0,0
+SHEFFIELD INDUSTRIAL,Single-detached house,0,0,0
+SHEFFIELD INDUSTRIAL,Duplex/triplex/fourplex,0,0,0
+SHEFFIELD INDUSTRIAL,Row house,0,0,0
+SHEFFIELD INDUSTRIAL,Apartment with 5 or more stories,0,0,0
+SHEFFIELD INDUSTRIAL,Apartment with less than 5 stories,0,0,0
+SHEFFIELD INDUSTRIAL,Manufactured home/mobile home,0,0,0
+SHEFFIELD INDUSTRIAL,Rooming house/collective residence,0,0,0
+SHEFFIELD INDUSTRIAL,Hotel or motel,0,0,0
+SHEFFIELD INDUSTRIAL,Other residential,0,0,0
+SHEFFIELD INDUSTRIAL,No Response,0,0,0
+SHERBROOKE,Single-detached house,607,117,4
+SHERBROOKE,Duplex/triplex/fourplex,10,123,1
+SHERBROOKE,Row house,0,0,0
+SHERBROOKE,Apartment with 5 or more stories,0,0,0
+SHERBROOKE,Apartment with less than 5 stories,8,118,0
+SHERBROOKE,Manufactured home/mobile home,0,0,0
+SHERBROOKE,Rooming house/collective residence,0,0,0
+SHERBROOKE,Hotel or motel,0,0,0
+SHERBROOKE,Other residential,0,0,0
+SHERBROOKE,No Response,0,0,0
+SHERWOOD,Single-detached house,271,67,0
+SHERWOOD,Duplex/triplex/fourplex,5,20,0
+SHERWOOD,Row house,10,5,0
+SHERWOOD,Apartment with 5 or more stories,0,0,0
+SHERWOOD,Apartment with less than 5 stories,19,181,0
+SHERWOOD,Manufactured home/mobile home,0,0,0
+SHERWOOD,Rooming house/collective residence,0,0,0
+SHERWOOD,Hotel or motel,0,0,0
+SHERWOOD,Other residential,0,1,1
+SHERWOOD,No Response,0,0,0
+SIFTON PARK,Single-detached house,227,27,7
+SIFTON PARK,Duplex/triplex/fourplex,22,5,1
+SIFTON PARK,Row house,56,68,6
+SIFTON PARK,Apartment with 5 or more stories,0,1,0
+SIFTON PARK,Apartment with less than 5 stories,16,451,1
+SIFTON PARK,Manufactured home/mobile home,0,0,0
+SIFTON PARK,Rooming house/collective residence,0,0,0
+SIFTON PARK,Hotel or motel,0,0,0
+SIFTON PARK,Other residential,0,0,0
+SIFTON PARK,No Response,0,0,0
+SILVER BERRY,Single-detached house,1317,74,16
+SILVER BERRY,Duplex/triplex/fourplex,303,52,3
+SILVER BERRY,Row house,124,73,12
+SILVER BERRY,Apartment with 5 or more stories,0,0,0
+SILVER BERRY,Apartment with less than 5 stories,40,12,3
+SILVER BERRY,Manufactured home/mobile home,0,0,0
+SILVER BERRY,Rooming house/collective residence,0,0,0
+SILVER BERRY,Hotel or motel,0,0,0
+SILVER BERRY,Other residential,0,0,0
+SILVER BERRY,No Response,0,0,0
+SKYRATTLER,Single-detached house,169,11,0
+SKYRATTLER,Duplex/triplex/fourplex,29,11,0
+SKYRATTLER,Row house,49,66,1
+SKYRATTLER,Apartment with 5 or more stories,1,0,0
+SKYRATTLER,Apartment with less than 5 stories,271,491,10
+SKYRATTLER,Manufactured home/mobile home,0,0,0
+SKYRATTLER,Rooming house/collective residence,0,0,0
+SKYRATTLER,Hotel or motel,0,0,0
+SKYRATTLER,Other residential,0,0,0
+SKYRATTLER,No Response,0,0,0
+SOUTH EDMONTON COMMON,Single-detached house,0,0,0
+SOUTH EDMONTON COMMON,Duplex/triplex/fourplex,0,0,0
+SOUTH EDMONTON COMMON,Row house,0,0,0
+SOUTH EDMONTON COMMON,Apartment with 5 or more stories,0,0,0
+SOUTH EDMONTON COMMON,Apartment with less than 5 stories,0,0,0
+SOUTH EDMONTON COMMON,Manufactured home/mobile home,0,0,0
+SOUTH EDMONTON COMMON,Rooming house/collective residence,0,0,0
+SOUTH EDMONTON COMMON,Hotel or motel,0,0,0
+SOUTH EDMONTON COMMON,Other residential,0,0,0
+SOUTH EDMONTON COMMON,No Response,0,0,0
+SPRUCE AVENUE,Single-detached house,321,269,30
+SPRUCE AVENUE,Duplex/triplex/fourplex,9,17,1
+SPRUCE AVENUE,Row house,0,104,3
+SPRUCE AVENUE,Apartment with 5 or more stories,0,40,0
+SPRUCE AVENUE,Apartment with less than 5 stories,7,265,2
+SPRUCE AVENUE,Manufactured home/mobile home,0,0,0
+SPRUCE AVENUE,Rooming house/collective residence,0,0,0
+SPRUCE AVENUE,Hotel or motel,0,0,0
+SPRUCE AVENUE,Other residential,0,0,0
+SPRUCE AVENUE,No Response,0,0,0
+STEINHAUER,Single-detached house,527,32,2
+STEINHAUER,Duplex/triplex/fourplex,2,2,0
+STEINHAUER,Row house,134,71,0
+STEINHAUER,Apartment with 5 or more stories,0,0,0
+STEINHAUER,Apartment with less than 5 stories,0,0,0
+STEINHAUER,Manufactured home/mobile home,0,0,0
+STEINHAUER,Rooming house/collective residence,0,1,0
+STEINHAUER,Hotel or motel,0,0,0
+STEINHAUER,Other residential,2,0,0
+STEINHAUER,No Response,0,0,0
+STONE INDUSTRIAL,Single-detached house,0,0,0
+STONE INDUSTRIAL,Duplex/triplex/fourplex,0,0,0
+STONE INDUSTRIAL,Row house,0,0,0
+STONE INDUSTRIAL,Apartment with 5 or more stories,0,0,0
+STONE INDUSTRIAL,Apartment with less than 5 stories,0,0,0
+STONE INDUSTRIAL,Manufactured home/mobile home,0,0,0
+STONE INDUSTRIAL,Rooming house/collective residence,0,0,0
+STONE INDUSTRIAL,Hotel or motel,0,0,0
+STONE INDUSTRIAL,Other residential,0,0,0
+STONE INDUSTRIAL,No Response,0,0,0
+STRATHCONA,Single-detached house,781,438,14
+STRATHCONA,Duplex/triplex/fourplex,40,208,5
+STRATHCONA,Row house,11,10,1
+STRATHCONA,Apartment with 5 or more stories,461,867,8
+STRATHCONA,Apartment with less than 5 stories,213,2063,6
+STRATHCONA,Manufactured home/mobile home,0,0,0
+STRATHCONA,Rooming house/collective residence,10,24,2
+STRATHCONA,Hotel or motel,0,0,0
+STRATHCONA,Other residential,0,0,0
+STRATHCONA,No Response,0,0,0
+STRATHEARN,Single-detached house,469,136,0
+STRATHEARN,Duplex/triplex/fourplex,15,123,0
+STRATHEARN,Row house,0,0,0
+STRATHEARN,Apartment with 5 or more stories,1,208,2
+STRATHEARN,Apartment with less than 5 stories,3,519,1
+STRATHEARN,Manufactured home/mobile home,0,0,0
+STRATHEARN,Rooming house/collective residence,0,0,0
+STRATHEARN,Hotel or motel,0,0,0
+STRATHEARN,Other residential,0,0,0
+STRATHEARN,No Response,0,0,0
+SUDER GREENS,Single-detached house,612,38,6
+SUDER GREENS,Duplex/triplex/fourplex,29,2,0
+SUDER GREENS,Row house,0,0,0
+SUDER GREENS,Apartment with 5 or more stories,0,0,0
+SUDER GREENS,Apartment with less than 5 stories,129,17,4
+SUDER GREENS,Manufactured home/mobile home,0,0,0
+SUDER GREENS,Rooming house/collective residence,0,0,0
+SUDER GREENS,Hotel or motel,0,0,0
+SUDER GREENS,Other residential,0,0,0
+SUDER GREENS,No Response,0,0,0
+SUMMERLEA,Single-detached house,231,27,2
+SUMMERLEA,Duplex/triplex/fourplex,98,35,1
+SUMMERLEA,Row house,0,36,0
+SUMMERLEA,Apartment with 5 or more stories,0,0,0
+SUMMERLEA,Apartment with less than 5 stories,164,337,1
+SUMMERLEA,Manufactured home/mobile home,0,0,0
+SUMMERLEA,Rooming house/collective residence,0,0,0
+SUMMERLEA,Hotel or motel,0,0,0
+SUMMERLEA,Other residential,0,0,0
+SUMMERLEA,No Response,0,0,0
+SUMMERSIDE,Single-detached house,1103,60,27
+SUMMERSIDE,Duplex/triplex/fourplex,137,16,18
+SUMMERSIDE,Row house,60,34,4
+SUMMERSIDE,Apartment with 5 or more stories,0,0,0
+SUMMERSIDE,Apartment with less than 5 stories,48,39,6
+SUMMERSIDE,Manufactured home/mobile home,0,0,0
+SUMMERSIDE,Rooming house/collective residence,0,0,0
+SUMMERSIDE,Hotel or motel,0,0,0
+SUMMERSIDE,Other residential,0,0,0
+SUMMERSIDE,No Response,0,0,0
+SUNWAPTA INDUSTRIAL,Single-detached house,0,0,0
+SUNWAPTA INDUSTRIAL,Duplex/triplex/fourplex,0,0,0
+SUNWAPTA INDUSTRIAL,Row house,0,0,0
+SUNWAPTA INDUSTRIAL,Apartment with 5 or more stories,0,0,0
+SUNWAPTA INDUSTRIAL,Apartment with less than 5 stories,0,0,0
+SUNWAPTA INDUSTRIAL,Manufactured home/mobile home,0,0,0
+SUNWAPTA INDUSTRIAL,Rooming house/collective residence,0,0,0
+SUNWAPTA INDUSTRIAL,Hotel or motel,0,0,0
+SUNWAPTA INDUSTRIAL,Other residential,0,0,0
+SUNWAPTA INDUSTRIAL,No Response,0,0,0
+SWEET GRASS,Single-detached house,431,16,0
+SWEET GRASS,Duplex/triplex/fourplex,0,0,0
+SWEET GRASS,Row house,161,184,0
+SWEET GRASS,Apartment with 5 or more stories,0,0,0
+SWEET GRASS,Apartment with less than 5 stories,62,137,0
+SWEET GRASS,Manufactured home/mobile home,0,0,0
+SWEET GRASS,Rooming house/collective residence,0,1,0
+SWEET GRASS,Hotel or motel,0,0,0
+SWEET GRASS,Other residential,0,0,0
+SWEET GRASS,No Response,0,0,0
+TAMARACK,Single-detached house,146,18,3
+TAMARACK,Duplex/triplex/fourplex,59,16,1
+TAMARACK,Row house,0,0,0
+TAMARACK,Apartment with 5 or more stories,0,0,0
+TAMARACK,Apartment with less than 5 stories,0,0,0
+TAMARACK,Manufactured home/mobile home,0,0,0
+TAMARACK,Rooming house/collective residence,0,0,0
+TAMARACK,Hotel or motel,0,0,0
+TAMARACK,Other residential,0,0,0
+TAMARACK,No Response,0,0,0
+TAWA,Single-detached house,10,4,1
+TAWA,Duplex/triplex/fourplex,369,99,4
+TAWA,Row house,0,0,0
+TAWA,Apartment with 5 or more stories,186,16,6
+TAWA,Apartment with less than 5 stories,103,141,10
+TAWA,Manufactured home/mobile home,0,0,0
+TAWA,Rooming house/collective residence,0,0,0
+TAWA,Hotel or motel,0,0,0
+TAWA,Other residential,0,0,0
+TAWA,No Response,0,0,0
+TERRA LOSA,Single-detached house,3,1,0
+TERRA LOSA,Duplex/triplex/fourplex,115,3,0
+TERRA LOSA,Row house,216,30,1
+TERRA LOSA,Apartment with 5 or more stories,3,133,1
+TERRA LOSA,Apartment with less than 5 stories,612,216,7
+TERRA LOSA,Manufactured home/mobile home,0,0,0
+TERRA LOSA,Rooming house/collective residence,0,0,0
+TERRA LOSA,Hotel or motel,0,0,0
+TERRA LOSA,Other residential,0,0,0
+TERRA LOSA,No Response,0,0,0
+TERRACE HEIGHTS,Single-detached house,421,115,5
+TERRACE HEIGHTS,Duplex/triplex/fourplex,9,15,1
+TERRACE HEIGHTS,Row house,0,0,0
+TERRACE HEIGHTS,Apartment with 5 or more stories,1,225,0
+TERRACE HEIGHTS,Apartment with less than 5 stories,9,287,0
+TERRACE HEIGHTS,Manufactured home/mobile home,0,0,0
+TERRACE HEIGHTS,Rooming house/collective residence,0,0,0
+TERRACE HEIGHTS,Hotel or motel,0,0,0
+TERRACE HEIGHTS,Other residential,0,0,0
+TERRACE HEIGHTS,No Response,0,0,0
+TERWILLEGAR SOUTH,Single-detached house,986,141,5
+TERWILLEGAR SOUTH,Duplex/triplex/fourplex,335,119,3
+TERWILLEGAR SOUTH,Row house,11,4,0
+TERWILLEGAR SOUTH,Apartment with 5 or more stories,0,0,0
+TERWILLEGAR SOUTH,Apartment with less than 5 stories,151,189,10
+TERWILLEGAR SOUTH,Manufactured home/mobile home,0,0,0
+TERWILLEGAR SOUTH,Rooming house/collective residence,0,0,0
+TERWILLEGAR SOUTH,Hotel or motel,0,0,0
+TERWILLEGAR SOUTH,Other residential,0,0,0
+TERWILLEGAR SOUTH,No Response,0,0,0
+TERWILLEGAR TOWNE,Single-detached house,1403,71,1
+TERWILLEGAR TOWNE,Duplex/triplex/fourplex,178,21,1
+TERWILLEGAR TOWNE,Row house,192,46,0
+TERWILLEGAR TOWNE,Apartment with 5 or more stories,148,0,0
+TERWILLEGAR TOWNE,Apartment with less than 5 stories,38,10,0
+TERWILLEGAR TOWNE,Manufactured home/mobile home,0,0,0
+TERWILLEGAR TOWNE,Rooming house/collective residence,0,0,0
+TERWILLEGAR TOWNE,Hotel or motel,0,0,0
+TERWILLEGAR TOWNE,Other residential,0,0,0
+TERWILLEGAR TOWNE,No Response,0,0,0
+THE HAMPTONS,Single-detached house,1179,87,34
+THE HAMPTONS,Duplex/triplex/fourplex,211,67,6
+THE HAMPTONS,Row house,120,47,1
+THE HAMPTONS,Apartment with 5 or more stories,0,0,0
+THE HAMPTONS,Apartment with less than 5 stories,139,67,2
+THE HAMPTONS,Manufactured home/mobile home,0,0,0
+THE HAMPTONS,Rooming house/collective residence,0,0,0
+THE HAMPTONS,Hotel or motel,0,0,0
+THE HAMPTONS,Other residential,0,0,0
+THE HAMPTONS,No Response,0,0,0
+THE PALISADES,Single-detached house,0,0,0
+THE PALISADES,Duplex/triplex/fourplex,0,0,0
+THE PALISADES,Row house,0,0,0
+THE PALISADES,Apartment with 5 or more stories,0,0,0
+THE PALISADES,Apartment with less than 5 stories,0,0,0
+THE PALISADES,Manufactured home/mobile home,0,0,0
+THE PALISADES,Rooming house/collective residence,0,0,0
+THE PALISADES,Hotel or motel,0,0,0
+THE PALISADES,Other residential,0,0,0
+THE PALISADES,No Response,0,0,0
+THORNCLIFF,Single-detached house,367,21,5
+THORNCLIFF,Duplex/triplex/fourplex,90,18,1
+THORNCLIFF,Row house,119,244,1
+THORNCLIFF,Apartment with 5 or more stories,0,0,0
+THORNCLIFF,Apartment with less than 5 stories,43,343,2
+THORNCLIFF,Manufactured home/mobile home,0,0,0
+THORNCLIFF,Rooming house/collective residence,0,0,0
+THORNCLIFF,Hotel or motel,0,0,0
+THORNCLIFF,Other residential,0,0,0
+THORNCLIFF,No Response,0,0,0
+TIPASKAN,Single-detached house,375,55,4
+TIPASKAN,Duplex/triplex/fourplex,33,75,0
+TIPASKAN,Row house,89,105,3
+TIPASKAN,Apartment with 5 or more stories,0,3,0
+TIPASKAN,Apartment with less than 5 stories,29,273,2
+TIPASKAN,Manufactured home/mobile home,0,0,0
+TIPASKAN,Rooming house/collective residence,0,0,0
+TIPASKAN,Hotel or motel,0,0,0
+TIPASKAN,Other residential,0,0,0
+TIPASKAN,No Response,0,0,0
+TWEDDLE PLACE,Single-detached house,479,47,13
+TWEDDLE PLACE,Duplex/triplex/fourplex,118,36,8
+TWEDDLE PLACE,Row house,16,77,1
+TWEDDLE PLACE,Apartment with 5 or more stories,0,0,0
+TWEDDLE PLACE,Apartment with less than 5 stories,1,306,2
+TWEDDLE PLACE,Manufactured home/mobile home,0,0,0
+TWEDDLE PLACE,Rooming house/collective residence,0,0,0
+TWEDDLE PLACE,Hotel or motel,0,0,0
+TWEDDLE PLACE,Other residential,0,0,0
+TWEDDLE PLACE,No Response,0,0,0
+TWIN BROOKS,Single-detached house,1839,53,2
+TWIN BROOKS,Duplex/triplex/fourplex,165,3,3
+TWIN BROOKS,Row house,105,12,0
+TWIN BROOKS,Apartment with 5 or more stories,0,0,0
+TWIN BROOKS,Apartment with less than 5 stories,43,15,1
+TWIN BROOKS,Manufactured home/mobile home,0,0,0
+TWIN BROOKS,Rooming house/collective residence,0,1,0
+TWIN BROOKS,Hotel or motel,0,0,0
+TWIN BROOKS,Other residential,0,0,0
+TWIN BROOKS,No Response,0,0,0
+UNIVERSITY OF ALBERTA,Single-detached house,0,0,0
+UNIVERSITY OF ALBERTA,Duplex/triplex/fourplex,0,0,0
+UNIVERSITY OF ALBERTA,Row house,0,0,0
+UNIVERSITY OF ALBERTA,Apartment with 5 or more stories,0,0,0
+UNIVERSITY OF ALBERTA,Apartment with less than 5 stories,0,0,0
+UNIVERSITY OF ALBERTA,Manufactured home/mobile home,0,0,0
+UNIVERSITY OF ALBERTA,Rooming house/collective residence,0,0,0
+UNIVERSITY OF ALBERTA,Hotel or motel,0,0,0
+UNIVERSITY OF ALBERTA,Other residential,0,0,0
+UNIVERSITY OF ALBERTA,No Response,0,0,0
+UNIVERSITY OF ALBERTA FARM,Single-detached house,0,0,0
+UNIVERSITY OF ALBERTA FARM,Duplex/triplex/fourplex,0,0,0
+UNIVERSITY OF ALBERTA FARM,Row house,0,0,0
+UNIVERSITY OF ALBERTA FARM,Apartment with 5 or more stories,0,0,0
+UNIVERSITY OF ALBERTA FARM,Apartment with less than 5 stories,0,0,0
+UNIVERSITY OF ALBERTA FARM,Manufactured home/mobile home,0,0,0
+UNIVERSITY OF ALBERTA FARM,Rooming house/collective residence,0,0,0
+UNIVERSITY OF ALBERTA FARM,Hotel or motel,0,0,0
+UNIVERSITY OF ALBERTA FARM,Other residential,0,0,0
+UNIVERSITY OF ALBERTA FARM,No Response,0,0,0
+VIRGINIA PARK,Single-detached house,135,50,5
+VIRGINIA PARK,Duplex/triplex/fourplex,1,4,0
+VIRGINIA PARK,Row house,0,0,0
+VIRGINIA PARK,Apartment with 5 or more stories,0,0,0
+VIRGINIA PARK,Apartment with less than 5 stories,11,212,0
+VIRGINIA PARK,Manufactured home/mobile home,0,0,0
+VIRGINIA PARK,Rooming house/collective residence,0,0,0
+VIRGINIA PARK,Hotel or motel,0,0,0
+VIRGINIA PARK,Other residential,0,0,0
+VIRGINIA PARK,No Response,0,0,0
+WALKER,Single-detached house,0,0,0
+WALKER,Duplex/triplex/fourplex,0,0,0
+WALKER,Row house,0,0,0
+WALKER,Apartment with 5 or more stories,0,0,0
+WALKER,Apartment with less than 5 stories,0,0,0
+WALKER,Manufactured home/mobile home,0,0,0
+WALKER,Rooming house/collective residence,0,0,0
+WALKER,Hotel or motel,0,0,0
+WALKER,Other residential,0,0,0
+WALKER,No Response,0,0,0
+WEBBER GREENS,Single-detached house,0,0,0
+WEBBER GREENS,Duplex/triplex/fourplex,0,0,0
+WEBBER GREENS,Row house,0,0,0
+WEBBER GREENS,Apartment with 5 or more stories,0,0,0
+WEBBER GREENS,Apartment with less than 5 stories,0,0,0
+WEBBER GREENS,Manufactured home/mobile home,0,0,0
+WEBBER GREENS,Rooming house/collective residence,0,0,0
+WEBBER GREENS,Hotel or motel,0,0,0
+WEBBER GREENS,Other residential,0,0,0
+WEBBER GREENS,No Response,0,0,0
+WEDGEWOOD HEIGHTS,Single-detached house,475,8,0
+WEDGEWOOD HEIGHTS,Duplex/triplex/fourplex,0,0,0
+WEDGEWOOD HEIGHTS,Row house,0,0,0
+WEDGEWOOD HEIGHTS,Apartment with 5 or more stories,0,0,0
+WEDGEWOOD HEIGHTS,Apartment with less than 5 stories,0,0,0
+WEDGEWOOD HEIGHTS,Manufactured home/mobile home,0,0,0
+WEDGEWOOD HEIGHTS,Rooming house/collective residence,0,0,0
+WEDGEWOOD HEIGHTS,Hotel or motel,0,0,0
+WEDGEWOOD HEIGHTS,Other residential,0,0,0
+WEDGEWOOD HEIGHTS,No Response,0,0,0
+WEINLOS,Single-detached house,704,115,11
+WEINLOS,Duplex/triplex/fourplex,63,21,0
+WEINLOS,Row house,0,0,0
+WEINLOS,Apartment with 5 or more stories,0,0,0
+WEINLOS,Apartment with less than 5 stories,56,182,7
+WEINLOS,Manufactured home/mobile home,0,0,0
+WEINLOS,Rooming house/collective residence,1,0,0
+WEINLOS,Hotel or motel,0,0,0
+WEINLOS,Other residential,0,0,0
+WEINLOS,No Response,0,0,0
+WEIR INDUSTRIAL,Single-detached house,2,0,0
+WEIR INDUSTRIAL,Duplex/triplex/fourplex,0,0,0
+WEIR INDUSTRIAL,Row house,0,0,0
+WEIR INDUSTRIAL,Apartment with 5 or more stories,0,0,0
+WEIR INDUSTRIAL,Apartment with less than 5 stories,0,0,0
+WEIR INDUSTRIAL,Manufactured home/mobile home,58,3,0
+WEIR INDUSTRIAL,Rooming house/collective residence,0,0,0
+WEIR INDUSTRIAL,Hotel or motel,0,0,0
+WEIR INDUSTRIAL,Other residential,0,0,0
+WEIR INDUSTRIAL,No Response,0,0,0
+WELLINGTON,Single-detached house,789,115,4
+WELLINGTON,Duplex/triplex/fourplex,10,10,0
+WELLINGTON,Row house,1,213,3
+WELLINGTON,Apartment with 5 or more stories,0,0,0
+WELLINGTON,Apartment with less than 5 stories,9,43,1
+WELLINGTON,Manufactured home/mobile home,0,0,0
+WELLINGTON,Rooming house/collective residence,0,0,0
+WELLINGTON,Hotel or motel,0,0,0
+WELLINGTON,Other residential,0,0,0
+WELLINGTON,No Response,0,0,0
+WEST JASPER PLACE,Single-detached house,390,120,3
+WEST JASPER PLACE,Duplex/triplex/fourplex,13,69,3
+WEST JASPER PLACE,Row house,0,0,0
+WEST JASPER PLACE,Apartment with 5 or more stories,0,81,0
+WEST JASPER PLACE,Apartment with less than 5 stories,32,746,2
+WEST JASPER PLACE,Manufactured home/mobile home,0,0,0
+WEST JASPER PLACE,Rooming house/collective residence,1,5,8
+WEST JASPER PLACE,Hotel or motel,0,0,0
+WEST JASPER PLACE,Other residential,0,0,0
+WEST JASPER PLACE,No Response,0,0,0
+WEST MEADOWLARK PARK,Single-detached house,461,46,1
+WEST MEADOWLARK PARK,Duplex/triplex/fourplex,31,15,0
+WEST MEADOWLARK PARK,Row house,177,48,5
+WEST MEADOWLARK PARK,Apartment with 5 or more stories,149,90,6
+WEST MEADOWLARK PARK,Apartment with less than 5 stories,0,276,1
+WEST MEADOWLARK PARK,Manufactured home/mobile home,0,0,0
+WEST MEADOWLARK PARK,Rooming house/collective residence,0,1,0
+WEST MEADOWLARK PARK,Hotel or motel,0,0,0
+WEST MEADOWLARK PARK,Other residential,0,0,0
+WEST MEADOWLARK PARK,No Response,0,0,0
+WEST SHEFFIELD INDUSTRIAL,Single-detached house,0,0,0
+WEST SHEFFIELD INDUSTRIAL,Duplex/triplex/fourplex,0,0,0
+WEST SHEFFIELD INDUSTRIAL,Row house,0,0,0
+WEST SHEFFIELD INDUSTRIAL,Apartment with 5 or more stories,0,0,0
+WEST SHEFFIELD INDUSTRIAL,Apartment with less than 5 stories,0,0,0
+WEST SHEFFIELD INDUSTRIAL,Manufactured home/mobile home,0,0,0
+WEST SHEFFIELD INDUSTRIAL,Rooming house/collective residence,0,0,0
+WEST SHEFFIELD INDUSTRIAL,Hotel or motel,0,0,0
+WEST SHEFFIELD INDUSTRIAL,Other residential,0,0,0
+WEST SHEFFIELD INDUSTRIAL,No Response,0,0,0
+WESTBROOK ESTATES,Single-detached house,276,9,2
+WESTBROOK ESTATES,Duplex/triplex/fourplex,30,0,0
+WESTBROOK ESTATES,Row house,0,0,0
+WESTBROOK ESTATES,Apartment with 5 or more stories,0,0,0
+WESTBROOK ESTATES,Apartment with less than 5 stories,1,160,0
+WESTBROOK ESTATES,Manufactured home/mobile home,0,0,0
+WESTBROOK ESTATES,Rooming house/collective residence,0,0,0
+WESTBROOK ESTATES,Hotel or motel,0,0,0
+WESTBROOK ESTATES,Other residential,0,0,0
+WESTBROOK ESTATES,No Response,0,0,0
+WESTMOUNT,Single-detached house,1000,224,4
+WESTMOUNT,Duplex/triplex/fourplex,61,82,0
+WESTMOUNT,Row house,3,6,0
+WESTMOUNT,Apartment with 5 or more stories,203,129,17
+WESTMOUNT,Apartment with less than 5 stories,371,1003,7
+WESTMOUNT,Manufactured home/mobile home,0,1,0
+WESTMOUNT,Rooming house/collective residence,0,2,0
+WESTMOUNT,Hotel or motel,0,0,0
+WESTMOUNT,Other residential,0,0,0
+WESTMOUNT,No Response,0,0,0
+WESTRIDGE,Single-detached house,440,8,5
+WESTRIDGE,Duplex/triplex/fourplex,0,0,0
+WESTRIDGE,Row house,32,0,0
+WESTRIDGE,Apartment with 5 or more stories,0,0,0
+WESTRIDGE,Apartment with less than 5 stories,0,0,0
+WESTRIDGE,Manufactured home/mobile home,0,0,0
+WESTRIDGE,Rooming house/collective residence,0,0,0
+WESTRIDGE,Hotel or motel,0,0,0
+WESTRIDGE,Other residential,0,0,0
+WESTRIDGE,No Response,0,0,0
+WESTVIEW VILLAGE,Single-detached house,0,0,0
+WESTVIEW VILLAGE,Duplex/triplex/fourplex,1,0,0
+WESTVIEW VILLAGE,Row house,0,0,0
+WESTVIEW VILLAGE,Apartment with 5 or more stories,0,0,0
+WESTVIEW VILLAGE,Apartment with less than 5 stories,0,0,0
+WESTVIEW VILLAGE,Manufactured home/mobile home,936,57,10
+WESTVIEW VILLAGE,Rooming house/collective residence,0,0,0
+WESTVIEW VILLAGE,Hotel or motel,0,0,0
+WESTVIEW VILLAGE,Other residential,0,0,0
+WESTVIEW VILLAGE,No Response,0,0,0
+WESTWOOD,Single-detached house,263,174,1
+WESTWOOD,Duplex/triplex/fourplex,37,104,0
+WESTWOOD,Row house,1,4,0
+WESTWOOD,Apartment with 5 or more stories,1,1,0
+WESTWOOD,Apartment with less than 5 stories,28,1052,4
+WESTWOOD,Manufactured home/mobile home,0,0,0
+WESTWOOD,Rooming house/collective residence,0,3,0
+WESTWOOD,Hotel or motel,0,0,0
+WESTWOOD,Other residential,0,0,0
+WESTWOOD,No Response,0,0,0
+WHITE INDUSTRIAL,Single-detached house,0,0,0
+WHITE INDUSTRIAL,Duplex/triplex/fourplex,0,0,0
+WHITE INDUSTRIAL,Row house,0,0,0
+WHITE INDUSTRIAL,Apartment with 5 or more stories,0,0,0
+WHITE INDUSTRIAL,Apartment with less than 5 stories,0,0,0
+WHITE INDUSTRIAL,Manufactured home/mobile home,0,0,0
+WHITE INDUSTRIAL,Rooming house/collective residence,0,0,0
+WHITE INDUSTRIAL,Hotel or motel,0,0,0
+WHITE INDUSTRIAL,Other residential,0,0,0
+WHITE INDUSTRIAL,No Response,0,0,0
+WHITEMUD CREEK RAVINE NORTH,Single-detached house,0,0,0
+WHITEMUD CREEK RAVINE NORTH,Duplex/triplex/fourplex,0,0,0
+WHITEMUD CREEK RAVINE NORTH,Row house,0,0,0
+WHITEMUD CREEK RAVINE NORTH,Apartment with 5 or more stories,0,0,0
+WHITEMUD CREEK RAVINE NORTH,Apartment with less than 5 stories,0,0,0
+WHITEMUD CREEK RAVINE NORTH,Manufactured home/mobile home,0,0,0
+WHITEMUD CREEK RAVINE NORTH,Rooming house/collective residence,0,0,0
+WHITEMUD CREEK RAVINE NORTH,Hotel or motel,0,0,0
+WHITEMUD CREEK RAVINE NORTH,Other residential,0,0,0
+WHITEMUD CREEK RAVINE NORTH,No Response,0,0,0
+WHITEMUD CREEK RAVINE SOUTH,Single-detached house,0,0,0
+WHITEMUD CREEK RAVINE SOUTH,Duplex/triplex/fourplex,0,0,0
+WHITEMUD CREEK RAVINE SOUTH,Row house,0,0,0
+WHITEMUD CREEK RAVINE SOUTH,Apartment with 5 or more stories,0,0,0
+WHITEMUD CREEK RAVINE SOUTH,Apartment with less than 5 stories,0,0,0
+WHITEMUD CREEK RAVINE SOUTH,Manufactured home/mobile home,0,0,0
+WHITEMUD CREEK RAVINE SOUTH,Rooming house/collective residence,0,0,0
+WHITEMUD CREEK RAVINE SOUTH,Hotel or motel,0,0,0
+WHITEMUD CREEK RAVINE SOUTH,Other residential,0,0,0
+WHITEMUD CREEK RAVINE SOUTH,No Response,0,0,0
+WILD ROSE,Single-detached house,1659,89,33
+WILD ROSE,Duplex/triplex/fourplex,94,14,2
+WILD ROSE,Row house,44,7,2
+WILD ROSE,Apartment with 5 or more stories,0,0,0
+WILD ROSE,Apartment with less than 5 stories,212,75,4
+WILD ROSE,Manufactured home/mobile home,0,0,0
+WILD ROSE,Rooming house/collective residence,0,0,0
+WILD ROSE,Hotel or motel,0,0,0
+WILD ROSE,Other residential,0,0,0
+WILD ROSE,No Response,0,0,0
+WILSON INDUSTRIAL,Single-detached house,0,0,0
+WILSON INDUSTRIAL,Duplex/triplex/fourplex,0,0,0
+WILSON INDUSTRIAL,Row house,0,0,0
+WILSON INDUSTRIAL,Apartment with 5 or more stories,0,0,0
+WILSON INDUSTRIAL,Apartment with less than 5 stories,0,0,0
+WILSON INDUSTRIAL,Manufactured home/mobile home,0,0,0
+WILSON INDUSTRIAL,Rooming house/collective residence,0,0,0
+WILSON INDUSTRIAL,Hotel or motel,0,0,0
+WILSON INDUSTRIAL,Other residential,0,0,0
+WILSON INDUSTRIAL,No Response,0,0,0
+WINDERMERE,Single-detached house,94,7,0
+WINDERMERE,Duplex/triplex/fourplex,3,1,0
+WINDERMERE,Row house,0,0,0
+WINDERMERE,Apartment with 5 or more stories,0,0,0
+WINDERMERE,Apartment with less than 5 stories,0,0,0
+WINDERMERE,Manufactured home/mobile home,0,0,0
+WINDERMERE,Rooming house/collective residence,0,0,0
+WINDERMERE,Hotel or motel,0,0,0
+WINDERMERE,Other residential,0,0,0
+WINDERMERE,No Response,0,0,0
+WINDSOR PARK,Single-detached house,386,72,18
+WINDSOR PARK,Duplex/triplex/fourplex,0,0,0
+WINDSOR PARK,Row house,0,0,0
+WINDSOR PARK,Apartment with 5 or more stories,0,0,0
+WINDSOR PARK,Apartment with less than 5 stories,0,0,0
+WINDSOR PARK,Manufactured home/mobile home,0,0,0
+WINDSOR PARK,Rooming house/collective residence,0,2,0
+WINDSOR PARK,Hotel or motel,0,0,0
+WINDSOR PARK,Other residential,0,1,0
+WINDSOR PARK,No Response,0,0,0
+WINTERBURN INDUSTRIAL AREA WEST,Single-detached house,1,2,0
+WINTERBURN INDUSTRIAL AREA WEST,Duplex/triplex/fourplex,1,1,0
+WINTERBURN INDUSTRIAL AREA WEST,Row house,0,0,0
+WINTERBURN INDUSTRIAL AREA WEST,Apartment with 5 or more stories,0,0,0
+WINTERBURN INDUSTRIAL AREA WEST,Apartment with less than 5 stories,0,0,0
+WINTERBURN INDUSTRIAL AREA WEST,Manufactured home/mobile home,2,1,0
+WINTERBURN INDUSTRIAL AREA WEST,Rooming house/collective residence,0,1,0
+WINTERBURN INDUSTRIAL AREA WEST,Hotel or motel,0,2,0
+WINTERBURN INDUSTRIAL AREA WEST,Other residential,6,9,0
+WINTERBURN INDUSTRIAL AREA WEST,No Response,0,0,0
+WOODCROFT,Single-detached house,423,106,2
+WOODCROFT,Duplex/triplex/fourplex,7,9,0
+WOODCROFT,Row house,0,201,0
+WOODCROFT,Apartment with 5 or more stories,1,400,0
+WOODCROFT,Apartment with less than 5 stories,66,48,0
+WOODCROFT,Manufactured home/mobile home,0,0,0
+WOODCROFT,Rooming house/collective residence,0,2,0
+WOODCROFT,Hotel or motel,0,0,0
+WOODCROFT,Other residential,0,0,0
+WOODCROFT,No Response,0,0,0
+YELLOWHEAD CORRIDOR,Single-detached house,0,0,0
+YELLOWHEAD CORRIDOR,Duplex/triplex/fourplex,0,0,0
+YELLOWHEAD CORRIDOR,Row house,0,0,0
+YELLOWHEAD CORRIDOR,Apartment with 5 or more stories,0,0,0
+YELLOWHEAD CORRIDOR,Apartment with less than 5 stories,0,0,0
+YELLOWHEAD CORRIDOR,Manufactured home/mobile home,0,0,0
+YELLOWHEAD CORRIDOR,Rooming house/collective residence,0,0,0
+YELLOWHEAD CORRIDOR,Hotel or motel,0,0,0
+YELLOWHEAD CORRIDOR,Other residential,0,0,0
+YELLOWHEAD CORRIDOR,No Response,0,0,0
+YORK,Single-detached house,723,67,5
+YORK,Duplex/triplex/fourplex,46,52,0
+YORK,Row house,157,183,4
+YORK,Apartment with 5 or more stories,0,0,0
+YORK,Apartment with less than 5 stories,1,259,0
+YORK,Manufactured home/mobile home,0,0,0
+YORK,Rooming house/collective residence,0,0,0
+YORK,Hotel or motel,0,0,0
+YORK,Other residential,0,0,0
+YORK,No Response,0,0,0
+YOUNGSTOWN INDUSTRIAL,Single-detached house,0,0,0
+YOUNGSTOWN INDUSTRIAL,Duplex/triplex/fourplex,0,0,0
+YOUNGSTOWN INDUSTRIAL,Row house,0,0,0
+YOUNGSTOWN INDUSTRIAL,Apartment with 5 or more stories,0,0,0
+YOUNGSTOWN INDUSTRIAL,Apartment with less than 5 stories,0,0,0
+YOUNGSTOWN INDUSTRIAL,Manufactured home/mobile home,0,0,0
+YOUNGSTOWN INDUSTRIAL,Rooming house/collective residence,0,0,0
+YOUNGSTOWN INDUSTRIAL,Hotel or motel,0,0,0
+YOUNGSTOWN INDUSTRIAL,Other residential,0,0,0
+YOUNGSTOWN INDUSTRIAL,No Response,0,0,0
