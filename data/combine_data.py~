@@ -1,0 +1,53 @@
+import pandas as pd
+import numpy as np
+import sys
+
+def build(df, year):
+    df_minus = pd.DataFrame(dtype='int64')
+    for idx, row in df.iterrows():
+        for i in range(1, 5):
+            for j in range(1, 4):
+                row['Quarter'] = int(i)
+                row['Month'] = int(3*(i-1)+j)
+                row['Year'] = int(year)
+                df_minus = df_minus.append(row)
+    return df_minus
+
+def combine_data(file1, file2, file3):
+    df2016 = pd.read_csv(file1)
+    df2014 = pd.read_csv(file2)
+    df2012 = pd.read_csv(file3)  
+    
+    columns = list(df2016.columns.values);
+    columns.extend(['Quarter','Month','Year'])
+    
+    index=[]
+    data = []     
+    
+    for i, row in df2016.iterrows():
+        for i in range(12):
+            index.append(row[0])
+            data.append(row)  
+    dfduplicate2016 = pd.DataFrame(data,index = index,columns=columns)        
+    index=[]
+    data = [] 
+    for i, row in df2014.iterrows():
+        for i in range(12):
+            index.append(row[0])
+            data.append(row)
+    dfduplicate2014 = pd.DataFrame(data,index = index,columns=columns)     
+    index=[]
+    data = []
+    for i, row in df2012.iterrows():
+        for i in range(12):
+            index.append(row[0])
+            data.append(row)
+    dfduplicate2012 = pd.DataFrame(data,index = index,columns=columns) 
+    
+    frames = [build(dfduplicate2012, 2012), build(dfduplicate2014, 2014), build(dfduplicate2016, 2016)]
+
+    dffinal = pd.concat(frames)
+                
+    dffinal.to_csv(file1 + file2 + file3, index=False)
+    
+combine_data(sys.argv[1],sys.argv[2],sys.argv[3])
