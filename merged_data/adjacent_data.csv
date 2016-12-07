@@ -1,0 +1,1837 @@
+neighbourhood_area,neighbourhood,neighbourhood_id,adjacent,adjacent_id
+0.409629081,Abbottsfield,2010,Beacon Heights,2040
+0.409629081,Abbottsfield,2010,Bergman,2090
+0.409629081,Abbottsfield,2010,Beverly Heights,2100
+0.409629081,Abbottsfield,2010,Canon Ridge,2120
+0.409629081,Abbottsfield,2010,Homesteader,2350
+0.409629081,Abbottsfield,2010,River Valley Rundle,2650
+0.409629081,Abbottsfield,2010,Rundle Heights,2660
+0.843312283,Albany,3460,Dunluce,3180
+1.680470553,Alberta Avenue,1010,Eastwood,1100
+1.680470553,Alberta Avenue,1010,McCauley,1140
+1.680470553,Alberta Avenue,1010,Parkdale,1160
+1.680470553,Alberta Avenue,1010,Spruce Avenue,1230
+1.680470553,Alberta Avenue,1010,Westwood,1250
+0.664647754,Alberta Park Industrial,4010,Carleton Square Industrial,4100
+0.664647754,Alberta Park Industrial,4010,Garside Industrial,4170
+0.664647754,Alberta Park Industrial,4010,Hawin Park Estate Industrial,4190
+0.664647754,Alberta Park Industrial,4010,High Park Industrial,4210
+0.664647754,Alberta Park Industrial,4010,Mitchell Industrial,4330
+0.664647754,Alberta Park Industrial,4010,Norwester Industrial,4350
+0.664647754,Alberta Park Industrial,4010,Sheffield Industrial,4490
+0.664647754,Alberta Park Industrial,4010,West Sheffield Industrial,4600
+1.490596723,Aldergrove,4020,Anthony Henday South West,4012
+1.490596723,Aldergrove,4020,Belmead,4040
+1.490596723,Aldergrove,4020,Callingwood North,4070
+1.490596723,Aldergrove,4020,Lymburn,4270
+1.490596723,Aldergrove,4020,Summerlea,4520
+1.490596723,Aldergrove,4020,Thorncliff,4560
+1.658805971,Allard,5458,Cavanagh,5467
+1.658805971,Allard,5458,Desrochers Area,5463
+1.658805971,Allard,5458,Heritage Valley Town Centre Area,5464
+0.8835313,Allendale,5010,Calgary Trail North,5110
+0.8835313,Allendale,5010,Parkallen,5310
+0.8835313,Allendale,5010,Pleasantview,5320
+0.8835313,Allendale,5010,Queen Alexandra,5330
+0.8835313,Allendale,5010,Strathcona Junction,5151
+3.144004175,Ambleside,5505,Windermere,5570
+4.706088874,Anthony Henday,4011,Anthony Henday Big Lake,4018
+4.706088874,Anthony Henday,4011,Anthony Henday South West,4012
+4.706088874,Anthony Henday,4011,Belmead,4040
+4.706088874,Anthony Henday,4011,Glastonbury,4720
+4.706088874,Anthony Henday,4011,Lymburn,4270
+4.706088874,Anthony Henday,4011,Place LaRue,4400
+3.217723658,Anthony Henday Big Lake,4018,Anthony Henday,4011
+3.217723658,Anthony Henday Big Lake,4018,Mistatim Industrial,4320
+3.217723658,Anthony Henday Big Lake,4018,Rural West Big Lake,4470
+3.217723658,Anthony Henday Big Lake,4018,Starling,4474
+3.217723658,Anthony Henday Big Lake,4018,White Industrial,4630
+3.217723658,Anthony Henday Big Lake,4018,Winterburn Industrial Area East,4650
+1.996061418,Anthony Henday Castledowns,4016,Anthony Henday Lake District,4017
+1.996061418,Anthony Henday Castledowns,4016,Anthony Henday Rampart,4023
+1.996061418,Anthony Henday Castledowns,4016,Goodridge Corners,3490
+1.996061418,Anthony Henday Castledowns,4016,Lago Lindo,2450
+1.354436944,Anthony Henday Clareview,4022,Clover Bar Area,2160
+1.354436944,Anthony Henday Clareview,4022,River Valley Hermitage,2630
+1.354436944,Anthony Henday Clareview,4022,Rural North East South Sturgeon,2690
+2.358167923,Anthony Henday Energy Park,4019,Anthony Henday Horse Hill,4021
+2.358167923,Anthony Henday Energy Park,4019,Anthony Henday Lake District,4017
+2.358167923,Anthony Henday Energy Park,4019,Crystallina Nera East,2462
+2.358167923,Anthony Henday Energy Park,4019,Edmonton Energy And Technology Park,2681
+2.358167923,Anthony Henday Energy Park,4019,Gorman,2311
+2.358167923,Anthony Henday Energy Park,4019,Rural North East Horse Hill,2670
+1.122516602,Anthony Henday Horse Hill,4021,Anthony Henday Energy Park,4019
+1.122516602,Anthony Henday Horse Hill,4021,Cy Becker,2611
+1.122516602,Anthony Henday Horse Hill,4021,Edmonton Energy And Technology Park,2681
+1.999200727,Anthony Henday Lake District,4017,Anthony Henday Castledowns,4016
+1.999200727,Anthony Henday Lake District,4017,Anthony Henday Energy Park,4019
+1.999200727,Anthony Henday Lake District,4017,Elsinore,3190
+1.999200727,Anthony Henday Lake District,4017,Lago Lindo,2450
+1.999200727,Anthony Henday Lake District,4017,McConachie Area,2521
+2.439613662,Anthony Henday Mistatim,4015,Anthony Henday Rampart,4023
+2.439613662,Anthony Henday Mistatim,4015,Kinokamau Plains Area,4475
+3.160685971,Anthony Henday Rampart,4023,Anthony Henday Castledowns,4016
+3.160685971,Anthony Henday Rampart,4023,Anthony Henday Mistatim,4015
+3.160685971,Anthony Henday Rampart,4023,Goodridge Corners,3490
+3.160685971,Anthony Henday Rampart,4023,Mistatim Industrial,4320
+3.160685971,Anthony Henday Rampart,4023,Rapperswill,3370
+3.883362314,Anthony Henday South,4014,Anthony Henday South East,6665
+3.883362314,Anthony Henday South,4014,Anthony Henday Terwillegar,4013
+3.883362314,Anthony Henday South,4014,Bearspaw,5030
+3.883362314,Anthony Henday South,4014,Blackmud Creek Ravine,5050
+3.883362314,Anthony Henday South,4014,Rutherford,5454
+3.883362314,Anthony Henday South,4014,South Edmonton Common,6195
+7.421286396,Anthony Henday South East,6665,Anthony Henday South,4014
+7.421286396,Anthony Henday South East,6665,Menisa,6450
+7.421286396,Anthony Henday South East,6665,South Edmonton Common,6195
+4.495745249,Anthony Henday South West,4012,Aldergrove,4020
+4.495745249,Anthony Henday South West,4012,Anthony Henday,4011
+4.495745249,Anthony Henday South West,4012,Anthony Henday Terwillegar,4013
+4.495745249,Anthony Henday South West,4012,Glastonbury,4720
+4.495745249,Anthony Henday South West,4012,River Valley Terwillegar,5380
+4.495745249,Anthony Henday South West,4012,River Valley Windermere,5405
+4.495745249,Anthony Henday South West,4012,The Hamptons,4461
+4.495745249,Anthony Henday South West,4012,Wedgewood Heights,4570
+3.150663783,Anthony Henday Terwillegar,4013,Anthony Henday South,4014
+3.150663783,Anthony Henday Terwillegar,4013,Anthony Henday South West,4012
+3.150663783,Anthony Henday Terwillegar,4013,Mactaggart,5477
+3.150663783,Anthony Henday Terwillegar,4013,River Valley Cameron,4467
+3.150663783,Anthony Henday Terwillegar,4013,River Valley Terwillegar,5380
+3.150663783,Anthony Henday Terwillegar,4013,Riverview Area,4463
+0.359056056,Argyll,6010,Coronet Addition Industrial,6090
+1.113634702,Armstrong Industrial,4030,Carleton Square Industrial,4100
+1.113634702,Armstrong Industrial,4030,Edmiston Industrial,4130
+1.113634702,Armstrong Industrial,4030,Kinokamau Plains Area,4475
+1.113634702,Armstrong Industrial,4030,Norwester Industrial,4350
+1.113634702,Armstrong Industrial,4030,West Sheffield Industrial,4600
+1.113634702,Armstrong Industrial,4030,Wilson Industrial,4640
+0.666305115,Aspen Gardens,5020,Greenfield,5220
+1.193231428,Athlone,3010,Calder,3070
+1.193231428,Athlone,3010,Hagmann Estate Industrial,3220
+1.193231428,Athlone,3010,Kensington,3250
+0.897084395,Avonmore,6020,Coronet Addition Industrial,6090
+0.897084395,Avonmore,6020,Girard Industrial,6260
+1.402659818,Balwin,2020,Belvedere,2080
+1.402659818,Balwin,2020,Delwood,2230
+1.402659818,Balwin,2020,Glengarry,2290
+1.402659818,Balwin,2020,Killarney,2420
+0.733094192,Bannerman,2030,Belmont,2070
+0.733094192,Bannerman,2030,Fraser,2280
+0.733094192,Bannerman,2030,Hairsine,2320
+0.733094192,Bannerman,2030,Kernohan,2390
+0.733094192,Bannerman,2030,Kirkness,2430
+0.733094192,Bannerman,2030,River Valley Hermitage,2630
+0.779204239,Baranow,3020,Carlisle,3090
+0.779204239,Baranow,3020,Cumberland,3150
+0.779204239,Baranow,3020,Kensington,3250
+0.779204239,Baranow,3020,Oxford,3320
+0.779204239,Baranow,3020,Pembina,3340
+0.779204239,Baranow,3020,Wellington,3430
+1.406218311,Baturyn,3030,Canossa,3080
+1.406218311,Baturyn,3030,Dunluce,3180
+1.406218311,Baturyn,3030,Eaux Claires,2241
+1.406218311,Baturyn,3030,Elsinore,3190
+1.406218311,Baturyn,3030,Lago Lindo,2450
+1.406218311,Baturyn,3030,Lorelei,3280
+1.150205245,Beacon Heights,2040,Abbottsfield,2010
+1.150205245,Beacon Heights,2040,Beverly Heights,2100
+1.150205245,Beacon Heights,2040,Highlands,2330
+1.150205245,Beacon Heights,2040,Newton,2560
+1.150205245,Beacon Heights,2040,Rundle Heights,2660
+0.865185435,Bearspaw,5030,Anthony Henday South,4014
+0.865185435,Bearspaw,5030,South Edmonton Common,6195
+1.439970821,Beaumaris,3040,Caernarvon,3060
+1.439970821,Beaumaris,3040,Dunluce,3180
+1.439970821,Beaumaris,3040,Eaux Claires,2241
+1.439970821,Beaumaris,3040,Evansdale,2260
+1.439970821,Beaumaris,3040,Griesbach,3111
+1.439970821,Beaumaris,3040,Lorelei,3280
+0.867544792,Belgravia,5040,McKernan,5290
+0.867544792,Belgravia,5040,Parkallen,5310
+0.867544792,Belgravia,5040,River Valley Mayfair,5370
+0.867544792,Belgravia,5040,River Valley Whitemud,5400
+0.867544792,Belgravia,5040,University of Alberta,5520
+0.867544792,Belgravia,5040,University of Alberta Farm,5530
+0.867544792,Belgravia,5040,Windsor Park,5580
+1.173442632,Belle Rive,2050,Evansdale,2260
+1.173442632,Belle Rive,2050,Kilkenny,2410
+1.173442632,Belle Rive,2050,Mayliewan,2511
+1.173442632,Belle Rive,2050,Schonsee,2700
+0.513746727,Bellevue,2060,Highlands,2330
+0.513746727,Bellevue,2060,Montrose,2550
+0.513746727,Bellevue,2060,River Valley Highlands,2640
+1.280633773,Belmead,4040,Aldergrove,4020
+1.280633773,Belmead,4040,Anthony Henday,4011
+1.280633773,Belmead,4040,La Perle,4240
+1.280633773,Belmead,4040,Summerlea,4520
+1.280633773,Belmead,4040,Terra Losa,4540
+1.263277424,Belmont,2070,Bannerman,2030
+1.263277424,Belmont,2070,Clareview Town Centre,2145
+1.263277424,Belmont,2070,Hairsine,2320
+1.263277424,Belmont,2070,Kernohan,2390
+1.673632637,Belvedere,2080,Balwin,2020
+1.673632637,Belvedere,2080,Clareview Town Centre,2145
+1.673632637,Belvedere,2080,Delwood,2230
+1.673632637,Belvedere,2080,Kildare,2400
+1.673632637,Belvedere,2080,Yellowhead Corridor East,1270
+1.673632637,Belvedere,2080,York,2720
+0.708336998,Bergman,2090,Abbottsfield,2010
+0.708336998,Bergman,2090,Homesteader,2350
+0.708336998,Bergman,2090,Industrial Heights,2360
+0.708336998,Bergman,2090,Newton,2560
+0.708336998,Bergman,2090,Overlanders,2590
+1.384168828,Beverly Heights,2100,Abbottsfield,2010
+1.384168828,Beverly Heights,2100,Beacon Heights,2040
+1.384168828,Beverly Heights,2100,Highlands,2330
+1.384168828,Beverly Heights,2100,Newton,2560
+1.384168828,Beverly Heights,2100,River Valley Highlands,2640
+1.384168828,Beverly Heights,2100,River Valley Rundle,2650
+1.384168828,Beverly Heights,2100,Rundle Heights,2660
+0.943123749,Bisset,6030,Laurel,6444
+0.943123749,Bisset,6030,Minchau,6530
+0.943123749,Bisset,6030,Pollard Meadows,6580
+0.943123749,Bisset,6030,Silver Berry,6442
+0.943123749,Bisset,6030,Weinlos,6770
+0.726414953,Blackburne,5590,Cashman,5466
+0.726414953,Blackburne,5590,Ellerslie Industrial,6214
+0.726414953,Blackburne,5590,MacEwan,5452
+0.726414953,Blackburne,5590,Richford,5451
+0.780653205,Blackmud Creek,5453,Callaghan,5457
+0.780653205,Blackmud Creek,5453,Cashman,5466
+0.780653205,Blackmud Creek,5453,Cavanagh,5467
+0.780653205,Blackmud Creek,5453,MacEwan,5452
+0.780653205,Blackmud Creek,5453,Richford,5451
+0.780653205,Blackmud Creek,5453,Rutherford,5454
+0.875489829,Blackmud Creek Ravine,5050,Anthony Henday South,4014
+0.875489829,Blackmud Creek Ravine,5050,Blue Quill,5060
+0.875489829,Blackmud Creek Ravine,5050,Blue Quill Estates,5070
+1.058049468,Blue Quill,5060,Blackmud Creek Ravine,5050
+1.058049468,Blue Quill,5060,Blue Quill Estates,5070
+1.058049468,Blue Quill,5060,Keheewin,5250
+1.058049468,Blue Quill,5060,Skyrattler,5460
+1.058049468,Blue Quill,5060,Whitemud Creek Ravine South,5560
+0.44251268,Blue Quill Estates,5070,Blackmud Creek Ravine,5050
+0.44251268,Blue Quill Estates,5070,Blue Quill,5060
+0.44251268,Blue Quill Estates,5070,Skyrattler,5460
+0.44251268,Blue Quill Estates,5070,Sweet Grass,5490
+0.44251268,Blue Quill Estates,5070,Whitemud Creek Ravine South,5560
+1.272690023,Bonaventure Industrial,4050,Gagnon Estate Industrial,4150
+1.272690023,Bonaventure Industrial,4050,Hagmann Estate Industrial,3220
+1.272690023,Bonaventure Industrial,4050,McArthur Industrial,3290
+1.272690023,Bonaventure Industrial,4050,Mistatim Industrial,4320
+1.272690023,Bonaventure Industrial,4050,Rampart Industrial,3360
+1.500853243,Bonnie Doon,6040,Holyrood,6310
+1.500853243,Bonnie Doon,6040,Idylwylde,6320
+1.500853243,Bonnie Doon,6040,King Edward Park,6360
+1.500853243,Bonnie Doon,6040,Mill Creek Ravine North,6491
+1.500853243,Bonnie Doon,6040,Mill Creek Ravine South,6492
+1.500853243,Bonnie Doon,6040,Strathearn,6710
+0.881352162,Boyle Street,1020,River Valley Kinnaird,1190
+1.016693525,Brander Gardens,5080,Brookside,5090
+0.565266214,Breckenridge Greens,4700,Glastonbury,4720
+0.565266214,Breckenridge Greens,4700,Granville,4551
+0.565266214,Breckenridge Greens,4700,Potter Greens,4710
+0.565266214,Breckenridge Greens,4700,Rosenthal,4750
+0.565266214,Breckenridge Greens,4700,Suder Greens,4730
+1.409561207,Brintnell,2110,Casselman,2130
+1.409561207,Brintnell,2110,Cy Becker,2611
+1.409561207,Brintnell,2110,Miller,2541
+1.638283481,Britannia Youngstown,4060,Canora,4090
+1.638283481,Britannia Youngstown,4060,Glenwood,4180
+1.638283481,Britannia Youngstown,4060,High Park,4200
+1.638283481,Britannia Youngstown,4060,Mayfield,4290
+1.638283481,Britannia Youngstown,4060,Place LaRue,4400
+1.638283481,Britannia Youngstown,4060,Stone Industrial,4510
+1.638283481,Britannia Youngstown,4060,West Jasper Place,4580
+1.194911937,Brookside,5090,Brander Gardens,5080
+1.194911937,Brookside,5090,Ramsay Heights,5340
+1.194911937,Brookside,5090,River Valley Whitemud,5400
+1.194911937,Brookside,5090,Whitemud Creek Ravine North,5550
+0.37557589,Brown Industrial,3050,Dominion Industrial,3160
+0.37557589,Brown Industrial,3050,Dovercourt,3170
+0.37557589,Brown Industrial,3050,Gagnon Estate Industrial,4150
+0.37557589,Brown Industrial,3050,Hagmann Estate Industrial,3220
+0.37557589,Brown Industrial,3050,McArthur Industrial,3290
+0.37557589,Brown Industrial,3050,Sherbrooke,3410
+1.51064899,Bulyea Heights,5100,Carter Crest,5130
+1.51064899,Bulyea Heights,5100,Falconer Heights,5190
+1.51064899,Bulyea Heights,5100,Ogilvie Ridge,5300
+1.51064899,Bulyea Heights,5100,Ramsay Heights,5340
+1.51064899,Bulyea Heights,5100,Rhatigan Ridge,5350
+1.51064899,Bulyea Heights,5100,Whitemud Creek Ravine South,5560
+1.228850195,Caernarvon,3060,Beaumaris,3040
+1.228850195,Caernarvon,3060,Griesbach,3111
+1.348177603,Calder,3070,Athlone,3010
+1.348177603,Calder,3070,Kensington,3250
+1.348177603,Calder,3070,Lauderdale,3260
+1.348177603,Calder,3070,Rosslyn,3390
+1.348177603,Calder,3070,Wellington,3430
+0.747189428,Calgary Trail North,5110,Allendale,5010
+0.747189428,Calgary Trail North,5110,Calgary Trail South,5120
+0.747189428,Calgary Trail North,5110,CPR Irvine,6110
+0.747189428,Calgary Trail North,5110,Empire Park,5170
+0.747189428,Calgary Trail North,5110,Papaschase Industrial,6560
+0.747189428,Calgary Trail North,5110,Pleasantview,5320
+0.747189428,Calgary Trail North,5110,Rideau Park,5360
+0.747189428,Calgary Trail North,5110,Strathcona Industrial Park,6700
+0.747189428,Calgary Trail North,5110,Strathcona Junction,5151
+0.653891496,Calgary Trail South,5120,Calgary Trail North,5110
+0.653891496,Calgary Trail South,5120,Duggan,5160
+0.653891496,Calgary Trail South,5120,Empire Park,5170
+0.653891496,Calgary Trail South,5120,Ermineskin,5180
+0.653891496,Calgary Trail South,5120,Papaschase Industrial,6560
+0.653891496,Calgary Trail South,5120,Parsons Industrial,6570
+0.653891496,Calgary Trail South,5120,Rideau Park,5360
+0.653891496,Calgary Trail South,5120,Steinhauer,5470
+0.653891496,Calgary Trail South,5120,Strathcona Industrial Park,6700
+0.899726927,Callaghan,5457,Blackmud Creek,5453
+0.899726927,Callaghan,5457,Desrochers Area,5463
+0.899726927,Callaghan,5457,Heritage Valley Town Centre Area,5464
+0.899726927,Callaghan,5457,Rutherford,5454
+0.910734692,Callingwood North,4070,Aldergrove,4020
+0.910734692,Callingwood North,4070,Callingwood South,4080
+0.910734692,Callingwood North,4070,Elmwood,4140
+0.910734692,Callingwood North,4070,Lymburn,4270
+0.910734692,Callingwood North,4070,Ormsby Place,4380
+0.910734692,Callingwood North,4070,Thorncliff,4560
+0.910734692,Callingwood North,4070,Westridge,4610
+0.772228218,Callingwood South,4080,Callingwood North,4070
+0.772228218,Callingwood South,4080,Dechene,4110
+0.772228218,Callingwood South,4080,Gariepy,4160
+0.772228218,Callingwood South,4080,Lymburn,4270
+0.772228218,Callingwood South,4080,Ormsby Place,4380
+0.772228218,Callingwood South,4080,Westridge,4610
+0.968747276,Cameron Heights,4466,River Valley Cameron,4467
+0.652771302,Canon Ridge,2120,Abbottsfield,2010
+0.652771302,Canon Ridge,2120,Overlanders,2590
+0.652771302,Canon Ridge,2120,River Valley Rundle,2650
+0.88185589,Canora,4090,Britannia Youngstown,4060
+0.88185589,Canora,4090,Grovenor,3210
+0.88185589,Canora,4090,High Park,4200
+0.88185589,Canora,4090,Mayfield,4290
+0.88185589,Canora,4090,McQueen,3300
+0.88185589,Canora,4090,River Valley Capitol Hill,3380
+0.88185589,Canora,4090,West Jasper Place,4580
+1.298589393,Canossa,3080,Baturyn,3030
+1.298589393,Canossa,3080,Dunluce,3180
+1.298589393,Canossa,3080,Rapperswill,3370
+1.306281047,Capilano,6061,Fulton Place,6240
+1.306281047,Capilano,6061,Gold Bar,6270
+1.306281047,Capilano,6061,River Valley Gold Bar,6620
+0.410191631,Carleton Square Industrial,4100,Alberta Park Industrial,4010
+0.410191631,Carleton Square Industrial,4100,Armstrong Industrial,4030
+0.410191631,Carleton Square Industrial,4100,Hawin Park Estate Industrial,4190
+0.410191631,Carleton Square Industrial,4100,Kinokamau Plains Area,4475
+0.410191631,Carleton Square Industrial,4100,Norwester Industrial,4350
+0.961897334,Carlisle,3090,Baranow,3020
+0.961897334,Carlisle,3090,Griesbach,3111
+0.961897334,Carlisle,3090,Kensington,3250
+0.961897334,Carlisle,3090,Rosslyn,3390
+1.206291421,Carlton,3470,Cumberland,3150
+1.206291421,Carlton,3470,Oxford,3320
+0.666752726,Carter Crest,5130,Bulyea Heights,5100
+0.666752726,Carter Crest,5130,Falconer Heights,5190
+0.666752726,Carter Crest,5130,Haddow,5610
+0.666752726,Carter Crest,5130,Hodgson,5620
+0.666752726,Carter Crest,5130,Leger,5630
+0.666752726,Carter Crest,5130,Ogilvie Ridge,5300
+0.666752726,Carter Crest,5130,Rhatigan Ridge,5350
+1.075855622,Cashman,5466,Blackburne,5590
+1.075855622,Cashman,5466,Blackmud Creek,5453
+1.075855622,Cashman,5466,Cavanagh,5467
+1.075855622,Cashman,5466,Ellerslie Industrial,6214
+1.075855622,Cashman,5466,Richford,5451
+0.840373166,Casselman,2130,Brintnell,2110
+0.840373166,Casselman,2130,McLeod,2530
+0.840373166,Casselman,2130,Miller,2541
+0.840373166,Casselman,2130,York,2720
+1.939587717,Cavanagh,5467,Allard,5458
+1.939587717,Cavanagh,5467,Blackmud Creek,5453
+1.939587717,Cavanagh,5467,Cashman,5466
+1.939587717,Cavanagh,5467,Ellerslie Industrial,6214
+1.208895537,Central McDougall,1030,Prince Rupert,1170
+1.208895537,Central McDougall,1030,Queen Mary Park,1180
+1.208895537,Central McDougall,1030,Spruce Avenue,1230
+5.024850822,Chappelle Area,5462,Desrochers Area,5463
+5.024850822,Chappelle Area,5462,Heritage Valley Area,5456
+5.024850822,Chappelle Area,5462,Paisley,5469
+2.660281066,Charlesworth,6661,Ellerslie,6211
+2.660281066,Charlesworth,6661,Rural South East,6660
+2.660281066,Charlesworth,6661,Summerside,6213
+2.660281066,Charlesworth,6661,Walker,6662
+1.366931741,Clareview Town Centre,2145,Belmont,2070
+1.366931741,Clareview Town Centre,2145,Belvedere,2080
+1.366931741,Clareview Town Centre,2145,Ebbers,2251
+1.366931741,Clareview Town Centre,2145,Hairsine,2320
+1.366931741,Clareview Town Centre,2145,Kennedale Industrial,2380
+1.366931741,Clareview Town Centre,2145,Kirkness,2430
+1.366931741,Clareview Town Centre,2145,Miller,2541
+1.366931741,Clareview Town Centre,2145,Sifton Park,2710
+1.366931741,Clareview Town Centre,2145,York,2720
+19.30352697,Clover Bar Area,2160,Anthony Henday Clareview,4022
+19.30352697,Clover Bar Area,2160,River Valley Hermitage,2630
+19.30352697,Clover Bar Area,2160,River Valley Rundle,2650
+19.30352697,Clover Bar Area,2160,Rural North East South Sturgeon,2690
+1.091090093,Cloverdale,6070,Forest Heights,6230
+1.091090093,Cloverdale,6070,Holyrood,6310
+1.091090093,Cloverdale,6070,River Valley Riverside,6630
+1.091090093,Cloverdale,6070,River Valley Walterdale,5390
+1.091090093,Cloverdale,6070,Rossdale,1220
+1.091090093,Cloverdale,6070,Strathearn,6710
+0.433164869,Coronet Addition Industrial,6090,Argyll,6010
+0.433164869,Coronet Addition Industrial,6090,Avonmore,6020
+0.433164869,Coronet Addition Industrial,6090,Coronet Industrial,6100
+0.433164869,Coronet Addition Industrial,6090,Davies Industrial East,6160
+0.433164869,Coronet Addition Industrial,6090,Girard Industrial,6260
+0.433164869,Coronet Addition Industrial,6090,Mill Creek Ravine South,6492
+0.433164869,Coronet Addition Industrial,6090,Rosedale Industrial,6650
+1.606853243,Coronet Industrial,6100,Coronet Addition Industrial,6090
+1.606853243,Coronet Industrial,6100,Davies Industrial West,6170
+1.606853243,Coronet Industrial,6100,McIntyre Industrial,6430
+1.606853243,Coronet Industrial,6100,Papaschase Industrial,6560
+1.606853243,Coronet Industrial,6100,Strathcona Junction,5151
+0.663610227,CPR Irvine,6110,Calgary Trail North,5110
+0.663610227,CPR Irvine,6110,Hazeldean,6290
+0.663610227,CPR Irvine,6110,Ritchie,6610
+0.663610227,CPR Irvine,6110,Strathcona,5480
+0.663610227,CPR Irvine,6110,Strathcona Junction,5151
+1.126542482,Crawford Plains,6140,Daly Grove,6150
+1.126542482,Crawford Plains,6140,Laurel,6444
+1.126542482,Crawford Plains,6140,Meyokumin,6460
+1.126542482,Crawford Plains,6140,Pollard Meadows,6580
+1.126542482,Crawford Plains,6140,Sakaw,6670
+1.168157943,Crestwood,3140,Parkview,3330
+1.168157943,Crestwood,3140,River Valley Capitol Hill,3380
+1.168157943,Crestwood,3140,Sherwood,4500
+1.168157943,Crestwood,3140,West Jasper Place,4580
+0.358879384,Cromdale,1070,Edmonton Northlands,1120
+0.358879384,Cromdale,1070,Parkdale,1160
+0.358879384,Cromdale,1070,River Valley Kinnaird,1190
+0.358879384,Cromdale,1070,Virginia Park,1240
+0.8350136,Crystallina Nera East,2462,Anthony Henday Energy Park,4019
+0.8350136,Crystallina Nera East,2462,McConachie Area,2521
+0.8350136,Crystallina Nera East,2462,Schonsee,2700
+0.840140905,Crystallina Nera West,2463,Schonsee,2700
+1.513166966,Cumberland,3150,Baranow,3020
+1.513166966,Cumberland,3150,Carlton,3470
+1.513166966,Cumberland,3150,Dunluce,3180
+1.513166966,Cumberland,3150,Oxford,3320
+1.513166966,Cumberland,3150,Pembina,3340
+1.01342434,Cy Becker,2611,Anthony Henday Horse Hill,4021
+1.01342434,Cy Becker,2611,Brintnell,2110
+1.01342434,Cy Becker,2611,Gorman,2311
+1.01342434,Cy Becker,2611,McConachie Area,2521
+0.947730364,Daly Grove,6150,Crawford Plains,6140
+0.947730364,Daly Grove,6150,Laurel,6444
+0.947730364,Daly Grove,6150,Silver Berry,6442
+0.947730364,Daly Grove,6150,Weinlos,6770
+1.634026374,Davies Industrial East,6160,Coronet Addition Industrial,6090
+1.634026374,Davies Industrial East,6160,Davies Industrial West,6170
+1.634026374,Davies Industrial East,6160,Gainer Industrial,6250
+1.634026374,Davies Industrial East,6160,Girard Industrial,6260
+1.634026374,Davies Industrial East,6160,Morris Industrial,6540
+1.634026374,Davies Industrial East,6160,Pylypow Industrial,6590
+1.634026374,Davies Industrial East,6160,Weir Industrial,6780
+1.327029388,Davies Industrial West,6170,Coronet Industrial,6100
+1.327029388,Davies Industrial West,6170,Davies Industrial East,6160
+1.327029388,Davies Industrial West,6170,Girard Industrial,6260
+1.327029388,Davies Industrial West,6170,Rosedale Industrial,6650
+0.72424652,Dechene,4110,Callingwood South,4080
+0.72424652,Dechene,4110,Donsdale,4120
+0.72424652,Dechene,4110,Gariepy,4160
+0.72424652,Dechene,4110,Jamieson Place,4220
+0.72424652,Dechene,4110,Ormsby Place,4380
+0.72424652,Dechene,4110,Wedgewood Heights,4570
+0.679806538,Delton,1080,Eastwood,1100
+0.679806538,Delton,1080,Westwood,1250
+0.679806538,Delton,1080,Yellowhead Corridor West,1280
+1.334660715,Delwood,2230,Balwin,2020
+1.334660715,Delwood,2230,Belvedere,2080
+1.334660715,Delwood,2230,Glengarry,2290
+1.334660715,Delwood,2230,Kildare,2400
+1.334660715,Delwood,2230,Killarney,2420
+1.334660715,Delwood,2230,Northmount,2580
+1.334660715,Delwood,2230,York,2720
+1.348106672,Desrochers Area,5463,Allard,5458
+1.348106672,Desrochers Area,5463,Callaghan,5457
+1.348106672,Desrochers Area,5463,Chappelle Area,5462
+0.982474811,Dominion Industrial,3160,Brown Industrial,3050
+0.982474811,Dominion Industrial,3160,Dovercourt,3170
+0.982474811,Dominion Industrial,3160,Gagnon Estate Industrial,4150
+0.982474811,Dominion Industrial,3160,Garside Industrial,4170
+0.982474811,Dominion Industrial,3160,Huff Bremner Estate Industrial,3230
+0.982474811,Dominion Industrial,3160,Mitchell Industrial,4330
+0.982474811,Dominion Industrial,3160,Woodcroft,3450
+0.67321343,Donsdale,4120,Dechene,4110
+0.67321343,Donsdale,4120,Gariepy,4160
+0.67321343,Donsdale,4120,Jamieson Place,4220
+0.67321343,Donsdale,4120,Wedgewood Heights,4570
+1.001265081,Dovercourt,3170,Brown Industrial,3050
+1.001265081,Dovercourt,3170,Dominion Industrial,3160
+1.001265081,Dovercourt,3170,Hagmann Estate Industrial,3220
+1.001265081,Dovercourt,3170,Huff Bremner Estate Industrial,3230
+1.001265081,Dovercourt,3170,Inglewood,3240
+1.001265081,Dovercourt,3170,Sherbrooke,3410
+1.001265081,Dovercourt,3170,Woodcroft,3450
+2.3044702,Downtown,1090,McCauley,1140
+2.3044702,Downtown,1090,Riverdale,1210
+1.390157265,Duggan,5160,Calgary Trail South,5120
+1.390157265,Duggan,5160,Greenfield,5220
+1.390157265,Duggan,5160,Rideau Park,5360
+1.390157265,Duggan,5160,Royal Gardens,5430
+1.390157265,Duggan,5160,Steinhauer,5470
+1.390157265,Duggan,5160,Sweet Grass,5490
+2.227150603,Dunluce,3180,Albany,3460
+2.227150603,Dunluce,3180,Baturyn,3030
+2.227150603,Dunluce,3180,Beaumaris,3040
+2.227150603,Dunluce,3180,Canossa,3080
+2.227150603,Dunluce,3180,Cumberland,3150
+2.227150603,Dunluce,3180,Griesbach,3111
+2.227150603,Dunluce,3180,Lorelei,3280
+2.227150603,Dunluce,3180,Oxford,3320
+2.227150603,Dunluce,3180,Rapperswill,3370
+2.622640091,Eastgate Business Park,6180,Fulton Place,6240
+2.622640091,Eastgate Business Park,6180,Gold Bar,6270
+2.622640091,Eastgate Business Park,6180,Ottewell,6550
+2.622640091,Eastgate Business Park,6180,River Valley Gold Bar,6620
+1.131892245,Eastwood,1100,Alberta Avenue,1010
+1.131892245,Eastwood,1100,Delton,1080
+1.131892245,Eastwood,1100,Elmwood Park,1130
+1.131892245,Eastwood,1100,Parkdale,1160
+1.28620197,Eaux Claires,2241,Baturyn,3030
+1.28620197,Eaux Claires,2241,Beaumaris,3040
+1.28620197,Eaux Claires,2241,Evansdale,2260
+1.28620197,Eaux Claires,2241,Griesbach,3111
+1.28620197,Eaux Claires,2241,Lago Lindo,2450
+1.28620197,Eaux Claires,2241,Lorelei,3280
+0.612884358,Ebbers,2251,Clareview Town Centre,2145
+0.612884358,Ebbers,2251,Gorman,2311
+0.612884358,Ebbers,2251,Kirkness,2430
+0.612884358,Ebbers,2251,Miller,2541
+1.182253082,Edmiston Industrial,4130,Armstrong Industrial,4030
+1.182253082,Edmiston Industrial,4130,Kinokamau Plains Area,4475
+1.182253082,Edmiston Industrial,4130,White Industrial,4630
+1.182253082,Edmiston Industrial,4130,Wilson Industrial,4640
+53.18757053,Edmonton Energy And Technology Park,2681,Anthony Henday Energy Park,4019
+53.18757053,Edmonton Energy And Technology Park,2681,Anthony Henday Horse Hill,4021
+53.18757053,Edmonton Energy And Technology Park,2681,Rural North East Horse Hill,2670
+3.055364353,Edmonton Municipal Airport,1110,Hagmann Estate Industrial,3220
+3.055364353,Edmonton Municipal Airport,1110,Inglewood,3240
+3.055364353,Edmonton Municipal Airport,1110,Prince Charles,3350
+3.055364353,Edmonton Municipal Airport,1110,Spruce Avenue,1230
+3.055364353,Edmonton Municipal Airport,1110,Westwood,1250
+3.055364353,Edmonton Municipal Airport,1110,Yellowhead Corridor West,1280
+0.75291457,Edmonton Northlands,1120,Cromdale,1070
+0.75291457,Edmonton Northlands,1120,Montrose,2550
+0.75291457,Edmonton Northlands,1120,Parkdale,1160
+1.216429721,Edmonton Research and Development Park,6190,Meyonohk,6470
+1.216429721,Edmonton Research and Development Park,6190,Parsons Industrial,6570
+1.216429721,Edmonton Research and Development Park,6190,Satoo,6680
+0.819662373,Ekota,6200,Menisa,6450
+0.819662373,Ekota,6200,Meyokumin,6460
+0.819662373,Ekota,6200,Meyonohk,6470
+0.819662373,Ekota,6200,Mill Woods Park,6510
+0.819662373,Ekota,6200,Sakaw,6670
+0.819662373,Ekota,6200,Satoo,6680
+1.579639761,Ellerslie,6211,Charlesworth,6661
+1.579639761,Ellerslie,6211,Ellerslie Industrial,6214
+1.579639761,Ellerslie,6211,Summerside,6213
+1.579639761,Ellerslie,6211,Walker,6662
+5.946647115,Ellerslie Industrial,6214,Blackburne,5590
+5.946647115,Ellerslie Industrial,6214,Cashman,5466
+5.946647115,Ellerslie Industrial,6214,Cavanagh,5467
+5.946647115,Ellerslie Industrial,6214,Ellerslie,6211
+5.946647115,Ellerslie Industrial,6214,Summerside,6213
+5.946647115,Ellerslie Industrial,6214,The Orchards At Ellerslie,6216
+1.025925189,Elmwood,4140,Callingwood North,4070
+1.025925189,Elmwood,4140,Lynnwood,4280
+1.025925189,Elmwood,4140,Meadowlark Park,4310
+1.025925189,Elmwood,4140,Patricia Heights,4390
+1.025925189,Elmwood,4140,Summerlea,4520
+1.025925189,Elmwood,4140,Thorncliff,4560
+1.025925189,Elmwood,4140,West Meadowlark Park,4590
+1.025925189,Elmwood,4140,Westridge,4610
+0.479574314,Elmwood Park,1130,Eastwood,1100
+0.479574314,Elmwood Park,1130,Yellowhead Corridor East,1270
+0.840948772,Elsinore,3190,Anthony Henday Lake District,4017
+0.840948772,Elsinore,3190,Baturyn,3030
+0.840948772,Elsinore,3190,Lago Lindo,2450
+1.072123643,Empire Park,5170,Calgary Trail North,5110
+1.072123643,Empire Park,5170,Calgary Trail South,5120
+1.072123643,Empire Park,5170,Lendrum Place,5270
+1.072123643,Empire Park,5170,Malmo Plains,5280
+1.072123643,Empire Park,5170,Rideau Park,5360
+1.072123643,Empire Park,5170,Royal Gardens,5430
+1.204175349,Ermineskin,5180,Calgary Trail South,5120
+1.204175349,Ermineskin,5180,Keheewin,5250
+1.204175349,Ermineskin,5180,Parsons Industrial,6570
+1.204175349,Ermineskin,5180,Skyrattler,5460
+1.204175349,Ermineskin,5180,South Edmonton Common,6195
+1.204175349,Ermineskin,5180,Steinhauer,5470
+1.204175349,Ermineskin,5180,Sweet Grass,5490
+1.568066663,Evansdale,2260,Beaumaris,3040
+1.568066663,Evansdale,2260,Belle Rive,2050
+1.568066663,Evansdale,2260,Eaux Claires,2241
+1.568066663,Evansdale,2260,Griesbach,3111
+1.568066663,Evansdale,2260,Kildare,2400
+1.568066663,Evansdale,2260,Kilkenny,2410
+1.568066663,Evansdale,2260,Mayliewan,2511
+1.568066663,Evansdale,2260,Northmount,2580
+0.656219202,Evergreen,2270,Rural North East Horse Hill,2670
+0.650281691,Falconer Heights,5190,Bulyea Heights,5100
+0.650281691,Falconer Heights,5190,Carter Crest,5130
+1.627311385,Forest Heights,6230,Cloverdale,6070
+1.627311385,Forest Heights,6230,Holyrood,6310
+1.627311385,Forest Heights,6230,Ottewell,6550
+1.627311385,Forest Heights,6230,Terrace Heights,6730
+1.241280001,Fraser,2280,Bannerman,2030
+1.241280001,Fraser,2280,Gorman,2311
+1.241280001,Fraser,2280,Hairsine,2320
+1.241280001,Fraser,2280,Kirkness,2430
+0.978513183,Fulton Place,6240,Capilano,6061
+0.978513183,Fulton Place,6240,Eastgate Business Park,6180
+0.978513183,Fulton Place,6240,Gold Bar,6270
+0.978513183,Fulton Place,6240,Ottewell,6550
+0.978513183,Fulton Place,6240,River Valley Gold Bar,6620
+0.556697574,Gagnon Estate Industrial,4150,Bonaventure Industrial,4050
+0.556697574,Gagnon Estate Industrial,4150,Brown Industrial,3050
+0.556697574,Gagnon Estate Industrial,4150,Dominion Industrial,3160
+0.556697574,Gagnon Estate Industrial,4150,Mitchell Industrial,4330
+0.431990882,Gainer Industrial,6250,Davies Industrial East,6160
+0.431990882,Gainer Industrial,6250,Girard Industrial,6260
+0.431990882,Gainer Industrial,6250,Kenilworth,6350
+0.431990882,Gainer Industrial,6250,King Edward Park,6360
+0.431990882,Gainer Industrial,6250,Lambton Industrial,6380
+0.431990882,Gainer Industrial,6250,Morris Industrial,6540
+0.431990882,Gainer Industrial,6250,Weir Industrial,6780
+0.679194875,Gariepy,4160,Callingwood South,4080
+0.679194875,Gariepy,4160,Dechene,4110
+0.679194875,Gariepy,4160,Donsdale,4120
+0.679194875,Gariepy,4160,Oleskiw,4360
+0.679194875,Gariepy,4160,Ormsby Place,4380
+0.828989776,Garneau,5200,McKernan,5290
+0.828989776,Garneau,5200,Queen Alexandra,5330
+0.828989776,Garneau,5200,Strathcona,5480
+0.828989776,Garneau,5200,University of Alberta,5520
+0.664488131,Garside Industrial,4170,Alberta Park Industrial,4010
+0.664488131,Garside Industrial,4170,Dominion Industrial,3160
+0.664488131,Garside Industrial,4170,Hawin Park Estate Industrial,4190
+0.664488131,Garside Industrial,4170,High Park Industrial,4210
+0.664488131,Garside Industrial,4170,Huff Bremner Estate Industrial,3230
+0.664488131,Garside Industrial,4170,Mitchell Industrial,4330
+0.664488131,Garside Industrial,4170,Sheffield Industrial,4490
+0.497380572,Girard Industrial,6260,Avonmore,6020
+0.497380572,Girard Industrial,6260,Coronet Addition Industrial,6090
+0.497380572,Girard Industrial,6260,Davies Industrial East,6160
+0.497380572,Girard Industrial,6260,Davies Industrial West,6170
+0.497380572,Girard Industrial,6260,Gainer Industrial,6250
+0.497380572,Girard Industrial,6260,King Edward Park,6360
+1.784947269,Glastonbury,4720,Anthony Henday,4011
+1.784947269,Glastonbury,4720,Anthony Henday South West,4012
+1.784947269,Glastonbury,4720,Breckenridge Greens,4700
+1.784947269,Glastonbury,4720,Granville,4551
+1.784947269,Glastonbury,4720,Potter Greens,4710
+1.784947269,Glastonbury,4720,The Hamptons,4461
+1.344767417,Glengarry,2290,Balwin,2020
+1.344767417,Glengarry,2290,Delwood,2230
+1.344767417,Glengarry,2290,Griesbach,3111
+1.344767417,Glengarry,2290,Kildare,2400
+1.344767417,Glengarry,2290,Northmount,2580
+1.344767417,Glengarry,2290,Rosslyn,3390
+1.621639897,Glenora,3200,Grovenor,3210
+1.621639897,Glenora,3200,McQueen,3300
+1.621639897,Glenora,3200,North Glenora,3310
+1.621639897,Glenora,3200,River Valley Capitol Hill,3380
+1.621639897,Glenora,3200,Westmount,3440
+3.619527891,Glenridding Area,5577,Keswick Area,5576
+3.619527891,Glenridding Area,5577,Windermere,5570
+3.619527891,Glenridding Area,5577,Windermere Area,5575
+1.772615097,Glenwood,4180,Britannia Youngstown,4060
+1.772615097,Glenwood,4180,Meadowlark Park,4310
+1.772615097,Glenwood,4180,Place LaRue,4400
+1.772615097,Glenwood,4180,Sherwood,4500
+1.772615097,Glenwood,4180,Stone Industrial,4510
+1.772615097,Glenwood,4180,Summerlea,4520
+1.772615097,Glenwood,4180,Terra Losa,4540
+1.772615097,Glenwood,4180,West Jasper Place,4580
+1.772615097,Glenwood,4180,West Meadowlark Park,4590
+1.04482073,Gold Bar,6270,Capilano,6061
+1.04482073,Gold Bar,6270,Eastgate Business Park,6180
+1.04482073,Gold Bar,6270,Fulton Place,6240
+1.04482073,Gold Bar,6270,Ottewell,6550
+2.680708187,Goodridge Corners,3490,Anthony Henday Castledowns,4016
+2.680708187,Goodridge Corners,3490,Anthony Henday Rampart,4023
+2.995709475,Gorman,2311,Anthony Henday Energy Park,4019
+2.995709475,Gorman,2311,Cy Becker,2611
+2.995709475,Gorman,2311,Ebbers,2251
+2.995709475,Gorman,2311,Fraser,2280
+2.995709475,Gorman,2311,Kirkness,2430
+0.561883189,Grandview Heights,5210,University of Alberta Farm,5530
+1.362479552,Granville,4551,Breckenridge Greens,4700
+1.362479552,Granville,4551,Glastonbury,4720
+1.362479552,Granville,4551,Potter Greens,4710
+1.362479552,Granville,4551,Rosenthal,4750
+1.362479552,Granville,4551,The Hamptons,4461
+0.65900596,Graydon Hill,5468,Paisley,5469
+1.529887226,Greenfield,5220,Aspen Gardens,5020
+1.529887226,Greenfield,5220,Duggan,5160
+1.529887226,Greenfield,5220,Rideau Park,5360
+1.529887226,Greenfield,5220,Royal Gardens,5430
+1.529887226,Greenfield,5220,Steinhauer,5470
+1.529887226,Greenfield,5220,Sweet Grass,5490
+1.529887226,Greenfield,5220,Westbrook Estates,5540
+0.986138127,Greenview,6280,Hillview,6300
+0.986138127,Greenview,6280,Lee Ridge,6400
+0.986138127,Greenview,6280,Michaels Park,6480
+0.986138127,Greenview,6280,Mill Woods Golf Course,6500
+2.696720743,Griesbach,3111,Beaumaris,3040
+2.696720743,Griesbach,3111,Caernarvon,3060
+2.696720743,Griesbach,3111,Carlisle,3090
+2.696720743,Griesbach,3111,Dunluce,3180
+2.696720743,Griesbach,3111,Eaux Claires,2241
+2.696720743,Griesbach,3111,Evansdale,2260
+2.696720743,Griesbach,3111,Glengarry,2290
+2.696720743,Griesbach,3111,Kensington,3250
+2.696720743,Griesbach,3111,Rosslyn,3390
+0.920762563,Grovenor,3210,Canora,4090
+0.920762563,Grovenor,3210,Glenora,3200
+0.920762563,Grovenor,3210,High Park,4200
+0.920762563,Grovenor,3210,McQueen,3300
+0.920762563,Grovenor,3210,North Glenora,3310
+0.920762563,Grovenor,3210,River Valley Capitol Hill,3380
+0.920762563,Grovenor,3210,West Jasper Place,4580
+1.277240577,Haddow,5610,Carter Crest,5130
+1.277240577,Haddow,5610,Leger,5630
+1.277240577,Haddow,5610,River Valley Terwillegar,5380
+1.277240577,Haddow,5610,Terwillegar Towne,5640
+0.527777104,Hagmann Estate Industrial,3220,Athlone,3010
+0.527777104,Hagmann Estate Industrial,3220,Bonaventure Industrial,4050
+0.527777104,Hagmann Estate Industrial,3220,Brown Industrial,3050
+0.527777104,Hagmann Estate Industrial,3220,Dovercourt,3170
+0.527777104,Hagmann Estate Industrial,3220,Edmonton Municipal Airport,1110
+0.527777104,Hagmann Estate Industrial,3220,McArthur Industrial,3290
+0.527777104,Hagmann Estate Industrial,3220,Prince Charles,3350
+0.527777104,Hagmann Estate Industrial,3220,Sherbrooke,3410
+0.659467121,Hairsine,2320,Bannerman,2030
+0.659467121,Hairsine,2320,Belmont,2070
+0.659467121,Hairsine,2320,Clareview Town Centre,2145
+0.659467121,Hairsine,2320,Fraser,2280
+0.659467121,Hairsine,2320,Kernohan,2390
+0.659467121,Hairsine,2320,Kirkness,2430
+0.678200086,Hawin Park Estate Industrial,4190,Alberta Park Industrial,4010
+0.678200086,Hawin Park Estate Industrial,4190,Carleton Square Industrial,4100
+0.678200086,Hawin Park Estate Industrial,4190,Garside Industrial,4170
+0.678200086,Hawin Park Estate Industrial,4190,Kinokamau Plains Area,4475
+0.678200086,Hawin Park Estate Industrial,4190,Norwester Industrial,4350
+1.415869897,Hawks Ridge,4473,Rural West Big Lake,4470
+1.415869897,Hawks Ridge,4473,Trumpeter Area,4471
+1.133185391,Hazeldean,6290,CPR Irvine,6110
+1.133185391,Hazeldean,6290,Ritchie,6610
+1.133185391,Hazeldean,6290,Rosedale Industrial,6650
+0.786737951,Henderson Estates,5230,Rhatigan Ridge,5350
+1.316954514,Heritage Valley Area,5456,Chappelle Area,5462
+1.316954514,Heritage Valley Area,5456,Heritage Valley Town Centre Area,5464
+1.316954514,Heritage Valley Area,5456,Rutherford,5454
+0.965717861,Heritage Valley Town Centre Area,5464,Allard,5458
+0.965717861,Heritage Valley Town Centre Area,5464,Callaghan,5457
+0.965717861,Heritage Valley Town Centre Area,5464,Heritage Valley Area,5456
+0.965717861,Heritage Valley Town Centre Area,5464,Paisley,5469
+0.965717861,Heritage Valley Town Centre Area,5464,Rutherford,5454
+0.719230112,High Park,4200,Britannia Youngstown,4060
+0.719230112,High Park,4200,Canora,4090
+0.719230112,High Park,4200,Grovenor,3210
+0.719230112,High Park,4200,High Park Industrial,4210
+0.719230112,High Park,4200,Huff Bremner Estate Industrial,3230
+0.719230112,High Park,4200,Mayfield,4290
+0.719230112,High Park,4200,Sheffield Industrial,4490
+0.388799173,High Park Industrial,4210,Alberta Park Industrial,4010
+0.388799173,High Park Industrial,4210,Garside Industrial,4170
+0.388799173,High Park Industrial,4210,High Park,4200
+0.388799173,High Park Industrial,4210,Huff Bremner Estate Industrial,3230
+0.388799173,High Park Industrial,4210,Mayfield,4290
+0.388799173,High Park Industrial,4210,McQueen,3300
+0.388799173,High Park Industrial,4210,Sheffield Industrial,4490
+1.14709706,Highlands,2330,Beacon Heights,2040
+1.14709706,Highlands,2330,Bellevue,2060
+1.14709706,Highlands,2330,Beverly Heights,2100
+1.14709706,Highlands,2330,Montrose,2550
+1.14709706,Highlands,2330,Newton,2560
+1.14709706,Highlands,2330,River Valley Highlands,2640
+1.102185648,Hillview,6300,Greenview,6280
+1.102185648,Hillview,6300,Lee Ridge,6400
+1.102185648,Hillview,6300,Michaels Park,6480
+1.102185648,Hillview,6300,Tawa,6720
+1.102185648,Hillview,6300,Weinlos,6770
+0.690446066,Hodgson,5620,Carter Crest,5130
+0.690446066,Hodgson,5620,Leger,5630
+0.690446066,Hodgson,5620,Magrath Heights,5476
+0.690446066,Hodgson,5620,Terwillegar Towne,5640
+0.690446066,Hodgson,5620,Whitemud Creek Ravine South,5560
+1.285449378,Holyrood,6310,Bonnie Doon,6040
+1.285449378,Holyrood,6310,Cloverdale,6070
+1.285449378,Holyrood,6310,Forest Heights,6230
+1.285449378,Holyrood,6310,Kenilworth,6350
+1.285449378,Holyrood,6310,Ottewell,6550
+1.285449378,Holyrood,6310,Strathearn,6710
+1.285449378,Holyrood,6310,Terrace Heights,6730
+1.577835578,Homesteader,2350,Abbottsfield,2010
+1.577835578,Homesteader,2350,Bergman,2090
+1.577835578,Homesteader,2350,Industrial Heights,2360
+1.577835578,Homesteader,2350,Kennedale Industrial,2380
+1.577835578,Homesteader,2350,Newton,2560
+1.577835578,Homesteader,2350,Overlanders,2590
+1.577835578,Homesteader,2350,River Valley Hermitage,2630
+1.577835578,Homesteader,2350,Sifton Park,2710
+0.679483753,Hudson,3480,Pembina,3340
+1.040643268,Huff Bremner Estate Industrial,3230,Dominion Industrial,3160
+1.040643268,Huff Bremner Estate Industrial,3230,Dovercourt,3170
+1.040643268,Huff Bremner Estate Industrial,3230,Garside Industrial,4170
+1.040643268,Huff Bremner Estate Industrial,3230,High Park,4200
+1.040643268,Huff Bremner Estate Industrial,3230,High Park Industrial,4210
+1.040643268,Huff Bremner Estate Industrial,3230,McQueen,3300
+1.040643268,Huff Bremner Estate Industrial,3230,Mitchell Industrial,4330
+1.040643268,Huff Bremner Estate Industrial,3230,Woodcroft,3450
+0.664832905,Idylwylde,6320,Bonnie Doon,6040
+0.664832905,Idylwylde,6320,Kenilworth,6350
+0.664832905,Idylwylde,6320,King Edward Park,6360
+0.664832905,Idylwylde,6320,Ottewell,6550
+0.664832905,Idylwylde,6320,Strathearn,6710
+0.743856488,Industrial Heights,2360,Bergman,2090
+0.743856488,Industrial Heights,2360,Homesteader,2350
+0.743856488,Industrial Heights,2360,Kennedale Industrial,2380
+0.743856488,Industrial Heights,2360,Montrose,2550
+0.743856488,Industrial Heights,2360,Newton,2560
+1.649851099,Inglewood,3240,Dovercourt,3170
+1.649851099,Inglewood,3240,Edmonton Municipal Airport,1110
+1.649851099,Inglewood,3240,North Glenora,3310
+1.649851099,Inglewood,3240,Prince Charles,3350
+1.649851099,Inglewood,3240,Prince Rupert,1170
+1.649851099,Inglewood,3240,Queen Mary Park,1180
+1.649851099,Inglewood,3240,Sherbrooke,3410
+1.649851099,Inglewood,3240,Westmount,3440
+1.649851099,Inglewood,3240,Woodcroft,3450
+1.267804997,Jackson Heights,6330,Kiniski Gardens,6370
+1.267804997,Jackson Heights,6330,Minchau,6530
+1.267804997,Jackson Heights,6330,Pylypow Industrial,6590
+1.267804997,Jackson Heights,6330,Roper Industrial,6640
+1.267804997,Jackson Heights,6330,Southeast Industrial,6690
+1.083080447,Jamieson Place,4220,Dechene,4110
+1.083080447,Jamieson Place,4220,Donsdale,4120
+1.083080447,Jamieson Place,4220,Ormsby Place,4380
+1.083080447,Jamieson Place,4220,Wedgewood Heights,4570
+0.665285409,Jasper Park,4230,Laurier Heights,3270
+0.665285409,Jasper Park,4230,Lynnwood,4280
+0.665285409,Jasper Park,4230,Meadowlark Park,4310
+0.665285409,Jasper Park,4230,Parkview,3330
+0.665285409,Jasper Park,4230,Sherwood,4500
+0.72159953,Kameyosek,6340,Lee Ridge,6400
+0.72159953,Kameyosek,6340,Meyonohk,6470
+0.72159953,Kameyosek,6340,Mill Woods Park,6510
+0.72159953,Kameyosek,6340,Mill Woods Town Centre,6520
+0.72159953,Kameyosek,6340,Richfield,6600
+0.72159953,Kameyosek,6340,Tawa,6720
+0.72159953,Kameyosek,6340,Tipaskan,6750
+1.265769698,Keheewin,5250,Blue Quill,5060
+1.265769698,Keheewin,5250,Ermineskin,5180
+1.265769698,Keheewin,5250,Parsons Industrial,6570
+1.265769698,Keheewin,5250,Skyrattler,5460
+1.265769698,Keheewin,5250,South Edmonton Common,6195
+1.148418023,Kenilworth,6350,Gainer Industrial,6250
+1.148418023,Kenilworth,6350,Holyrood,6310
+1.148418023,Kenilworth,6350,Idylwylde,6320
+1.148418023,Kenilworth,6350,King Edward Park,6360
+1.148418023,Kenilworth,6350,Lambton Industrial,6380
+1.148418023,Kenilworth,6350,Ottewell,6550
+1.319499972,Kennedale Industrial,2380,Clareview Town Centre,2145
+1.319499972,Kennedale Industrial,2380,Homesteader,2350
+1.319499972,Kennedale Industrial,2380,Industrial Heights,2360
+1.319499972,Kennedale Industrial,2380,Sifton Park,2710
+1.32538324,Kensington,3250,Athlone,3010
+1.32538324,Kensington,3250,Baranow,3020
+1.32538324,Kensington,3250,Calder,3070
+1.32538324,Kensington,3250,Carlisle,3090
+1.32538324,Kensington,3250,Griesbach,3111
+1.32538324,Kensington,3250,Lauderdale,3260
+1.32538324,Kensington,3250,Pembina,3340
+1.32538324,Kensington,3250,Rosslyn,3390
+1.32538324,Kensington,3250,Wellington,3430
+0.891282195,Kernohan,2390,Bannerman,2030
+0.891282195,Kernohan,2390,Belmont,2070
+0.891282195,Kernohan,2390,Hairsine,2320
+3.874828455,Keswick Area,5576,Glenridding Area,5577
+3.874828455,Keswick Area,5576,River Valley Windermere,5405
+3.874828455,Keswick Area,5576,Riverview Area,4463
+1.188673329,Kildare,2400,Belvedere,2080
+1.188673329,Kildare,2400,Delwood,2230
+1.188673329,Kildare,2400,Evansdale,2260
+1.188673329,Kildare,2400,Glengarry,2290
+1.188673329,Kildare,2400,Kilkenny,2410
+1.188673329,Kildare,2400,McLeod,2530
+1.188673329,Kildare,2400,Northmount,2580
+1.188673329,Kildare,2400,York,2720
+1.749930586,Kilkenny,2410,Belle Rive,2050
+1.749930586,Kilkenny,2410,Evansdale,2260
+1.749930586,Kilkenny,2410,Kildare,2400
+1.749930586,Kilkenny,2410,Matt Berry,2500
+1.749930586,Kilkenny,2410,Mayliewan,2511
+1.749930586,Kilkenny,2410,McLeod,2530
+1.749930586,Kilkenny,2410,Northmount,2580
+1.749930586,Kilkenny,2410,Ozerna,2600
+1.749930586,Kilkenny,2410,York,2720
+1.333083361,Killarney,2420,Balwin,2020
+1.333083361,Killarney,2420,Delwood,2230
+1.333083361,Killarney,2420,Lauderdale,3260
+1.333083361,Killarney,2420,Yellowhead Corridor East,1270
+1.333083361,Killarney,2420,Yellowhead Corridor West,1280
+1.404195762,King Edward Park,6360,Bonnie Doon,6040
+1.404195762,King Edward Park,6360,Gainer Industrial,6250
+1.404195762,King Edward Park,6360,Girard Industrial,6260
+1.404195762,King Edward Park,6360,Idylwylde,6320
+1.404195762,King Edward Park,6360,Kenilworth,6350
+1.959488942,Kiniski Gardens,6370,Jackson Heights,6330
+1.959488942,Kiniski Gardens,6370,Minchau,6530
+7.078608429,Kinokamau Plains Area,4475,Anthony Henday Mistatim,4015
+7.078608429,Kinokamau Plains Area,4475,Armstrong Industrial,4030
+7.078608429,Kinokamau Plains Area,4475,Carleton Square Industrial,4100
+7.078608429,Kinokamau Plains Area,4475,Edmiston Industrial,4130
+7.078608429,Kinokamau Plains Area,4475,Hawin Park Estate Industrial,4190
+7.078608429,Kinokamau Plains Area,4475,White Industrial,4630
+0.890162843,Kirkness,2430,Bannerman,2030
+0.890162843,Kirkness,2430,Clareview Town Centre,2145
+0.890162843,Kirkness,2430,Ebbers,2251
+0.890162843,Kirkness,2430,Fraser,2280
+0.890162843,Kirkness,2430,Gorman,2311
+0.890162843,Kirkness,2430,Hairsine,2320
+1.656774237,Klarvatten,2440,Lago Lindo,2450
+1.656774237,Klarvatten,2440,Mayliewan,2511
+1.33533148,La Perle,4240,Belmead,4040
+1.33533148,La Perle,4240,Place LaRue,4400
+1.33533148,La Perle,4240,Summerlea,4520
+1.33533148,La Perle,4240,Terra Losa,4540
+1.305512245,Lago Lindo,2450,Anthony Henday Castledowns,4016
+1.305512245,Lago Lindo,2450,Anthony Henday Lake District,4017
+1.305512245,Lago Lindo,2450,Baturyn,3030
+1.305512245,Lago Lindo,2450,Eaux Claires,2241
+1.305512245,Lago Lindo,2450,Elsinore,3190
+1.305512245,Lago Lindo,2450,Klarvatten,2440
+1.305512245,Lago Lindo,2450,Lorelei,3280
+0.638283446,Lambton Industrial,6380,Gainer Industrial,6250
+0.638283446,Lambton Industrial,6380,Kenilworth,6350
+0.638283446,Lambton Industrial,6380,Ottewell,6550
+0.578506248,Lansdowne,5260,Malmo Plains,5280
+0.578506248,Lansdowne,5260,Royal Gardens,5430
+0.578506248,Lansdowne,5260,University of Alberta Farm,5530
+0.578506248,Lansdowne,5260,Whitemud Creek Ravine South,5560
+1.658194921,Larkspur,6390,Pylypow Industrial,6590
+1.658194921,Larkspur,6390,Southeast Industrial,6690
+1.658194921,Larkspur,6390,Tamarack,6443
+1.658194921,Larkspur,6390,Wild Rose,6790
+1.301509581,Lauderdale,3260,Calder,3070
+1.301509581,Lauderdale,3260,Kensington,3250
+1.301509581,Lauderdale,3260,Killarney,2420
+1.301509581,Lauderdale,3260,Yellowhead Corridor East,1270
+1.301509581,Lauderdale,3260,Yellowhead Corridor West,1280
+2.802352028,Laurel,6444,Bisset,6030
+2.802352028,Laurel,6444,Crawford Plains,6140
+2.802352028,Laurel,6444,Daly Grove,6150
+2.802352028,Laurel,6444,Meadows Area,6440
+2.802352028,Laurel,6444,Silver Berry,6442
+2.802352028,Laurel,6444,Tamarack,6443
+1.325826765,Laurier Heights,3270,Jasper Park,4230
+1.325826765,Laurier Heights,3270,Lynnwood,4280
+1.325826765,Laurier Heights,3270,Parkview,3330
+1.325826765,Laurier Heights,3270,River Valley Laurier,3382
+0.898035537,Lee Ridge,6400,Greenview,6280
+0.898035537,Lee Ridge,6400,Hillview,6300
+0.898035537,Lee Ridge,6400,Kameyosek,6340
+0.898035537,Lee Ridge,6400,Michaels Park,6480
+0.898035537,Lee Ridge,6400,Richfield,6600
+0.898035537,Lee Ridge,6400,Tawa,6720
+0.898035537,Lee Ridge,6400,Tipaskan,6750
+0.898035537,Lee Ridge,6400,Tweddle Place,6760
+1.056882664,Leger,5630,Carter Crest,5130
+1.056882664,Leger,5630,Haddow,5610
+1.056882664,Leger,5630,Hodgson,5620
+1.056882664,Leger,5630,Magrath Heights,5476
+1.056882664,Leger,5630,Terwillegar Towne,5640
+0.859009434,Lendrum Place,5270,Empire Park,5170
+0.859009434,Lendrum Place,5270,Malmo Plains,5280
+0.859009434,Lendrum Place,5270,Parkallen,5310
+0.859009434,Lendrum Place,5270,Pleasantview,5320
+0.859009434,Lendrum Place,5270,University of Alberta Farm,5530
+0.764306877,Lewis Farms Industrial,4485,Secord,4487
+0.764306877,Lewis Farms Industrial,4485,Winterburn Industrial Area West,4670
+1.220997712,Lorelei,3280,Baturyn,3030
+1.220997712,Lorelei,3280,Beaumaris,3040
+1.220997712,Lorelei,3280,Dunluce,3180
+1.220997712,Lorelei,3280,Eaux Claires,2241
+1.220997712,Lorelei,3280,Lago Lindo,2450
+1.561583371,Lymburn,4270,Aldergrove,4020
+1.561583371,Lymburn,4270,Anthony Henday,4011
+1.561583371,Lymburn,4270,Callingwood North,4070
+1.561583371,Lymburn,4270,Callingwood South,4080
+1.561583371,Lymburn,4270,Ormsby Place,4380
+1.561583371,Lymburn,4270,Thorncliff,4560
+0.895015484,Lynnwood,4280,Elmwood,4140
+0.895015484,Lynnwood,4280,Jasper Park,4230
+0.895015484,Lynnwood,4280,Laurier Heights,3270
+0.895015484,Lynnwood,4280,Meadowlark Park,4310
+0.895015484,Lynnwood,4280,Parkview,3330
+0.895015484,Lynnwood,4280,Patricia Heights,4390
+0.895015484,Lynnwood,4280,River Valley Laurier,3382
+1.161115513,MacEwan,5452,Blackburne,5590
+1.161115513,MacEwan,5452,Blackmud Creek,5453
+1.161115513,MacEwan,5452,Richford,5451
+1.161115513,MacEwan,5452,Rutherford,5454
+1.035830751,Mactaggart,5477,Anthony Henday Terwillegar,4013
+1.035830751,Mactaggart,5477,Magrath Heights,5476
+1.035830751,Mactaggart,5477,South Terwillegar,5642
+1.035830751,Mactaggart,5477,Terwillegar Towne,5640
+1.228932427,Magrath Heights,5476,Hodgson,5620
+1.228932427,Magrath Heights,5476,Leger,5630
+1.228932427,Magrath Heights,5476,Mactaggart,5477
+1.228932427,Magrath Heights,5476,South Terwillegar,5642
+1.228932427,Magrath Heights,5476,Terwillegar Towne,5640
+1.228932427,Magrath Heights,5476,Whitemud Creek Ravine Twin Brooks,5565
+0.940940724,Malmo Plains,5280,Empire Park,5170
+0.940940724,Malmo Plains,5280,Lansdowne,5260
+0.940940724,Malmo Plains,5280,Lendrum Place,5270
+0.940940724,Malmo Plains,5280,Pleasantview,5320
+0.940940724,Malmo Plains,5280,Rideau Park,5360
+0.940940724,Malmo Plains,5280,Royal Gardens,5430
+0.940940724,Malmo Plains,5280,University of Alberta Farm,5530
+0.940940724,Malmo Plains,5280,Whitemud Creek Ravine South,5560
+1.831670312,Maple,6441,Maple Ridge Industrial,6420
+1.831670312,Maple,6441,Meadows Area,6440
+0.689274301,Maple Ridge,6410,Southeast Industrial,6690
+3.745471619,Maple Ridge Industrial,6420,Maple,6441
+1.137771756,Matt Berry,2500,Kilkenny,2410
+1.137771756,Matt Berry,2500,McConachie Area,2521
+1.137771756,Matt Berry,2500,McLeod,2530
+1.137771756,Matt Berry,2500,Ozerna,2600
+1.137771756,Matt Berry,2500,Schonsee,2700
+0.867205324,Mayfield,4290,Britannia Youngstown,4060
+0.867205324,Mayfield,4290,Canora,4090
+0.867205324,Mayfield,4290,High Park,4200
+0.867205324,Mayfield,4290,High Park Industrial,4210
+0.867205324,Mayfield,4290,Sheffield Industrial,4490
+1.195862429,Mayliewan,2511,Belle Rive,2050
+1.195862429,Mayliewan,2511,Evansdale,2260
+1.195862429,Mayliewan,2511,Kilkenny,2410
+1.195862429,Mayliewan,2511,Klarvatten,2440
+1.195862429,Mayliewan,2511,Schonsee,2700
+0.574667953,McArthur Industrial,3290,Bonaventure Industrial,4050
+0.574667953,McArthur Industrial,3290,Brown Industrial,3050
+0.574667953,McArthur Industrial,3290,Hagmann Estate Industrial,3220
+0.574667953,McArthur Industrial,3290,Mistatim Industrial,4320
+0.574667953,McArthur Industrial,3290,Rampart Industrial,3360
+0.574667953,McArthur Industrial,3290,Wellington,3430
+1.498170148,McCauley,1140,Alberta Avenue,1010
+1.498170148,McCauley,1140,Downtown,1090
+1.498170148,McCauley,1140,Parkdale,1160
+1.498170148,McCauley,1140,Spruce Avenue,1230
+2.626761933,McConachie Area,2521,Anthony Henday Lake District,4017
+2.626761933,McConachie Area,2521,Crystallina Nera East,2462
+2.626761933,McConachie Area,2521,Cy Becker,2611
+2.626761933,McConachie Area,2521,Matt Berry,2500
+2.626761933,McConachie Area,2521,Ozerna,2600
+2.626761933,McConachie Area,2521,Schonsee,2700
+1.569990469,McIntyre Industrial,6430,Coronet Industrial,6100
+1.569990469,McIntyre Industrial,6430,Michaels Park,6480
+1.569990469,McIntyre Industrial,6430,Mill Woods Golf Course,6500
+1.569990469,McIntyre Industrial,6430,Papaschase Industrial,6560
+1.569990469,McIntyre Industrial,6430,Strathcona Industrial Park,6700
+1.569990469,McIntyre Industrial,6430,Tweddle Place,6760
+0.878288836,McKernan,5290,Belgravia,5040
+0.878288836,McKernan,5290,Garneau,5200
+0.878288836,McKernan,5290,Parkallen,5310
+0.878288836,McKernan,5290,Queen Alexandra,5330
+0.878288836,McKernan,5290,University of Alberta,5520
+0.878288836,McKernan,5290,University of Alberta Farm,5530
+0.966538217,McLeod,2530,Casselman,2130
+0.966538217,McLeod,2530,Kildare,2400
+0.966538217,McLeod,2530,Kilkenny,2410
+0.966538217,McLeod,2530,Matt Berry,2500
+0.966538217,McLeod,2530,Ozerna,2600
+0.966538217,McLeod,2530,York,2720
+0.978108406,McNamara Industrial,4300,Morin Industrial,4340
+0.978108406,McNamara Industrial,4300,Stone Industrial,4510
+0.978108406,McNamara Industrial,4300,West Sheffield Industrial,4600
+0.705743961,McQueen,3300,Canora,4090
+0.705743961,McQueen,3300,Glenora,3200
+0.705743961,McQueen,3300,Grovenor,3210
+0.705743961,McQueen,3300,High Park Industrial,4210
+0.705743961,McQueen,3300,Huff Bremner Estate Industrial,3230
+0.705743961,McQueen,3300,North Glenora,3310
+0.705743961,McQueen,3300,Woodcroft,3450
+1.108866874,Meadowlark Park,4310,Elmwood,4140
+1.108866874,Meadowlark Park,4310,Glenwood,4180
+1.108866874,Meadowlark Park,4310,Jasper Park,4230
+1.108866874,Meadowlark Park,4310,Lynnwood,4280
+1.108866874,Meadowlark Park,4310,Sherwood,4500
+1.108866874,Meadowlark Park,4310,West Jasper Place,4580
+1.108866874,Meadowlark Park,4310,West Meadowlark Park,4590
+2.034180798,Meadows Area,6440,Laurel,6444
+2.034180798,Meadows Area,6440,Maple,6441
+2.034180798,Meadows Area,6440,Silver Berry,6442
+0.894269779,Menisa,6450,Anthony Henday South East,6665
+0.894269779,Menisa,6450,Ekota,6200
+0.894269779,Menisa,6450,Meyokumin,6460
+0.894269779,Menisa,6450,Sakaw,6670
+0.894269779,Menisa,6450,Satoo,6680
+0.974079704,Meyokumin,6460,Crawford Plains,6140
+0.974079704,Meyokumin,6460,Ekota,6200
+0.974079704,Meyokumin,6460,Menisa,6450
+0.974079704,Meyokumin,6460,Pollard Meadows,6580
+0.974079704,Meyokumin,6460,Sakaw,6670
+0.974079704,Meyokumin,6460,Weinlos,6770
+0.873954039,Meyonohk,6470,Edmonton Research and Development Park,6190
+0.873954039,Meyonohk,6470,Ekota,6200
+0.873954039,Meyonohk,6470,Kameyosek,6340
+0.873954039,Meyonohk,6470,Mill Woods Park,6510
+0.873954039,Meyonohk,6470,Parsons Industrial,6570
+0.873954039,Meyonohk,6470,Satoo,6680
+0.873954039,Meyonohk,6470,Tipaskan,6750
+0.83203026,Michaels Park,6480,Greenview,6280
+0.83203026,Michaels Park,6480,Hillview,6300
+0.83203026,Michaels Park,6480,Lee Ridge,6400
+0.83203026,Michaels Park,6480,McIntyre Industrial,6430
+0.83203026,Michaels Park,6480,Mill Woods Golf Course,6500
+0.83203026,Michaels Park,6480,Roper Industrial,6640
+0.83203026,Michaels Park,6480,Tweddle Place,6760
+0.699351417,Mill Creek Ravine North,6491,Bonnie Doon,6040
+0.699351417,Mill Creek Ravine North,6491,Mill Creek Ravine South,6492
+0.699351417,Mill Creek Ravine North,6491,Ritchie,6610
+0.699351417,Mill Creek Ravine North,6491,River Valley Walterdale,5390
+0.759371855,Mill Creek Ravine South,6492,Bonnie Doon,6040
+0.759371855,Mill Creek Ravine South,6492,Coronet Addition Industrial,6090
+0.759371855,Mill Creek Ravine South,6492,Mill Creek Ravine North,6491
+0.759371855,Mill Creek Ravine South,6492,Rosedale Industrial,6650
+0.759371855,Mill Creek Ravine South,6492,Strathcona,5480
+1.394112724,Mill Woods Golf Course,6500,Greenview,6280
+1.394112724,Mill Woods Golf Course,6500,McIntyre Industrial,6430
+1.394112724,Mill Woods Golf Course,6500,Michaels Park,6480
+1.394112724,Mill Woods Golf Course,6500,Pylypow Industrial,6590
+1.394112724,Mill Woods Golf Course,6500,Roper Industrial,6640
+0.490425045,Mill Woods Park,6510,Ekota,6200
+0.490425045,Mill Woods Park,6510,Kameyosek,6340
+0.490425045,Mill Woods Park,6510,Meyonohk,6470
+0.490425045,Mill Woods Park,6510,Satoo,6680
+0.490425045,Mill Woods Park,6510,Tawa,6720
+0.490425045,Mill Woods Park,6510,Tipaskan,6750
+0.518415531,Mill Woods Town Centre,6520,Kameyosek,6340
+0.518415531,Mill Woods Town Centre,6520,Pollard Meadows,6580
+0.518415531,Mill Woods Town Centre,6520,Tawa,6720
+0.518415531,Mill Woods Town Centre,6520,Weinlos,6770
+0.82683283,Miller,2541,Brintnell,2110
+0.82683283,Miller,2541,Casselman,2130
+0.82683283,Miller,2541,Clareview Town Centre,2145
+0.82683283,Miller,2541,Ebbers,2251
+0.82683283,Miller,2541,York,2720
+0.905519016,Minchau,6530,Bisset,6030
+0.905519016,Minchau,6530,Jackson Heights,6330
+0.905519016,Minchau,6530,Kiniski Gardens,6370
+0.905519016,Minchau,6530,Silver Berry,6442
+0.905519016,Minchau,6530,Tawa,6720
+0.905519016,Minchau,6530,Weinlos,6770
+6.780841616,Mistatim Industrial,4320,Anthony Henday Big Lake,4018
+6.780841616,Mistatim Industrial,4320,Anthony Henday Rampart,4023
+6.780841616,Mistatim Industrial,4320,Bonaventure Industrial,4050
+6.780841616,Mistatim Industrial,4320,McArthur Industrial,3290
+6.780841616,Mistatim Industrial,4320,Rampart Industrial,3360
+0.592507018,Mitchell Industrial,4330,Alberta Park Industrial,4010
+0.592507018,Mitchell Industrial,4330,Dominion Industrial,3160
+0.592507018,Mitchell Industrial,4330,Gagnon Estate Industrial,4150
+0.592507018,Mitchell Industrial,4330,Garside Industrial,4170
+0.592507018,Mitchell Industrial,4330,Huff Bremner Estate Industrial,3230
+1.310417329,Montrose,2550,Bellevue,2060
+1.310417329,Montrose,2550,Edmonton Northlands,1120
+1.310417329,Montrose,2550,Highlands,2330
+1.310417329,Montrose,2550,Industrial Heights,2360
+0.66861281,Morin Industrial,4340,McNamara Industrial,4300
+0.66861281,Morin Industrial,4340,Place LaRue,4400
+0.66861281,Morin Industrial,4340,Stone Industrial,4510
+0.66861281,Morin Industrial,4340,Sunwapta Industrial,4530
+0.66861281,Morin Industrial,4340,Wilson Industrial,4640
+1.292765393,Morris Industrial,6540,Davies Industrial East,6160
+1.292765393,Morris Industrial,6540,Gainer Industrial,6250
+1.292765393,Morris Industrial,6540,Weir Industrial,6780
+1.065556442,Newton,2560,Beacon Heights,2040
+1.065556442,Newton,2560,Bergman,2090
+1.065556442,Newton,2560,Beverly Heights,2100
+1.065556442,Newton,2560,Highlands,2330
+1.065556442,Newton,2560,Homesteader,2350
+1.065556442,Newton,2560,Industrial Heights,2360
+0.866766206,North Glenora,3310,Glenora,3200
+0.866766206,North Glenora,3310,Grovenor,3210
+0.866766206,North Glenora,3310,Inglewood,3240
+0.866766206,North Glenora,3310,McQueen,3300
+0.866766206,North Glenora,3310,Westmount,3440
+0.866766206,North Glenora,3310,Woodcroft,3450
+1.224062074,Northmount,2580,Delwood,2230
+1.224062074,Northmount,2580,Evansdale,2260
+1.224062074,Northmount,2580,Glengarry,2290
+1.224062074,Northmount,2580,Kildare,2400
+1.224062074,Northmount,2580,Kilkenny,2410
+0.688147604,Norwester Industrial,4350,Alberta Park Industrial,4010
+0.688147604,Norwester Industrial,4350,Armstrong Industrial,4030
+0.688147604,Norwester Industrial,4350,Carleton Square Industrial,4100
+0.688147604,Norwester Industrial,4350,Hawin Park Estate Industrial,4190
+0.688147604,Norwester Industrial,4350,Sheffield Industrial,4490
+0.688147604,Norwester Industrial,4350,West Sheffield Industrial,4600
+0.523564273,Ogilvie Ridge,5300,Bulyea Heights,5100
+0.523564273,Ogilvie Ridge,5300,Carter Crest,5130
+1.325997429,Oleskiw,4360,Gariepy,4160
+1.325997429,Oleskiw,4360,River Valley Lessard North,4440
+1.70212046,Oliver,1150,Westmount,3440
+1.35035847,Ormsby Place,4380,Callingwood North,4070
+1.35035847,Ormsby Place,4380,Callingwood South,4080
+1.35035847,Ormsby Place,4380,Dechene,4110
+1.35035847,Ormsby Place,4380,Gariepy,4160
+1.35035847,Ormsby Place,4380,Jamieson Place,4220
+1.35035847,Ormsby Place,4380,Lymburn,4270
+2.584236919,Ottewell,6550,Eastgate Business Park,6180
+2.584236919,Ottewell,6550,Forest Heights,6230
+2.584236919,Ottewell,6550,Fulton Place,6240
+2.584236919,Ottewell,6550,Gold Bar,6270
+2.584236919,Ottewell,6550,Holyrood,6310
+2.584236919,Ottewell,6550,Idylwylde,6320
+2.584236919,Ottewell,6550,Kenilworth,6350
+2.584236919,Ottewell,6550,Lambton Industrial,6380
+0.841198173,Overlanders,2590,Bergman,2090
+0.841198173,Overlanders,2590,Canon Ridge,2120
+0.841198173,Overlanders,2590,Homesteader,2350
+0.841198173,Overlanders,2590,River Valley Rundle,2650
+1.184046826,Oxford,3320,Baranow,3020
+1.184046826,Oxford,3320,Carlton,3470
+1.184046826,Oxford,3320,Cumberland,3150
+1.184046826,Oxford,3320,Dunluce,3180
+1.184046826,Oxford,3320,Rapperswill,3370
+1.119814651,Ozerna,2600,Kilkenny,2410
+1.119814651,Ozerna,2600,Matt Berry,2500
+1.119814651,Ozerna,2600,McConachie Area,2521
+1.119814651,Ozerna,2600,McLeod,2530
+1.119814651,Ozerna,2600,Schonsee,2700
+0.652975249,Paisley,5469,Chappelle Area,5462
+0.652975249,Paisley,5469,Graydon Hill,5468
+0.652975249,Paisley,5469,Heritage Valley Town Centre Area,5464
+1.238036776,Papaschase Industrial,6560,Calgary Trail North,5110
+1.238036776,Papaschase Industrial,6560,Calgary Trail South,5120
+1.238036776,Papaschase Industrial,6560,Coronet Industrial,6100
+1.238036776,Papaschase Industrial,6560,McIntyre Industrial,6430
+1.238036776,Papaschase Industrial,6560,Strathcona Industrial Park,6700
+1.238036776,Papaschase Industrial,6560,Tweddle Place,6760
+0.848906409,Parkallen,5310,Allendale,5010
+0.848906409,Parkallen,5310,Belgravia,5040
+0.848906409,Parkallen,5310,Lendrum Place,5270
+0.848906409,Parkallen,5310,McKernan,5290
+0.848906409,Parkallen,5310,Pleasantview,5320
+0.848906409,Parkallen,5310,Queen Alexandra,5330
+0.848906409,Parkallen,5310,University of Alberta Farm,5530
+0.951677388,Parkdale,1160,Alberta Avenue,1010
+0.951677388,Parkdale,1160,Cromdale,1070
+0.951677388,Parkdale,1160,Eastwood,1100
+0.951677388,Parkdale,1160,Edmonton Northlands,1120
+0.951677388,Parkdale,1160,McCauley,1140
+1.546447997,Parkview,3330,Crestwood,3140
+1.546447997,Parkview,3330,Jasper Park,4230
+1.546447997,Parkview,3330,Laurier Heights,3270
+1.546447997,Parkview,3330,Lynnwood,4280
+1.546447997,Parkview,3330,Sherwood,4500
+1.546447997,Parkview,3330,West Jasper Place,4580
+2.627118273,Parsons Industrial,6570,Calgary Trail South,5120
+2.627118273,Parsons Industrial,6570,Edmonton Research and Development Park,6190
+2.627118273,Parsons Industrial,6570,Ermineskin,5180
+2.627118273,Parsons Industrial,6570,Keheewin,5250
+2.627118273,Parsons Industrial,6570,Meyonohk,6470
+2.627118273,Parsons Industrial,6570,Richfield,6600
+2.627118273,Parsons Industrial,6570,Satoo,6680
+2.627118273,Parsons Industrial,6570,South Edmonton Common,6195
+2.627118273,Parsons Industrial,6570,Strathcona Industrial Park,6700
+2.627118273,Parsons Industrial,6570,Tipaskan,6750
+0.653970425,Patricia Heights,4390,Elmwood,4140
+0.653970425,Patricia Heights,4390,Lynnwood,4280
+0.572523212,Pembina,3340,Baranow,3020
+0.572523212,Pembina,3340,Cumberland,3150
+0.572523212,Pembina,3340,Hudson,3480
+0.572523212,Pembina,3340,Kensington,3250
+0.572523212,Pembina,3340,Rampart Industrial,3360
+1.041799556,Place LaRue,4400,Anthony Henday,4011
+1.041799556,Place LaRue,4400,Britannia Youngstown,4060
+1.041799556,Place LaRue,4400,Glenwood,4180
+1.041799556,Place LaRue,4400,La Perle,4240
+1.041799556,Place LaRue,4400,Morin Industrial,4340
+1.041799556,Place LaRue,4400,Stone Industrial,4510
+1.041799556,Place LaRue,4400,Terra Losa,4540
+1.48039114,Pleasantview,5320,Allendale,5010
+1.48039114,Pleasantview,5320,Calgary Trail North,5110
+1.48039114,Pleasantview,5320,Lendrum Place,5270
+1.48039114,Pleasantview,5320,Malmo Plains,5280
+1.48039114,Pleasantview,5320,Parkallen,5310
+1.052584872,Pollard Meadows,6580,Bisset,6030
+1.052584872,Pollard Meadows,6580,Crawford Plains,6140
+1.052584872,Pollard Meadows,6580,Meyokumin,6460
+1.052584872,Pollard Meadows,6580,Mill Woods Town Centre,6520
+1.052584872,Pollard Meadows,6580,Sakaw,6670
+1.052584872,Pollard Meadows,6580,Weinlos,6770
+1.154895898,Potter Greens,4710,Breckenridge Greens,4700
+1.154895898,Potter Greens,4710,Glastonbury,4720
+1.154895898,Potter Greens,4710,Granville,4551
+1.154895898,Potter Greens,4710,Suder Greens,4730
+0.663630709,Poundmaker Industrial,4410,Sunwapta Industrial,4530
+0.663630709,Poundmaker Industrial,4410,White Industrial,4630
+0.663630709,Poundmaker Industrial,4410,Wilson Industrial,4640
+0.790115376,Prince Charles,3350,Edmonton Municipal Airport,1110
+0.790115376,Prince Charles,3350,Hagmann Estate Industrial,3220
+0.790115376,Prince Charles,3350,Inglewood,3240
+0.790115376,Prince Charles,3350,Prince Rupert,1170
+0.790115376,Prince Charles,3350,Sherbrooke,3410
+0.790115376,Prince Charles,3350,Yellowhead Corridor West,1280
+1.144949478,Prince Rupert,1170,Central McDougall,1030
+1.144949478,Prince Rupert,1170,Inglewood,3240
+1.144949478,Prince Rupert,1170,Prince Charles,3350
+1.144949478,Prince Rupert,1170,Queen Mary Park,1180
+1.144949478,Prince Rupert,1170,Spruce Avenue,1230
+1.144949478,Prince Rupert,1170,Westmount,3440
+3.485795199,Pylypow Industrial,6590,Davies Industrial East,6160
+3.485795199,Pylypow Industrial,6590,Jackson Heights,6330
+3.485795199,Pylypow Industrial,6590,Larkspur,6390
+3.485795199,Pylypow Industrial,6590,Mill Woods Golf Course,6500
+3.485795199,Pylypow Industrial,6590,Roper Industrial,6640
+3.485795199,Pylypow Industrial,6590,Southeast Industrial,6690
+1.235991391,Queen Alexandra,5330,Allendale,5010
+1.235991391,Queen Alexandra,5330,Garneau,5200
+1.235991391,Queen Alexandra,5330,McKernan,5290
+1.235991391,Queen Alexandra,5330,Parkallen,5310
+1.235991391,Queen Alexandra,5330,Strathcona,5480
+1.235991391,Queen Alexandra,5330,Strathcona Junction,5151
+1.824072523,Queen Mary Park,1180,Central McDougall,1030
+1.824072523,Queen Mary Park,1180,Inglewood,3240
+1.824072523,Queen Mary Park,1180,Prince Rupert,1170
+1.824072523,Queen Mary Park,1180,Westmount,3440
+0.20715297,Quesnell Heights,4420,Rio Terrace,4430
+3.625594648,Rampart Industrial,3360,Bonaventure Industrial,4050
+3.625594648,Rampart Industrial,3360,McArthur Industrial,3290
+3.625594648,Rampart Industrial,3360,Mistatim Industrial,4320
+3.625594648,Rampart Industrial,3360,Pembina,3340
+1.310839702,Ramsay Heights,5340,Brookside,5090
+1.310839702,Ramsay Heights,5340,Bulyea Heights,5100
+1.027752276,Rapperswill,3370,Anthony Henday Rampart,4023
+1.027752276,Rapperswill,3370,Canossa,3080
+1.027752276,Rapperswill,3370,Dunluce,3180
+1.027752276,Rapperswill,3370,Oxford,3320
+1.344077714,Rhatigan Ridge,5350,Bulyea Heights,5100
+1.344077714,Rhatigan Ridge,5350,Carter Crest,5130
+1.344077714,Rhatigan Ridge,5350,Henderson Estates,5230
+1.344077714,Rhatigan Ridge,5350,River Valley Terwillegar,5380
+0.944326678,Richfield,6600,Kameyosek,6340
+0.944326678,Richfield,6600,Lee Ridge,6400
+0.944326678,Richfield,6600,Parsons Industrial,6570
+0.944326678,Richfield,6600,Strathcona Industrial Park,6700
+0.944326678,Richfield,6600,Tipaskan,6750
+0.944326678,Richfield,6600,Tweddle Place,6760
+0.591263813,Richford,5451,Blackburne,5590
+0.591263813,Richford,5451,Blackmud Creek,5453
+0.591263813,Richford,5451,Cashman,5466
+0.591263813,Richford,5451,MacEwan,5452
+0.591263813,Richford,5451,Rutherford,5454
+0.801660987,Rideau Park,5360,Calgary Trail North,5110
+0.801660987,Rideau Park,5360,Calgary Trail South,5120
+0.801660987,Rideau Park,5360,Duggan,5160
+0.801660987,Rideau Park,5360,Empire Park,5170
+0.801660987,Rideau Park,5360,Greenfield,5220
+0.801660987,Rideau Park,5360,Malmo Plains,5280
+0.801660987,Rideau Park,5360,Royal Gardens,5430
+0.58275232,Rio Terrace,4430,Quesnell Heights,4420
+1.269340267,Ritchie,6610,CPR Irvine,6110
+1.269340267,Ritchie,6610,Hazeldean,6290
+1.269340267,Ritchie,6610,Mill Creek Ravine North,6491
+1.269340267,Ritchie,6610,Strathcona,5480
+2.028065672,River Valley Cameron,4467,Anthony Henday Terwillegar,4013
+2.028065672,River Valley Cameron,4467,Cameron Heights,4466
+2.028065672,River Valley Cameron,4467,River Valley Oleskiw,4451
+2.028065672,River Valley Cameron,4467,Wedgewood Heights,4570
+1.687583469,River Valley Capitol Hill,3380,Canora,4090
+1.687583469,River Valley Capitol Hill,3380,Crestwood,3140
+1.687583469,River Valley Capitol Hill,3380,Glenora,3200
+1.687583469,River Valley Capitol Hill,3380,Grovenor,3210
+1.687583469,River Valley Capitol Hill,3380,River Valley Glenora,3381
+1.687583469,River Valley Capitol Hill,3380,River Valley Laurier,3382
+1.687583469,River Valley Capitol Hill,3380,West Jasper Place,4580
+0.990622541,River Valley Fort Edmonton,5401,River Valley Laurier,3382
+0.990622541,River Valley Fort Edmonton,5401,River Valley Lessard North,4440
+0.990622541,River Valley Fort Edmonton,5401,River Valley Oleskiw,4451
+0.652515924,River Valley Glenora,3381,River Valley Capitol Hill,3380
+0.652515924,River Valley Glenora,3381,River Valley Mayfair,5370
+2.070698192,River Valley Gold Bar,6620,Capilano,6061
+2.070698192,River Valley Gold Bar,6620,Eastgate Business Park,6180
+2.070698192,River Valley Gold Bar,6620,Fulton Place,6240
+2.070698192,River Valley Gold Bar,6620,River Valley Highlands,2640
+2.070698192,River Valley Gold Bar,6620,River Valley Rundle,2650
+2.196307961,River Valley Hermitage,2630,Anthony Henday Clareview,4022
+2.196307961,River Valley Hermitage,2630,Bannerman,2030
+2.196307961,River Valley Hermitage,2630,Clover Bar Area,2160
+2.196307961,River Valley Hermitage,2630,Homesteader,2350
+2.196307961,River Valley Hermitage,2630,River Valley Rundle,2650
+1.188119616,River Valley Highlands,2640,Bellevue,2060
+1.188119616,River Valley Highlands,2640,Beverly Heights,2100
+1.188119616,River Valley Highlands,2640,Highlands,2330
+1.188119616,River Valley Highlands,2640,River Valley Gold Bar,6620
+1.188119616,River Valley Highlands,2640,River Valley Kinnaird,1190
+1.188119616,River Valley Highlands,2640,River Valley Riverside,6630
+1.188119616,River Valley Highlands,2640,River Valley Rundle,2650
+1.188119616,River Valley Highlands,2640,Virginia Park,1240
+0.855766648,River Valley Kinnaird,1190,Boyle Street,1020
+0.855766648,River Valley Kinnaird,1190,Cromdale,1070
+0.855766648,River Valley Kinnaird,1190,River Valley Highlands,2640
+0.855766648,River Valley Kinnaird,1190,Riverdale,1210
+0.855766648,River Valley Kinnaird,1190,Virginia Park,1240
+1.24348344,River Valley Laurier,3382,Laurier Heights,3270
+1.24348344,River Valley Laurier,3382,Lynnwood,4280
+1.24348344,River Valley Laurier,3382,River Valley Capitol Hill,3380
+1.24348344,River Valley Laurier,3382,River Valley Fort Edmonton,5401
+1.24348344,River Valley Laurier,3382,River Valley Lessard North,4440
+1.24348344,River Valley Laurier,3382,River Valley Whitemud,5400
+0.744839599,River Valley Lessard North,4440,Oleskiw,4360
+0.744839599,River Valley Lessard North,4440,River Valley Fort Edmonton,5401
+0.744839599,River Valley Lessard North,4440,River Valley Laurier,3382
+0.744839599,River Valley Lessard North,4440,River Valley Oleskiw,4451
+0.744839599,River Valley Lessard North,4440,River Valley Terwillegar,5380
+2.347954984,River Valley Mayfair,5370,Belgravia,5040
+2.347954984,River Valley Mayfair,5370,River Valley Glenora,3381
+2.347954984,River Valley Mayfair,5370,River Valley Victoria,1200
+2.347954984,River Valley Mayfair,5370,River Valley Walterdale,5390
+2.347954984,River Valley Mayfair,5370,River Valley Whitemud,5400
+2.347954984,River Valley Mayfair,5370,University of Alberta,5520
+2.473085931,River Valley Oleskiw,4451,River Valley Cameron,4467
+2.473085931,River Valley Oleskiw,4451,River Valley Fort Edmonton,5401
+2.473085931,River Valley Oleskiw,4451,River Valley Lessard North,4440
+1.249360272,River Valley Riverside,6630,Cloverdale,6070
+1.249360272,River Valley Riverside,6630,River Valley Highlands,2640
+2.111673845,River Valley Rundle,2650,Abbottsfield,2010
+2.111673845,River Valley Rundle,2650,Beverly Heights,2100
+2.111673845,River Valley Rundle,2650,Canon Ridge,2120
+2.111673845,River Valley Rundle,2650,Clover Bar Area,2160
+2.111673845,River Valley Rundle,2650,Overlanders,2590
+2.111673845,River Valley Rundle,2650,River Valley Gold Bar,6620
+2.111673845,River Valley Rundle,2650,River Valley Hermitage,2630
+2.111673845,River Valley Rundle,2650,River Valley Highlands,2640
+3.077820277,River Valley Terwillegar,5380,Anthony Henday South West,4012
+3.077820277,River Valley Terwillegar,5380,Anthony Henday Terwillegar,4013
+3.077820277,River Valley Terwillegar,5380,Haddow,5610
+3.077820277,River Valley Terwillegar,5380,Rhatigan Ridge,5350
+3.077820277,River Valley Terwillegar,5380,River Valley Lessard North,4440
+1.298985111,River Valley Victoria,1200,River Valley Mayfair,5370
+1.298985111,River Valley Victoria,1200,River Valley Walterdale,5390
+1.485453122,River Valley Walterdale,5390,Cloverdale,6070
+1.485453122,River Valley Walterdale,5390,Mill Creek Ravine North,6491
+1.485453122,River Valley Walterdale,5390,River Valley Mayfair,5370
+1.485453122,River Valley Walterdale,5390,River Valley Victoria,1200
+1.485453122,River Valley Walterdale,5390,Riverdale,1210
+1.485453122,River Valley Walterdale,5390,Rossdale,1220
+1.485453122,River Valley Walterdale,5390,Strathcona,5480
+1.485453122,River Valley Walterdale,5390,University of Alberta,5520
+1.485453122,River Valley Walterdale,5390,Windsor Park,5580
+1.51476693,River Valley Whitemud,5400,Belgravia,5040
+1.51476693,River Valley Whitemud,5400,Brookside,5090
+1.51476693,River Valley Whitemud,5400,River Valley Laurier,3382
+1.51476693,River Valley Whitemud,5400,River Valley Mayfair,5370
+2.830774177,River Valley Windermere,5405,Anthony Henday South West,4012
+2.830774177,River Valley Windermere,5405,Keswick Area,5576
+2.830774177,River Valley Windermere,5405,Riverview Area,4463
+1.044131909,Riverdale,1210,Downtown,1090
+1.044131909,Riverdale,1210,River Valley Kinnaird,1190
+1.044131909,Riverdale,1210,River Valley Walterdale,5390
+1.044131909,Riverdale,1210,Rossdale,1220
+20.30818426,Riverview Area,4463,Anthony Henday Terwillegar,4013
+20.30818426,Riverview Area,4463,Keswick Area,5576
+20.30818426,Riverview Area,4463,River Valley Windermere,5405
+20.30818426,Riverview Area,4463,Windermere Area,5575
+2.948911747,Roper Industrial,6640,Jackson Heights,6330
+2.948911747,Roper Industrial,6640,Michaels Park,6480
+2.948911747,Roper Industrial,6640,Mill Woods Golf Course,6500
+2.948911747,Roper Industrial,6640,Pylypow Industrial,6590
+2.948911747,Roper Industrial,6640,Weir Industrial,6780
+0.455538151,Rosedale Industrial,6650,Coronet Addition Industrial,6090
+0.455538151,Rosedale Industrial,6650,Davies Industrial West,6170
+0.455538151,Rosedale Industrial,6650,Hazeldean,6290
+0.455538151,Rosedale Industrial,6650,Mill Creek Ravine South,6492
+2.663379524,Rosenthal,4750,Breckenridge Greens,4700
+2.663379524,Rosenthal,4750,Granville,4551
+2.663379524,Rosenthal,4750,Secord,4487
+0.91281138,Rossdale,1220,Cloverdale,6070
+0.91281138,Rossdale,1220,River Valley Walterdale,5390
+0.91281138,Rossdale,1220,Riverdale,1210
+1.342960407,Rosslyn,3390,Calder,3070
+1.342960407,Rosslyn,3390,Carlisle,3090
+1.342960407,Rosslyn,3390,Glengarry,2290
+1.342960407,Rosslyn,3390,Griesbach,3111
+1.342960407,Rosslyn,3390,Kensington,3250
+1.218698963,Royal Gardens,5430,Duggan,5160
+1.218698963,Royal Gardens,5430,Empire Park,5170
+1.218698963,Royal Gardens,5430,Greenfield,5220
+1.218698963,Royal Gardens,5430,Lansdowne,5260
+1.218698963,Royal Gardens,5430,Malmo Plains,5280
+1.218698963,Royal Gardens,5430,Rideau Park,5360
+0.823978434,Rundle Heights,2660,Abbottsfield,2010
+0.823978434,Rundle Heights,2660,Beacon Heights,2040
+0.823978434,Rundle Heights,2660,Beverly Heights,2100
+16.68666807,Rural North East Horse Hill,2670,Anthony Henday Energy Park,4019
+16.68666807,Rural North East Horse Hill,2670,Edmonton Energy And Technology Park,2681
+16.68666807,Rural North East Horse Hill,2670,Evergreen,2270
+21.78971414,Rural North East South Sturgeon,2690,Anthony Henday Clareview,4022
+21.78971414,Rural North East South Sturgeon,2690,Clover Bar Area,2160
+23.29222045,Rural South East,6660,Charlesworth,6661
+23.29222045,Rural South East,6660,Summerside,6213
+23.29222045,Rural South East,6660,The Orchards At Ellerslie,6216
+23.29222045,Rural South East,6660,Walker,6662
+4.883043452,Rural West Big Lake,4470,Anthony Henday Big Lake,4018
+4.883043452,Rural West Big Lake,4470,Hawks Ridge,4473
+4.883043452,Rural West Big Lake,4470,Starling,4474
+4.883043452,Rural West Big Lake,4470,Winterburn Industrial Area East,4650
+2.249955066,Rutherford,5454,Anthony Henday South,4014
+2.249955066,Rutherford,5454,Blackmud Creek,5453
+2.249955066,Rutherford,5454,Callaghan,5457
+2.249955066,Rutherford,5454,Heritage Valley Area,5456
+2.249955066,Rutherford,5454,Heritage Valley Town Centre Area,5464
+2.249955066,Rutherford,5454,MacEwan,5452
+2.249955066,Rutherford,5454,Richford,5451
+1.112078674,Sakaw,6670,Crawford Plains,6140
+1.112078674,Sakaw,6670,Ekota,6200
+1.112078674,Sakaw,6670,Menisa,6450
+1.112078674,Sakaw,6670,Meyokumin,6460
+1.112078674,Sakaw,6670,Pollard Meadows,6580
+1.312643904,Satoo,6680,Edmonton Research and Development Park,6190
+1.312643904,Satoo,6680,Ekota,6200
+1.312643904,Satoo,6680,Menisa,6450
+1.312643904,Satoo,6680,Meyonohk,6470
+1.312643904,Satoo,6680,Mill Woods Park,6510
+1.312643904,Satoo,6680,Parsons Industrial,6570
+1.24470279,Schonsee,2700,Belle Rive,2050
+1.24470279,Schonsee,2700,Crystallina Nera East,2462
+1.24470279,Schonsee,2700,Crystallina Nera West,2463
+1.24470279,Schonsee,2700,Matt Berry,2500
+1.24470279,Schonsee,2700,Mayliewan,2511
+1.24470279,Schonsee,2700,McConachie Area,2521
+1.24470279,Schonsee,2700,Ozerna,2600
+2.64375161,Secord,4487,Lewis Farms Industrial,4485
+2.64375161,Secord,4487,Rosenthal,4750
+2.64375161,Secord,4487,Winterburn Industrial Area East,4650
+2.64375161,Secord,4487,Winterburn Industrial Area West,4670
+0.379683786,Sheffield Industrial,4490,Alberta Park Industrial,4010
+0.379683786,Sheffield Industrial,4490,Garside Industrial,4170
+0.379683786,Sheffield Industrial,4490,High Park,4200
+0.379683786,Sheffield Industrial,4490,High Park Industrial,4210
+0.379683786,Sheffield Industrial,4490,Mayfield,4290
+0.379683786,Sheffield Industrial,4490,Norwester Industrial,4350
+0.926198949,Sherbrooke,3410,Brown Industrial,3050
+0.926198949,Sherbrooke,3410,Dovercourt,3170
+0.926198949,Sherbrooke,3410,Hagmann Estate Industrial,3220
+0.926198949,Sherbrooke,3410,Inglewood,3240
+0.926198949,Sherbrooke,3410,Prince Charles,3350
+0.926198949,Sherbrooke,3410,Woodcroft,3450
+0.44069687,Sherwood,4500,Crestwood,3140
+0.44069687,Sherwood,4500,Glenwood,4180
+0.44069687,Sherwood,4500,Jasper Park,4230
+0.44069687,Sherwood,4500,Meadowlark Park,4310
+0.44069687,Sherwood,4500,Parkview,3330
+0.44069687,Sherwood,4500,West Jasper Place,4580
+0.503619373,Sifton Park,2710,Clareview Town Centre,2145
+0.503619373,Sifton Park,2710,Homesteader,2350
+0.503619373,Sifton Park,2710,Kennedale Industrial,2380
+2.161978601,Silver Berry,6442,Bisset,6030
+2.161978601,Silver Berry,6442,Daly Grove,6150
+2.161978601,Silver Berry,6442,Laurel,6444
+2.161978601,Silver Berry,6442,Meadows Area,6440
+2.161978601,Silver Berry,6442,Minchau,6530
+2.161978601,Silver Berry,6442,Tamarack,6443
+2.161978601,Silver Berry,6442,Wild Rose,6790
+0.617911318,Skyrattler,5460,Blue Quill,5060
+0.617911318,Skyrattler,5460,Blue Quill Estates,5070
+0.617911318,Skyrattler,5460,Ermineskin,5180
+0.617911318,Skyrattler,5460,Keheewin,5250
+1.40199579,South Edmonton Common,6195,Anthony Henday South,4014
+1.40199579,South Edmonton Common,6195,Anthony Henday South East,6665
+1.40199579,South Edmonton Common,6195,Bearspaw,5030
+1.40199579,South Edmonton Common,6195,Ermineskin,5180
+1.40199579,South Edmonton Common,6195,Keheewin,5250
+1.40199579,South Edmonton Common,6195,Parsons Industrial,6570
+1.744150614,South Terwillegar,5642,Mactaggart,5477
+1.744150614,South Terwillegar,5642,Magrath Heights,5476
+1.744150614,South Terwillegar,5642,Terwillegar Towne,5640
+6.999989028,Southeast Industrial,6690,Jackson Heights,6330
+6.999989028,Southeast Industrial,6690,Larkspur,6390
+6.999989028,Southeast Industrial,6690,Maple Ridge,6410
+6.999989028,Southeast Industrial,6690,Pylypow Industrial,6590
+6.999989028,Southeast Industrial,6690,Weir Industrial,6780
+1.214704565,Spruce Avenue,1230,Alberta Avenue,1010
+1.214704565,Spruce Avenue,1230,Central McDougall,1030
+1.214704565,Spruce Avenue,1230,Edmonton Municipal Airport,1110
+1.214704565,Spruce Avenue,1230,McCauley,1140
+1.214704565,Spruce Avenue,1230,Prince Rupert,1170
+1.214704565,Spruce Avenue,1230,Westwood,1250
+1.422534918,Starling,4474,Anthony Henday Big Lake,4018
+1.422534918,Starling,4474,Rural West Big Lake,4470
+1.422534918,Starling,4474,Trumpeter Area,4471
+0.919831586,Steinhauer,5470,Calgary Trail South,5120
+0.919831586,Steinhauer,5470,Duggan,5160
+0.919831586,Steinhauer,5470,Ermineskin,5180
+0.919831586,Steinhauer,5470,Greenfield,5220
+0.919831586,Steinhauer,5470,Sweet Grass,5490
+0.645861456,Stone Industrial,4510,Britannia Youngstown,4060
+0.645861456,Stone Industrial,4510,Glenwood,4180
+0.645861456,Stone Industrial,4510,McNamara Industrial,4300
+0.645861456,Stone Industrial,4510,Morin Industrial,4340
+0.645861456,Stone Industrial,4510,Place LaRue,4400
+0.645861456,Stone Industrial,4510,Wilson Industrial,4640
+0.645861456,Stone Industrial,4510,Youngstown Industrial,4660
+1.568907301,Strathcona,5480,CPR Irvine,6110
+1.568907301,Strathcona,5480,Garneau,5200
+1.568907301,Strathcona,5480,Mill Creek Ravine South,6492
+1.568907301,Strathcona,5480,Queen Alexandra,5330
+1.568907301,Strathcona,5480,Ritchie,6610
+1.568907301,Strathcona,5480,River Valley Walterdale,5390
+1.568907301,Strathcona,5480,Strathcona Junction,5151
+2.67695603,Strathcona Industrial Park,6700,Calgary Trail North,5110
+2.67695603,Strathcona Industrial Park,6700,Calgary Trail South,5120
+2.67695603,Strathcona Industrial Park,6700,McIntyre Industrial,6430
+2.67695603,Strathcona Industrial Park,6700,Papaschase Industrial,6560
+2.67695603,Strathcona Industrial Park,6700,Parsons Industrial,6570
+2.67695603,Strathcona Industrial Park,6700,Richfield,6600
+2.67695603,Strathcona Industrial Park,6700,Tipaskan,6750
+2.67695603,Strathcona Industrial Park,6700,Tweddle Place,6760
+0.586610398,Strathcona Junction,5151,Allendale,5010
+0.586610398,Strathcona Junction,5151,Calgary Trail North,5110
+0.586610398,Strathcona Junction,5151,Coronet Industrial,6100
+0.586610398,Strathcona Junction,5151,CPR Irvine,6110
+0.586610398,Strathcona Junction,5151,Queen Alexandra,5330
+0.586610398,Strathcona Junction,5151,Strathcona,5480
+0.786271092,Strathearn,6710,Bonnie Doon,6040
+0.786271092,Strathearn,6710,Cloverdale,6070
+0.786271092,Strathearn,6710,Holyrood,6310
+0.786271092,Strathearn,6710,Idylwylde,6320
+0.983507811,Suder Greens,4730,Breckenridge Greens,4700
+0.983507811,Suder Greens,4730,Potter Greens,4710
+1.100465963,Summerlea,4520,Aldergrove,4020
+1.100465963,Summerlea,4520,Belmead,4040
+1.100465963,Summerlea,4520,Elmwood,4140
+1.100465963,Summerlea,4520,Glenwood,4180
+1.100465963,Summerlea,4520,La Perle,4240
+1.100465963,Summerlea,4520,Terra Losa,4540
+3.911019629,Summerside,6213,Charlesworth,6661
+3.911019629,Summerside,6213,Ellerslie,6211
+3.911019629,Summerside,6213,Ellerslie Industrial,6214
+3.911019629,Summerside,6213,Rural South East,6660
+3.911019629,Summerside,6213,The Orchards At Ellerslie,6216
+3.911019629,Summerside,6213,Walker,6662
+0.675263163,Sunwapta Industrial,4530,Morin Industrial,4340
+0.675263163,Sunwapta Industrial,4530,Poundmaker Industrial,4410
+0.675263163,Sunwapta Industrial,4530,Wilson Industrial,4640
+0.917072494,Sweet Grass,5490,Blue Quill Estates,5070
+0.917072494,Sweet Grass,5490,Duggan,5160
+0.917072494,Sweet Grass,5490,Ermineskin,5180
+0.917072494,Sweet Grass,5490,Greenfield,5220
+0.917072494,Sweet Grass,5490,Steinhauer,5470
+2.561403711,Tamarack,6443,Larkspur,6390
+2.561403711,Tamarack,6443,Laurel,6444
+2.561403711,Tamarack,6443,Silver Berry,6442
+2.561403711,Tamarack,6443,Wild Rose,6790
+0.664650395,Tawa,6720,Hillview,6300
+0.664650395,Tawa,6720,Kameyosek,6340
+0.664650395,Tawa,6720,Lee Ridge,6400
+0.664650395,Tawa,6720,Mill Woods Park,6510
+0.664650395,Tawa,6720,Mill Woods Town Centre,6520
+0.664650395,Tawa,6720,Minchau,6530
+0.664650395,Tawa,6720,Weinlos,6770
+0.761298589,Terra Losa,4540,Belmead,4040
+0.761298589,Terra Losa,4540,Glenwood,4180
+0.761298589,Terra Losa,4540,La Perle,4240
+0.761298589,Terra Losa,4540,Place LaRue,4400
+0.761298589,Terra Losa,4540,Summerlea,4520
+0.761298589,Terra Losa,4540,West Meadowlark Park,4590
+0.759785567,Terrace Heights,6730,Forest Heights,6230
+0.759785567,Terrace Heights,6730,Holyrood,6310
+1.86954208,Terwillegar Towne,5640,Haddow,5610
+1.86954208,Terwillegar Towne,5640,Hodgson,5620
+1.86954208,Terwillegar Towne,5640,Leger,5630
+1.86954208,Terwillegar Towne,5640,Mactaggart,5477
+1.86954208,Terwillegar Towne,5640,Magrath Heights,5476
+1.86954208,Terwillegar Towne,5640,South Terwillegar,5642
+2.943196454,The Hamptons,4461,Anthony Henday South West,4012
+2.943196454,The Hamptons,4461,Glastonbury,4720
+2.943196454,The Hamptons,4461,Granville,4551
+2.5374283,The Orchards At Ellerslie,6216,Ellerslie Industrial,6214
+2.5374283,The Orchards At Ellerslie,6216,Rural South East,6660
+2.5374283,The Orchards At Ellerslie,6216,Summerside,6213
+2.5374283,The Orchards At Ellerslie,6216,Walker,6662
+0.898130392,Thorncliff,4560,Aldergrove,4020
+0.898130392,Thorncliff,4560,Callingwood North,4070
+0.898130392,Thorncliff,4560,Elmwood,4140
+0.898130392,Thorncliff,4560,Lymburn,4270
+0.898130392,Thorncliff,4560,West Meadowlark Park,4590
+0.898130392,Thorncliff,4560,Westridge,4610
+0.80429214,Tipaskan,6750,Kameyosek,6340
+0.80429214,Tipaskan,6750,Lee Ridge,6400
+0.80429214,Tipaskan,6750,Meyonohk,6470
+0.80429214,Tipaskan,6750,Mill Woods Park,6510
+0.80429214,Tipaskan,6750,Parsons Industrial,6570
+0.80429214,Tipaskan,6750,Richfield,6600
+0.80429214,Tipaskan,6750,Strathcona Industrial Park,6700
+2.28718897,Trumpeter Area,4471,Hawks Ridge,4473
+2.28718897,Trumpeter Area,4471,Starling,4474
+1.119256262,Tweddle Place,6760,Lee Ridge,6400
+1.119256262,Tweddle Place,6760,McIntyre Industrial,6430
+1.119256262,Tweddle Place,6760,Michaels Park,6480
+1.119256262,Tweddle Place,6760,Papaschase Industrial,6560
+1.119256262,Tweddle Place,6760,Richfield,6600
+1.119256262,Tweddle Place,6760,Strathcona Industrial Park,6700
+1.195997288,University of Alberta,5520,Belgravia,5040
+1.195997288,University of Alberta,5520,Garneau,5200
+1.195997288,University of Alberta,5520,McKernan,5290
+1.195997288,University of Alberta,5520,River Valley Mayfair,5370
+1.195997288,University of Alberta,5520,River Valley Walterdale,5390
+1.195997288,University of Alberta,5520,Windsor Park,5580
+2.975899046,University of Alberta Farm,5530,Belgravia,5040
+2.975899046,University of Alberta Farm,5530,Grandview Heights,5210
+2.975899046,University of Alberta Farm,5530,Lansdowne,5260
+2.975899046,University of Alberta Farm,5530,Lendrum Place,5270
+2.975899046,University of Alberta Farm,5530,Malmo Plains,5280
+2.975899046,University of Alberta Farm,5530,McKernan,5290
+2.975899046,University of Alberta Farm,5530,Parkallen,5310
+0.507584423,Virginia Park,1240,Cromdale,1070
+0.507584423,Virginia Park,1240,River Valley Highlands,2640
+0.507584423,Virginia Park,1240,River Valley Kinnaird,1190
+2.634169788,Walker,6662,Charlesworth,6661
+2.634169788,Walker,6662,Ellerslie,6211
+2.634169788,Walker,6662,Rural South East,6660
+2.634169788,Walker,6662,Summerside,6213
+2.634169788,Walker,6662,The Orchards At Ellerslie,6216
+0.708629281,Wedgewood Heights,4570,Anthony Henday South West,4012
+0.708629281,Wedgewood Heights,4570,Dechene,4110
+0.708629281,Wedgewood Heights,4570,Donsdale,4120
+0.708629281,Wedgewood Heights,4570,Jamieson Place,4220
+0.708629281,Wedgewood Heights,4570,River Valley Cameron,4467
+0.916813824,Weinlos,6770,Bisset,6030
+0.916813824,Weinlos,6770,Daly Grove,6150
+0.916813824,Weinlos,6770,Hillview,6300
+0.916813824,Weinlos,6770,Meyokumin,6460
+0.916813824,Weinlos,6770,Mill Woods Town Centre,6520
+0.916813824,Weinlos,6770,Minchau,6530
+0.916813824,Weinlos,6770,Pollard Meadows,6580
+0.916813824,Weinlos,6770,Tawa,6720
+1.634341214,Weir Industrial,6780,Davies Industrial East,6160
+1.634341214,Weir Industrial,6780,Gainer Industrial,6250
+1.634341214,Weir Industrial,6780,Morris Industrial,6540
+1.634341214,Weir Industrial,6780,Roper Industrial,6640
+1.634341214,Weir Industrial,6780,Southeast Industrial,6690
+1.219223017,Wellington,3430,Baranow,3020
+1.219223017,Wellington,3430,Calder,3070
+1.219223017,Wellington,3430,Kensington,3250
+1.219223017,Wellington,3430,McArthur Industrial,3290
+0.890709249,West Jasper Place,4580,Britannia Youngstown,4060
+0.890709249,West Jasper Place,4580,Canora,4090
+0.890709249,West Jasper Place,4580,Crestwood,3140
+0.890709249,West Jasper Place,4580,Glenwood,4180
+0.890709249,West Jasper Place,4580,Grovenor,3210
+0.890709249,West Jasper Place,4580,Meadowlark Park,4310
+0.890709249,West Jasper Place,4580,Parkview,3330
+0.890709249,West Jasper Place,4580,River Valley Capitol Hill,3380
+0.890709249,West Jasper Place,4580,Sherwood,4500
+1.117036551,West Meadowlark Park,4590,Elmwood,4140
+1.117036551,West Meadowlark Park,4590,Glenwood,4180
+1.117036551,West Meadowlark Park,4590,Meadowlark Park,4310
+1.117036551,West Meadowlark Park,4590,Terra Losa,4540
+1.117036551,West Meadowlark Park,4590,Thorncliff,4560
+0.624060592,West Sheffield Industrial,4600,Alberta Park Industrial,4010
+0.624060592,West Sheffield Industrial,4600,Armstrong Industrial,4030
+0.624060592,West Sheffield Industrial,4600,McNamara Industrial,4300
+0.624060592,West Sheffield Industrial,4600,Norwester Industrial,4350
+0.624060592,West Sheffield Industrial,4600,Youngstown Industrial,4660
+1.165427598,Westbrook Estates,5540,Greenfield,5220
+1.864284411,Westmount,3440,Glenora,3200
+1.864284411,Westmount,3440,Inglewood,3240
+1.864284411,Westmount,3440,North Glenora,3310
+1.864284411,Westmount,3440,Oliver,1150
+1.864284411,Westmount,3440,Prince Rupert,1170
+1.864284411,Westmount,3440,Queen Mary Park,1180
+1.864284411,Westmount,3440,Woodcroft,3450
+0.736709822,Westridge,4610,Callingwood North,4070
+0.736709822,Westridge,4610,Callingwood South,4080
+0.736709822,Westridge,4610,Elmwood,4140
+0.736709822,Westridge,4610,Thorncliff,4560
+0.925794461,Westview Village,4620,Winterburn Industrial Area East,4650
+0.983008029,Westwood,1250,Alberta Avenue,1010
+0.983008029,Westwood,1250,Delton,1080
+0.983008029,Westwood,1250,Edmonton Municipal Airport,1110
+0.983008029,Westwood,1250,Spruce Avenue,1230
+0.983008029,Westwood,1250,Yellowhead Corridor East,1270
+0.983008029,Westwood,1250,Yellowhead Corridor West,1280
+1.92572739,White Industrial,4630,Anthony Henday Big Lake,4018
+1.92572739,White Industrial,4630,Edmiston Industrial,4130
+1.92572739,White Industrial,4630,Kinokamau Plains Area,4475
+1.92572739,White Industrial,4630,Poundmaker Industrial,4410
+1.92572739,White Industrial,4630,Wilson Industrial,4640
+0.752651077,Whitemud Creek Ravine North,5550,Brookside,5090
+0.752651077,Whitemud Creek Ravine North,5550,Whitemud Creek Ravine South,5560
+2.220311065,Whitemud Creek Ravine South,5560,Blue Quill,5060
+2.220311065,Whitemud Creek Ravine South,5560,Blue Quill Estates,5070
+2.220311065,Whitemud Creek Ravine South,5560,Bulyea Heights,5100
+2.220311065,Whitemud Creek Ravine South,5560,Hodgson,5620
+2.220311065,Whitemud Creek Ravine South,5560,Lansdowne,5260
+2.220311065,Whitemud Creek Ravine South,5560,Malmo Plains,5280
+2.220311065,Whitemud Creek Ravine South,5560,Whitemud Creek Ravine North,5550
+1.635798353,Whitemud Creek Ravine Twin Brooks,5565,Magrath Heights,5476
+1.772289991,Wild Rose,6790,Larkspur,6390
+1.772289991,Wild Rose,6790,Silver Berry,6442
+1.772289991,Wild Rose,6790,Tamarack,6443
+0.996486221,Wilson Industrial,4640,Armstrong Industrial,4030
+0.996486221,Wilson Industrial,4640,Edmiston Industrial,4130
+0.996486221,Wilson Industrial,4640,Morin Industrial,4340
+0.996486221,Wilson Industrial,4640,Poundmaker Industrial,4410
+0.996486221,Wilson Industrial,4640,Stone Industrial,4510
+0.996486221,Wilson Industrial,4640,Sunwapta Industrial,4530
+0.996486221,Wilson Industrial,4640,White Industrial,4630
+4.766389076,Windermere,5570,Ambleside,5505
+4.766389076,Windermere,5570,Glenridding Area,5577
+3.713254334,Windermere Area,5575,Glenridding Area,5577
+3.713254334,Windermere Area,5575,Riverview Area,4463
+0.7580138,Windsor Park,5580,Belgravia,5040
+0.7580138,Windsor Park,5580,River Valley Walterdale,5390
+0.7580138,Windsor Park,5580,University of Alberta,5520
+5.66486911,Winterburn Industrial Area East,4650,Anthony Henday Big Lake,4018
+5.66486911,Winterburn Industrial Area East,4650,Rural West Big Lake,4470
+5.66486911,Winterburn Industrial Area East,4650,Secord,4487
+5.66486911,Winterburn Industrial Area East,4650,Westview Village,4620
+4.348392387,Winterburn Industrial Area West,4670,Lewis Farms Industrial,4485
+4.348392387,Winterburn Industrial Area West,4670,Secord,4487
+1.291675612,Woodcroft,3450,Dominion Industrial,3160
+1.291675612,Woodcroft,3450,Dovercourt,3170
+1.291675612,Woodcroft,3450,Huff Bremner Estate Industrial,3230
+1.291675612,Woodcroft,3450,Inglewood,3240
+1.291675612,Woodcroft,3450,McQueen,3300
+1.291675612,Woodcroft,3450,North Glenora,3310
+1.291675612,Woodcroft,3450,Sherbrooke,3410
+1.291675612,Woodcroft,3450,Westmount,3440
+1.430509654,Yellowhead Corridor East,1270,Belvedere,2080
+1.430509654,Yellowhead Corridor East,1270,Elmwood Park,1130
+1.430509654,Yellowhead Corridor East,1270,Killarney,2420
+1.430509654,Yellowhead Corridor East,1270,Lauderdale,3260
+1.430509654,Yellowhead Corridor East,1270,Westwood,1250
+1.430509654,Yellowhead Corridor East,1270,Yellowhead Corridor West,1280
+1.164864896,Yellowhead Corridor West,1280,Delton,1080
+1.164864896,Yellowhead Corridor West,1280,Edmonton Municipal Airport,1110
+1.164864896,Yellowhead Corridor West,1280,Killarney,2420
+1.164864896,Yellowhead Corridor West,1280,Lauderdale,3260
+1.164864896,Yellowhead Corridor West,1280,Prince Charles,3350
+1.164864896,Yellowhead Corridor West,1280,Westwood,1250
+1.164864896,Yellowhead Corridor West,1280,Yellowhead Corridor East,1270
+1.188834252,York,2720,Belvedere,2080
+1.188834252,York,2720,Casselman,2130
+1.188834252,York,2720,Clareview Town Centre,2145
+1.188834252,York,2720,Delwood,2230
+1.188834252,York,2720,Kildare,2400
+1.188834252,York,2720,Kilkenny,2410
+1.188834252,York,2720,McLeod,2530
+1.188834252,York,2720,Miller,2541
+0.483841105,Youngstown Industrial,4660,Stone Industrial,4510
+0.483841105,Youngstown Industrial,4660,West Sheffield Industrial,4600
