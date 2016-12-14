@@ -132,18 +132,6 @@
    "cell_type": "code",
    "execution_count": 6,
    "metadata": {
-    "collapsed": true
-   },
-   "outputs": [],
-   "source": [
-    "Y_2 = pd.DataFrame(Y_scaled)\n",
-    "Y_2.to_csv(\"test2.csv\")"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": 7,
-   "metadata": {
     "collapsed": false
    },
    "outputs": [
@@ -164,7 +152,7 @@
        "        -6.62915777e-17,  -4.15126870e-17])"
       ]
      },
-     "execution_count": 7,
+     "execution_count": 6,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -175,7 +163,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 8,
+   "execution_count": 7,
    "metadata": {
     "collapsed": false
    },
@@ -188,7 +176,7 @@
        "        1.,  1.,  1.,  1.,  1.,  1.,  1.,  1.,  1.])"
       ]
      },
-     "execution_count": 8,
+     "execution_count": 7,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -199,7 +187,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 9,
+   "execution_count": 8,
    "metadata": {
     "collapsed": false
    },
@@ -208,7 +196,7 @@
      "name": "stdout",
      "output_type": "stream",
      "text": [
-      "[0.80711606642881872, 0.38367750028102765, 0.20481374137809011, 0.17980884030270711, 0.11183053453952699, 0.083490108914793873, 0.068004477844928482, 0.055149965259994285]\n",
+      "[0.80711606642881806, 0.38367750028102771, 0.20481374137809025, 0.17980884030270702, 0.11183053453952706, 0.08349010891479397, 0.068004477844928413, 0.055149965259994341]\n",
       "[[  8.03315836e-01  -3.45466728e-01   5.74411120e-03  -2.87913653e-02\n",
       "    1.01554073e-02   1.12876404e-01   1.40490039e-02  -9.53095452e-02]\n",
       " [ -1.73749430e+00  -1.36842368e+00   7.59291667e-01   4.98095465e-01\n",
@@ -235,7 +223,6 @@
     "cca.fit(X_scaled,Y_scaled)\n",
     "X_c, Y_c = cca.transform(X_scaled, Y_scaled)\n",
     "\n",
-    "\n",
     "c = []\n",
     "for i in range(n_components):\n",
     "    c.append(np.corrcoef(X_c[:,i], Y_c[:,i])[0,1])\n",
@@ -251,7 +238,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 10,
+   "execution_count": 9,
    "metadata": {
     "collapsed": true
    },
@@ -262,7 +249,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 11,
+   "execution_count": 10,
    "metadata": {
     "collapsed": false
    },
@@ -272,10 +259,43 @@
     "Y_star = Y_scaled * np.asmatrix(T)\n",
     "Y_hat = np.empty(shape=(len(X_scaled),8))\n",
     "\n",
-    "\n",
     "for x in range(8):\n",
     "    regr.fit(X_scaled, Y_star[:,x])\n",
     "    Y_hat[:, x] = np.ndarray.flatten(regr.predict(X_scaled))"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 11,
+   "metadata": {
+    "collapsed": false
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "array([[ 2.22941451, -0.65375442,  1.23066356, ..., -0.38554792,\n",
+       "        -0.36882072, -0.31033854],\n",
+       "       [-4.31648393,  1.44316941, -2.51079152, ...,  0.72596331,\n",
+       "         0.78517098, -0.21463541],\n",
+       "       [ 2.22941451, -0.65375442,  1.23066356, ..., -0.38554792,\n",
+       "        -0.36882072, -0.31033854],\n",
+       "       ..., \n",
+       "       [ 2.1879106 , -0.64984817,  1.2230952 , ..., -0.38652448,\n",
+       "        -0.36772208, -0.28934244],\n",
+       "       [ 0.94718794, -0.31262893,  0.74265697, ..., -0.26039533,\n",
+       "        -0.20953422, -0.117559  ],\n",
+       "       [ 2.22941451, -0.65375442,  1.23066356, ..., -0.38554792,\n",
+       "        -0.36882072, -0.31033854]])"
+      ]
+     },
+     "execution_count": 11,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "Y_hat"
    ]
   },
   {
@@ -288,85 +308,17 @@
     {
      "data": {
       "text/plain": [
-       "array([[ 2.24722641, -0.66645362,  1.24311777, ..., -0.39087386,\n",
-       "        -0.37319429, -0.30275839],\n",
-       "       [-4.35486524,  1.46708455, -2.5341328 , ...,  0.7311101 ,\n",
-       "         0.79265491, -0.2313942 ],\n",
-       "       [ 2.24722641, -0.66645362,  1.24311777, ..., -0.39087386,\n",
-       "        -0.37319429, -0.30275839],\n",
-       "       ..., \n",
-       "       [ 2.20462387, -0.66327979,  1.23432871, ..., -0.39148421,\n",
-       "        -0.37215669, -0.28249471],\n",
-       "       [ 0.94903032, -0.31677041,  0.74523217, ..., -0.26160823,\n",
-       "        -0.21059663, -0.11364693],\n",
-       "       [ 2.24722641, -0.66645362,  1.24311777, ..., -0.39087386,\n",
-       "        -0.37319429, -0.30275839]])"
+       "[0.42400968140030704,\n",
+       " 0.021473150930706092,\n",
+       " 0.0016982915858584817,\n",
+       " 0.00099806773154172113,\n",
+       " 0.00013927591722924176,\n",
+       " 4.0094602034454847e-05,\n",
+       " 1.6579713916332103e-05,\n",
+       " 6.9416626713172407e-06]"
       ]
      },
      "execution_count": 12,
-     "metadata": {},
-     "output_type": "execute_result"
-    }
-   ],
-   "source": [
-    "Y_hat"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": 13,
-   "metadata": {
-    "collapsed": false
-   },
-   "outputs": [
-    {
-     "data": {
-      "text/plain": [
-       "array([[-0.3877759 , -0.56315502, -0.06913635, ..., -0.59303647,\n",
-       "        -0.53987343, -0.22110717],\n",
-       "       [ 1.39681117,  0.03422489, -0.06913635, ...,  0.59235644,\n",
-       "        -0.53987343,  3.10453741],\n",
-       "       [-0.3877759 , -0.56315502, -0.06913635, ..., -0.59303647,\n",
-       "        -0.53987343, -0.22110717],\n",
-       "       ..., \n",
-       "       [-0.3877759 , -0.56315502, -0.06913635, ..., -0.59303647,\n",
-       "         0.86782678, -0.22110717],\n",
-       "       [-0.03085848, -0.56315502, -0.06913635, ...,  0.19722547,\n",
-       "        -0.53987343, -0.22110717],\n",
-       "       [-0.3877759 , -0.56315502, -0.06913635, ...,  0.19722547,\n",
-       "         1.57167689,  3.10453741]])"
-      ]
-     },
-     "execution_count": 13,
-     "metadata": {},
-     "output_type": "execute_result"
-    }
-   ],
-   "source": [
-    "Y_scaled"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": 14,
-   "metadata": {
-    "collapsed": false
-   },
-   "outputs": [
-    {
-     "data": {
-      "text/plain": [
-       "[0.42400968140030848,\n",
-       " 0.021473150930706082,\n",
-       " 0.0016982915858584772,\n",
-       " 0.00099806773154172287,\n",
-       " 0.00013927591722924141,\n",
-       " 4.0094602034454643e-05,\n",
-       " 1.6579713916332177e-05,\n",
-       " 6.9416626713172136e-06]"
-      ]
-     },
-     "execution_count": 14,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -385,7 +337,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 15,
+   "execution_count": 13,
    "metadata": {
     "collapsed": false
    },
@@ -393,10 +345,67 @@
     {
      "data": {
       "text/plain": [
-       "matrix([[ 0.1,  0.2,  0.4],\n",
-       "        [ 0.2,  0.4,  0.8],\n",
-       "        [ 0.3,  0.6,  1.2],\n",
-       "        [ 0.4,  0.8,  1.6]])"
+       "matrix([[  9.45293335e-01,  -1.40381673e-02,   2.09002556e-03, ...,\n",
+       "          -1.54583904e-05,  -6.11494196e-06,  -2.15426543e-06],\n",
+       "        [ -1.83023098e+00,   3.09893946e-02,  -4.26405611e-03, ...,\n",
+       "           2.91072101e-05,   1.30179103e-05,  -1.48992662e-06],\n",
+       "        [  9.45293335e-01,  -1.40381673e-02,   2.09002556e-03, ...,\n",
+       "          -1.54583904e-05,  -6.11494196e-06,  -2.15426543e-06],\n",
+       "        ..., \n",
+       "        [  9.27695277e-01,  -1.39542878e-02,   2.07717228e-03, ...,\n",
+       "          -1.54975453e-05,  -6.09672694e-06,  -2.00851763e-06],\n",
+       "        [  4.01616859e-01,  -6.71312817e-03,   1.26124808e-03, ...,\n",
+       "          -1.04404472e-05,  -3.47401737e-06,  -8.16054890e-07],\n",
+       "        [  9.45293335e-01,  -1.40381673e-02,   2.09002556e-03, ...,\n",
+       "          -1.54583904e-05,  -6.11494196e-06,  -2.15426543e-06]])"
+      ]
+     },
+     "execution_count": 13,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "dx = np.asmatrix(dx)\n",
+    "Y_new = np.multiply(Y_hat, dx)\n",
+    "Y_new"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 14,
+   "metadata": {
+    "collapsed": false
+   },
+   "outputs": [],
+   "source": [
+    "result=(Y_new * np.linalg.inv(np.asmatrix(T)))"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 15,
+   "metadata": {
+    "collapsed": false,
+    "scrolled": true
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "matrix([[  9.12728906e+14,  -1.72504214e-01,  -2.10274229e+15, ...,\n",
+       "          -1.19077385e-01,  -2.24569655e-01,  -9.93702906e-02],\n",
+       "        [ -1.75916222e+15,   3.32761901e-01,   4.05864146e+15, ...,\n",
+       "           2.30042261e-01,   4.33102620e-01,   1.95086275e-01],\n",
+       "        [  9.12728906e+14,  -1.72504214e-01,  -2.10274229e+15, ...,\n",
+       "          -1.19077385e-01,  -2.24569655e-01,  -9.93702906e-02],\n",
+       "        ..., \n",
+       "        [  8.95404909e+14,  -1.69238871e-01,  -2.06309984e+15, ...,\n",
+       "          -1.16838660e-01,  -2.20289372e-01,  -9.76197167e-02],\n",
+       "        [  3.88774256e+14,  -7.31271780e-02,  -8.92731740e+14, ...,\n",
+       "          -5.06049339e-02,  -9.47143090e-02,  -4.23828437e-02],\n",
+       "        [  9.12728906e+14,  -1.72504214e-01,  -2.10274229e+15, ...,\n",
+       "          -1.19077385e-01,  -2.24569655e-01,  -9.93702906e-02]])"
       ]
      },
      "execution_count": 15,
@@ -405,27 +414,18 @@
     }
    ],
    "source": [
-    "t1=np.array([0.1,0.2,0.4])\n",
-    "t=np.array([[1,1,1],[2,2,2],[3,3,3],[4,4,4]])\n",
-    "#t=[[1,1,1,1],[2,2,2,2],[3,3,3,3],[4,4,4,4]]\n",
-    "t2=np.asmatrix(t)\n",
-    "#t2\n",
-    "rt=np.multiply(t1,t2)\n",
-    "rt\n",
-    "#np.asmatrix(t1)"
+    "result"
    ]
   },
   {
    "cell_type": "code",
    "execution_count": 16,
    "metadata": {
-    "collapsed": false
+    "collapsed": true
    },
    "outputs": [],
    "source": [
-    "dx = np.asmatrix(dx)\n",
-    "Y_new = np.multiply(dx,Y_hat)\n",
-    "\n"
+    "from sklearn.metrics import mean_squared_error"
    ]
   },
   {
@@ -438,19 +438,7 @@
     {
      "data": {
       "text/plain": [
-       "matrix([[  8.68084330e+16,  -1.14942377e-01,  -8.34452689e+16, ...,\n",
-       "          -4.26324394e-02,  -1.34676609e-01,   4.49549532e-01],\n",
-       "        [ -1.67678333e+17,   2.21743431e-01,   1.61173392e+17, ...,\n",
-       "           8.23947958e-02,   2.59647391e-01,  -8.66473950e-01],\n",
-       "        [  8.68084330e+16,  -1.14942377e-01,  -8.34452689e+16, ...,\n",
-       "          -4.26324394e-02,  -1.34676609e-01,   4.49549532e-01],\n",
-       "        ..., \n",
-       "        [  8.51363048e+16,  -1.12709478e-01,  -8.18374135e+16, ...,\n",
-       "          -4.18096215e-02,  -1.32028853e-01,   4.40823451e-01],\n",
-       "        [  3.66496376e+16,  -4.84555429e-02,  -3.52338997e+16, ...,\n",
-       "          -1.81210695e-02,  -5.62986165e-02,   1.88934069e-01],\n",
-       "        [  8.68084330e+16,  -1.14942377e-01,  -8.34452689e+16, ...,\n",
-       "          -4.26324394e-02,  -1.34676609e-01,   4.49549532e-01]])"
+       "2.2953781856079804e+30"
       ]
      },
      "execution_count": 17,
@@ -459,45 +447,20 @@
     }
    ],
    "source": [
-    "st44 = np.dot(Y_new,np.linalg.inv(T))\n",
-    "st44"
+    "mean_squared_error(Y_scaled, result)"
    ]
   },
   {
    "cell_type": "code",
    "execution_count": 18,
    "metadata": {
-    "collapsed": false,
-    "scrolled": true
+    "collapsed": false
    },
    "outputs": [
     {
      "data": {
       "text/plain": [
-       "array([[  8.03315836e-01,  -3.45466728e-01,   5.74411120e-03,\n",
-       "         -2.87913653e-02,   1.01554073e-02,   1.12876404e-01,\n",
-       "          1.40490039e-02,  -9.53095452e-02],\n",
-       "       [ -1.73749430e+00,  -1.36842368e+00,   7.59291667e-01,\n",
-       "          4.98095465e-01,  -4.11653487e-01,  -7.32137203e-01,\n",
-       "         -4.70623068e-01,   2.68827458e+00],\n",
-       "       [  8.03315836e-01,  -3.45466728e-01,   5.74411120e-03,\n",
-       "         -2.87913653e-02,   1.01554073e-02,   1.12876404e-01,\n",
-       "          1.40490039e-02,  -9.53095452e-02],\n",
-       "       [  8.03315836e-01,  -3.45466728e-01,   5.74411120e-03,\n",
-       "         -2.87913653e-02,   1.01554073e-02,   1.12876404e-01,\n",
-       "          1.40490039e-02,  -9.53095452e-02],\n",
-       "       [ -6.09992366e+00,   4.36213062e+00,  -4.10465188e+00,\n",
-       "          7.53227135e+00,  -5.96469368e+00,   9.38717931e-01,\n",
-       "          1.33201068e+00,  -3.64881547e+00],\n",
-       "       [ -1.31141048e+00,   9.82915966e-01,  -1.54037595e+00,\n",
-       "          8.17854952e-01,   4.59531947e-01,   8.60899045e-01,\n",
-       "          4.24580319e-01,   1.30381302e+00],\n",
-       "       [ -7.03352618e-01,  -7.64697530e-02,   3.55321473e-02,\n",
-       "          5.74254222e-01,  -5.73642795e-01,   9.69987088e-02,\n",
-       "          1.91782830e-01,  -7.69532658e-01],\n",
-       "       [  6.84846294e-01,  -1.37889458e-01,   3.11705005e-01,\n",
-       "         -6.04224508e-02,   1.25429772e-01,   1.34794289e-01,\n",
-       "         -7.18025393e-02,  -1.14986881e-01]])"
+       "2.2953781856079809e+30"
       ]
      },
      "execution_count": 18,
@@ -506,57 +469,12 @@
     }
    ],
    "source": [
-    "T"
+    "mean_squared_error(Y_train, result)"
    ]
   },
   {
    "cell_type": "code",
    "execution_count": 19,
-   "metadata": {
-    "collapsed": false
-   },
-   "outputs": [],
-   "source": [
-    "# result = pd.DataFrame(result)\n",
-    "# result.to_csv(\"test.csv\")"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": 20,
-   "metadata": {
-    "collapsed": true
-   },
-   "outputs": [],
-   "source": [
-    "from sklearn.metrics import mean_squared_error"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": 21,
-   "metadata": {
-    "collapsed": false
-   },
-   "outputs": [
-    {
-     "data": {
-      "text/plain": [
-       "4.9379258661902941e+33"
-      ]
-     },
-     "execution_count": 21,
-     "metadata": {},
-     "output_type": "execute_result"
-    }
-   ],
-   "source": [
-    "mean_squared_error(Y_scaled, st44)"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": 22,
    "metadata": {
     "collapsed": true
    },
@@ -568,7 +486,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 23,
+   "execution_count": 20,
    "metadata": {
     "collapsed": false
    },
@@ -576,17 +494,17 @@
     {
      "data": {
       "text/plain": [
-       "[[1.4323912137542741e+17, 'Assault', 'Linear Regression'],\n",
-       " [1.8412069850297326, 'Break and Enter', 'Linear Regression'],\n",
-       " [1.3767725090280502e+17, 'Homicide', 'Linear Regression'],\n",
-       " [5561979950019495.0, 'Robbery', 'Linear Regression'],\n",
-       " [0.50066098643708534, 'Sexual Assaults', 'Linear Regression'],\n",
-       " [2.9039072147423308, 'Theft From Vehicle', 'Linear Regression'],\n",
-       " [1.5141719735537931, 'Theft Of Vehicle', 'Linear Regression'],\n",
-       " [0.82954015935895908, 'Theft Over $5000', 'Linear Regression']]"
+       "[[1510338621318495.0, 'Assault', 'Linear Regression'],\n",
+       " [1.8067644105870351, 'Break and Enter', 'Linear Regression'],\n",
+       " [3488399634215690.5, 'Homicide', 'Linear Regression'],\n",
+       " [1978123031011947.2, 'Robbery', 'Linear Regression'],\n",
+       " [0.49693393076651105, 'Sexual Assaults', 'Linear Regression'],\n",
+       " [2.8372757248429941, 'Theft From Vehicle', 'Linear Regression'],\n",
+       " [1.4609922366816115, 'Theft Of Vehicle', 'Linear Regression'],\n",
+       " [0.33590054444014728, 'Theft Over $5000', 'Linear Regression']]"
       ]
      },
-     "execution_count": 23,
+     "execution_count": 20,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -594,88 +512,9 @@
    "source": [
     "result1 = []\n",
     "for i in range(len(crimes)):\n",
-    "    result1.append([np.sqrt(mean_squared_error(Y_train[crimes[i]], st44[:,i])), crimes[i], 'Linear Regression'])\n",
+    "    result1.append([np.sqrt(mean_squared_error(Y_train[crimes[i]], result[:,i])), crimes[i], 'Linear Regression'])\n",
     "    \n",
     "result1"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": 24,
-   "metadata": {
-    "collapsed": false
-   },
-   "outputs": [
-    {
-     "data": {
-      "text/plain": [
-       "[1.4323912137542741e+17,\n",
-       " 1.8412069850297326,\n",
-       " 1.3767725090280502e+17,\n",
-       " 5561979950019495.0,\n",
-       " 0.50066098643708534,\n",
-       " 2.9039072147423308,\n",
-       " 1.5141719735537931,\n",
-       " 0.82954015935895908]"
-      ]
-     },
-     "execution_count": 24,
-     "metadata": {},
-     "output_type": "execute_result"
-    }
-   ],
-   "source": [
-    "final = []\n",
-    "for i in result1:\n",
-    "    final.append(i[0])\n",
-    "final"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": 25,
-   "metadata": {
-    "collapsed": true
-   },
-   "outputs": [],
-   "source": [
-    "b = [[1510338621318495.0, 'Assault', 'Linear Regression'],\n",
-    " [1.8067644105870351, 'Break and Enter', 'Linear Regression'],\n",
-    " [3488399634215690.5, 'Homicide', 'Linear Regression'],\n",
-    " [1978123031011947.2, 'Robbery', 'Linear Regression'],\n",
-    " [0.49693393076651105, 'Sexual Assaults', 'Linear Regression'],\n",
-    " [2.8372757248429941, 'Theft From Vehicle', 'Linear Regression'],\n",
-    " [1.4609922366816115, 'Theft Of Vehicle', 'Linear Regression'],\n",
-    " [0.33590054444014728, 'Theft Over $5000', 'Linear Regression']]"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": 26,
-   "metadata": {
-    "collapsed": false
-   },
-   "outputs": [
-    {
-     "data": {
-      "text/plain": [
-       "[1510338621318495.0,\n",
-       " 1.806764410587035,\n",
-       " 3488399634215690.5,\n",
-       " 1978123031011947.2,\n",
-       " 0.49693393076651105,\n",
-       " 2.837275724842994,\n",
-       " 1.4609922366816115,\n",
-       " 0.3359005444401473]"
-      ]
-     },
-     "execution_count": 26,
-     "metadata": {},
-     "output_type": "execute_result"
-    }
-   ],
-   "source": [
-    "[x[0] for x in b]"
    ]
   },
   {
@@ -689,7 +528,6 @@
   }
  ],
  "metadata": {
-  "anaconda-cloud": {},
   "kernelspec": {
    "display_name": "Python [conda root]",
    "language": "python",
