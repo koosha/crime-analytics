@@ -1,46 +1,315 @@
-\title{A Very Simple \LaTeXe{} Template}
-\author{
-        First Last \\
-                Department of Computer Science\\
-        University of Alberta\\
-        Edmonton, Alberta T6G 2R3, \underline{Canada}
-            \and
-        First Last \\
-                Department of Computer Science\\
-        University of Alberta\\
-        Edmonton, Alberta T6G 2R3, \underline{Canada}
-}
-\date{\today}
+\documentclass{article}
 
-\documentclass[12pt]{article}
+% if you need to pass options to natbib, use, e.g.:
+% \PassOptionsToPackage{numbers, compress}{natbib}
+% before loading nips_2016
+%
+% to avoid loading the natbib package, add option nonatbib:
+% \usepackage[nonatbib]{nips_2016}
+
+% \usepackage{nips_2016}
+
+% to compile a camera-ready version, add the [final] option, e.g.:
+ \usepackage[final]{nips_2016}
+
+\usepackage[utf8]{inputenc} % allow utf-8 input
+\usepackage[T1]{fontenc}    % use 8-bit T1 fonts
+\usepackage{hyperref}       % hyperlinks
+\usepackage{url}            % simple URL typesetting
+\usepackage{booktabs}       % professional-quality tables
+\usepackage{amsfonts}       % blackboard math symbols
+\usepackage{nicefrac}       % compact symbols for 1/2, etc.
+\usepackage{microtype}      % microtypography
+\usepackage{graphicx}
+\usepackage{subcaption}
+
+\title{Multitask Learning For Crime Prediction in the Edmonton Area}
+
+% The \author macro works with any number of authors. There are two
+% commands used to separate the names and addresses of multiple
+% authors: \And and \AND.
+%
+% Using \And between authors leaves it to LaTeX to determine where to
+% break the lines. Using \AND forces a line break at that point. So,
+% if LaTeX puts 3 of 4 authors names on the first line, and the last
+% on the second line, try using \AND instead of \And before the third
+% author name.
+
+\author{
+% \thanks{Use footnote for providing further
+%     information about author (webpage, alternative
+%     address)---\emph{not} for acknowledging funding agencies.} \\
+  Ji Yang, Kalvin Eng, Hang Zhu, Yang Zhang, Baihong Qi\\
+  University of Alberta\\
+  Edmonton, AB T6G 2R3\\
+  \texttt{\{jyang7,kalvin1,hzhu6,yzhang8,bq\}@ualberta.ca} \\
+}
 
 \begin{document}
+% \nipsfinalcopy is no longer used
+
 \maketitle
 
 \begin{abstract}
-This is the paper's abstract \ldots
+%   The abstract paragraph should be indented \nicefrac{1}{2}~inch
+%   (3~picas) on both the left- and right-hand margins. Use 10~point
+%   type, with a vertical spacing (leading) of 11~points.  The word
+%   \textbf{Abstract} must be centered, bold, and in point size 12. Two
+%   line spaces precede the abstract. The abstract must be limited to
+%   one paragraph.
+Supervised learning is widely used in crime prediction. Both criminology and sociology are sophisticated subjects and require domain knowledge and experience in order to estimate what types of crime will occur in a neighborhood. Because of the correlation among different categories of crime, we apply multitask learning to predict crime. There have been very few studies about multitask crime prediction. In our project, we explore and experiment with 3 machine learning algorithms and measure their results using root mean squared error. The dataset we use is the City of Edmonton's Crime and Census data from 2012-2016. We apply multitask least square support vector regression, the Curds and Whey algorithm and multitask random forest to our dataset. Compared with single task models as a baseline, we have an overall prediction improvement of 5-8\% using multitask random forest.
 \end{abstract}
 
 \section{Introduction}
-This is time for all good men to come to the aid of their party!
+Crime prediction is essential for policy-making and improving citizens’ lives. It is crucial to know when and where crime will occur to minimize the future impact of crime. By knowing the locations and general time frames of future crimes, policies such as police placement and social program development can be justified. Furthermore, predicting crime can also benefit the lives of citizens by providing justifications for decisions. For example, when buying a house it would be beneficial to purchase in an area that is predicted to have a low crime rate.
+Given the City of Edmonton’s crime and census data, we aim to predict crime using machine learning methods. These datasets are used because crime is a complex phenomenon impacted by social and economical variables.
 
-\paragraph{Outline}
-The remainder of this article is organized as follows.
-Section~\ref{previous work} gives account of previous work.
-Our new and exciting results are described in Section~\ref{results}.
-Finally, Section~\ref{conclusions} gives the conclusions.
+By predicting crime, we aim to provide justifications for policy-making and improving citizens’ lives. In this report, we aim to create a multitask model (also known as multi-target or multi-output models) from the datasets in order to predict the 8 different crime types of a neighborhood including assault, break and enter, homicide, robbery, sexual assaults, theft from vehicle, theft of vehicle, and theft over \$5000.
 
-\section{Previous work}\label{previous work}
-A much longer \LaTeXe{} example was written by Gil~\cite{Gil:02}.
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=0.65\linewidth]{crime_category_correlation.png}
+  \caption{Correlation among different crime categories.}
+  \label{correlation}
+\end{figure}
 
-\section{Results}\label{results}
-In this section we describe the results.
+In previous papers, a collection of single target models were used to predict crime. We strive to achieve similar results with multitask learning by simultaneously predicting the amount of crime in 8 categories using one model. We choose multitask learning because of the correlations among crime categories shown in Figure \ref{correlation} (below). These correlations could help improve the predictive performance of the  multitask regression model.
 
-\section{Conclusions}\label{conclusions}
-We worked hard, and achieved very little.
+By predicting the amount of crime for different crime types instead of classifying a single crime type for a given area, we can gain insight into all the crimes that occur. For example, suppose there are 100 assaults and 89 robberies in a specific area, a decent classification model will give a classification result that the majority crime type of the area is assaults. However, the robbery crime type also should not be ignored since it occurs almost as much as assaults. By including the prediction of all the crime types, it can help with real life applications. For instance, police can be better equipped when they know that they are going to be deployed into areas of high assaults and robberies.
 
-\bibliographystyle{abbrv}
-\bibliography{main}
+Multitask learning uses a single model to predict multiple targets. \citet{zenko_learning_2008} argue that using multiple single target models is more complex and harder to interpret than a single model that jointly predicts all target attributes. It has been shown that learning several tasks together may increase the predictive performance for the individual tasks due to inductive transfer, where the knowledge from one task is transferred to the other tasks \citep{piccart_empirical_2008,suzuki_bloomy_2001,kocev_using_2009}. Furthermore, multitask models are less likely to overfit the data than the corresponding collections of single-target models \citep{caruana_multitask_1998}.
+
+In Section \ref{related} we start with an overview of existing work on single target model crime prediction. We define multitask learning formally and its models in Section \ref{methods} along with the datasets that we used. In Section \ref{modelling} we explain our approach in adopting the three multitask learning methods (Curds and Whey, multitask least square support vector regression, and multitask random forest) for crime prediction in Edmonton. Finally in Section \ref{discussion}, we describe and discuss our experimental results.
+
+\section{Related work}
+\label{related}
+
+Crime prediction is highly dependent to local demographic and socio-economical variables thus many research works are focused on a city or neighborhood; it is challenging to generalize the findings \citep{nolan_establishing_2004}. One paper that classified crime in San Francisco’s neighborhoods using location, date, crime categories and crime frequencies with Naïve Bayes, Multiclass SVM, and k-Nearest Neighbor methods found that Naïve Bayes outperformed other classifiers with an accuracy of 83.95\% \citep{ke_san_2015}. \citet{mcclendon_using_2015} similarly applied Linear Regression, Additive Regression and Decision Stump methods \citep{sammut_decision_2011} to similar features and found that linear Regression outperformed other methods by a mean absolute error of 0.004.
+
+Both of these research works stress that classified crime may be over-predicted if there is a low occurrence of a crime type compared to other crime types. These research works try to address the issue by individually classifying each crime type. We intend to address this issue by multitask learning methods as we build a single model for all target variables. Furthermore, there is the issue of missing data when using different datasets. One paper predicting crime status deals with missing data by removing the features that contain the missing data \citep{shojaee_study_2013}. \citet{nath_crime_2006} suggests ignoring missing data and to take caution when interpreting results. From these strategies, we conclude that the best technique to deal with missing data in some years is to enter data from the previous year since Census data should be designed to account for the missing years.
+
+There are many different algorithms for multitask learning. They can be categorized into 5 categories: Statistical methods \citep{breiman_predicting_1997}, Multi-output SVR \citep{xu_multi-output_2013}, Kernel methods \citep{micchelli_kernels_2004}, Multi-target regression trees \citep{kocev_using_2009} and Rule methods \citep{aho_multi-target_2012}.
+
+We explore Statistical methods, Multi-output SVR and Multi-target regression trees for crime prediction in Section \ref{modelling}.
+
+\section{Methods}
+\label{methods}
+
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=0.5\linewidth]{multi_target.jpg}
+  \caption{Single model input to multitask output.}
+  \label{multitarget}
+\end{figure}
+
+Multitask learning produces a model from a sample input (x’s in Figure \ref{multitarget}) then simultaneously predicts the outputs (y’s in Figure \ref{multitarget}); it aims to learn a mapping from a multiple input space to a multiple output space. The goal of multitask learning is to improve the model by leveraging the domain-specific information contained in the training samples of related outputs \citep{caruana_multitask_1998}.
+
+To produce models in our project, we use three different algorithms: multitask random forest, multitask least square support vector regression, and a statistical method called Curds and Whey. Only the multitask random forest algorithm has a stable implementation in the Python package scikit-learn. We implement the other two algorithms using Python.
+
+\subsection{Data}
+
+\begin{table}[h]
+\centering
+\caption[Caption for LOF]{Features of dataset.\footnotemark}
+\label{features}
+\scalebox{0.6}{\begin{tabular}{@{}llllllll@{}}
+\toprule
+feature                      & mean   & std    & min & 25\% & 50\%   & 75\%   & max     \\ \midrule
+Canadian Citizen             & 1623.9 & 1671.5 & 0.0 & 0.0  & 1455.0 & 2590.0 & 13118.0 \\
+No Response(Citizen)         & 444.9  & 703.7  & 0.0 & 0.0  & 222.0  & 539.0  & 7573.0  \\
+Non-Canadian Citizen         & 186.6  & 274.8  & 0.0 & 0.0  & 93.5   & 245.0  & 1984.0  \\
+Refugee                      & 1.0    & 4.2    & 0.0 & 0.0  & 0.0    & 0.0    & 64.0    \\
+No Longer In Use             & 20.5   & 59.5   & 0.0 & 0.0  & 2.0    & 13.0   & 644.0   \\
+Occupied                     & 931.3  & 1153.7 & 0.0 & 0.0  & 810.5  & 1338.0 & 12794.0 \\
+Unoccupied                   & 61.5   & 119.7  & 0.0 & 0.0  & 26.0   & 64.0   & 1475.0  \\
+Employed 0-30 Hours          & 119.4  & 122.8  & 0.0 & 0.0  & 104.5  & 192.0  & 959.0   \\
+Employed 30+ Hours           & 819.0  & 918.8  & 0.0 & 0.0  & 663.0  & 1267.0 & 8301.0  \\
+Gr.10 - Gr.12                & 56.9   & 63.2   & 0.0 & 0.0  & 42.0   & 88.0   & 336.0   \\
+Gr.7 - Gr.9                  & 58.7   & 65.2   & 0.0 & 0.0  & 44.0   & 93.0   & 383.0   \\
+Homemaker                    & 68.2   & 75.4   & 0.0 & 0.0  & 52.0   & 108.0  & 474.0   \\
+Kindergarten - Gr.6          & 140.2  & 163.6  & 0.0 & 0.0  & 101.0  & 217.0  & 1157.0  \\
+No Response(Employment)      & 472.0  & 719.3  & 0.0 & 0.0  & 249.5  & 584.0  & 7636.0  \\
+Permanently Unable to Work   & 24.9   & 37.8   & 0.0 & 0.0  & 11.0   & 37.0   & 326.0   \\
+Post Secondary Student       & 96.4   & 181.2  & 0.0 & 0.0  & 60.0   & 127.0  & 3393.0  \\
+Preschool                    & 108.5  & 133.5  & 0.0 & 0.0  & 77.5   & 168.0  & 1027.0  \\
+Retired                      & 226.7  & 255.2  & 0.0 & 0.0  & 194.0  & 365.0  & 2730.0  \\
+Unemployed                   & 65.4   & 80.9   & 0.0 & 0.0  & 38.5   & 103.0  & 554.0   \\
+Common Law                   & 112.3  & 139.0  & 0.0 & 0.0  & 76.0   & 173.0  & 1409.0  \\
+Married                      & 726.2  & 750.9  & 0.0 & 0.0  & 627.0  & 1132.0 & 4205.0  \\
+Never Married                & 753.8  & 837.3  & 0.0 & 0.0  & 590.0  & 1194.0 & 7045.0  \\
+No Response(Marital)         & 482.5  & 733.4  & 0.0 & 0.0  & 259.0  & 622.0  & 7995.0  \\
+Separated/Divorced           & 115.1  & 141.0  & 0.0 & 0.0  & 86.0   & 184.0  & 1705.0  \\
+Widowed                      & 65.5   & 79.4   & 0.0 & 0.0  & 48.0   & 101.0  & 759.0   \\
+Bicycle                      & 8.3    & 20.5   & 0.0 & 0.0  & 2.0    & 8.0    & 266.0   \\
+Car/Truck/Van (as Driver)    & 733.3  & 789.3  & 0.0 & 0.0  & 611.0  & 1138.0 & 5158.0  \\
+Car/Truck/Van (as Passenger) & 50.8   & 65.1   & 0.0 & 0.0  & 33.0   & 79.0   & 844.0   \\
+No Response(Transportation)  & 134.7  & 282.5  & 0.0 & 0.0  & 7.0    & 55.0   & 2775.0  \\
+Other                        & 25.6   & 30.3   & 0.0 & 0.0  & 18.0   & 40.0   & 248.0   \\
+Public Transit               & 149.4  & 208.8  & 0.0 & 0.0  & 95.5   & 220.0  & 2786.0  \\
+Walk                         & 36.8   & 134.7  & 0.0 & 0.0  & 11.0   & 33.0   & 1940.0  \\
+Catholic                     & 417.3  & 460.9  & 0.0 & 0.0  & 315.5  & 660.0  & 3010.0  \\
+No Response(School)          & 614.7  & 899.4  & 0.0 & 0.0  & 359.5  & 806.0  & 9455.0  \\
+Public                       & 1224.4 & 1301.7 & 0.0 & 0.0  & 1048.0 & 1939.0 & 10642.0 \\ \bottomrule
+\end{tabular}}
+\end{table}
+
+In our project, we collect Edmonton’s Census data in 2012, 2014 and 2016 and Edmonton’s crime data from 2012-2016. Since the census data contains missing data for the year following a census, we fill the gap with the year before. For example, the 2012 Census data is used to fill the year 2013.
+
+We eliminate categorical features such as “neighborhood Name” which is irrelevant to our model. Overall after feature elimination, there are 36 features which can be seen in Table \ref{features}; this will be the input for our model. The 8 different categories of crime (assault, break and enter, homicide, robbery, sexual assaults, theft from vehicle, theft of vehicle, and theft over \$5000) are the target variables; this will be outputted to an 8 dimensional vector.
+
+\footnotetext{25\% column contains 0's since some neighborhoods are industrial areas with no population.}
+
+\section{Modelling}
+\label{modelling}
+
+\subsection{Multitask random forest}
+
+An ensemble method constructs a set of predictive models and post-processes those models for final prediction \citep{kocev_ensembles_2007}. The predictions can be adjusted by using weighted voting or averaging the prediction of the set of models.
+
+A multitask regression tree is a predictive model that can be applied to predict several numerical target variables simultaneously \citep{kocev_ensembles_2007}. Instead of storing a single scalar value at each leaf, a multitask regression tree will store a vector with numerical values at each leaf.
+
+We use an algorithm called top-down induction of decision trees (TDIDT) from \citet{quinlan_induction_1986} to create a Multitask random forest with the following steps. First, preset a stop condition such as the max depth for a tree, then start the TDIDT algorithm. If the stop condition is not met, keep selecting a feature and a threshold value for that feature and split into subsets. We apply this to each subset recursively until the stop condition is met. After successfully constructing the tree, each leaf of the regression tree will have a vector.
+
+A multitask random forest, which is constructed by a set of multitask regression trees, is an ensemble learning model which gives a prediction of multiple target variables. We randomly bootstrap 500 subsets of the original dataset with replacement and build a multitask regression tree on each of subsets and get the final result using averaging methods.
+
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=0.6\linewidth]{image16.png}
+  \caption[Caption for LOF]{Random forest.\footnotemark}
+  \label{forest}
+\end{figure}
+
+Figure \ref{forest} illustrates the basic idea for applying the multitask random forest.$x$ is a test data point, $tree_{1}$ to $tree_{B}$ is used to make predictions based on each regression tree in the forest and $k$ is a vector contains multiple target values. The final result is obtained by averaging each element in $k_{1}, k_{2},..., k_{B}$.
+
+\footnotetext{Source: http://www.hallwaymathlete.com/2016/05/introduction-to-machine-learning-with.html}
+
+\subsection{Curds and Whey Algorithm}
+
+A common statistical method to predict multiple target variables is to use linear regression to individually predict a set of target variables. However, the relationship between different sets of features and target variables is ignored. The Curds and Whey algorithm takes advantage of correlation among features and target variables to increase prediction accuracy.
+
+To take advantage of correlation between features, canonical correlation analysis is used to identify and measure the associations among the features and target variables. Canonical correlation analysis determines a set of canonical variates and the orthogonal linear combinations of the variables within each set that best explain the variability within and between sets \citep{kidd_implementation_2014}.
+
+We implement the algorithm outlined by \citet{breiman_predicting_1997} and \citet{kidd_implementation_2014} using Python. First we standardize the response $X$ and target $Y$ to have mean 0 and variance 1. Second, we transform $Y$ to its canonical coordinates $Y^*$ and get $T$ from the equation $Y^* = TY$. Then, we perform least square square regression on each $X$ and get  $\widehat {Y}^*$.  After that, each $\widehat {Y}^*$ is scaled by $d_{x}$ resulting in $\widetilde{y}^*$.  Finally, we transpose back to the original $Y$ coordinate system by the equation $Y = \widetilde{Y}^* T^{-1}$. Note: $d_x$ is the optimal shrinking matrix
+
+\subsection{Multitask least square support vector regression (MLS-SVR)}
+
+Single output least square support vector regression (LS-SVR) uses a support vector machine for regression to predict the output of one target variable. We extend LS-SVR to MLS-SVR so that  all target variables are simultaneously learned.
+
+We have the LS-SVR problem formulated by $w\in R^{n}$  and $b\in R$ to minimize the cost function from \citet{xu_multi-output_2013}:
+
+$$\min\enspace J(w,\zeta) = \frac{1}{2}w^{T}w+\frac{C}{2}\zeta^{T}\zeta\enspace s.t\enspace y=w^{T}\phi(x)+b+\zeta$$
+
+where $C$ is a positive penalization parameter, $\zeta \in R^{n}$ is a slack vector which is used to deal with unfeasible constraints, and $\phi(x)$ is a nonlinear mapping that puts $x$ into a higher dimension. We use the Lagrangian function to solve this function.
+
+In MLS-SVR, instead of using $w$, we have $w_{i}$ consisting of $w_{0}+v_{i}$ , where $w_{0}\in R^{n}$ carries the common information and $v_{i}\in R^{n\times m}$ carries the individual information. Hence, the $b$ is also extended to $b\in R^{m}$. Thus, the optimization problem becomes the cost function:
+
+$$\min\enspace J(w,v,\tau) = \frac{1}{2}w_{0}^{T}w_{0}+\frac{1}{2}\frac{\lambda}{m}trace(V^{T}V)+\frac{\gamma}{2}trace(\tau^{T}\tau)\enspace
+s.t\enspace y=W^{T}\phi(x)+b+\tau$$
+
+Similar to SL-SVR,  MLS-SVR has $V=(v_{1},v_{2}...v_{m})$, $W=(w_{0}+v_{1},w_{0}+v_{2}...w_{0}+v_{m})$, $\tau=(\zeta_{1},\zeta_{2}...\zeta_{m})$, and $\gamma$ and $\lambda$ as two positive penalization parameters. By changing the cost function to its Lagrangian form, the optimization problem can be reduced to find $V$ and $b$ to minimize the cost function since $W$ is a linear combination of $V$. The RBF(Gaussian) kernel is used in MLS-SVR since it typically outperforms other kernels in prediction performance \citep{xu_multi-output_2013}.
+
+\subsection{Evaluation}
+
+We come to the conclusion, that overall multitask learning for correlated targets outperforms building a single model for each target. Using the Multi Output Regressor in scikit-learn, we create a baseline by fitting one regressor per target and ignoring the correlation among targets. This baseline will be compared to the outputs of the 3 multitask models explained earlier in Section \ref{modelling}.
+
+We evaluate the performance of our models by comparing with two baselines:
+\begin{enumerate}
+  \item A random walk where the predicted value for a given neighborhood and crime category is the value at time $t-1$ (e.g. the predicted value of assault for a given neighborhood in 2014 is the value of assault in the neighborhood in 2012). This is used for test purposes only and is not applied to validation.
+  \item Single target learning where the value for a given neighborhood and crime category is predicted individually (i.e. the predicted value of assault given a test sample is predicted by a regressor). For the baseline, we use 3 regressors: random forest, linear regression and support vector regression.
+\end{enumerate}
+
+For validation purposes, we randomly sample \nicefrac{1}{5} of our 27600 samples as the test set and use the rest for training purposes. All the prediction models are built with the training set, and are tested with the test set. We choose root mean squared error (RMSE) as our evaluation method since our models use regression. RMSE is commonly used in literature and gives reasonable measurement metrics for numerical predictions. The formula is:
+
+$$RMSE(y, \hat{y}) = \sqrt{MSE(y, \hat{y})} = \frac{1}{N}\sum_{i=0}^{N-1}(y_{i}-\hat{y_{i}})^{2}$$
+
+Compared with other measurement metrics such as mean absolute error, RMSE will account for data points further away from the mean and is more sensitive to large prediction errors \citep{willmott_advantages_2005}. By accounting for large prediction errors, we can gauge how accurate the prediction really is.
+
+\section{Results}
+\label{discussion}
+
+We randomly sampled 80\% of the dataset for training data and used the remaining 20\% of the dataset is used for testing. We built our models on training data using 5-fold cross validation and tested our models on the testing data.
+
+\subsection{Random forest results}
+
+\begin{figure}[h]
+    \begin{subfigure}[b]{0.5\textwidth}
+        \includegraphics[width=\textwidth]{Single-task_random_forest___multitask_random_forest_tested_on_training_set}
+        \caption{Testing on validation set. \label{fig:rftraining}}
+    \end{subfigure}
+    \begin{subfigure}[b]{0.5\textwidth}
+        \includegraphics[width=\textwidth]{Single-task_random_forest___multitask_random_forest_tested_on_test_set}
+        \caption{Testing on test set. \label{fig:rftest}}
+    \end{subfigure}
+      \caption[Caption for LOF]{Single-task random Forest \& multitask random Forest.\footnotemark}
+ \label{rf_base}
+\end{figure}
+
+We can see apparent improvements given by the multitask random forest in both the validation and test cases of Figure \ref{rf_base}. In Figure \ref{fig:rftest}, the multitask random forest has the lowest RMSE in all the crime categories. This is because multitask random forest performs best on  crimes that have high correlation such as assault and theft (more high correlations can be found in Figure \ref{correlation}.
+
+It is challenging to determine what parameters to tune in order to improve performance. Parameters such as the amount of max splitting nodes and the max depth of subtrees in the forest must be carefully selected. We set the max depth to 30 (limited by computation resources) and split each node in half. There are an exhaustive combination of parameters to explore, but we were limited by the time to train and test each new model.
+
+We learned that random forest needs less data preprocessing compared to other models since categorical features can be handled by the regression trees of the random forest model. We also learned that the running time to create a multitask random forest model is significantly faster than models such as support vector regression; it only takes 30 seconds to train a model with 36 features, 8 targets using 80\% of 27600 samples.
+
+\footnotetext{The labels for each bar on the x-axis is: 'Assault', 'Break and Enter', 'Homicide', 'Robbery', 'Sexual Assaults', 'Theft From Vehicle', 'Theft Of Vehicle', 'Theft Over \$5000' \label{xlabels}}
+
+\subsection{Support vector regression results}
+
+\begin{figure}[h]
+    \begin{subfigure}[b]{0.5\textwidth}
+        \includegraphics[width=\textwidth]{Single-task_support_vector_regression___multitask_support_vector_regression_testing_on_training_set}
+        \caption{Testing on validation set. \label{fig:svrtraining}}
+    \end{subfigure}
+    \begin{subfigure}[b]{0.5\textwidth}
+        \includegraphics[width=\textwidth]{Single-task_support_vector_regression___multitask_support_vector_regression_testing_on_test_set}
+        \caption{Testing on test set. \label{fig:svrtest}}
+    \end{subfigure}
+      \caption{Single-task support vector regression \& multitask support vector regression.\textsuperscript{\ref{xlabels}}}
+ \label{svr_base}
+\end{figure}
+
+Training using MLS-SVR was determined to be computationally expensive, therefore only 5000 samples were randomly selected to train the model. Despite the smaller training set, the RMSE of the model was lower in 6 of  the 8 categories when used on the validation set (Figure \ref{fig:svrtraining}). In the cases where RMSE was higher, it was attributed to the fact that there was low correlation. For example,  homicide and theft over 5000\$ have larger errors because of its low correlation (Figure \ref{correlation}). In Figure \ref{fig:svrtest}, only 3 categories have lower RMSE. We attribute this to the fact that the model was only trained with 5000 samples.
+
+We learned that MLS-SVR is computationally expensive because it must find the optimal parameters for each dataset \citep{xu_multi-output_2013}. In our tests we estimate that 6000 samples of our dataset require more than 7GB of memory to process. MLS-SVR is a good predictor only if there are the resources required to train a model with a large dataset.
+
+\subsection{Curds and Whey results}
+
+\begin{figure}[h]
+    \begin{subfigure}[b]{0.5\textwidth}
+        \includegraphics[width=\textwidth]{Single-task_linear_regression___multitask_Curds_and_Whey_testing_on_training_set}
+        \caption{Testing on validation set. \label{fig:ctraining}}
+    \end{subfigure}
+    \begin{subfigure}[b]{0.5\textwidth}
+        \includegraphics[width=\textwidth]{Single-task_linear_regression___multitask_Curds_and_Whey_testing_on_test_set}
+        \caption{Testing on test set. \label{fig:ctest}}
+    \end{subfigure}
+      \caption{Single-task linear regression \& multitask Curds and Whey.\textsuperscript{\ref{xlabels}}}
+ \label{curds_base}
+\end{figure}
+
+In both figures of Figure \ref{curds_base}, assault, homicide and robbery is omitted because of extremely large RMSE. We attribute the large MSE to 2 factors: small test data size and low correlation between certain categories. When we applied Curds and Whey to a sample size of 10000 which was double the test data, it resulted in a slightly smaller MSE compared to the MSE of the test data. Furthermore, \citet{kidd_implementation_2014} mentions that low correlation between targets will affect all results. We tested this hypothesis by removing assault, homicide and robbery from our test set and found more reasonable but high MSE results. Another factor to consider is our data contained a lot of zeroes after standardization, perhaps if we had more decimal precision the MSE would be smaller.
+
+Because of the extremely large RMSE, our results did not improve when compared to single target linear regression. Curds and Whey only performed better against the walk baseline. Although Curds and Whey was not very successful in predicting assault, homicide, and robbery, we learned that the time to train its model outperforms the time to train the models of random forest and multitask support vector regression.
+
+\subsection{Discussion}
+
+From our results, we conclude that while crime categories can be predicted together, not all of them should be predicted together. For the homicide target variable, it appears to differ from targets since single models give a more accurate prediction than multitask models. This could be be explained by the fact that the occurrence of homicide is small compared to other crime categories. Furthermore, homicide does not occur in only certain neighborhoods but all over the city. This makes it hard to build an accurate model to predict homicide as the features of a neighborhood may not be correlated with homicide. In addition, many sociological features that could potentially lead to homicide such as health records or amount of guns in a neighborhood are not included because of difficulty to obtain the data.
+
+For the crime categories such as theft of vehicle and theft from vehicle which are highly correlated, their prediction results are fairly accurate in the models. This means that we can have an accurate prediction of when and where a crime will occur in a given neighborhood. This also suggests that the features have some correlation with theft of vehicle and theft from vehicle. Knowing this, we can create multitask models to predict only these two categories together. Furthermore, with this knowledge of vehicle crimes, the police can target the neighborhoods with predicted high rates of vehicle crime using methods such as bait cars.
+
+\section{Conclusion}
+
+From building the three multitask models for crime prediction, we conclude that the correlation among targets help improve the results of prediction. However, there are issues such as computational limits, limitations of the model and no correlation of features and their target. We learned that multitask support vector regression takes a huge amount of computing resources and time to generate a model. We also learned that prediction results are affected by the parameters we set and it may not be possible to try all combinations of parameters. Furthermore, our models may not be well suited for the data like Curds and Whey where the target variables had to have very high correlation. Finally, we also learned that some features may not have any correlation with their targets like homicide, meaning that they should not be predicted with other crime categories.
+
+From our results, we determine that multitask random forests can improve the prediction of crime. Multitask support vector regression has the potential to also improve crime prediction but is computationally expensive. The Curds and Whey algorithm also has potential to improve crime prediction, but only when target variables are highly correlated. The best improvement obtained was the multitask random forest model which improved crime prediction by 5-8\% for each of the crime categories.
+
+In future work, we should consider obtaining more socio-economic features when possible to improve the current models we investigated. In addition, we should predict only certain crime categories that have high correlation between themselves and with the feature set. We also can try more models from: Statistical methods, Multi-output SVR, Kernel methods, Multi-target regression trees and Rule methods.
+
+\subsubsection*{Acknowledgments}
+
+We would like to thank our project coach Dr. Koosha Golmohammadi for his feedback, patience, and guidance at every phase of this project. We would also like to thank Professor Russell Greiner, whose lectures and meetings helped us gain a broader view of machine learning techniques for this project.
+
+\small
+\bibliographystyle{humannat}
+\bibliography{My_Library}
 
 \end{document}
-This is never printed
