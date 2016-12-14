@@ -108,9 +108,9 @@ import random
 import numpy as np
 import math
 def GridMLSSVR(trnX,trnY,fold):
-    gamma = np.power(np.arange(-5, 15, 2),2)
-    lambdaa = np.power(np.arange(-10, 10, 2),2)
-    p = np.power(np.arange(-15, 3, 2),2)
+    gamma = np.power(np.arange(-5, 15, 5),2)
+    lambdaa = np.power(np.arange(-10, 10, 5),2)
+    p = np.power(np.arange(-15, 3, 5),2)
     tYs = np.shape(trnY)
     m = tYs[1]
 
@@ -130,6 +130,7 @@ def GridMLSSVR(trnX,trnY,fold):
             for k in range(sp[0]):
                 predictY = []
                 for v in range(fold):
+                    print(str(i)+' gamma '+str(j)+'  lambda  '+str(k)+' p ')
                     train_inst, train_lbl, test_inst, test_lbl = folding(trnX, trnY, fold, v)
                     
                     alpha, b = MLSSVRTrain(train_inst, train_lbl, gamma[i], lambdaa[j], p[k])
@@ -385,7 +386,7 @@ df = df[['Canadian Citizen', 'No Response(Citizen)', 'Non-Canadian Citizen',
        'Theft Over $5000']]
 
 
-# In[ ]:
+# In[26]:
 
 def train_test_spliter(df, random_seed=0, test_size=0.20, n_splits=1):
     # trainm = preprocessing.maxabs_scale(df, axis=0, copy=True)
@@ -435,9 +436,21 @@ y_test = pd.DataFrame(data=testdf, columns=['Assault', 'Break and Enter', 'Homic
        'Theft Over $5000'])
 
 
+# In[27]:
+
+#GridMLSSVR(X_train,y_train.values,1)
+
+
 # In[ ]:
 
-GridMLSSVR(X_train,y_train.values,1)
+xtr = X_train[0:1000]
+ytr = y_train.values[0:1000]
+GridMLSSVR(xtr,ytr,1)
+
+
+# In[34]:
+
+
 
 
 # In[ ]:
